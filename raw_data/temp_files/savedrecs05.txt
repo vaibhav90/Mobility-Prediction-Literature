@@ -1,0 +1,2245 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Yang, Hanzhang
+   Hu, Bo
+   Wang, Lei
+GP IEEE
+TI A Deep Learning based Handover Mechanism for UAV Networks
+SO 2017 20TH INTERNATIONAL SYMPOSIUM ON WIRELESS PERSONAL MULTIMEDIA
+   COMMUNICATIONS (WPMC)
+SE International Symposium on Wireless Personal Multimedia Communications
+BP 380
+EP 384
+PD 2017
+PY 2017
+AB The attractive feature of conveniently deployed as an aerial access
+   point (AP) to provide coverage and improve network performance, has made
+   the Unmanned Aerial Vehicle (UAV) networks a research hotspot. In this
+   paper, an UAV handover mechanism in the three-dimensional space is
+   proposed. We build and train user trajectory prediction model based on
+   neural network. Then we described the handover mechanism under the
+   condition of predicted trajectory and the constructed signal
+   transmission model in UAV networks. Simulation results show that
+   compared to the traditional handover algorithm, our scheme nearly 10%
+   higher in handover success rate.
+CT 20th International Symposium on Wireless Personal Multimedia
+   Communications (WPMC)
+CY DEC 17-20, 2017
+CL Yocyakarta, INDONESIA
+SP IEEE Commun Soc, Indonesia Chapter; IEEE Indonesia Sect; Telkom Univ;
+   NiCT; YRP
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+TC 1
+Z9 1
+SN 1347-6890
+BN 978-1-5386-2768-6
+UT WOS:000428733200066
+ER
+
+PT B
+AU Borges, C. David B.
+   Almeida, A. Marcio A.
+   de Paula Junior, Ialis C.
+BE GarciaGoncalves, LM
+   BeserraGomes, R
+TI Aerial image analysis for estimation of ground traversal difficulty in
+   robot navigation
+SO 2017 WORKSHOP OF COMPUTER VISION (WVC)
+BP 43
+EP 48
+DI 10.1109/WVC.2017.00015
+PD 2017
+PY 2017
+AB The use of unmanned aerial vehicles (UAV) for aid in unmanned ground
+   vehicle (UGV) navigation makes it possible to plan routes more
+   efficiently. Aerial images contain information about the environment
+   that would be hard to obtain from the surface. This can be exploited to
+   provide ground robots with route instructions. Digital image processing
+   and computer vision techniques can identify regions of interest for UGV
+   traversal. This article brings forth the concept of traversal difficulty
+   image (TDI) and proposes techniques for TDI computation, with images
+   taken from UAVs as input. We analyze the performance of four techniques
+   and our results show that at least three of them can consistently
+   identify levels of traversal difficulty associated with regions in the
+   input image.
+CT 2017 Workshop of Computer Vision (WVC)
+CY OCT 30-NOV 01, 2017
+CL Natal, BRAZIL
+SP IEEE RAS Bahia Chapter; UFRN; CAPES; PPGEEC; PPGSC
+ZR 0
+Z8 0
+TC 0
+ZS 0
+ZB 0
+Z9 0
+BN 978-1-5386-1451-8
+UT WOS:000426909100008
+ER
+
+PT S
+AU Amidi, A.
+   Jabar, M.
+   Jusoh, Y. Y.
+   Abdullah, R.
+GP IOP
+TI Appropriation of sociaal media for fostering effective tacit knowledge
+   sharing: developing conceptual model
+SO 6TH INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE AND COMPUTATIONAL
+   MATHEMATICS (ICCSCM 2017)
+SE Journal of Physics Conference Series
+VL 892
+AR UNSP 012012
+DI 10.1088/1742-6596/892/1/012012
+PD 2017
+PY 2017
+AB With the rising popularity of social media in the past few years,
+   several researches ratiocinate that this type of interactive and
+   collaborative technology could be a beneficial tool for the sharing of
+   tacit knowledge. Nevertheless, very few literatures have tackled the
+   subject of how social media could facilitate tacit knowledge sharing
+   among medical practitioners, and what are its contributions in the area.
+   Thus, the factors that drive individuals to share tacit knowledge need
+   to be investigated further and included in literature. Through a
+   systematic literature review, this study proposes seven enabling
+   conditions which could potentially facilitate the sharing of tacit
+   knowledge. TAM was applied as a novelty in this study in investigating
+   the factors influencing knowledge sharing via social media, whilst
+   taking into account the mediation effects of Attitude in social media
+   usage. This study uncovered an important correlation between virtual
+   settings and the conversion of tacit knowledge, which affects
+   organizational members who are not co-located physically but have a
+   crucial need for sharing information.
+CT 6th International Conference on Computer Science and Computational
+   Mathematics (ICCSCM)
+CY MAY 04-05, 2017
+CL Langkawi, MALAYSIA
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+SN 1742-6588
+BN *****************
+UT WOS:000424194000012
+ER
+
+PT S
+AU Gong Yanyun
+   Zhao Fang
+   Chen Shaomeng
+   Luo Haiyong
+GP IEEE
+TI A Convolutional Neural Networks based Transportation Mode Identification
+   Algorithm
+SO 2017 INTERNATIONAL CONFERENCE ON INDOOR POSITIONING AND INDOOR
+   NAVIGATION (IPIN)
+SE International Conference on Indoor Positioning and Indoor Navigation
+PD 2017
+PY 2017
+AB With the increasing sensing ability of smartphone, both recognizing and
+   understanding a user's activity using sensor data have become a popular
+   topic of ubiquitous computing systems. Individual transportation mode
+   identification can provide essential data for road planning and traffic
+   management. In this paper, we present a Convolutional Neural Networks
+   (CNN) based method to extract expressive and discriminative features
+   automatically for transportation mode identification. The signal
+   preprocessing in the time and frequency domain is performed before the
+   sensor data is fed into the deep learning framework. We optimize various
+   important hyper-parameters such as learning rate, kernel size and number
+   of convolutional layers to adapt the characteristics of multiple sensor
+   signals. Extensive experimental results indicate that the proposed CNN
+   based transportation mode identification algorithm can achieve 98%
+   accuracy to distinguish between car, bus, train and metro, which
+   outperforms the Support Vector Machines and Adaboost based
+   transportation identification with better robustness and generalization.
+CT 8th International Conference on Indoor Positioning and Indoor Navigation
+   (IPIN)
+CY SEP 18-21, 2017
+CL Sapporo, JAPAN
+SP IEEE; Hokkaido Univ, Grad Sch Informat Sci & Technol; SECOM
+ZR 0
+TC 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 2162-7347
+BN 978-1-5090-6299-7
+UT WOS:000417415600069
+ER
+
+PT S
+AU Liu, Dachuan
+   Gao, Xing
+   Wang, Haining
+BE Lee, K
+   Liu, L
+TI Location Privacy Breach: Apps Are Watching You in Background
+SO 2017 IEEE 37TH INTERNATIONAL CONFERENCE ON DISTRIBUTED COMPUTING SYSTEMS
+   (ICDCS 2017)
+SE IEEE International Conference on Distributed Computing Systems
+BP 2423
+EP 2429
+DI 10.1109/ICDCS.2017.227
+PD 2017
+PY 2017
+AB Smartphone users can conveniently install a set of apps that provide
+   Location Based Service (LBS) from markets. These LBS-based apps
+   facilitate users in many application scenarios, but they raise concerns
+   on the breach of privacy related to location access. Smartphone users
+   can hardly perceive location access, especially when it happens in
+   background. In comparison to location access in foreground, location
+   access in background could result in more serious privacy breach because
+   it can continuously know a user's locations. In this paper, we study the
+   problem of location access in background, and especially perform the
+   first measurement of this background action on the Google app market.
+   Our investigation demonstrates that many popular apps conduct location
+   access in background within short intervals. This enables these apps to
+   collect a user's location trace, from which the important personal
+   information, Points of Interest (Pots), can be recognized. We further
+   extract a user's movement pattern from the Pots, and utilize it to
+   measure the extent of privacy breach. The measurement results also show
+   that using the combination of movement pattern related metrics and the
+   other PoI related metrics can help detect the privacy breach in an
+   earlier manner than using either one of them alone.
+CT 37th IEEE International Conference on Distributed Computing Systems
+   (ICDCS)
+CY JUN 05-08, 2017
+CL Atlanta, GA
+SP IEEE; Natl Sci Fdn; IEEE Tech Comm Distributed Proc
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+SN 1063-6927
+BN 978-1-5386-1791-5
+UT WOS:000412759500256
+ER
+
+PT J
+AU Adarme Jaimes, Marco Antonio
+   Heredia Vizcanio, Diana
+   Puerto Cuadros, Eduard Gilberto
+TI Transportation Mode Detection using GPS Data
+SO CUADERNO ACTIVA
+IS 9
+BP 13
+EP 23
+PD JAN-DEC 2017
+PY 2017
+AB The use of mobile devices and GPS technology allow the implementation of
+   systems to analyze the context and typical transport activities of a
+   user, through the analysis of the location data and acceleration
+   sensors. This research includes the processing of data obtained via GPS.
+   This processing is intended to detect the mode of transport of a user in
+   segments of predefined paths. For classification, velocity profiles that
+   identify modes of transport in each segment are used. The software
+   implements a Java programming language and the use of Matlab for
+   analysis and data filters. The software system is developed into two
+   components; the first comprises the filter and transformation of data.
+   These data are plotted from decimal coordinates to cartesian
+   coordinates. The second presents the classification for the detection of
+   transport modes with cartesian coordinates. It also contains the
+   analysis of states of kinematic movements. The tests are performed
+   through a dataset taken from the GeoLife project of Microsoft Asia. The
+   obtained results show a coherent detection on the means of transport
+   that the different users use. These users are compared from predefined
+   speed profiles.
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+TC 0
+Z9 0
+SN 2027-8101
+UT WOS:000407839000002
+ER
+
+PT J
+AU Jagwani, Priti
+   Kaushik, Saroj
+TI Trajectory anonymisation based on graph split using EMD
+SO INTERNATIONAL JOURNAL OF COMPUTATIONAL SCIENCE AND ENGINEERING
+VL 14
+IS 3
+BP 290
+EP 298
+DI 10.1504/IJCSE.2017.10005026
+PD 2017
+PY 2017
+AB Analysing and mining trajectories pose new challenges for trajectory
+   privacy. We are addressing privacy issue for offline (historical)
+   trajectories which are generally published for research. A fundamental
+   research question in trajectory privacy domain is of trajectory
+   anonymisation. k-anonymity is used as a standard for privacy which
+   ensures that every entity in the dataset is indistinguishable from (k -
+   1) other entities. The proposed work aims at anonymising trajectories
+   based on graph split method. We have used technique of constructing
+   trajectory graph to simulate spatial and temporal relations of
+   trajectories, based on which trajectory k-anonymity sets are found
+   through graph split. For the purpose, we have proposed a novel method
+   that uses earth mover's distance as a metric to find trajectory
+   k-anonymity sets in contrast to Euclidean distance. It is discovered
+   through a series of experiments that the proposed method is
+   outperforming in terms of low information loss and computation time.
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZS 0
+Z9 0
+SN 1742-7185
+EI 1742-7193
+UT WOS:000405549100008
+ER
+
+PT S
+AU Rajapaksha, Praboda
+   Farahbakhsh, Reza
+   Nathanail, Eftihia
+   Crespi, Noel
+BE Nathanail, EG
+   Gogas, MA
+TI iTrip, a framework to enhance urban mobility by leveraging various data
+   sources
+SO 3RD CONFERENCE ON SUSTAINABLE URBAN MOBILITY (3RD CSUM 2016)
+SE Transportation Research Procedia
+VL 24
+BP 113
+EP 122
+DI 10.1016/j.trpro.2017.05.076
+PD 2017
+PY 2017
+AB Available big data have proliferated rapidly in the last decade and
+   continue to grow in popularity. The existing new data sources such as
+   Online Social Networks (OSNs) and Internet of Things (IoT) influence
+   many digital aspects in-order to shape/reshape normal life of people and
+   other related parties such as businesses, stockholders etc. Urban
+   mobility is one of the considerable impacted domains, where many
+   applications and services have been provided by implicating user
+   activities and other city information. This paper aims to provide a
+   comprehensive view on the influence of various sources of data in the
+   users' trips. To this end, at first we review relevant studies and
+   available services that are designed to facilitate travelers' life as
+   well as we identify the existing gaps in this domain. Next we propose a
+   framework iTrip, which aims to utilize data from different data sources
+   as input and then, recommend/provide advance services to various type of
+   customers. The outcome of this framework will provide a set of
+   summarized recommendations, predictions, decisions, and plans to be used
+   in decision-making for long/ short distance transportation mechanisms.
+   In addition, as a future direction of this study a set of ideas and
+   topics is provided. (C) 2017 The Authors. Published by Elsevier B.V.
+CT 3rd Conference on Sustainable Urban Mobility (CSUM)
+CY MAY 26-27, 2016
+CL Volos, GREECE
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z9 1
+SN 2352-1465
+BN *****************
+UT WOS:000404962500015
+ER
+
+PT J
+AU Jiang, Wei
+   Zhu, Jie
+   Xu, Jiajie
+   Li, Zhixu
+   Zhao, Pengpeng
+   Zhao, Lei
+TI A feature based method for trajectory dataset segmentation and profiling
+SO WORLD WIDE WEB-INTERNET AND WEB INFORMATION SYSTEMS
+VL 20
+IS 1
+SI SI
+BP 5
+EP 22
+DI 10.1007/s11280-016-0396-y
+PD JAN 2017
+PY 2017
+AB The pervasiveness of location-acquisition and mobile computing
+   techniques has generated massive spatial trajectory data, which has
+   brought great challenges to the management and analysis of such a big
+   data. In this paper, we focus on the sub-trajectory dataset profiling
+   problem, and aim to extract the representative sub-trajectories from the
+   raw trajectory as a subset, called profile, which can best describe the
+   whole dataset. This problem is very challenging subject to finding the
+   most representative sub-trajectories set by trading off the size and
+   quality of the profile. To tackle this problem, we model the features of
+   the trajectory dataset from the aspects of density, speed and the
+   direction flow. Meanwhile we present our two-step method to select the
+   representative trajectories based on the feature model. First, a novel
+   trajectory segmentation algorithm is applied on a raw trajectory to
+   identify the representative segments concerning their feature
+   representativeness and automatically estimate the number of segments and
+   the segment borders. Then, a sub-trajectory profiling method is
+   performed to yield the most representative sub-trajectories in the
+   dataset, based on a local heuristic evolution strategy. We evaluate our
+   method based on extensive experiments by using two real-world trajectory
+   datasets generated by over 12,000 taxicabs in Beijing and Shanghai. The
+   results demonstrate the efficiency and effectiveness of our methods in
+   different applications.
+CT 16th International Conference on Web Information Systems Engineering
+   (WISE)
+CY NOV 01-03, 2015
+CL Miami, FL
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+TC 2
+Z9 2
+SN 1386-145X
+EI 1573-1413
+UT WOS:000392399500002
+ER
+
+PT J
+AU Prelipcean, Adrian C.
+   Gidofalvi, Gyozo
+   Susilo, Yusak O.
+TI Transportation mode detection - an in-depth review of applicability and
+   reliability
+SO TRANSPORT REVIEWS
+VL 37
+IS 4
+BP 442
+EP 464
+DI 10.1080/01441647.2016.1246489
+PD 2017
+PY 2017
+AB The wide adoption of location-enabled devices, together with the
+   acceptance of services that leverage (personal) data as payment, allows
+   scientists to push through some of the previous barriers imposed by data
+   insufficiency, ethics and privacy skepticism. The research problems
+   whose study require hard-to-obtain data (e.g. transportation mode
+   detection, service contextualisation, etc.) have now become more
+   accessible to scientists because of the availability of data collecting
+   outlets. One such problem is the detection of a user's transportation
+   mode. Different fields have approached the problem of transportation
+   mode detection with different aims: Location-Based Services (LBS) is a
+   field that focuses on understanding the transportation mode in
+   real-time, Transportation Science is a field that focuses on measuring
+   the daily travel patterns of individuals or groups of individuals, and
+   Human Geography is a field that focuses on enriching a trajectory by
+   adding domain-specific semantics. While different fields providing
+   solutions to the same problem could be viewed as a positive outcome, it
+   is difficult to compare these solutions because the reported performance
+   indicators depend on the type of approach and its aim (e.g. the
+   real-time availability of LBS requires the performance to be computed on
+   each classified location). The contributions of this paper are three
+   fold. First, the paper reviews the critical aspects desired by each
+   research field when providing solutions to the transportation mode
+   detection problem. Second, it proposes three dimensions that separate
+   three branches of science based on their main interest. Finally, it
+   identifies important gaps in research and future directions, that is,
+   proposing: widely accepted error measures meaningful for all
+   disciplines, methods robust to new data sets and a benchmark data set
+   for performance validation.
+RI Susilo, Yusak Octavius/M-3707-2013; Prelipcean, Adrian Corneliu/
+OI Susilo, Yusak Octavius/0000-0001-7124-7164; Prelipcean, Adrian
+   Corneliu/0000-0002-0916-0188
+ZR 0
+Z8 0
+TC 11
+ZB 0
+ZS 0
+Z9 11
+SN 0144-1647
+EI 1464-5327
+UT WOS:000396893800003
+ER
+
+PT J
+AU Bellatti, Jacob
+   Brunner, Andrew
+   Lewis, Joseph, III
+   Annadata, Prasad
+   Eltarjaman, Wisam
+   Dewri, Rinku
+   Thurimella, Ramakrishna
+TI Driving Habits Data: Location Privacy Implications and Solutions
+SO IEEE SECURITY & PRIVACY
+VL 15
+IS 1
+BP 12
+EP 20
+DI 10.1109/MSP.2017.6
+PD JAN-FEB 2017
+PY 2017
+TC 4
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+Z9 4
+SN 1540-7993
+EI 1558-4046
+UT WOS:000395835700003
+ER
+
+PT J
+AU Akram, Nimrah
+   Imran, Muhammad
+   Noreen, Mamoona
+   Ahmed, Fayyaz
+   Atif, Muhammad
+   Fatima, Zareen
+   Waqar, Ahmed Bilal
+TI Oncogenic Role of Tumor Viruses in Humans
+SO VIRAL IMMUNOLOGY
+VL 30
+IS 1
+BP 20
+EP 27
+DI 10.1089/vim.2016.0109
+PD JAN-FEB 2017
+PY 2017
+AB Viruses are the intracellular pathogens that reproduce only in the
+   living cell and manipulate the cellular machinery to produce more
+   viruses. Viral replications can affect cellular genes of the host in
+   multiple cancerous ways. Approximately, 20% of all human oncogenesis is
+   caused by cancer-causing viruses known as oncoviruses. Viral infection
+   causes chronic inflammation leading to cell death, uncontrollable
+   proliferation, and modulated expression of some of the regulatory
+   proteins. Oncogenesis is a multistep phenomenon in which normal host
+   cells are transformed into cancerous cells on the basis of host genetic
+   variability. Oncogenic viruses encode genes that cause viral replication
+   and transformation of the host cells to produce viral proteins and
+   protein complexes. The phenomenon from basic viral infection to
+   tumorigenesis is lengthy due to the involvement of factors like immunity
+   complications, cellular mutations, and exposure to other cancerous
+   agents. The viruses that are involved in human cancer development are
+   Hepatitis B virus (HBV), Hepatitis C virus (HCV), Epstein-Barr virus
+   (EBV), Human papilloma virus (HPV), Kaposi's sarcoma herpes virus
+   (KSHV), and Human T lymphotrophic virus 1 (HTLV-1). This review article
+   summarizes advanced knowledge related to human oncogenic viruses and the
+   molecular mechanisms that lead to tumorigenesis in humans.
+RI Atif, Muhammad/V-8586-2018; Waqar, Ahmed Bilal/; Fatima, Zareen/
+OI Atif, Muhammad/0000-0002-8921-4376; Waqar, Ahmed
+   Bilal/0000-0001-8255-3634; Fatima, Zareen/0000-0002-6069-8928
+ZB 6
+TC 7
+ZR 0
+ZS 0
+Z8 0
+Z9 7
+SN 0882-8245
+EI 1557-8976
+UT WOS:000391742300004
+PM 27830995
+ER
+
+PT J
+AU Bedogni, Luca
+   Di Felice, Marco
+   Bononi, Luciano
+TI Context-aware Android applications through transportation mode detection
+   techniques
+SO WIRELESS COMMUNICATIONS & MOBILE COMPUTING
+VL 16
+IS 16
+BP 2523
+EP 2541
+DI 10.1002/wcm.2702
+PD NOV 2016
+PY 2016
+AB In this paper, we study the problem of how to detect the current
+   transportation mode of the user from the smartphone sensors data,
+   because this issue is considered crucial for the deployment of a
+   multitude of mobility-aware systems, ranging from trace collectors to
+   health monitoring and urban sensing systems. Although some feasibility
+   studies have been performed in the literature, most of the proposed
+   systems rely on the utilization of the GPS and on computational
+   expensive algorithms that do not take into account the limited resources
+   of mobile phones. On the opposite, this paper focuses on the design and
+   implementation of a feasible and efficient detection system that takes
+   into account both the issues of accuracy of classification and of energy
+   consumption. To this purpose, we propose the utilization of embedded
+   sensor data (accelerometer/gyroscope) with a novel meta-classifier based
+   on a cascading technique, and we show that our combined approach can
+   provide similar performance than a GPS-based classifier, but introducing
+   also the possibility to control the computational load based on
+   requested confidence. We describe the implementation of the proposed
+   system into an Android framework that can be leveraged by third-part
+   mobile applications to access context-aware information in a transparent
+   way. Copyright (C) 2016 John Wiley & Sons, Ltd.
+OI Bedogni, Luca/0000-0001-9993-4046
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+TC 3
+Z9 3
+SN 1530-8669
+EI 1530-8677
+UT WOS:000389367700008
+ER
+
+PT J
+AU Das, Rahul Deb
+   Winter, Stephan
+TI Detecting Urban Transport Modes Using a Hybrid Knowledge Driven
+   Framework from GPS Trajectory
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 5
+IS 11
+AR 207
+DI 10.3390/ijgi5110207
+PD NOV 2016
+PY 2016
+AB Transport mode information is essential for understanding people's
+   movement behavior and travel demand estimation. Current approaches
+   extract travel information once the travel is complete. Such approaches
+   are limited in terms of generating just-in-time information for a number
+   of mobility based applications, e.g., real time mode specific patronage
+   estimation. In order to detect the transport modalities from GPS
+   trajectories, various machine learning approaches have already been
+   explored. However, the majority of them produce only a single conclusion
+   from a given set of evidences, ignoring the uncertainty of any mode
+   classification. Also, the existing machine learning approaches fall
+   short in explaining their reasoning scheme. In contrast, a fuzzy expert
+   system can explain its reasoning scheme in a human readable format along
+   with a provision of inferring different outcome possibilities, but lacks
+   the adaptivity and learning ability of machine learning. In this paper,
+   a novel hybrid knowledge driven framework is developed by integrating a
+   fuzzy logic and a neural network to complement each other's limitations.
+   Thus the aim of this paper is to automate the tuning process in order to
+   generate an intelligent hybrid model that can perform effectively in
+   near-real time mode detection using GPS trajectory. Tests demonstrate
+   that a hybrid knowledge driven model works better than a purely
+   knowledge driven model and at per the machine learning models in the
+   context of transport mode detection.
+Z8 0
+TC 7
+ZR 0
+ZS 0
+ZB 0
+Z9 7
+SN 2220-9964
+UT WOS:000390104200014
+ER
+
+PT J
+AU Lopez, Angel J.
+   Semanjski, Ivana
+   Gillis, Dominique
+   Ochoa, Daniel
+   Gautama, Sidharta
+TI Travelled Distance Estimation for GPS-Based Round Trips Car-Sharing Use
+   Case
+SO TRANSACTIONS ON MARITIME SCIENCE-TOMS
+VL 5
+IS 2
+BP 121
+EP 129
+DI 10.7225/toms.v05.n02.003
+PD OCT 2016
+PY 2016
+AB Traditional travel survey methods have been widely used for collecting
+   information about urban mobility although Global Position System (GPS)
+   has become an automatic option for collecting more precise data of the
+   households since mid-1990s. Many studies on mobility patterns have
+   focused on the GPS advantages leaving aside its issues such as the
+   quality of the data collected. However, when it comes to extract the
+   frequency of the trips and travelled distance, this technology faces
+   some gaps due to the related issues such as signal reception and
+   time-to-first-fix location that turns out in missing observations and
+   respectively unrecognised or over-segmented trips. In this study, we
+   focus on two aspects of GPS data for a car-mode, (i) measurement of the
+   gaps in the travelled distance and (ii) estimation of the travelled
+   distance and the factors that influence the GPS gaps. To asses that, GPS
+   tracks are compared to a ground truth source. Additionally, the trips
+   are analysed based on the land use (e.g. urban and rural areas) and
+   length (e.g. short, medium and long trips). Results from 170
+   participants and more than a year of GPS-tracking show that around 9 %
+   of the travelled distance is not captured by GPS and it affects more
+   short trips than long ones. Moreover, we validate the importance of the
+   time spent on the user activity and the land use as factors that
+   influence the gaps in GPS.
+RI Gautama, Sidharta/O-6679-2017; Lopez, Angel/C-1173-2014
+OI Gautama, Sidharta/0000-0001-5628-6974; Lopez, Angel/0000-0002-9080-4859
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+TC 0
+Z9 0
+SN 1848-3305
+EI 1848-3313
+UT WOS:000407302700004
+ER
+
+PT J
+AU Wu, Xiayu
+   Cao, Neng
+   Fenech, Michael
+   Wang, Xu
+TI Role of Sirtuins in Maintenance of Genomic Stability: Relevance to
+   Cancer and Healthy Aging
+SO DNA AND CELL BIOLOGY
+VL 35
+IS 10
+BP 542
+EP 575
+DI 10.1089/dna.2016.3280
+PD OCT 2016
+PY 2016
+AB Genomic instability and epigenetic alterations are distinct hallmarks
+   shared by cancer and aging. Sirtuins (SIRTs) are class III histone
+   deacetylases that regulate gene expression in response to cellular
+   metabolic status. SIRTs can modulate chromatin function through direct
+   deacetylation of histones and by promoting altered methylation of
+   histones and DNA, leading to repression of transcription. They can also
+   interact and deacetylate a broad range of transcription factors and
+   coregulators, thereby regulating target gene expression both positively
+   and negatively. SIRT inhibition may be beneficial in decreasing the risk
+   of some cancers, while SIRT activation can exert positive antiaging
+   effects and help prevent age-related disease and cancers. Thus, SIRT
+   modulation may positively affect the treatment of cancer and age-related
+   disorders. In this study, we review emerging data on the effects of
+   SIRTs as important regulators of genomic stability and explain the
+   biological roles of SIRTs in cancer and aging.
+ZB 5
+Z8 1
+TC 5
+ZS 0
+ZR 0
+Z9 6
+SN 1044-5498
+EI 1557-7430
+UT WOS:000385653400002
+PM 27380140
+ER
+
+PT J
+AU Perez-Torres, Rafael
+   Torres-Huitzil, Cesar
+   Galeana-Zapien, Hiram
+TI Full On-Device Stay Points Detection in Smartphones for Location-Based
+   Mobile Applications
+SO SENSORS
+VL 16
+IS 10
+AR 1693
+DI 10.3390/s16101693
+PD OCT 2016
+PY 2016
+AB The tracking of frequently visited places, also known as stay points, is
+   a critical feature in location-aware mobile applications as a way to
+   adapt the information and services provided to smartphones users
+   according to their moving patterns. Location based applications usually
+   employ the GPS receiver along with Wi-Fi hot-spots and cellular cell
+   tower mechanisms for estimating user location. Typically, fine-grained
+   GPS location data are collected by the smartphone and transferred to
+   dedicated servers for trajectory analysis and stay points detection.
+   Such Mobile Cloud Computing approach has been successfully employed for
+   extending smartphone's battery lifetime by exchanging computation costs,
+   assuming that on-device stay points detection is prohibitive. In this
+   article, we propose and validate the feasibility of having an
+   alternative event-driven mechanism for stay points detection that is
+   executed fully on-device, and that provides higher energy savings by
+   avoiding communication costs. Our solution is encapsulated in a sensing
+   middleware for Android smartphones, where a stream of GPS location
+   updates is collected in the background, supporting duty cycling schemes,
+   and incrementally analyzed following an event-driven paradigm for stay
+   points detection. To evaluate the performance of the proposed
+   middleware, real world experiments were conducted under different stress
+   levels, validating its power efficiency when compared against a Mobile
+   Cloud Computing oriented solution.
+RI Torres-Huitzil, Cesar/E-6403-2010
+ZS 0
+ZR 0
+TC 0
+Z8 0
+ZB 0
+Z9 0
+SN 1424-8220
+UT WOS:000386131600145
+ER
+
+PT J
+AU van Winden, Karl
+   Biljecki, Filip
+   van der Spek, Stefan
+TI Automatic Update of Road Attributes by Mining GPS Tracks
+SO TRANSACTIONS IN GIS
+VL 20
+IS 5
+BP 664
+EP 683
+DI 10.1111/tgis.12186
+PD OCT 2016
+PY 2016
+AB Despite advances in cartography, mapping is still a costly process which
+   involves a substantial amount of manual work. This article presents a
+   method for automatically deriving road attributes by analyzing and
+   mining movement trajectories (e.g. GPS tracks). We have investigated the
+   automatic extraction of eight road attributes: directionality, speed
+   limit, number of lanes, access, average speed, congestion, importance,
+   and geometric offset; and we have developed a supervised classification
+   method (decision tree) to infer them. The extraction of most of these
+   attributes has not been investigated previously. We have implemented our
+   method in a software prototype and we automatically update the
+   OpenStreetMap (OSM) dataset of the Netherlands, increasing its level of
+   completeness. The validation of the classification shows variable levels
+   of accuracy, e.g. whether a road is a one-or a two-way road is
+   classified with an accuracy of 99%, and the accuracy for the speed limit
+   is 69%. When taking into account speed limits that are one step away
+   (e.g. 60 km/h instead of the classified 50 km/h) the classification
+   increases to 95%, which might be acceptable in some use-cases. We
+   mitigate this with a hierarchical code list of attributes.
+OI Biljecki, Filip/0000-0002-6229-7749
+TC 8
+ZB 1
+ZR 0
+Z8 0
+ZS 0
+Z9 8
+SN 1361-1682
+EI 1467-9671
+UT WOS:000385267600002
+ER
+
+PT J
+AU Fang, Shih-Hau
+   Liao, Hao-Hsiang
+   Fei, Yu-Xiang
+   Chen, Kai-Hsiang
+   Huang, Jen-Wei
+   Lu, Yu-Ding
+   Tsao, Yu
+TI Transportation Modes Classification Using Sensors on Smartphones
+SO SENSORS
+VL 16
+IS 8
+AR 1324
+DI 10.3390/s16081324
+PD AUG 2016
+PY 2016
+AB This paper investigates the transportation and vehicular modes
+   classification by using big data from smartphone sensors. The three
+   types of sensors used in this paper include the accelerometer,
+   magnetometer, and gyroscope. This study proposes improved features and
+   uses three machine learning algorithms including decision trees,
+   K-nearest neighbor, and support vector machine to classify the user's
+   transportation and vehicular modes. In the experiments, we discussed and
+   compared the performance from different perspectives including the
+   accuracy for both modes, the executive time, and the model size. Results
+   show that the proposed features enhance the accuracy, in which the
+   support vector machine provides the best performance in classification
+   accuracy whereas it consumes the largest prediction time. This paper
+   also investigates the vehicle classification mode and compares the
+   results with that of the transportation modes.
+RI Huang, Jen-Wei/M-1161-2018; Tsao, Yu/
+OI Huang, Jen-Wei/0000-0001-5482-8311; Tsao, Yu/0000-0001-6956-0418
+ZS 0
+Z8 0
+TC 11
+ZR 0
+ZB 0
+Z9 11
+SN 1424-8220
+UT WOS:000382323200001
+PM 27548182
+ER
+
+PT J
+AU Eftekhari, Hamid Reza
+   Ghatee, Mehdi
+TI An inference engine for smartphones to preprocess data and detect
+   stationary and transportation modes
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+VL 69
+BP 313
+EP 327
+DI 10.1016/j.trc.2016.06.005
+PD AUG 2016
+PY 2016
+AB A smartphone can be utilized as a cost-effective device for the purposes
+   of intelligent transportation system. To detect the movement and the
+   stationary statuses in the motorized and non-motorized modes, this study
+   develops a new inference engine, including two sets of rules. The first
+   sets of rules are defined by the related thresholds on the features of
+   smartphone sensors while the second sets are extracted from the human
+   knowledge to improve the results of the first rules. The experimental
+   results reveal that by utilizing Inertial Measurement Unit (IMU) sensors
+   in the proposed inference engine, it is possible to save 40% energy in
+   comparison with the previous research. Moreover, this engine increases
+   the accuracy of the motorized mode detection to 95.2% and determines the
+   stationary states in motorized mode with 97.1% accuracy. (C) 2016
+   Elsevier Ltd. All rights reserved.
+RI Ghatee, Mehdi/I-3680-2013; Eftekhari, Hamid Reza/
+OI Ghatee, Mehdi/0000-0002-9558-8286; Eftekhari, Hamid
+   Reza/0000-0003-4450-1926
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+TC 10
+Z9 10
+SN 0968-090X
+UT WOS:000381544900018
+ER
+
+PT J
+AU Sila-Nowicka, Katarzyna
+   Vandrol, Jan
+   Oshan, Taylor
+   Long, Jed A.
+   Demsar, Urska
+   Fotheringham, A. Stewart
+TI Analysis of human mobility patterns from GPS trajectories and contextual
+   information
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 5
+SI SI
+BP 881
+EP 906
+DI 10.1080/13658816.2015.1100731
+PD MAY 3 2016
+PY 2016
+AB Human mobility is important for understanding the evolution of size and
+   structure of urban areas, the spatial distribution of facilities, and
+   the provision of transportation services. Until recently, exploring
+   human mobility in detail was challenging because data collection methods
+   consisted of cumbersome manual travel surveys, space-time diaries, or
+   interviews. The development of location-aware sensors has significantly
+   altered the possibilities for acquiring detailed data on human
+   movements. Although this has spurred many methodological developments in
+   identifying human movement patterns, many of these methods operate
+   solely from the analytical perspective and ignore the environmental
+   context within which the movement takes place. In this paper we attempt
+   to widen this view and present an integrated approach to the analysis of
+   human mobility using a combination of volunteered GPS trajectories and
+   contextual spatial information. We propose a new framework for the
+   identification of dynamic (travel modes) and static (significant places)
+   behaviour using trajectory segmentation, data mining, and
+   spatio-temporal analysis. We are interested in examining if and how
+   travel modes depend on the residential location, age, or gender of the
+   tracked individuals. Further, we explore theorised 'third places', which
+   are spaces beyond main locations (home/work) where individuals spend
+   time to socialise. Can these places be identified from GPS traces? We
+   evaluate our framework using a collection of trajectories from 205
+   volunteers linked to contextual spatial information on the types of
+   places visited and the transport routes they use. The result of this
+   study is a contextually enriched data set that supports new
+   possibilities for modelling human movement behaviour.
+RI Yang, Liu/J-7573-2017; Demsar, Urska/
+OI Demsar, Urska/0000-0001-7791-2807
+TC 35
+Z8 1
+ZR 0
+ZB 2
+ZS 0
+Z9 36
+SN 1365-8816
+EI 1362-3087
+UT WOS:000372355600005
+ER
+
+PT J
+AU Ranacher, Peter
+   Brunauer, Richard
+   Trutschnig, Wolfgang
+   Van der Spek, Stefan
+   Reich, Siegfried
+TI Why GPS makes distances bigger than they are
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 2
+BP 316
+EP 333
+DI 10.1080/13658816.2015.1086924
+PD FEB 1 2016
+PY 2016
+AB Global navigation satellite systems such as the Global Positioning
+   System (GPS) is one of the most important sensors for movement analysis.
+   GPS is widely used to record the trajectories of vehicles, animals and
+   human beings. However, all GPS movement data are affected by both
+   measurement and interpolation errors. In this article we show that
+   measurement error causes a systematic bias in distances recorded with a
+   GPS; the distance between two points recorded with a GPS is - on average
+   - bigger than the true distance between these points. This systematic
+   overestimation of distance' becomes relevant if the influence of
+   interpolation error can be neglected, which in practice is the case for
+   movement sampled at high frequencies. We provide a mathematical
+   explanation of this phenomenon and illustrate that it functionally
+   depends on the autocorrelation of GPS measurement error (C). We argue
+   that C can be interpreted as a quality measure for movement data
+   recorded with a GPS. If there is a strong autocorrelation between any
+   two consecutive position estimates, they have very similar error. This
+   error cancels out when average speed, distance or direction is
+   calculated along the trajectory. Based on our theoretical findings we
+   introduce a novel approach to determine C in real-world GPS movement
+   data sampled at high frequencies. We apply our approach to pedestrian
+   trajectories and car trajectories. We found that the measurement error
+   in the data was strongly spatially and temporally autocorrelated and
+   give a quality estimate of the data. Most importantly, our findings are
+   not limited to GPS alone. The systematic bias and its implications are
+   bound to occur in any movement data collected with absolute positioning
+   if interpolation error can be neglected.
+Z8 0
+ZS 0
+ZR 0
+TC 19
+ZB 3
+Z9 19
+SN 1365-8816
+EI 1362-3087
+UT WOS:000365550900009
+ER
+
+PT J
+AU Mazimpaka, Jean Damascene
+   Timpf, Sabine
+TI Trajectory data mining: A review of methods and applications
+SO JOURNAL OF SPATIAL INFORMATION SCIENCE
+IS 13
+BP 61
+EP 99
+DI 10.5311/JOSIS.2016.13.263
+PD 2016
+PY 2016
+AB The increasing use of location-aware devices has led to an increasing
+   availability of trajectory data. As a result, researchers devoted their
+   efforts to developing analysis methods including different data mining
+   methods for trajectories. However, the research in this direction has so
+   far produced mostly isolated studies and we still lack an integrated
+   view of problems in applications of trajectory mining that were solved,
+   the methods used to solve them, and applications using the obtained
+   solutions. In this paper, we first discuss generic methods of trajectory
+   mining and the relationships between them. Then, we discuss and classify
+   application problems that were solved using trajectory data and relate
+   them to the generic mining methods that were used and real world
+   applications based on them. We classify trajectory-mining application
+   problems under major problem groups based on how they are related. This
+   classification of problems can guide researchers in identifying new
+   application problems. The relationships between the methods together
+   with the association between the application problems and mining methods
+   can help researchers in identifying gaps between methods and inspire
+   them to develop new methods. This paper can also guide analysts in
+   choosing a suitable method for a specific problem. The main contribution
+   of this paper is to provide an integrated view relating applications of
+   mining trajectory data and the methods used.
+OI Timpf, Sabine/0000-0002-7964-4110
+Z8 0
+ZR 0
+TC 15
+ZB 0
+ZS 0
+Z9 15
+SN 1948-660X
+UT WOS:000410363500004
+ER
+
+PT B
+AU Abadi, Marzieh Jalal
+   Khalifa, Sara
+   Kanhere, Salil S.
+   Hassan, Mahbub
+GP IEEE
+TI Energy harvesting wearables can tell which train route you have taken
+SO PROCEEDINGS OF THE 2016 IEEE 41ST CONFERENCE ON LOCAL COMPUTER NETWORKS
+   - LCN WORKSHOPS 2016
+BP 199
+EP 204
+DI 10.1109/LCNW.2016.28
+PD 2016
+PY 2016
+AB Location privacy is an important concern for the users of mobile devices
+   and this private information can be identified using the embedded motion
+   sensors in these devices. This paper highlights the privacy leakage
+   resulting from unrestricted access to seemingly innocuous generated
+   patterns of vibration energy harvesting (VEH) circuits in mobile
+   devices. We investigate that by monitoring the VEH generated patterns, a
+   malware application can infer which train route the passenger has taken,
+   violating her privacy. We collected real-world motion data for 4
+   distinct train routes in the Sydney metropolitan area. Our results show
+   that the passenger's train route can be inferred with an average
+   accuracy of 97.2% for a journey of 7 stations, confirming the rich
+   contextual information embedded in VEH data and to light the associated
+   privacy risks in releasing this data.
+CT 41st IEEE Conference on Local Computer Networks (LCN)
+CY NOV 07-10, 2016
+CL Dubai, U ARAB EMIRATES
+SP IEEE; IEEE Comp Soc; IEEE Comp Soc Tech Comm Comp Commun; Canadian Univ
+   Dubai
+RI Khalifa, Sara/P-2001-2018; Hassan, Mahbub/
+OI Hassan, Mahbub/0000-0002-3417-8590
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+TC 1
+Z9 1
+BN 978-1-5090-2347-9
+UT WOS:000406028400027
+ER
+
+PT B
+AU Bhavani, M. Monica
+   Valarmathi, A.
+GP IEEE
+TI MAPPING OF GPS LOGS WITH TYPICAL TRANSPORTATION
+SO PROCEEDINGS OF 2016 ONLINE INTERNATIONAL CONFERENCE ON GREEN ENGINEERING
+   AND TECHNOLOGIES (IC-GET)
+PD 2016
+PY 2016
+AB Global Positioning System (GPS) which is a part of the Geographical
+   Information System(GIS) is used for the efficient mapping of the traffic
+   trajectories in the real world scenario.It uses GPS logs of roadways
+   which is useful in the routing applications like Smart Maps. The
+   historical GPS logs which is a collection of numerous GPS points are
+   provided to find the landmark graph. Beyond that the live traffic is
+   also considered in order to know the current traffic conditions for the
+   smart maps.Based on the landmark graph & the routing techniques &
+   algorithms which uses the variance based clustering techniques & entropy
+   based clustering techniques that is used to build & also to evaluate the
+   system to find the routing patterns in urban areas. Finally, the road
+   patterns are segmented based on the real world GPS trajectories and an
+   optimal route is evaluated based on the landmark graph and live traffic
+   information. This pattern is used for predicting the real time traffic
+   of the future time. This system proposes to provide the travelling time,
+   distance & a central point of the available number of trajectories
+   between every source & destination in order of predicting an optimal
+   route.
+CT Online International Conference on Green Engineering and Technologies
+   (IC-GET)
+CY NOV 19, 2016
+CL Karpagam Coll Engn, Coimbatore, INDIA
+HO Karpagam Coll Engn
+SP Karpagam Coll Engn, Dept Elect & Commun Engn
+ZB 0
+TC 0
+ZR 0
+ZS 0
+Z8 0
+Z9 0
+BN 978-1-5090-4556-3
+UT WOS:000405375600170
+ER
+
+PT B
+AU Ajmani, Manisha
+   Sinanovic, Sinan
+   Boutaleb, Tuleen
+BE AlShibaany, ZYA
+   Hameed, AF
+TI Optimal beam radius for LED-based indoor positioning algorithm
+SO 2016 INTERNATIONAL CONFERENCE FOR STUDENTS ON APPLIED ENGINEERING
+   (ICSAE)
+BP 357
+EP 361
+PD 2016
+PY 2016
+AB Indoor positioning systems have the potential to replicate the success
+   of outdoor positioning systems, but owing to the expensive and less
+   accurate technology currently available for indoor positioning, they
+   have not been able to take-off. LED-based Visible Light Communication
+   (VLC) systems can solve this problem, but owing to complex algorithms
+   and unoptimized parameter values the desired accuracy has not yet been
+   achieved. This research addresses the problem of overlapping light
+   radiation regions, which leads to lower accuracy in a VLC system, and
+   proposes an algorithm to accurately determine the position of a device
+   with respect to pre-positioned LEDs when it is receiving signal from
+   multiple transmitting LEDs. To check the accuracy of this Optimal Beam
+   Radius Indoor Positioning (OBRIP) algorithm numerous possible positions
+   of a device uniformly distributed in a room with an indoor positioning
+   system have been simulated to calculate the error in position
+   estimation. Also, from the simulations, optimal values for beam radius,
+   for a given number of LEDs in an array, separation between adjacent LEDs
+   in an array for different room shapes has been calculated.
+CT International Conference for Students on Applied Engineering (ICSAE)
+CY OCT 20-21, 2016
+CL Newcastle upon Tyne, ENGLAND
+SP Newcastle Univ, Sch Mech & Syst Engn; IEEE; Inst Engn & Technol; IRAQI
+   Students Soc; AL KINDI Soc Engineers; Newcastle Univ, IEEE Student
+   Branch; NewcastleGateshead; Natl Instruments; Northumbria Campus Grp
+TC 3
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+Z9 3
+BN 978-1-4673-9053-8
+UT WOS:000392935500067
+ER
+
+PT B
+AU Lorintiu, Oana
+   Vassilev, Andrea
+GP IEEE
+TI Transportation mode recognition based on smartphone embedded sensors for
+   carbon footprint estimation
+SO 2016 IEEE 19TH INTERNATIONAL CONFERENCE ON INTELLIGENT TRANSPORTATION
+   SYSTEMS (ITSC)
+BP 1976
+EP 1981
+PD 2016
+PY 2016
+AB Thanks to the increase in processing power and in the number of sensors
+   present in today's mobile devices, context-aware applications have
+   gained a renewed interest. This paper focuses on a particular type of
+   context, the transportation mode used by a person for carbon footprint
+   estimation and it summarizes a method for automatically classifying
+   different transportation modes with a smartphone. The method was
+   evaluated with real data presenting promising results: a performance of
+   around 94% was obtained when classifying 7 different classes with a
+   random forest followed by a Discrete Hidden Markov Model (DHMM)
+   filtering and accelerometer and magnetometer based features while the
+   addition of the GPS improved the performance up to 96%.
+CT 19th IEEE International Conference on Intelligent Transportation Systems
+   (ITSC)
+CY NOV 01-04, 2016
+CL Rio de Janeiro, BRAZIL
+SP IEEE
+TC 1
+ZS 0
+ZR 0
+Z8 0
+ZB 0
+Z9 1
+BN 978-1-5090-1889-5
+UT WOS:000392215500308
+ER
+
+PT B
+AU Xie, Kaiqiang
+   Xiong, Hui
+   Li, Chunyan
+GP IEEE
+TI The Correlation between Human Mobility and Socio-demographic in Megacity
+SO IEEE SECOND INTERNATIONAL SMART CITIES CONFERENCE (ISC2 2016)
+BP 15
+EP 20
+PD 2016
+PY 2016
+AB Understanding human mobility is of great importance for various
+   applications, such as urban planning and traffic forecasting. In this
+   paper, we explore the correlation between human mobility and
+   socio-demographic characteristics through two massive datasets
+   containing individuals' attributes and daily GPS trajectory information
+   respectively. Individuals' daily trajectories, trip displacement and
+   daily radius of gyration are further studied. The results confirm that
+   the distribution of daily radius of gyration is power law. It is found
+   that women travels longer and further to their center of mass than man.
+   The employed stay closer to their center of mass while their
+   displacement is larger. Besides, it is surprising to find that under
+   foggy days, trip displacement and radius of gyration are much bigger
+   than that of other weather conditions.
+CT 2nd IEEE International Smart Cities Conference (ISC2)
+CY SEP 12-15, 2016
+CL Trento, ITALY
+SP IEEE; Univ Trento Italy; IEEE Smart Cities; Centro Ricerche Fiat;
+   Engineering; Politecnico Milano; Reply; STMicroelectron
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+BN 978-1-5090-1845-1
+UT WOS:000392263700003
+ER
+
+PT B
+AU Mahbub, Upal
+   Chellappa, Rama
+BE Chakrabarti, S
+   Saha, HN
+TI PATH: Person Authentication using Trace Histories
+SO 2016 IEEE 7TH ANNUAL UBIQUITOUS COMPUTING, ELECTRONICS MOBILE
+   COMMUNICATION CONFERENCE (UEMCON)
+PD 2016
+PY 2016
+AB In this paper, a solution to the problem of Active Authentication using
+   trace histories is addressed. Specifically, the task is to perform user
+   verification on mobile devices using historical location traces of the
+   user as a function of time. Considering the movement of a human as a
+   Markovian motion, a modified Hidden Markov Model (HMM)-based solution is
+   proposed. The proposed method, namely the Marginally Smoothed HMM
+   (MSHMM), utilizes the marginal probabilities of location and timing
+   information of the observations to smooth-out the emission probabilities
+   while training. Hence, it can efficiently handle unforeseen observations
+   during the test phase. The verification performance of this method is
+   compared to a sequence matching (SM) method, a Markov Chain-based method
+   (MC) and an HMM with basic Laplace Smoothing (HMM-lap). Experimental
+   results using the location information of the UMD Active Authentication
+   Dataset-02 (UMDAA02) and the GeoLife dataset are presented. The proposed
+   MSHMM method outperforms the compared methods in terms of equal error
+   rate (EER). Additionally, the effects of different parameters on the
+   proposed method are discussed.
+CT 7th IEEE Annual Ubiquitous Computing, Electronics and Mobile
+   Communication Conference (IEEE UEMCON)
+CY OCT 20-22, 2016
+CL New York, NY
+SP IEEE; Columbia Univ; IEEE New York Sect; IEEE USA; IEEE Reg 1
+OI Mahbub, Upal/0000-0002-1861-8031
+ZB 0
+TC 1
+Z8 0
+ZR 0
+ZS 0
+Z9 1
+BN 978-1-5090-1496-5
+UT WOS:000390536700113
+ER
+
+PT B
+AU Duc Vinh Ngo
+   Nang Toan Do
+   Luong Anh Tuan Nguyen
+GP IEEE
+TI Anomaly Detection in Video Surveillance: A Novel Approach Based on
+   Sub-Trajectory
+SO 2016 INTERNATIONAL CONFERENCE ON ELECTRONICS, INFORMATION, AND
+   COMMUNICATIONS (ICEIC)
+PD 2016
+PY 2016
+AB In video surveillance based on motion trajectory, a moving object is
+   considered abnormal if the distance from it to trajectory is greater
+   than a threshold. If a trajectory is abnormal with sub-trajectory, it
+   will be abnormal with entire trajectory. In this paper, a novel approach
+   proposes to detect abnormal based on sub-trajectory with modified
+   Hausdorff distance. Moreover, the anomaly detection based on
+   sub-trajectory that can be done with complete trajectory and incomplete
+   trajectory. The proposed technique is evaluated with 1000 datasets and
+   each dataset consists of 260 trajectories. The result show that the
+   technique detect abnormal with the time faster.
+CT 15th International Conference on Electronics, Information, and
+   Communication (ICEIC)
+CY JAN 27-30, 2016
+CL Danang, VIETNAM
+SP Inst Elect & Informat Engineers; IEEE; Univ Sci & Technol; IEEE Consumer
+   Soc; Univ Danang
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+BN *****************
+UT WOS:000389518100033
+ER
+
+PT S
+AU Endo, Yuki
+   Toda, Hiroyuki
+   Nishida, Kyosuke
+   Kawanobe, Akihisa
+BE Bailey, J
+   Khan, L
+   Washio, T
+   Dobbie, G
+   Huang, JZ
+   Wang, R
+TI Deep Feature Extraction from Trajectories for Transportation Mode
+   Estimation
+SO ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PAKDD 2016, PT II
+SE Lecture Notes in Artificial Intelligence
+VL 9652
+BP 54
+EP 66
+DI 10.1007/978-3-319-31750-2_5
+PD 2016
+PY 2016
+AB This paper addresses the problem of feature extraction for estimating
+   users' transportation modes from their movement trajectories. Previous
+   studies have adopted supervised learning approaches and used engineers'
+   skills to find effective features for accurate estimation. However, such
+   hand-crafted features cannot always work well because human behaviors
+   are diverse and trajectories include noise due to measurement error. To
+   compensate for the shortcomings of hand-crafted features, we propose a
+   method that automatically extracts additional features using a deep
+   neural network (DNN). In order that a DNN can easily handle input
+   trajectories, our method converts a raw trajectory data structure into
+   an image data structure while maintaining effective spatio-temporal
+   information. A classification model is constructed in a supervised
+   manner using both of the deep features and hand-crafted features. We
+   demonstrate the effectiveness of the proposed method through several
+   experiments using two real datasets, such as accuracy comparisons with
+   previous methods and feature visualization.
+CT 20th Pacific-Asia Conference on Knowledge Discovery and Data Mining
+   (PAKDD)
+CY APR 19-22, 2016
+CL Univ Auckland, Auckland, NEW ZEALAND
+HO Univ Auckland
+SP Auckland Tourism Events & Econ Dev; BECA
+Z8 0
+ZR 0
+TC 3
+ZB 0
+ZS 0
+Z9 3
+SN 0302-9743
+BN 978-3-319-31750-2; 978-3-319-31749-6
+UT WOS:000389019600005
+ER
+
+PT J
+AU Safi, Hamid
+   Assemi, Behrang
+   Mesbah, Mahmoud
+   Ferreira, Luis
+TI Trip Detection with Smartphone-Assisted Collection of Travel Data
+SO TRANSPORTATION RESEARCH RECORD
+IS 2594
+BP 18
+EP 26
+DI 10.3141/2594-03
+PD 2016
+PY 2016
+AB This paper puts forward a method that automatically detects trips and
+   trip segments with data on the instantaneous movement attributes of
+   individuals that can be collected automatically by smartphone sensors.
+   The goal is to enhance the accuracy of the data collected through the
+   better identification of single-mode trips and trip segments while
+   minimizing the participant's involvement and preserving battery life.
+   The proposed method works independently of data from external sources
+   and can be implemented in smartphone applications to enhance the
+   accuracy of the data that are collected and minimize the amount of data
+   that need to be transferred. The method consists of a combination of
+   real-time processing and postprocessing of the data and incorporates a
+   series of rules to clean, split, and merge trips and trip segments, if
+   required. The performance of the model was evaluated in a real-world
+   experiment, in which it achieved an overall accuracy of 97% for the
+   detection of trips from records of daily tracks. The analysis of the
+   results shows that the implementation of the trip detection model
+   increased the proportion of nonmotorized trips detected by 6%. In
+   addition, the implementation of the model increased the accuracy of the
+   data on the duration and the length of the recorded trips.
+OI Assemi, Behrang/0000-0003-2043-8782; Mesbah, Mahmoud/0000-0002-3344-1350
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 3
+Z9 3
+SN 0361-1981
+EI 2169-4052
+UT WOS:000387200800004
+ER
+
+PT J
+AU Ranacher, Peter
+   Brunauer, Richard
+   van der Spek, Stefan
+   Reich, Siegfried
+TI What is an Appropriate Temporal Sampling Rate to Record Floating Car
+   Data with a GPS?
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 5
+IS 1
+DI 10.3390/ijgi5010001
+PD JAN 2016
+PY 2016
+AB Floating car data (FCD) recorded with the Global Positioning System
+   (GPS) are an important data source for traffic research. However, FCD
+   are subject to error, which can relate either to the accuracy of the
+   recordings (measurement error) or to the temporal rate at which the data
+   are sampled (interpolation error). Both errors affect movement
+   parameters derived from the FCD, such as speed or direction, and
+   consequently influence conclusions drawn about the movement. In this
+   paper we combined recent findings about the autocorrelation of GPS
+   measurement error and well-established findings from random walk theory
+   to analyse a set of real-world FCD. First, we showed that the
+   measurement error in the FCD was affected by positive autocorrelation.
+   We explained why this is a quality measure of the data. Second, we
+   evaluated four metrics to assess the influence of interpolation error.
+   We found that interpolation error strongly affects the correct
+   interpretation of the car's dynamics (speed, direction), whereas its
+   impact on the path (travelled distance, spatial location) was moderate.
+   Based on these results we gave recommendations for recording of FCD
+   using the GPS. Our recommendations only concern time-based sampling,
+   change-based, location-based or event-based sampling are not discussed.
+   The sampling approach minimizes the effects of error on movement
+   parameters while avoiding the collection of redundant information. This
+   is crucial for obtaining reliable results from FCD.
+TC 4
+Z8 1
+ZR 0
+ZB 0
+ZS 0
+Z9 5
+SN 2220-9964
+UT WOS:000369606900006
+ER
+
+PT J
+AU Prelipcean, Adrian C.
+   Gidofalvi, Gyozo
+   Susilo, Yusak O.
+TI Measures of transport mode segmentation of trajectories
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 9
+SI SI
+BP 1763
+EP 1784
+DI 10.1080/13658816.2015.1137297
+PD 2016
+PY 2016
+AB Rooted in the philosophy of point-and segment-based approaches for
+   transportation mode segmentation of trajectories, the measures that
+   researchers have adopted to evaluate the quality of the results (1) are
+   incomparable across approaches, hence slowing the progress in the field
+   and (2) do not provide insight about the quality of the continuous
+   transportation mode segmentation. To address these problems, this paper
+   proposes new error measures that can be applied to measure how well a
+   continuous transportation mode segmentation model performs. The error
+   measures introduced are based on aligning multiple inferred continuous
+   intervals to ground truth intervals, and measure the cardinality of the
+   alignment and the spatial and temporal discrepancy between the
+   corresponding aligned segments. The utility of this new way of computing
+   errors is shown by evaluating the segmentation of three generic
+   transportation mode segmentation approaches (implicit,
+   explicit-holistic, and explicit-consensus-based transport mode
+   segmentation), which can be implemented in a thick client architecture.
+   Empirical evaluations on a large real-word data set reveal the
+   superiority of explicit-consensus-based transport mode segmentation,
+   which can be attributed to the explicit modeling of segments and
+   transitions, which allows for a meaningful decomposition of the complex
+   learning task.
+RI Susilo, Yusak Octavius/M-3707-2013; Prelipcean, Adrian Corneliu/
+OI Susilo, Yusak Octavius/0000-0001-7124-7164; Prelipcean, Adrian
+   Corneliu/0000-0002-0916-0188
+ZB 1
+Z8 0
+ZR 0
+TC 9
+ZS 0
+Z9 9
+SN 1365-8816
+EI 1362-3087
+UT WOS:000378064300005
+ER
+
+PT J
+AU Lv, Mingqi
+   Chen, Ling
+   Wu, Xiaojie
+   Chen, Gencai
+TI A Road Congestion Detection System Using Undedicated Mobile Phones
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 16
+IS 6
+DI 10.1109/TITS.2015.2426955
+PD DEC 2015
+PY 2015
+AB Road congestion has been one of the major issues in most metropolises,
+   and thus, it is crucial to detect road congestions effectively and
+   efficiently. Traditional solutions require the deployment of dedicated
+   sensors on the roadside or on the vehicles, which suffer from high
+   installation and maintenance costs and limited coverage. In this paper,
+   we propose an alternative solution by exploiting the sensing ability of
+   mobile phones. However, it is challenging to detect road congestions in
+   a daily-living environment using undedicated mobile phones while
+   guaranteeing energy efficiency. The proposed system only depends on the
+   accelerometer and cellular signal, which have been proven to be energy
+   efficient as compared with other built-in sensors (e.g., GPS). It
+   consists of three interactive modules: (a) an accelerometer-based
+   vehicular movement detection module for detecting the periods when the
+   mobile phone user is traveling by vehicle; (b) a map-matching module
+   relying on the cellular signal for determining the traveled road
+   segments; and (c) a road congestion estimation module for inferring the
+   congestion degree of the traveled road segments. We evaluated the
+   proposed system based on real-world datasets, with promising results.
+ZB 0
+Z8 0
+ZR 0
+TC 6
+ZS 0
+Z9 6
+SN 1524-9050
+EI 1558-0016
+UT WOS:000365958500008
+ER
+
+PT J
+AU Xiao, Guangnian
+   Juan, Zhicai
+   Zhang, Chunqin
+TI Travel mode detection based on GPS track data and Bayesian networks
+SO COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+VL 54
+BP 14
+EP 22
+DI 10.1016/j.compenvurbsys.2015.05.005
+PD NOV 2015
+PY 2015
+AB Over the past couple of decades, there has been an exponential increase
+   in the collection of large-scale GPS data from household/personal travel
+   surveys all over the world. A range of algorithms, which vary from
+   specific rules to advanced machine learning methods, have been applied
+   to extract travel modes from raw GPS data collected by smartphone-based
+   travel surveys. However, most of the methods applied neither describe
+   the interaction between features influencing the travel mode decision
+   nor effectively deal with the ambiguity inherently incorporated in these
+   features. This paper identifies travel modes with a Bayesian network,
+   whose structure is established based on a K2 algorithm and corresponding
+   conditional probability tables are estimated with maximum likelihood
+   methods. Five representative travel modes walk, bike, e-bike, bus and
+   car are distinguished using the resulting Bayesian network.
+   Additionally, the low speed rate and the average heading change are
+   introduced to reduce uncertainties between bike and e-bike segments and
+   between bus and car segments. The derived travel modes are then compared
+   with those retrieved in the prompted recall survey by telephones.
+   Consequently, more than 86% of segments have the travel mode correctly
+   identified for each travel mode, with over 97% of walk segments being
+   properly flagged. Results from the study demonstrate that GPS travel
+   surveys provide an opportunity to supplement traditional travel surveys.
+   (C) 2015 Elsevier Ltd. All rights reserved.
+Z8 2
+ZB 0
+ZR 0
+ZS 0
+TC 31
+Z9 32
+SN 0198-9715
+EI 1873-7587
+UT WOS:000368306700002
+ER
+
+PT J
+AU Zhang, Desheng
+   He, Tian
+   Lin, Shan
+   Munir, Sirajum
+   Stankovic, John A.
+TI Online Cruising Mile Reduction in Large-Scale Taxicab Networks
+SO IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS
+VL 26
+IS 11
+BP 3122
+EP 3135
+DI 10.1109/TPDS.2014.2364024
+PD NOV 2015
+PY 2015
+AB In the taxicab industry, a long-standing challenge is how to reduce
+   taxicabs' miles spent without fares, i.e., cruising miles. The current
+   solutions for this challenge usually depend on passengers to actively
+   provide their locations in advance for pickups. To address this
+   challenge without the burden on passengers, in this paper, we propose a
+   cruising system, pCruise, for taxicab drivers to find efficient routes
+   to pick up passengers to reduce cruising miles. According to the
+   real-time pick-up events from nearby taxicabs, pCruise characterizes a
+   cruising process with a cruising graph, and assigns weights on edges of
+   the cruising graph to indicate the utility of cruising corresponding
+   road segments. Our weighting process considers the number of nearby
+   passengers and taxicabs together in real-time, aiming at two scenarios
+   where taxicabs are explicitly or implicitly coordinated with each other.
+   Based on a weighted cruising graph, when a taxicab becomes vacant,
+   pCruise provides a distributed online scheduling strategy to obtain and
+   update an efficient cruising route with the minimum length and at least
+   one arriving passenger. We evaluate pCruise based on a real-world GPS
+   dataset from a Chinese city Shenzhen with 14,000 taxicabs. The
+   evaluation results show that pCruise assists taxicab drivers to reduce
+   cruising miles by 42 percent on average.
+TC 8
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+Z9 8
+SN 1045-9219
+EI 1558-2183
+UT WOS:000362792200017
+ER
+
+PT J
+AU Yin ChuanTao
+   Xiong Zhang
+   Chen Hui
+   Wang JingYuan
+   Cooper Daven
+   David Bertrand
+TI A literature survey on smart cities
+SO SCIENCE CHINA-INFORMATION SCIENCES
+VL 58
+IS 10
+AR 100102
+DI 10.1007/s11432-015-5397-4
+PD OCT 2015
+PY 2015
+AB Rapid urbanization creates new challenges and issues, and the smart city
+   concept offers opportunities to rise to these challenges, solve urban
+   problems and provide citizens with a better living environment. This
+   paper presents an exhaustive literature survey of smart cities. First,
+   it introduces the origin and main issues facing the smart city concept,
+   and then presents the fundamentals of a smart city by analyzing its
+   definition and application domains. Second, a data-centric view of smart
+   city architectures and key enabling technologies is provided. Finally, a
+   survey of recent smart city research is presented. This paper provides a
+   reference to researchers who intend to contribute to smart city research
+   and implementation.
+ZB 0
+ZS 0
+Z8 2
+ZR 0
+TC 33
+Z9 33
+SN 1674-733X
+EI 1869-1919
+UT WOS:000362698900002
+ER
+
+PT J
+AU Ferreira, Joao C.
+   Monteiro, Vitor
+   Afonso, Jose A.
+   Afonso, Joao L.
+TI Mobile Cockpit System for Enhanced Electric Bicycle Use
+SO IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+VL 11
+IS 5
+BP 1017
+EP 1027
+DI 10.1109/TII.2015.2463754
+PD OCT 2015
+PY 2015
+AB This paper presents the project of a mobile cockpit system (MCS) for
+   smartphones, which provides assistance to electric bicycle (EB) cyclists
+   in smart cities' environment. The presented system introduces a mobile
+   application (MCS App) with the goal to provide useful personalized
+   information to the cyclist related to the EB's use, including EB range
+   prediction considering the intended path, management of the cycling
+   effort performed by the cyclist, handling of the battery charging
+   process, and the provisioning of information regarding available public
+   transport. This work also introduces the EB cyclist profile concept,
+   which is based on historical data analysis previously stored in a
+   database and collected from mobile devices' sensors. From the tests
+   performed, the results show the importance of route guidance, taking
+   into account the energy savings. The results also show significant
+   changes on range prediction based on user and route taken. It is
+   important to say that the proposed system can be used for all bicycles
+   in general.
+RI Afonso, Jose/K-3949-2012; Afonso, Joao/D-8565-2012; Ferreira, Joao/B-5351-2009; Monteiro, Vitor/D-4306-2012
+OI Afonso, Jose/0000-0001-6275-9467; Afonso, Joao/0000-0001-9195-1239;
+   Ferreira, Joao/0000-0002-6662-0806; Monteiro, Vitor/0000-0001-6640-8955
+TC 7
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+Z9 7
+SN 1551-3203
+EI 1941-0050
+UT WOS:000362356000003
+ER
+
+PT J
+AU Jahangiri, Arash
+   Rakha, Hesham A.
+TI Applying Machine Learning Techniques to Transportation Mode Recognition
+   Using Mobile Phone Sensor Data
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 16
+IS 5
+BP 2406
+EP 2417
+DI 10.1109/TITS.2015.2405759
+PD OCT 2015
+PY 2015
+AB This paper adopts different supervised learning methods from the field
+   of machine learning to develop multiclass classifiers that identify the
+   transportation mode, including driving a car, riding a bicycle, riding a
+   bus, walking, and running. Methods that were considered include
+   K-nearest neighbor, support vector machines (SVMs), and tree-based
+   models that comprise a single decision tree, bagging, and randomforest
+   (RF) methods. For training and validating purposes, data were obtained
+   from smartphone sensors, including accelerometer, gyroscope, and
+   rotation vector sensors. K-fold cross-validation as well as out-of-bag
+   error was used for model selection and validation purposes. Several
+   features were created from which a subset was identified through the
+   minimum redundancy maximum relevance method. Data obtained from the
+   smartphone sensors were found to provide important information to
+   distinguish between transportation modes. The performance of different
+   methods was evaluated and compared. The RF and SVM methods were found to
+   produce the best performance. Furthermore, an effort was made to develop
+   a new additional feature that entails creating a combination of other
+   features by adopting a simulated annealing algorithm and a random forest
+   method.
+ZS 0
+Z8 2
+TC 24
+ZR 0
+ZB 1
+Z9 26
+SN 1524-9050
+EI 1558-0016
+UT WOS:000362084600008
+ER
+
+PT J
+AU Xiao, Guangnian
+   Juan, Zhicai
+   Gao, Jingxin
+TI Travel Mode Detection Based on Neural Networks and Particle Swarm
+   Optimization
+SO INFORMATION
+VL 6
+IS 3
+BP 522
+EP 535
+DI 10.3390/info6030522
+PD SEP 2015
+PY 2015
+AB The collection of massive Global Positioning System (GPS) data from
+   travel surveys has increased exponentially worldwide since the 1990s. A
+   number of methods, which range from rule-based to advanced
+   classification approaches, have been applied to detect travel modes from
+   GPS positioning data collected in travel surveys based on GPS-enabled
+   smartphones or dedicated GPS devices. Among these approaches, neural
+   networks (NNs) are widely adopted because they can extract subtle
+   information from training data that cannot be directly obtained by human
+   or other analysis techniques. However, traditional NNs, which are
+   generally trained by back-propagation algorithms, are likely to be
+   trapped in local optimum. Therefore, particle swarm optimization (PSO)
+   is introduced to train the NNs. The resulting PSO-NNs are employed to
+   distinguish among four travel modes (walk, bike, bus, and car) with GPS
+   positioning data collected through a smartphone-based travel survey. As
+   a result, 95.81% of samples are correctly flagged for the training set,
+   while 94.44% are correctly identified for the test set. Results from
+   this study indicate that smartphone-based travel surveys provide an
+   opportunity to supplement traditional travel surveys.
+ZR 0
+TC 2
+Z8 1
+ZB 0
+ZS 0
+Z9 3
+SN 2078-2489
+UT WOS:000214820200017
+ER
+
+PT J
+AU Yang, Dingqi
+   Zhang, Daqing
+   Chen, Longbiao
+   Qu, Bingqing
+TI NationTelescope: Monitoring and visualizing large-scale collective
+   behavior in LBSNs
+SO JOURNAL OF NETWORK AND COMPUTER APPLICATIONS
+VL 55
+BP 170
+EP 180
+DI 10.1016/j.jnca.2015.05.010
+PD SEP 2015
+PY 2015
+AB The research of collective behavior has attracted a lot of attention in
+   recent years, which can empower various applications, such as
+   recommendation systems and intelligent transportation systems. However,
+   in traditional social science, it is practically difficult to collect
+   large-scale user behavior data. Fortunately, with the ubiquity of
+   smartphones and Location Based Social Networks (LBSNs), users
+   continuously report their activities online, which massively reflect
+   their collective behavior. In this paper, we propose NationTelescope, a
+   platform that monitors, compares and visualizes large-scale nation-wide
+   user behavior in LBSNs. First, it continuously collects user behavior
+   data from LBSNs. Second, it automatically generates behavior data
+   summary and integrates an interactive map interface for data
+   visualization. Third, in order to compare and visualize the behavioral
+   differences across countries, it detects the discriminative activities
+   according to the related traffic patterns in different countries. By
+   implementing a prototype of NationTelescope platform, we evaluate its
+   effectiveness and usability via two case studies and a system usability
+   scale survey. The results show that the platform can not only
+   efficiently capture, compare and visualize nation-wide collective
+   behavior, but also achieve good usability and user experience. (C) 2015
+   Elsevier Ltd. All rights reserved.
+ZS 0
+ZR 0
+TC 23
+ZB 0
+Z8 0
+Z9 23
+SN 1084-8045
+UT WOS:000358805700011
+ER
+
+PT J
+AU Terroso-Saenz, F.
+   Valdes-Vela, M.
+   den Breejen, E.
+   Hanckmann, P.
+   Dekker, R.
+   Skarmeta-Gomez, A. F.
+TI CEP-traj: An event-based solution to process trajectory data
+SO INFORMATION SYSTEMS
+VL 52
+SI SI
+BP 34
+EP 54
+DI 10.1016/j.is.2015.03.005
+PD AUG-SEP 2015
+PY 2015
+AB In this day and age, there exists an increasing need for systems and
+   architectures able to process spatio-temporal data in a timely way. As a
+   result, this paper presents CEP-traj, a novel middleware to ease the
+   development of real-time trajectory-based services based on the Complex
+   Event Processing (CEP) paradigm. By means of an event-based approach,
+   the present middleware is able to detect a set of generic patterns along
+   with meaningful changes of an entity's movement. In order to prove its
+   suitability and feasibility, a vessel abnormal-behaviour detection
+   system has been developed on the basis of the middleware's features.
+   Finally, both synthetic and real datasets have been used to test the
+   accuracy and performance of the middleware and the detection system
+   implemented on top of the Esper engine. (C) 2015 Elsevier Ltd. All
+   rights reserved.
+CT 6th International Conference on Similarity Search and Applications
+   (SISAP)
+CY OCT 02-04, 2013
+CL Univ A Coruna, A Coruna, SPAIN
+HO Univ A Coruna
+SP Fields Inst Res Math Sci; Univ A Coruna, Ctr Res & Dev Informat
+   Technologies
+RI Terroso-Saenz, Fernando/K-2426-2014
+Z8 0
+TC 6
+ZB 0
+ZR 0
+ZS 0
+Z9 6
+SN 0306-4379
+EI 1873-6076
+UT WOS:000356983400003
+ER
+
+PT J
+AU Xu, Xiujuan
+   Zhou, Jianyu
+   Liu, Yu
+   Xu, Zhenzhen
+   Zhao, Xiaowei
+TI Taxi-RS: Taxi-Hunting Recommendation System Based on Taxi GPS Data
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 16
+IS 4
+BP 1716
+EP 1727
+DI 10.1109/TITS.2014.2371815
+PD AUG 2015
+PY 2015
+AB Recommender systems are constructed to search the content of interest
+   from overloaded information by acquiring useful knowledge from massive
+   and complex data. Since the amount of information and the complexity of
+   the data structure grow, it has become a more interesting and
+   challenging topic to find an efficient way to process, model, and
+   analyze the information. Due to the Global Positioning System (GPS) data
+   recording the taxi's driving time and location, the GPS-equipped taxi
+   can be regarded as the detector of an urban transport system. This paper
+   proposes a Taxi-hunting Recommendation System (Taxi-RS) processing the
+   large-scale taxi trajectory data, in order to provide passengers with a
+   waiting time to get a taxi ride in a particular location. We formulated
+   the data offline processing system based on HotSpotScan and Preference
+   Trajectory Scan algorithms. We also proposed a new data structure for
+   frequent trajectory graph. Finally, we provided an optimized online
+   querying subsystem to calculate the probability and the waiting time of
+   getting a taxi. Taxi-RS is built based on the real-world trajectory data
+   set generated by 12 000 taxis in one month. Under the condition of
+   guaranteeing the accuracy, the experimental results show that our system
+   can provide more accurate waiting time in a given location compared with
+   a naive algorithm.
+ZS 0
+TC 10
+Z8 0
+ZB 0
+ZR 0
+Z9 10
+SN 1524-9050
+EI 1558-0016
+UT WOS:000359253600009
+ER
+
+PT J
+AU Nadembega, Apollinaire
+   Hafid, Abdelhakim
+   Taleb, Tarik
+TI A Destination and Mobility Path Prediction Scheme for Mobile Networks
+SO IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+VL 64
+IS 6
+BP 2577
+EP 2590
+DI 10.1109/TVT.2014.2345263
+PD JUN 2015
+PY 2015
+AB Mobile multimedia services are gaining great momentum among subscribers
+   of mobile networks (MNs). An understanding of the network traffic
+   behavior is essential in the evolution of today's MNs and, thus, leads
+   to more efficient planning and management of the network's scarce
+   bandwidth resources. The communication efficiency can be largely
+   improved (i.e., optimizing the allocation of the network's limited
+   resources and sustaining a desirable quality of service) if the network
+   anticipates the needs of its users on the move and, thus, performs
+   reservation of radio resources at cells along the path to the
+   destination. In this vein, we propose a mobility prediction scheme for
+   MNs; more specifically, we first apply probability and Dempster-Shafer
+   processes for predicting the likelihood of the next destination, for an
+   arbitrary user in an MN, based on the user's habits (e.g., frequently
+   visited locations). Then, at each road junction, we apply the
+   second-order Markov chain process for predicting the likelihood of the
+   next road segment transition, given the path from the trip origin to
+   that specific road junction and the direction to the destination. We
+   evaluate our proposed scheme using real-life mobility traces; the
+   simulation results show that the proposed scheme outperforms traditional
+   schemes.
+Z8 0
+ZB 0
+ZR 0
+ZS 0
+TC 22
+Z9 22
+SN 0018-9545
+EI 1939-9359
+UT WOS:000356464100030
+ER
+
+PT J
+AU Zheng, Yu
+TI Trajectory Data Mining: An Overview
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 6
+IS 3
+AR 29
+DI 10.1145/2743025
+PD MAY 2015
+PY 2015
+AB The advances in location-acquisition and mobile computing techniques
+   have generated massive spatial trajectory data, which represent the
+   mobility of a diversity of moving objects, such as people, vehicles, and
+   animals. Many techniques have been proposed for processing, managing,
+   and mining trajectory data in the past decade, fostering a broad range
+   of applications. In this article, we conduct a systematic survey on the
+   major research into trajectory data mining, providing a panorama of the
+   field as well as the scope of its research topics. Following a road map
+   from the derivation of trajectory data, to trajectory data
+   preprocessing, to trajectory data management, and to a variety of mining
+   tasks (such as trajectory pattern mining, outlier detection, and
+   trajectory classification), the survey explores the connections,
+   correlations, and differences among these existing techniques. This
+   survey also introduces the methods that transform trajectories into
+   other data formats, such as graphs, matrices, and tensors, to which more
+   data mining and machine learning techniques can be applied. Finally,
+   some public trajectory datasets are presented. This survey can help
+   shape the field of trajectory data mining, providing a quick
+   understanding of this field to the community.
+Z8 36
+ZB 3
+ZR 0
+TC 273
+ZS 0
+Z9 304
+SN 2157-6904
+EI 2157-6912
+UT WOS:000355670300001
+ER
+
+PT J
+AU Xu, Jianqiu
+   Gueting, Ralf Hartmut
+   Qin, Xiaolin
+TI GMOBench: Benchmarking generic moving objects
+SO GEOINFORMATICA
+VL 19
+IS 2
+BP 227
+EP 276
+DI 10.1007/s10707-014-0211-9
+PD APR 2015
+PY 2015
+AB In real world scenarios, people's movement include several environments
+   rather than one, for example, road network, pavement areas and indoor.
+   This imposes a new challenge for moving objects database that the
+   complete trip needs to be managed by a database system. In the meantime,
+   novel queries regarding different transportation modes should also be
+   supported. Since existing methods are limited to trips in a single
+   environment and do not support queries on moving objects with different
+   transportation modes, new technologies are essentially needed in a
+   database system. In this paper, we introduce a benchmark called GMOBench
+   that aims to evaluate the performance of a database system managing
+   moving objects in different environments. GMOBench is settled in a
+   realistic scenario and is comprised of three components: (1) a data
+   generator with the capability of creating a scalable set of trips
+   representing the complete movement of humans (both indoor and outdoor);
+   (2) a set of carefully designed and benchmark queries; (3) Mode-RTree,
+   an index structure for managing generic moving objects. The generator
+   defines some parameters so that users can control the characteristics of
+   results. We create the benchmark data in such a way that the dataset can
+   mirror important characteristics and real world distributions of human
+   mobility. Efficient access methods and optimization techniques are
+   developed for query processing. In particular, we propose an index
+   structure called Mode-RTree to manage moving objects in different
+   environments. By employing the proposed index, the cost of benchmark
+   queries is greatly reduced. GMOBench is implemented in a real database
+   system to have a practical result. We perform an extensive experimental
+   study on comprehensive datasets to evaluate the performance. The results
+   show that by using the Mode-RTree we achieve significant performance
+   improvement over the baseline method, demonstrating the effectiveness
+   and efficiency of our approaches.
+ZR 0
+Z8 1
+TC 0
+ZS 0
+ZB 0
+Z9 1
+SN 1384-6175
+EI 1573-7624
+UT WOS:000351538800002
+ER
+
+PT J
+AU Wang, Zhibo
+   Liao, Jilong
+   Cao, Qing
+   Qi, Hairong
+   Wang, Zhi
+TI Friendbook: A Semantic-Based Friend Recommendation System for Social
+   Networks
+SO IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL 14
+IS 3
+BP 538
+EP 551
+DI 10.1109/TMC.2014.2322373
+PD MAR 2015
+PY 2015
+AB Existing social networking services recommend friends to users based on
+   their social graphs, which may not be the most appropriate to reflect a
+   user's preferences on friend selection in real life. In this paper, we
+   present Friendbook, a novel semantic-based friend recommendation system
+   for social networks, which recommends friends to users based on their
+   life styles instead of social graphs. By taking advantage of sensor-rich
+   smartphones, Friendbook discovers life styles of users from user-centric
+   sensor data, measures the similarity of life styles between users, and
+   recommends friends to users if their life styles have high similarity.
+   Inspired by text mining, we model a user's daily life as life documents,
+   from which his/her life styles are extracted by using the Latent
+   Dirichlet Allocation algorithm. We further propose a similarity metric
+   to measure the similarity of life styles between users, and calculate
+   users' impact in terms of life styles with a friend-matching graph. Upon
+   receiving a request, Friendbook returns a list of people with highest
+   recommendation scores to the query user. Finally, Friendbook integrates
+   a feedback mechanism to further improve the recommendation accuracy. We
+   have implemented Friendbook on the Android-based smartphones, and
+   evaluated its performance on both small-scale experiments and
+   large-scale simulations. The results show that the recommendations
+   accurately reflect the preferences of users in choosing friends.
+TC 68
+ZS 0
+Z8 4
+ZR 0
+ZB 1
+Z9 71
+SN 1536-1233
+EI 1558-0660
+UT WOS:000349626100007
+ER
+
+PT B
+AU Bloch, Andreas
+   Erdin, Robert
+   Meyer, Sonja
+   Keller, Thomas
+   de Spindler, Alexandre
+GP IEEE
+TI Battery-Efficient Transportation Mode Detection on Mobile Devices
+SO 2015 16TH IEEE INTERNATIONAL CONFERENCE ON MOBILE DATA MANAGEMENT, VOL 1
+BP 185
+EP 190
+DI 10.1109/MDM.2015.16
+PD 2015
+PY 2015
+AB The ubiquitous presence of sensor-rich smartphones offers excellent
+   opportunities to capture and monitor individuals' contexts and
+   activities such as the utilized modes of transport. Most of the current
+   systems inferring transportation modes involve continuous sensing of GPS
+   or acceleration modules, which inconveniently decreases the battery
+   lifetime. This paper presents a more battery-efficient approach for
+   transportation mode detection. This approach introduces an additional
+   component able to detect whether a user is using any transportation mean
+   or none at all, based on cellular network information only. Using this a
+   priori knowledge, our inference model is able to avoid the
+   battery-exhausting transportation mode detection when users are not
+   travelling. Based on experiments involving six participants we show that
+   our approach allows the transportation modes car, train and walk to be
+   distinguished with an accuracy of 95.7%. Tests on a dataset collected by
+   nine participants show that the a priori knowledge can be obtained with
+   an accuracy of 85%. Further experiments reveal that our approach is able
+   to gain 75% of battery lifetime. Finally, we outline an implementation
+   of our detection approach providing flexible means to configure the use
+   of smartphone sensors and thus supporting the kind of experiments
+   presented in this paper.
+CT IEEE 16th International Conference on Mobile Data Management MDM
+CY JUN 15-18, 2015
+CL Pittsburgh, PA
+SP IEEE Comp Soc; IEEE Tech Comm Data Engn; Univ of Pittsburgh, USA; Natl
+   Sci Fdn, USA; Aalborg Univ, Denmark; Hewlett Packard; Hewlett Packard
+   Vertica; Conf Publishing Serv
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 2
+Z9 2
+BN 978-1-4799-9972-9
+UT WOS:000380404900022
+ER
+
+PT S
+AU Chen, Mingqing
+   Zhong, Hua
+   Zheng, Yefeng
+   Funka-Lea, Gareth
+GP IEEE
+TI COMPONENT-COMPOSITION BASED HEART ISOLATION FOR 3D VOLUME VISUALIZATION
+   OF CORONARY ARTERIES
+SO 2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI)
+SE IEEE International Symposium on Biomedical Imaging
+BP 1300
+EP 1303
+PD 2015
+PY 2015
+AB Heart isolation (separating the heart from the neighboring tissues,
+   e.g., lung, liver, and rib cage) is a prerequisite to generate a 3D
+   volume visualization as an intuitive view for coronary disease diagnosis
+   and treatment planning. Previously, we proposed a component-carving
+   based heart isolation approach by removing unwanted background tissues
+   (e.g., non-cardiac structures, left atrial appendage, and pulmonary
+   veins/arteries) sequentially. However, the final mask usually has many
+   small extra pieces due to the difficulty to model and segment all
+   background tissues. In this paper, we propose a component-composition
+   based approach, which starts from an empty mask and then adds in wanted
+   components (coronary arteries, four chambers, and the aorta) segmented
+   from the original image. The proposed method can generate a much cleaner
+   mask than the component-carving approach since only the wanted
+   structures are added and the segmentation of the heart chambers and the
+   aorta is more robust and accurate due to their greater predictability.
+CT IEEE 12th International Symposium on Biomedical Imaging
+CY APR 16-19, 2015
+CL New York, NY
+SP NIBIB; NATL INST; IEEE; EMB
+ZS 0
+TC 1
+Z8 0
+ZR 0
+ZB 0
+Z9 1
+SN 1945-7928
+BN 978-1-4799-2374-8
+UT WOS:000380546000312
+ER
+
+EF

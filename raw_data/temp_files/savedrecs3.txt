@@ -1,0 +1,2270 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Cho, Sung-Bae
+TI Exploiting machine learning techniques for location recognition and
+   prediction with smartphone logs
+SO NEUROCOMPUTING
+VL 176
+SI SI
+BP 98
+EP 106
+DI 10.1016/j.neucom.2015.02.079
+PD FEB 2 2016
+PY 2016
+AB Due to the advancement of mobile computing technology and the various
+   sensors built in the smartphones, context-aware services are
+   proliferating to everyday life. Location-based service (LBS), which
+   provides the appropriate service to smartphone users according to their
+   contexts, is becoming more popular, and the location is one of the most
+   important contexts in LBS. Extracting and recognizing meaningful
+   location and predicting next location are crucial for successful LBS.
+   Many researchers have attempted to recognize and predict locations by
+   various methods, but only few consider the development of real working
+   system considering key tasks of LBS on the mobile platform. In this
+   paper, we propose a location recognition and prediction system in
+   smartphone environment, which consists of recognizing location and
+   predicting destination for users. It recognizes user location by
+   combining k-nearest neighbor and decision trees, and predicts user
+   destination using hidden Markov models. To show the usefulness of the
+   proposed system, we have conducted thorough experiments on real everyday
+   life datasets collected from 10 persons for six months, and confirmed
+   that the proposed system yielded above 90% of average location
+   prediction accuracy. (C) 2015 Elsevier B.V. All rights reserved.
+CT 8th International Conference on Hybrid Artificial Intelligent Systems
+   (HAIS)
+CY SEP 11-13, 2013
+CL Salamanca, SPAIN
+SP IEEE Secc Espana; IEEE Syst Man & Cybernet Capitulo Espanol; AEPIA; Univ
+   Salamanca; World Federat Soft Comp; MIR Labs; IT4Innovat Ctr Excellence;
+   Int Federat Computat Log; Minist
+Z8 0
+ZS 0
+ZR 0
+TC 15
+ZB 0
+Z9 15
+SN 0925-2312
+EI 1872-8286
+UT WOS:000368962800011
+ER
+
+PT J
+AU Saleh, Ahmed Ibrahim Mohammed
+TI A Hybrid Mobility Prediction (HMP) strategy for PCS networks
+SO PATTERN ANALYSIS AND APPLICATIONS
+VL 19
+IS 1
+BP 173
+EP 206
+DI 10.1007/s10044-015-0483-1
+PD FEB 2016
+PY 2016
+AB Recently, several high-speed applications have been emerged for personal
+   communication service (PCS) networks. Therefore, locating mobile
+   terminals (MTs) as they move from one place to another is the key to
+   provide continuous services with unrestricted mobility. To maintain the
+   continuity of service during handoffs, PCS involves the need to predict
+   MTs' movements to cope with resource limitations and heterogeneity.
+   Predicting MT's next location in PCS networks has become an inherently
+   interesting and challenging problem. If we can correctly predict the
+   next cell to which MTs are going, the performance of wireless
+   applications, such as call admission control, QoS, and mobility
+   management can be improved as well. Mobility prediction based on MTs'
+   movement history has become an effective mean not only to decrease
+   call-dropping probability, but also to shorten the handover latency.
+   However, applying various basic prediction schemes to realistic
+   environments has reported several limitations. Moreover, the randomness
+   of MT's motion prevents the accurate prediction. In this paper, a Hybrid
+   Mobility Prediction (HMP) strategy has been proposed. HMP provides
+   flexible usage of the limited resources of PCS networks. It combines
+   evidence from three different predictors, which are; probabilistic
+   predictor (PP), group-based predictor (GP), and spatial predictor (SP).
+   PP relies on Bayes theorem, GP uses ant colony optimization (ACO), while
+   SP tries to detect the topological architecture of the current
+   registration area to enhance the prediction process. HMP provides high
+   accurate prediction of the next cell to which an MT is going, which
+   avoids over reservation resulting in a waste of resources. Experimental
+   results have shown that HMP outperforms recent prediction strategies as
+   the amount of reserved resources is dynamically adjusted based on the
+   predicted cell.
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 2
+Z9 2
+SN 1433-7541
+EI 1433-755X
+UT WOS:000374173100014
+ER
+
+PT J
+AU Lee, Sungjun
+   Lim, Junseok
+   Park, Jonghun
+   Kim, Kwanho
+TI Next Place Prediction Based on Spatiotemporal Pattern Mining of Mobile
+   Device Logs
+SO SENSORS
+VL 16
+IS 2
+DI 10.3390/s16020145
+PD FEB 2016
+PY 2016
+AB Due to the recent explosive growth of location-aware services based on
+   mobile devices, predicting the next places of a user is of increasing
+   importance to enable proactive information services. In this paper, we
+   introduce a data-driven framework that aims to predict the user's next
+   places using his/her past visiting patterns analyzed from mobile device
+   logs. Specifically, the notion of the spatiotemporal-periodic (STP)
+   pattern is proposed to capture the visits with spatiotemporal
+   periodicity by focusing on a detail level of location for each
+   individual. Subsequently, we present algorithms that extract the STP
+   patterns from a user's past visiting behaviors and predict the next
+   places based on the patterns. The experiment results obtained by using a
+   real-world dataset show that the proposed methods are more effective in
+   predicting the user's next places than the previous approaches
+   considered in most cases.
+TC 6
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+Z9 6
+SN 1424-8220
+UT WOS:000371787800109
+PM 26805850
+ER
+
+PT J
+AU Fiori, Alessandro
+   Mignone, Andrea
+   Rospo, Giuseppe
+TI DeCoClu: Density consensus clustering approach for public transport data
+SO INFORMATION SCIENCES
+VL 328
+BP 378
+EP 388
+DI 10.1016/j.ins.2015.08.054
+PD JAN 20 2016
+PY 2016
+AB Automatic Vehicle Monitoring (AVM) systems are exploited by public
+   transport companies to manage and control their fleet of vehicles.
+   However, these systems are usually based on the background knowledge of
+   the transport network which can change during the time and in some cases
+   can be missing or erroneous. GPS data and other information captured by
+   the vehicles during their work can be exploited to update the network
+   knowledge. This paper presents a novel approach, namely DeCoClu (Density
+   Consensus Clustering), that aims at mining the topology of a public
+   transport network by means of a consensus clustering density-based
+   approach. In particular, the method exploits static information from
+   time series of positioning signals (i.e., GPS data) to infer
+   geographical locations of stops by means of a consensus clustering
+   strategy based on a new distance function. Moreover, the logical pathway
+   of a route (i.e., stops sequence) is defined by an Hamiltonian cycle.
+   Experiments performed on real-data collections provided by a public
+   transport company demonstrate the effectiveness of the proposed
+   approach. (C) 2015 Elsevier Inc. All rights reserved.
+Z8 0
+ZR 0
+ZB 0
+TC 8
+ZS 0
+Z9 8
+SN 0020-0255
+EI 1872-6291
+UT WOS:000365054800024
+ER
+
+PT J
+AU Lv, Mingqi
+   Chen, Ling
+   Xu, Zhenxing
+   Li, Yinglong
+   Chen, Gencai
+TI The discovery of personally semantic places based on trajectory data
+   mining
+SO NEUROCOMPUTING
+VL 173
+BP 1142
+EP 1153
+DI 10.1016/j.neucom.2015.08.071
+PD JAN 15 2016
+PY 2016
+AB A personally semantic place is a space that is frequently visited by an
+   individual user and carries important semantic meanings (e.g. home,
+   work, etc.) to the user. Many location-aware applications could be
+   greatly enhanced by the ability of automatic discovery of personally
+   semantic places. The discovery of a user's personally semantic places
+   involves obtaining the physical locations and semantic meanings of these
+   places. In this paper, we propose approaches to address both of the
+   problems. For the physical place extraction problem, a hierarchical
+   clustering algorithm is proposed to firstly extract visit points from
+   the GPS trajectories, and then clusters these visit points to form
+   physical places. For the semantic place recognition problem, the
+   temporal, spatial and sequential features in which the places have been
+   visited are explored to categorize them into pre-defined types. An
+   extensive set of experiments conducted based on a dataset of real-world
+   GPS trajectories has demonstrated the effectiveness of the proposed
+   approaches. (C) 2015 Elsevier B.V. All rights reserved.
+Z8 1
+ZB 0
+ZS 0
+TC 16
+ZR 0
+Z9 17
+SN 0925-2312
+EI 1872-8286
+UT WOS:000366879800067
+ER
+
+PT B
+AU Rengaraj, Vinoth
+   Bijlani, Kamal
+BE Niranjan, SK
+TI A study and implementation of Smart ID card with M-Learning and Child
+   Security
+SO PROCEEDINGS OF THE 2016 2ND INTERNATIONAL CONFERENCE ON APPLIED AND
+   THEORETICAL COMPUTING AND COMMUNICATION TECHNOLOGY (ICATCCT)
+BP 305
+EP 311
+PD 2016
+PY 2016
+AB Among the Organized crime, Human trafficking hold third place where as
+   the first and second or drug and weapon trade across the globe. Human
+   trafficking is a shame on Humanity. As per the report of Human Rights
+   commission of India over 40,000 children are reported missing every year
+   of which 11000 are untraced [1][2]. Another statics report saying 80% of
+   human trafficking is done for sexual exploitation and rest is for bonded
+   labors [2]. Sex traffickers often find pray as children because not only
+   children are vulnerable than adults, but there is a high market demand
+   for young victims. Traffickers target victims most often after school
+   programs. It is a painful truth that India is considered as a hub for
+   Human trafficking in Asia [2]. Even though it is difficult to eradicate
+   the shame on human society, Here is a small initiative to reduce child
+   trafficking by providing a child safety system.
+   Apart from child security, as a Parent we have to consider and
+   contribute in child education too. There is an ample amount of gap
+   between Parent-Child-Education-Teacher. Parent have no clue how to
+   contribute to their child education. How to bring focus to child in
+   education and life. Vital factor of this is parent are busy with their
+   job and no-time situation to take care of child, in the other hand as a
+   teacher it is difficult to do individual care for every student they
+   hold. In olden days the teacher and student ratio will be minimal but it
+   is not the same case now. Even UGC is suggesting a norm of 1:25 ratio,
+   but most of the educational institutions are not completely following it
+   [4]. This leads to minimal interaction between students and teachers.
+   The focus of this project is to deploy security system in hot spots like
+   School, Home, Tuition centre and also in school buses or students own
+   vehicle like bicycles etc.. The system comprise of RFID/NFC
+   communication enabled smart Id card and a Child Safety device(CSD). The
+   CSD is the combination of most commonly used technologies like GPS/GSM
+   and RFID. The device communicates with the servers via GSM or internet
+   enabled Wi-Fi or Ethernet cables. CSD helps to track the student on
+   daily bases and report the parents and teachers about his/her activity.
+   It is a combination of web portal and Android based mobile application
+   provides the information about the student to parents and teachers with
+   the help of CSD and smart id cards. Mobile app and Web portal helps
+   teachers convey the performance of a student in his/her class, it helps
+   parents to monitor and guide child to achieve goals.
+CT 2nd International Conference on Applied and Theoretical Computing and
+   Communication Technology (iCATccT)
+CY JUL 21-23, 2016
+CL SJB Inst Technol, Bengaluru, INDIA
+HO SJB Inst Technol
+SP IEEE; IEEE Bangalore Sect
+Z8 0
+TC 2
+ZR 0
+ZB 0
+ZS 0
+Z9 2
+BN 978-1-5090-2399-8
+UT WOS:000403607100059
+ER
+
+PT B
+AU Thomason, Alasdair
+   Griffiths, Nathan
+   Sanchez, Victor
+BE Ali, M
+   Newsam, S
+   Ravada, S
+   Renz, M
+   Trajcevski, G
+TI Predicting Interactions and Contexts with Context Trees
+SO 24TH ACM SIGSPATIAL INTERNATIONAL CONFERENCE ON ADVANCES IN GEOGRAPHIC
+   INFORMATION SYSTEMS (ACM SIGSPATIAL GIS 2016)
+DI 10.1145/2996913.2996993
+PD 2016
+PY 2016
+AB Predicting the future actions of individuals from geospatial data has
+   the potential to provide a basis for tailored services. This work
+   presents the Predictive Context Tree (PCT), a new hierarchical
+   classifier based on the Context Tree summary model [8]. The PCT is
+   capable of predicting the future contexts and locations of individuals
+   to provide a basis for understanding not only where a user will be, but
+   also what type of activity they will be performing. Through a comparison
+   to established techniques, this paper demonstrates the applicability of
+   the PCT by showing increased accuracies for location prediction, and
+   increased utility through context prediction.
+CT 24th ACM SIGSPATIAL International Conference on Advances in Geographic
+   Information Systems (ACM SIGSPATIAL GIS)
+CY OCT 31-NOV 03, 2016
+CL San Francisco, CA
+SP ACM Special Interest Grp Spatial Informat; ACM; Amazon; ESRI; Facebook;
+   Google; Oracle; Microsoft
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+BN 978-1-4503-4589-7
+UT WOS:000403647900046
+ER
+
+PT B
+AU Yabe, Takahiro
+   Tsubouchi, Kota
+   Sudo, Akihito
+   Sekimoto, Yoshihide
+BE Ali, M
+   Newsam, S
+   Ravada, S
+   Renz, M
+   Trajcevski, G
+TI A Framework for Evacuation Hotspot Detection after Large Scale Disasters
+   using Location Data from Smartphones: Case Study of Kumamoto Earthquake
+SO 24TH ACM SIGSPATIAL INTERNATIONAL CONFERENCE ON ADVANCES IN GEOGRAPHIC
+   INFORMATION SYSTEMS (ACM SIGSPATIAL GIS 2016)
+DI 10.1145/2996913.2997014
+PD 2016
+PY 2016
+AB Large scale disasters cause severe social disorder and trigger mass
+   evacuation activities. Managing the evacuation shelters efficiently is
+   crucial for disaster management. Kumamoto prefecture, Japan, was hit by
+   an enormous (Magnitude 7.3) earthquake on 16th of April, 2016. As a
+   result, more than 10,000 buildings were severely damaged and over
+   100,000 people had to evacuate from their homes. After the earthquake,
+   it took the decision makers several days to grasp the locations where
+   people were evacuating, which delayed of distribution of supply and
+   rescue. This situation was made even more complex since some people
+   evacuated to places that were not designated as evacuation shelters.
+   Conventional methods for grasping evacuation hotspots require on-foot
+   field surveys that take time and are difficult to execute right after
+   the hazard in the confusion.
+   We propose a novel framework to efficiently estimate the evacuation
+   hotspots after large disasters using location data collected from
+   smartphones. To validate our framework and show the useful analysis
+   using our output, we demonstrated the framework on the Kumamoto
+   earthquake using GPS data of smartphones collected by Yahoo Japan. We
+   verified that our estimation accuracy of evacuation hotspots were very
+   high by checking the located facilities and also by comparing the
+   population transition results with newspaper reports. Additionally, we
+   demonstrated analysis using our framework outputs that would help
+   decision makers, such as the population transition and function period
+   of each hotspot. The efficiency of our framework is also validated by
+   checking the processing time, showing that it could be utilized
+   efficiently in disasters of any scale. Our framework provides useful
+   output for decision makers that manage evacuation shelters after various
+   kinds of large scale disasters.
+CT 24th ACM SIGSPATIAL International Conference on Advances in Geographic
+   Information Systems (ACM SIGSPATIAL GIS)
+CY OCT 31-NOV 03, 2016
+CL San Francisco, CA
+SP ACM Special Interest Grp Spatial Informat; ACM; Amazon; ESRI; Facebook;
+   Google; Oracle; Microsoft
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+TC 0
+Z9 0
+BN 978-1-4503-4589-7
+UT WOS:000403647900044
+ER
+
+PT S
+AU Basta, Nardine
+   ElNahas, Amal
+   Grossmann, Hans Peter
+   Abdennadher, Slim
+GP IEEE
+TI Spatio-Tempo-Socio-Semantic-Aware Model For Destination Prediction in
+   VANET
+SO 2017 INTERNATIONAL CONFERENCE ON COMPUTING, NETWORKING AND
+   COMMUNICATIONS (ICNC)
+SE International Conference on Computer Networking and Communications
+BP 217
+EP 223
+PD 2016
+PY 2016
+AB VANETs have attracted researchers' attention lately because of the need
+   to promote the driving experience by extending the drivers' view through
+   wireless data exchange. Mobility prediction enables appealing proactive
+   experiences for a wide range of VANET location-aware services and
+   applications. In this work, we present more than a destination
+   prediction technique. We introduce a mechanism for transforming the
+   vehicles into smart entities based on a four dimensional model for
+   destination prediction. The model comprises all possible aspects
+   affecting the human mobility including time, social network and
+   locations preference. Moreover, it takes the lead in leveraging the
+   semantic properties of both the points of interest and the social
+   relations to affect the visiting activities of the drivers. The
+   experimental results demonstrate that our model significantly
+   outperforms the state-of-the-art approaches achieving an average
+   accuracy of 90%. In addition, the presented approach lays the groundwork
+   for a realistic mobility model capable of simulating the mobility
+   activities of an input social network with great precision,
+   independently of any input trace.
+CT International Conference on Computing, Networking and Communications
+   (ICNC)
+CY JAN 26-29, 2017
+CL CA
+ZS 0
+TC 1
+Z8 0
+ZB 0
+ZR 0
+Z9 1
+SN 2325-2626
+BN 978-1-5090-4588-4
+UT WOS:000402039800039
+ER
+
+PT S
+AU Nunez-del-Prado-Cortez, Miguel
+   Alatrista-Salas, Hugo
+GP IEEE
+TI Administrative Regions Discovery Based on Human Mobility Patterns and
+   Spatio-Temporal Clustering
+SO PROCEEDINGS 2016 IEEE 13TH INTERNATIONAL CONFERENCE ON MOBILE AD HOC AND
+   SENSOR SYSTEMS (MASS 2016)
+SE IEEE International Conference on Mobile Ad-hoc and Sensor Systems
+BP 65
+EP 74
+DI 10.1109/MASS.2016.58
+PD 2016
+PY 2016
+AB Currently, the understanding of the human mobility is an important
+   challenge that has a large number of applications, especially in the
+   study of a nations ability to thrive economically and socially. Some
+   works have shown that, it is possible to observe developed and
+   developing countries reviewing their administrative regions borders, in
+   order to reduce costs, or to solve ethnic claims and/or independence
+   movements. In this context, the present work leverages mobile phone data
+   to analyze human mobility patterns. Specifically, we propose a new
+   method to detect administrative regions and paths of interaction between
+   regions, both relying on subscribers mobility patterns extracted from
+   Call Detail Records (CDR). Thus, our method offers a different point of
+   view to redefine administrative boundaries.
+CT 13th IEEE International Conference on Mobile Ad Hoc and Sensor Systems
+   (IEEE MASS)
+CY OCT 10-13, 2016
+CL Brasilia, BRAZIL
+SP IEEE; IEEE Comp Soc; Natl Sci Fdn; Conselho Nacl Desenvolvimento
+   Cientifico Tecnologico; Coordenacao Aperfeicoamento Pessoal Nivel Super;
+   Comite Gestor Internet; Fundacao Apoio Pesquisa Distrito Federa;
+   Microsoft; Soc Brasileira Computacao; Soc Brasileira Telecomunicacoes;
+   Forum Brasileiro Internet Coisas; Assoc Brasileira Empresas Tecnologia
+   Informacao Comunicacao; IEEE Centro Norte Brazil Sect; CAPES; Nucleo
+   Informacao Coordenacao Ponto BR; Comite Gestor Internet Brasil; Fundacao
+   Apo Pesqu Dstrto Fed; Journal Sensor & Actuator Networks; Univ Brasilia
+OI Nunez del Prado Cortez, Miguel/0000-0001-7997-1739
+ZB 0
+TC 1
+ZS 0
+ZR 0
+Z8 0
+Z9 1
+SN 2155-6806
+BN 978-1-5090-2833-7
+UT WOS:000400067500008
+ER
+
+PT S
+AU Schwamborn, Matthias
+   Aschenbruck, Nils
+GP IEEE
+TI Towards an Extensive Map-oriented Trace Basis for Human Mobility
+   Modeling
+SO 2016 IEEE 35TH INTERNATIONAL PERFORMANCE COMPUTING AND COMMUNICATIONS
+   CONFERENCE (IPCCC)
+SE IEEE International Performance Computing and Communications Conference
+   (IPCCC)
+PD 2016
+PY 2016
+AB Human mobility analysis and modeling is a very interdisciplinary field
+   of research. Mobility models play an important role particularly in
+   assessing the simulative performance of mobile and opportunistic
+   networks. The mobility traces, which most of these models are based on,
+   however, mostly suffer from several shortcomings. In this paper, we use
+   the extensive Lausanne Data Collection Campaign (LDCC) mobility trace as
+   basis for further map-oriented processing. Map-matching and sensible
+   addition of optimal routes between points mitigate problems like GPS
+   spatial noise, anonymization, and data gaps. Moreover, stay point
+   extraction is performed as a preparation for the analysis of elemental
+   statistical mobility characteristics. An exemplary impact evaluation of
+   contact statistics shows that the resulting map-oriented trace basis is
+   indeed suited for large-scale mobility analysis and simulation.
+CT 35th IEEE International Performance Computing and Communications
+   Conference (IPCCC)
+CY DEC 09-11, 2016
+CL Las Vegas, NV
+SP IEEE
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+TC 0
+Z9 0
+SN 1097-2641
+BN 978-1-5090-5252-3
+UT WOS:000393582600045
+ER
+
+PT S
+AU Batista, Edgar
+   Casino, Fran
+   Solanas, Agusti
+GP IEEE
+TI On wandering detection methods in context-aware scenarios
+SO 2016 7TH INTERNATIONAL CONFERENCE ON INFORMATION, INTELLIGENCE, SYSTEMS
+   & APPLICATIONS (IISA)
+SE International Conference Information Intelligence Systems and
+   Applications
+PD 2016
+PY 2016
+AB The growth of the world's population and the dramatic increase in
+   average life expectancy raise awareness of the global burden of elderly
+   diseases. Mild cognitive impairments affect elderly people, which suffer
+   a deterioration of their capabilities, with special regard to memory.
+   Such problems often lead to disorientation or wandering: erratic
+   movements and changes in mobility and behavioural patterns. In this
+   context, an early and automatic detection of wandering symptoms avoids
+   risks and possible damages to these patients, improving their quality of
+   life. However, wandering detection is not trivial, because several
+   factors such as patterns, environment or the severity of the dementia
+   need to be considered. The research community has proposed several
+   techniques, algorithms and technologies in order to properly detect such
+   abnormal behaviours. Moreover, the new health paradigm, Smart Health,
+   opens the door to a new generation of systems and technologies in order
+   to overcome the shortcomings of the classical methods in this field of
+   research. This paper analyses the most relevant wandering detection
+   methods present in the state-of-the-art.
+CT 7th International Conference on Information, Intelligence, Systems &
+   Applications (IISA)
+CY JUL 13-15, 2016
+CL Chalkidiki, GREECE
+SP Inst Elect & Elect Engineers; BAIF; Univ Piraeus; Aristotle Univ
+   Salonika; Technolog Educ Inst Western Macedonia; BAIF Aristotle Univ
+   Thessaloniki
+RI Solanas, Agusti/A-1441-2014
+OI Solanas, Agusti/0000-0002-4881-6215
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 1
+Z9 1
+SN 2379-3732
+BN 978-1-5090-3429-1
+UT WOS:000392155300017
+ER
+
+PT S
+AU Liu, Zhen
+   Guo, Huadong
+   Wang, Changlin
+GP IOP
+TI Considerations on Geospatial Big Data
+SO 6TH DIGITAL EARTH SUMMIT
+SE IOP Conference Series-Earth and Environmental Science
+VL 46
+AR UNSP 012058
+DI 10.1088/1755-1315/46/1/012058
+PD 2016
+PY 2016
+AB Geospatial data, as a significant portion of big data, has recently
+   gained the full attention of researchers. However, few researchers focus
+   on the evolution of geospatial data and its scientific research
+   methodologies. When entering into the big data era, fully understanding
+   the changing research paradigm associated with geospatial data will
+   definitely benefit future research on big data. In this paper, we look
+   deep into these issues by examining the components and features of
+   geospatial big data, reviewing relevant scientific research
+   methodologies, and examining the evolving pattern of geospatial data in
+   the scope of the four 'science paradigms'. This paper proposes that
+   geospatial big data has significantly shifted the scientific research
+   methodology from 'hypothesis to data' to 'data to questions' and it is
+   important to explore the generality of growing geospatial data 'from
+   bottom to top'. Particularly, four research areas that mostly reflect
+   data-driven geospatial research are proposed: spatial correlation,
+   spatial analytics, spatial visualization, and scientific knowledge
+   discovery. It is also pointed out that privacy and quality issues of
+   geospatial data may require more attention in the future. Also, some
+   challenges and thoughts are raised for future discussion.
+CT 6th Digital Earth Summit
+CY JUL 07-08, 2016
+CL Beijing, PEOPLES R CHINA
+SP CAS TWAS Ctr Excellence Space Technol Disaster Mitigation
+RI Guo, Huadong/G-9388-2017
+OI Guo, Huadong/0000-0003-0337-1862
+TC 0
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+Z9 0
+SN 1755-1307
+BN *****************
+UT WOS:000390813200058
+ER
+
+PT S
+AU Vhaduri, Sudip
+   Poellahauer, Christian
+GP IEEE
+TI Cooperative Discovery of Personal Places from Location Traces
+SO 2016 25TH INTERNATIONAL CONFERENCE ON COMPUTER COMMUNICATIONS AND
+   NETWORKS (ICCCN)
+SE IEEE International Conference on Computer Communications and Networks
+PD 2016
+PY 2016
+AB It is becoming increasingly important to accurately detect a user's
+   presence at certain locations during certain times of the day,e.g., to
+   study the user's patterns with respect to mobility, behavior, or social
+   interactions and to enable the delivery of targeted services. However,
+   instead of geographic locations, it is often more important to determine
+   a locale that is important to the user,e.g., the place of work, home,
+   homes of family and friends, social gathering places, etc. These
+   significant personal places can be determined through analysis,e.g., via
+   segmentation of location traces into a discrete sequence of places.
+   However, segmentation of traces with many gaps (e.g., due to loss of
+   network or GPS signal) results in a large number of small segments,
+   where many of these segments actually belong together. This work
+   proposes a new segmentation approach that opportunistically fills gaps
+   in location traces with the help of data from other (co-located) users.
+   Using data from 195 users, collected over a 2-year period, we show that
+   this approach yields fewer and larger segments, where each segment
+   accurately represents the presence of a user at a significant personal
+   place.
+CT 25th International Conference on Computer Communications and Networks
+   (ICCCN)
+CY AUG 01-04, 2016
+CL Waikoloa, HI
+SP IEEE; IEEE Commun Soc
+TC 0
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+SN 1095-2055
+BN 978-1-5090-2279-3
+UT WOS:000389589500026
+ER
+
+PT B
+AU Hong, Intaek
+   Lee, Younghee
+GP IEEE
+TI Key-Device based place recognition using similarity measure between IoT
+   spaces
+SO 2016 IEEE INTERNATIONAL CONFERENCE ON SMART COMPUTING (SMARTCOMP)
+BP 241
+EP 245
+PD 2016
+PY 2016
+AB Location, or place, is a key piece of information when providing
+   context-aware services to users in smart environments. Many researchers
+   in the mobile robotics community or context-aware service system sector
+   have suggested various solutions using vision data processing or
+   additional geographical information such as from Google Maps. However,
+   recognizing a place by processing vision and image data brings a huge
+   burden on Internet of Things (IoT) devices. Geographical information
+   such as a building's exact structural configuration may not be available
+   for IoT devices. As the number of IoTs grows rapidly, limitations of
+   existing approaches can be solved with the IoT environment, since IoT
+   devices in close proximity to one another can detect each other easily.
+   In this paper, we propose a novel approach that utilizes Key-Device
+   values and similarity measure between devices to recognize a place. Our
+   proposed approach measures similarity between IoT space input and
+   representative feature set of each known place a priori, and determines
+   the most probable place of the IoT space. We evaluate with Euclidean
+   distance, cosine similarity, and weighted cosine similarity.
+   Experimental results show that the Key- Device concept remarkably
+   improves precision and recall of place recognition.
+CT 2nd IEEE International Conference on Smart Computing (SMARTCOMP)
+CY MAY 18-20, 2016
+CL St Louis, MO
+SP IEEE
+Z8 0
+ZR 0
+ZS 0
+TC 0
+ZB 0
+Z9 0
+BN 978-1-5090-0898-8
+UT WOS:000390715200030
+ER
+
+PT B
+AU Huang, Qunying
+   Li, Zhenlong
+   Li, Jing
+   Chang, Charles
+BE BanaeiKashani, F
+   Zhang, C
+   Hendawi, A
+TI Mining Frequent Trajectory Patterns from Online Footprints
+SO PROCEEDINGS OF THE 7TH ACM SIGSPATIAL INTERNATIONAL WORKSHOP ON
+   GEOSTREAMING (IWGS) 2016
+BP 71
+EP 77
+DI 10.1145/3003421.3003431
+PD 2016
+PY 2016
+AB Trajectory pattern mining has been performed over many datasets,
+   including animal movement, GPS trajectories, and human travel history.
+   This paper aims to explore and mine individual frequently visited
+   regions and trajectory patterns using online footprints captured through
+   a social media site (i.e., Twitter). Regions of frequent visits
+   representing daily activity areas at which an individual appears are
+   derived using the DBSCAN clustering algorithm. A trajectory pattern
+   mining algorithm is then applied to discover ordered sequences of these
+   spatial regions that the individual visits frequently. To illustrate and
+   test the effectiveness of the proposed methods, we analyze the activity
+   patterns of a selected Twitter user using the geo-tagged tweets posted
+   by the user for an extended period. The preliminary assessment indicates
+   that our approach can be applied to mine individual frequent trajectory
+   patterns from online footprints that are of relatively low and irregular
+   spatial and temporal resolutions.
+CT 7th ACM SIGSPATIAL International Workshop on GeoStreaming (IWGS)
+CY OCT 31, 2016
+CL San Francisco, CA
+SP ACM SIGSPATIAL; Assoc Comp Machinery; Microsoft; ESRI; Google; Amazon;
+   ORACLE; Facebook
+ZS 0
+ZR 0
+ZB 0
+TC 0
+Z8 0
+Z9 0
+BN 978-1-4503-4579-8
+UT WOS:000390844200010
+ER
+
+PT S
+AU Sasao, Tomoyo
+   Konomi, Shin'ichi
+BE Streitz, N
+   Markopoulos, P
+TI The Use of Historical Information to Support Civic Crowdsourcing
+SO DISTRIBUTED, AMBIENT AND PERVASIVE INTERACTIONS, (DAPI 2016)
+SE Lecture Notes in Computer Science
+VL 9749
+BP 470
+EP 481
+DI 10.1007/978-3-319-39862-4_43
+PD 2016
+PY 2016
+AB Context-aware notifications cannot be designed easily without knowing
+   which context-aware notifications will be triggered and responded in
+   time. In this paper, we discuss methods to improve the design of
+   context-aware notifications. Using the data from our prior experiment,
+   we identify main factors that influence citizens' responses to
+   notifications and evaluate the predictability of quick responses using a
+   simplified method. We then propose a model for designing civic
+   crowdsourcing tasks based on historical information. We believe that
+   creating well-designed notifications can decrease receivers' workloads
+   and simultaneously expands the positive impacts of civic crowdsourcing
+   on the quality of life in the city.
+CT 4th International Conference on Distributed, Ambient and Pervasive
+   Interactions (DAPI) held as part of 18th International Conference on
+   Human-Computer Interaction (HCI International)
+CY JUL 17-22, 2016
+CL Toronto, CANADA
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+TC 1
+Z9 1
+SN 0302-9743
+BN 978-3-319-39862-4; 978-3-319-39861-7
+UT WOS:000389586800043
+ER
+
+PT J
+AU Lin, Chow-Sing
+   Hsu, Shang-Hsuan
+TI Effective self-adjustment places of interest discovery in public places
+SO International Journal of Ad Hoc and Ubiquitous Computing
+VL 22
+IS 4
+BP 226
+EP 235
+DI 10.1504/IJAHUC.2016.10000098
+PD 2016
+PY 2016
+AB Existing fingerprint-based places of interest (POIs) finding approaches
+   mainly rely on WiFi signal fingerprints of fixed access points. Due to
+   the prevalence of smartphones and 3G networks, the increasing number of
+   smartphones acting as mobile access points in public places have
+   hindered the ability to effectively learn and identify POIs. The
+   effective removal of these casually appearing WiFi beacons generated by
+   mobile access points has recently become the centre of attention for a
+   lot of research. In this paper, we propose the self-adjustment POI
+   discovery system (SAPID) to deal with the aforementioned problem. With
+   the proposed weighted merging of the fingerprints of entrance and
+   matched POI, the SAPID is more robust than BeaconPrint, PlaceSence, and
+   SensLoc in detecting POIs located in public places. The experiment
+   results show that compared to those state-of-art place discovery
+   algorithms, the SAPID has better precision, recall, and F1 score in POI
+   discovery.
+ZB 0
+ZR 0
+Z8 0
+TC 0
+ZS 0
+Z9 0
+SN 1743-8225
+EI 1743-8233
+UT WOS:000389589800002
+ER
+
+PT S
+AU Abdel-Fatao, Hamidu
+   Li, Jiuyong
+   Liu, Jixue
+   Ashfaqur, Rahman
+BE Cheema, MA
+   Zhang, W
+   Chang, L
+TI An Effective Spatio-Temporal Approach for Predicting Future Semantic
+   Locations
+SO DATABASES THEORY AND APPLICATIONS, (ADC 2016)
+SE Lecture Notes in Computer Science
+VL 9877
+BP 283
+EP 294
+DI 10.1007/978-3-319-46922-5_22
+PD 2016
+PY 2016
+AB Human mobility prediction in ubiquitous computing is the ability of a
+   system to forecast the anticipated movement of an individual or a group
+   of persons. This interdisciplinary problem has gained traction in fields
+   of academic and industrial research mainly because it is fundamental to
+   achieving system efficiency and marketing efficacy in many applications.
+   This study seeks to develop a novel heuristic technique that predicts
+   the actual geo-spatial locations associated with the most probable
+   semantic tags of locations (e.g. restaurant) that individuals are likely
+   to visit. The intuition of this work lies in the fact that, for any
+   given probable future semantic tag there exists multiple geo-spatial
+   locations associated with it, hence the need to disambiguate the actual
+   destination location. We develop an algorithm STS-predict, that exploits
+   the spatio-temporal relationships between the current location of a
+   target individual and candidate geo-spatial locations associated with
+   future semantic tags to predict the actual destination location. We
+   evaluate our approach on a real world GPS trajectory dataset.
+CT 27th Australasian Database Conference (ADC)
+CY SEP 26-29, 2016
+CL Sydney, AUSTRALIA
+SP Univ New S Wales
+RI Liu, Jixue/F-4377-2013; Li, Jiuyong/A-8134-2008
+OI Liu, Jixue/0000-0002-0794-0404; Li, Jiuyong/0000-0002-9023-1878
+ZB 0
+TC 0
+ZR 0
+ZS 0
+Z8 0
+Z9 0
+SN 0302-9743
+BN 978-3-319-46922-5; 978-3-319-46921-8
+UT WOS:000388923200022
+ER
+
+PT J
+AU Guessoum, Djamel
+   Miraoui, Moeiz
+   Tadj, Chakib
+TI Contextual location prediction using spatio-temporal clustering
+SO INTERNATIONAL JOURNAL OF PERVASIVE COMPUTING AND COMMUNICATIONS
+VL 12
+IS 3
+BP 290
+EP 309
+DI 10.1108/IJPCC-05-2016-0027
+PD 2016
+PY 2016
+AB Purpose - The prediction of a context, especially of a user's location,
+   is a fundamental task in the field of pervasive computing. Such
+   predictions open up a new and rich field of proactive adaptation for
+   context-aware applications. This study/paper aims to propose a
+   methodology that predicts a user's location on the basis of a user's
+   mobility history.
+   Design/methodology/approach - Contextual information is used to find the
+   points of interest that a user visits frequently and to determine the
+   sequence of these visits with the aid of spatial clustering, temporal
+   segmentation and speed filtering.
+   Findings - The proposed method was tested with a real data set using
+   several supervised classification algorithms, which yielded very
+   interesting results.
+   Originality/value - The method uses contextual information (current
+   position, day of the week, time and speed) that can be acquired easily
+   and accurately with the help of common sensors such as GPS.
+RI Miraoui, Moeiz/C-3479-2014
+OI Miraoui, Moeiz/0000-0003-2220-8673
+ZS 0
+TC 1
+ZB 0
+ZR 0
+Z8 0
+Z9 1
+SN 1742-7371
+EI 1742-738X
+UT WOS:000386101600001
+ER
+
+PT S
+AU Narain, Sashank
+   Vo-Huu, Triet D.
+   Block, Kenneth
+   Noubir, Guevara
+GP IEEE
+TI Inferring User Routes and Locations using Zero-Permission Mobile Sensors
+SO 2016 IEEE SYMPOSIUM ON SECURITY AND PRIVACY (SP)
+SE IEEE Symposium on Security and Privacy
+BP 397
+EP 413
+DI 10.1109/SP.2016.31
+PD 2016
+PY 2016
+AB Leakage of user location and traffic patterns is a serious security
+   threat with significant implications on privacy as reported by recent
+   surveys and identified by the US Congress Location Privacy Protection
+   Act of 2014. While mobile phones can restrict the explicit access to
+   location information to applications authorized by the user, they are
+   ill-equipped to protect against side-channel attacks. In this paper, we
+   show that a zero-permissions Android app can infer vehicular users'
+   location and traveled routes, with high accuracy and without the users'
+   knowledge, using gyroscope, accelerometer, and magnetometer information.
+   We modeled this problem as a maximum likelihood route identification on
+   a graph. The graph is generated from the OpenStreetMap publicly
+   available database of roads. Our route identification algorithms output
+   both a ranked list of potential routes as well a ranked list of
+   route-clusters. Through extensive simulations over 11 cities, we show
+   that for most cities with probability higher than 50% it is possible to
+   output a short list of 10 routes containing the traveled route. In real
+   driving experiments (over 980 Km) in the cities of Boston (resp.
+   Waltham), Massachusetts, we report a probability of 30% (resp. 60%) of
+   inferring a list of 10 routes containing the true route.
+CT IEEE Symposium on Security and Privacy (SP)
+CY MAY 23-25, 2016
+CL San Jose, CA
+SP IEEE; IEEE Comp Soc
+ZB 0
+TC 13
+Z8 1
+ZR 0
+ZS 0
+Z9 14
+SN 1081-6011
+BN 978-1-5090-0824-7
+UT WOS:000387292800023
+ER
+
+PT B
+AU Matekenya, Dunstan
+   Ito, Masaki
+   Creixell, Werner
+   Shibasaki, Ryosuke
+   Sezaki, Kaoru
+GP ACM
+TI Communal Parameters: A Study into Using Community-wide Learned
+   Prediction Models in Individual Users
+SO SECOND INTERNATIONAL CONFERENCE ON IOT IN URBAN SPACE (URB-IOT 2016)
+BP 105
+EP 107
+DI 10.1145/2962735.2962743
+PD 2016
+PY 2016
+AB In location prediction systems, the purpose is to infer mobility pattern
+   of individuals so that applications can know in advance where a user
+   will go next. Although researchers have proposed many schemes to achieve
+   better accuracy in location prediction systems, this area is still open
+   to further research. In this study, we investigate the potential to
+   improve performance (accuracy and training time) of location prediction
+   models by leveraging large scale data. Given that users closer in space
+   would exhibit similar mobility behaviors, our idea is to create what we
+   are calling a community model for a group of users in a given geographic
+   area and then use parameters from this model to enhance performance for
+   individual users in the same community. We choose to experiment with
+   logistic regression classifier and use a real life dataset to
+   investigate this idea. The results from our experiments show that our
+   idea to use community-wide learned model parameters in individuals works
+   very well and reduces training time for individual models by nearly 100
+   percent. However, we don't find similar improvements in accuracy.
+CT 2nd International Conference on IoT in Urban Space (Urb-IoT)
+CY MAY 24-25, 2016
+CL Create Net, Tokyo, JAPAN
+HO Create Net
+SP ACM SIGCHI; Yahoo Japan; Cisco Syst; ACM SIGSPATIAL; ACM SIGAPP;
+   European Alliance Innovat
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+BN 978-1-4503-4204-9
+UT WOS:000383621200024
+ER
+
+PT B
+AU Hachaj, Tomasz
+   Hachaj, Pawel S.
+   Ogiela, Marek R.
+BE Barolli, L
+   Takizawa, M
+   Enokido, T
+   Jara, AJ
+   Bocchi, Y
+TI A Novel Approach to Geocaching Event Prognosis Using Spatiotemporal Data
+SO IEEE 30TH INTERNATIONAL CONFERENCE ON ADVANCED INFORMATION NETWORKING
+   AND APPLICATIONS WORKSHOPS (WAINA 2016)
+BP 31
+EP 34
+DI 10.1109/WAINA.2016.30
+PD 2016
+PY 2016
+AB In this paper we present the case study on application of data mining
+   techniques like clustering, regression and scoring with heuristic
+   measures for the largest social event prognosis based on spatiotemporal
+   data. The aim of this analysis is to propose the methodology that bases
+   on archival records and is capable to predict the place where the
+   largest social event will take place and who will be a host ( organizer)
+   of it. For this goal we utilize the part of geocaching community data.
+   The dataset we used is consisted of 755 events that happened from
+   2010-01-30 to 2015-09-05 in Poland organized by 282 distinct users.
+   Basing on archival data of past four years we were capable to indicate
+   not only the region in which the biggest event took place but also its
+   host and its place within range of 700 meters. Our new algorithm and its
+   application to geocaching events data is main novelty of this paper.
+CT IEEE 30th International Conference on Advanced Information Networking
+   and Applications (IEEE AINA)
+CY MAR 23-25, 2016
+CL SWITZERLAND
+SP IEEE Comp Soc; IEEE; IEEE Tech Comm Distributed Proc
+RI Hachaj, Tomasz/C-1741-2013; Ogiela, Marek/A-7735-2013; Hachaj, Pawel S./
+OI Hachaj, Tomasz/0000-0003-1390-9021; Ogiela, Marek/0000-0002-8298-8627;
+   Hachaj, Pawel S./0000-0001-5342-047X
+ZB 0
+ZS 0
+TC 0
+Z8 0
+ZR 0
+Z9 0
+BN 978-1-5090-2461-2
+UT WOS:000387075700006
+ER
+
+PT J
+AU Safi, Hamid
+   Assemi, Behrang
+   Mesbah, Mahmoud
+   Ferreira, Luis
+TI Trip Detection with Smartphone-Assisted Collection of Travel Data
+SO TRANSPORTATION RESEARCH RECORD
+IS 2594
+BP 18
+EP 26
+DI 10.3141/2594-03
+PD 2016
+PY 2016
+AB This paper puts forward a method that automatically detects trips and
+   trip segments with data on the instantaneous movement attributes of
+   individuals that can be collected automatically by smartphone sensors.
+   The goal is to enhance the accuracy of the data collected through the
+   better identification of single-mode trips and trip segments while
+   minimizing the participant's involvement and preserving battery life.
+   The proposed method works independently of data from external sources
+   and can be implemented in smartphone applications to enhance the
+   accuracy of the data that are collected and minimize the amount of data
+   that need to be transferred. The method consists of a combination of
+   real-time processing and postprocessing of the data and incorporates a
+   series of rules to clean, split, and merge trips and trip segments, if
+   required. The performance of the model was evaluated in a real-world
+   experiment, in which it achieved an overall accuracy of 97% for the
+   detection of trips from records of daily tracks. The analysis of the
+   results shows that the implementation of the trip detection model
+   increased the proportion of nonmotorized trips detected by 6%. In
+   addition, the implementation of the model increased the accuracy of the
+   data on the duration and the length of the recorded trips.
+OI Assemi, Behrang/0000-0003-2043-8782; Mesbah, Mahmoud/0000-0002-3344-1350
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 3
+Z9 3
+SN 0361-1981
+EI 2169-4052
+UT WOS:000387200800004
+ER
+
+PT B
+AU Atmaji, Fransiskus Tatas Dwi
+   Sig, Kwon Young
+GP IEEE
+TI Mining the GPS big data to optimize the taxi dispatching management
+SO 2016 4TH INTERNATIONAL CONFERENCE ON INFORMATION AND COMMUNICATION
+   TECHNOLOGY (ICOICT)
+PD 2016
+PY 2016
+AB Nowadays the GPS (Global Positioning System) is a common technology
+   where adopted in the transportation system including taxi. Even though
+   the convenient mass transportation such as subway and buses already
+   existing; many people in the Seoul city, Republic of Korea also use a
+   taxi as transportation mode in their daily activity. The problem still
+   existing where many taxi's driver are driving without the passenger,
+   many of the driver only using their intuition and experience to get the
+   passenger. By mining the taxi raw GPS big data, this paper proposes the
+   basic information of taxi passenger distribution in Seoul city. The data
+   is analyzed using multidimensional analyzed where the parameter
+   location, time and frequency are mainly used. The general taxi passenger
+   distribution result shows that Gangnam district got the highest number
+   of passenger; especially from Teheran street. From the specific area,
+   Dongdaemun market also give the high contribution of taxi passenger
+   where around 25 % are used taxi when many people went out to shopping.
+   The riding time analysis result shows that 30 % of passengers are rode
+   the taxi in short time and use inside their district only; not across to
+   the others district. Using this basic information, the taxi company can
+   consider and manage their taxi dispatching location to increase the
+   company service and profit.
+CT 4th International Conference on Information and Communication Technology
+   (ICoICT)
+CY MAY 25-27, 2016
+CL Bandung, INDONESIA
+ZB 0
+TC 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+BN 978-1-4673-9879-4
+UT WOS:000386669100064
+ER
+
+PT S
+AU Xu, Yaqian
+   Duong, Doan
+   David, Klaus
+GP IEEE
+TI How Near is Near: a Case Study of the Minimum Distance to Distinguish
+   Neighbouring Places in Place Learning Using Wi-Fi Signals
+SO 2016 IEEE 83RD VEHICULAR TECHNOLOGY CONFERENCE (VTC SPRING)
+SE IEEE Vehicular Technology Conference Proceedings
+PD 2016
+PY 2016
+AB Place learning is a process of analyzing various sensor data (e.g.,
+   continuously collected Wi-Fi scans) to discover the places, which are
+   related to a user's routines or activities in his daily life. While the
+   geometry-based approaches can correctly distinguish places in different
+   buildings, most of the fingerprint-based approaches can correctly
+   distinguish places in different rooms. However, if two neighbouring
+   places are very near to each other, they are likely to be learned as a
+   single place. Previous studies do not specifically indicate the minimum
+   distance to distinguish neighbouring places. In this paper, we deal with
+   the question of "how near is near" for two neighbouring places, and
+   experimentally investigate the minimum distance required to distinguish
+   two neighbouring places. Results of the case studies show that places in
+   adjacent rooms or with a distance of at least 4-5 meters can be
+   correctly distinguished, while locations with a distance of fewer than 4
+   meters are likely to be learned as one place in the indoor environments.
+CT IEEE 83rd Vehicular Technology Conference (VTC Spring)
+CY MAY 15-18, 2016
+CL Nanjing, PEOPLES R CHINA
+SP IEEE; Huawei; Natl Instruments; Ericsson
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z8 0
+Z9 0
+SN 1550-2252
+BN 978-1-5090-1698-3
+UT WOS:000386528400224
+ER
+
+PT S
+AU Atmaji, Fransiskus Tatas Dwi
+   Sig, Kwon Young
+GP Telkon Corp Univ; Telkom Univ Indonesia
+TI Riding Pattern Analysis of Taxi Passengers (A Case Study of a Korean
+   Taxi Company)
+SO PROCEEDINGS OF THE 3RD INTERNATIONAL SEMINAR AND CONFERENCE ON LEARNING
+   ORGANIZATION (ISCLO-15)
+SE Advances in Social Science Education and Humanities Research
+VL 45
+PD 2016
+PY 2016
+AB In an urban area, including Seoul city, many people prefer to use taxi
+   as one of the choices for fast, convenient and flexible transportation.
+   Based on the data provided by one of the taxi service call companies, X,
+   in Korea, this paper proposes a taxi passenger riding pattern analysis
+   at Seoul city, Republic of Korea. Using a multidimensional analysis
+   method, we analyze the data to obtain an area with high potential
+   demands of taxi passengers, which we call "hotspot" area. The results
+   show that "Teheran Valley" in Gangnam-gu and Dongdaemun market in
+   Jung-gu and Jongno-gu had the biggest number of passengers compared to
+   other areas. This information will be useful for the company to
+   re-evaluate its current taxi fleet management, especially for the taxi's
+   drivers in minimizing their idle time when searching for customers.
+CT 3rd International Seminar and Conference of Telkom-Corporate-University
+   and Telkom-University on Learning Organization (ISCLO)
+CY NOV 25-26, 2015
+CL Yogyakart, INDONESIA
+SP Telkom Corporate Univ; Telkom Univ
+ZS 0
+ZB 0
+ZR 0
+TC 0
+Z8 0
+Z9 0
+SN 2352-5398
+BN 978-94-6252-174-2
+UT WOS:000384464700021
+ER
+
+PT J
+AU Prelipcean, Adrian C.
+   Gidofalvi, Gyozo
+   Susilo, Yusak O.
+TI Measures of transport mode segmentation of trajectories
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 9
+SI SI
+BP 1763
+EP 1784
+DI 10.1080/13658816.2015.1137297
+PD 2016
+PY 2016
+AB Rooted in the philosophy of point-and segment-based approaches for
+   transportation mode segmentation of trajectories, the measures that
+   researchers have adopted to evaluate the quality of the results (1) are
+   incomparable across approaches, hence slowing the progress in the field
+   and (2) do not provide insight about the quality of the continuous
+   transportation mode segmentation. To address these problems, this paper
+   proposes new error measures that can be applied to measure how well a
+   continuous transportation mode segmentation model performs. The error
+   measures introduced are based on aligning multiple inferred continuous
+   intervals to ground truth intervals, and measure the cardinality of the
+   alignment and the spatial and temporal discrepancy between the
+   corresponding aligned segments. The utility of this new way of computing
+   errors is shown by evaluating the segmentation of three generic
+   transportation mode segmentation approaches (implicit,
+   explicit-holistic, and explicit-consensus-based transport mode
+   segmentation), which can be implemented in a thick client architecture.
+   Empirical evaluations on a large real-word data set reveal the
+   superiority of explicit-consensus-based transport mode segmentation,
+   which can be attributed to the explicit modeling of segments and
+   transitions, which allows for a meaningful decomposition of the complex
+   learning task.
+RI Susilo, Yusak Octavius/M-3707-2013; Prelipcean, Adrian Corneliu/
+OI Susilo, Yusak Octavius/0000-0001-7124-7164; Prelipcean, Adrian
+   Corneliu/0000-0002-0916-0188
+ZB 1
+Z8 0
+ZR 0
+TC 9
+ZS 0
+Z9 9
+SN 1365-8816
+EI 1362-3087
+UT WOS:000378064300005
+ER
+
+PT B
+AU Myszor, D.
+   Antemijczuk, O.
+   Grygierek, M.
+   Wierzchanowski, M.
+   Cyran, K. A.
+BE Thenkabail, PS
+TI Global Navigation Satellite Systems for Wide Array of Terrestrial
+   Applications
+SO REMOTELY SENSED DATA CHARACTERIZATION, CLASSIFICATION, AND ACCURACIES
+SE Remote Sensing Handbook
+VL 1
+BP 509
+EP 531
+PD 2016
+PY 2016
+Z8 0
+ZS 0
+ZB 0
+TC 0
+ZR 0
+Z9 0
+BN 978-1-4822-1787-2; 978-1-4822-1786-5
+UT WOS:000377171900035
+ER
+
+PT J
+AU Montag, Christian
+   Duke, EIlish
+   Markowetz, Alexander
+TI Toward Psychoinformatics: Computer Science Meets Psychology
+SO COMPUTATIONAL AND MATHEMATICAL METHODS IN MEDICINE
+AR 2983685
+DI 10.1155/2016/2983685
+PD 2016
+PY 2016
+AB The present paper provides insight into an emerging research discipline
+   called Psychoinformatics. In the context of Psychoinformatics, we
+   emphasize the cooperation between the disciplines of psychology and
+   computer science in handling large data sets derived from heavily used
+   devices, such as smartphones or online social network sites, in order to
+   shed light on a large number of psychological traits, including
+   personality and mood. New challenges await psychologists in light of the
+   resulting "Big Data" sets, because classic psychological methods will
+   only in part be able to analyze this data derived from ubiquitous mobile
+   devices, as well as other everyday technologies. As a consequence,
+   psychologists must enrich their scientific methods through the inclusion
+   of methods from informatics. The paper provides a brief review of one
+   area of this research field, dealing mainly with social networks and
+   smartphones. Moreover, we highlight how data derived from
+   Psychoinformatics can be combined in a meaningful way with data from
+   human neuroscience. We close the paper with some observations of areas
+   for future research and problems that require consideration within this
+   new discipline.
+ZR 0
+TC 8
+Z8 0
+ZS 0
+ZB 3
+Z9 8
+SN 1748-670X
+EI 1748-6718
+UT WOS:000378753100001
+PM 27403204
+ER
+
+PT S
+AU Fohrholz, Corinna
+   Glaschke, Christian
+BE Bui, TX
+   Sprague, RH
+TI Predicting travel volumes for long-distance coach services through big
+   data analytics - a case study on German public viewing events during the
+   UEFA EURO 2016
+SO PROCEEDINGS OF THE 49TH ANNUAL HAWAII INTERNATIONAL CONFERENCE ON SYSTEM
+   SCIENCES (HICSS 2016)
+SE Proceedings of the Annual Hawaii International Conference on System
+   Sciences
+BP 1215
+EP 1224
+DI 10.1109/HICSS.2016.154
+PD 2016
+PY 2016
+AB Capacity planning is a key challenge for long-distance coach vendors due
+   to the competitive market pressure. Travel-intensive events have the
+   potential to increase the capacities for existing routes or to offer new
+   connections. Actually, planning activities of vendors are mainly based
+   on past-data. To improve the quality of predictions about future
+   capacities, information from different data sources e.g. social media,
+   geo-based information or websites has to be considered. Technologies to
+   collect structured and unstructured information from different data
+   sources are available. This paper presents an approach to use these
+   technologies for capacity predictions and pricing of coach vendors in
+   terms of travel-intensive events. To verify the approach, a case study,
+   focused on the UEFA EURO 2016, is described. The case study is necessary
+   to demonstrate the value of the research and to give a deeper
+   understanding about data sources and the discussion culture of travelers
+   in social networks.
+CT 49th Hawaii International Conference on System Sciences (HICSS)
+CY JAN 05-08, 2016
+CL Koloa, HI
+SP Pacific Res Inst Informat Syst & Management; Univ Hawaii Manoa, Shidler
+   Coll Business, Dept IT Management; IBM; Provalis Res; Int Soc Serv
+   Innovat Profess; Teradata; Univ Network; IEEE Comp Soc
+ZB 0
+Z8 0
+TC 0
+ZS 0
+ZR 0
+Z9 0
+SN 1060-3425
+BN 978-0-7695-5670-3
+UT WOS:000432711501039
+ER
+
+PT B
+AU Xu, Mengwen
+   Wang, Dong
+   Li, Jian
+GP Assoc Comp Machinery
+TI DESTPRE : A Data-Driven Approach to Destination Prediction for Taxi
+   Rides
+SO UBICOMP'16: PROCEEDINGS OF THE 2016 ACM INTERNATIONAL JOINT CONFERENCE
+   ON PERVASIVE AND UBIQUITOUS COMPUTING
+BP 729
+EP 739
+DI 10.1145/2971648.2971664
+PD 2016
+PY 2016
+AB With the wide use of mobile devices, predicting the destination of
+   moving vehicles has become an increasingly important problem for
+   location based recommendation systems and destination-based advertising.
+   Most existing approaches are based on various Markov chain models, in
+   which the historical trajectories are used to train the model and the
+   top-k most probable destinations are returned. We identify certain
+   limitations of the previous approaches. Instead, we propose a new
+   data-driven framework, called DESTPRE, which is not based on a
+   probabilistic model, but directly operates on the trajectories and makes
+   the prediction. We make use of only historic trajectories, without
+   individual identity information. Our design of DESTPRE, although simple,
+   is a result of several useful observations from the real trajectory
+   data. DESTPRE involves an index based on Bucket PR Quadtree and Minwise
+   hashing, for efficiently retrieving similar trajectories, and a
+   clustering on destinations for predictions. By incorporating some
+   additional ideas, we show that the prediction accuracy can be further
+   improved. We have conducted extensive experiments on real Beijing Taxi
+   dataset. The experimental results demonstrate the effectiveness of
+   DESTPRE.
+CT ACM International Joint Conference on Pervasive and Ubiquitous Computing
+   (UbiComp)
+CY SEP 12-16, 2016
+CL Heidelberg, GERMANY
+SP Assoc Comp Machinery; ACM SIGCHI; ACM SIGMOBILE
+ZB 0
+Z8 0
+ZR 0
+TC 4
+ZS 0
+Z9 4
+BN 978-1-4503-4461-6
+UT WOS:000455942400066
+ER
+
+PT J
+AU Feldman, Dan
+   Sung, Cynthia
+   Sugaya, Andrew
+   Rus, Daniela
+TI iDiary: From GPS Signals to a Text-Searchable Diary
+SO ACM TRANSACTIONS ON SENSOR NETWORKS
+VL 11
+IS 4
+DI 10.1145/2814569
+PD DEC 2015
+PY 2015
+AB This article describes iDiary, a system that takes as input GPS data
+   streams generated by users' phones and turns them into textual
+   descriptions of the trajectories. The system features a user interface
+   similar to Google Search that allows users to type text queries on their
+   activities (e.g., "Where did I buy books?") and receive textual answers
+   based on their GPS signals. iDiary uses novel algorithms for semantic
+   compression and trajectory clustering of massive GPS signals in parallel
+   to compute the critical locations of a user. We encode these problems as
+   follows. The k-segment mean is a k-piecewise linear function that
+   minimizes the regression distance to the signal. The (k, m)-segment mean
+   has an additional constraint that the projection of the k segments on
+   R-d consists of only m <= k segments. A coreset for this problem is a
+   smart compression of the input signal that allows computation of a (1 +
+   epsilon)-approximation to its k-segment or (k, m)-segment mean in O(nlog
+   n) time for arbitrary constants e, k, and m. We use coresets to obtain a
+   parallel algorithm that scans the signal in one pass, using space and
+   update time per point that is polynomial in log n. Using an external
+   database, we then map these locations to textual descriptions and
+   activities so that we can apply text mining techniques on the resulting
+   data (e.g., LSA or transportation mode recognition). We provide
+   experimental results for both the system and algorithms and compare them
+   to existing commercial and academic state of the art. This is the first
+   GPS system that enables text-searchable activities from GPS data.
+TC 2
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+Z9 2
+SN 1550-4859
+EI 1550-4867
+UT WOS:000368188500008
+ER
+
+PT J
+AU Rossi, Luca
+   Walker, James
+   Musolesi, Mirco
+TI Spatio-temporal techniques for user identification by means of GPS
+   mobility data
+SO EPJ DATA SCIENCE
+VL 4
+IS 1
+AR 11
+DI 10.1140/epjds/s13688-015-0049-x
+PD DEC 2015
+PY 2015
+AB One of the greatest concerns related to the popularity of GPS-enabled
+   devices and applications is the increasing availability of the personal
+   location information generated by them and shared with application and
+   service providers. Moreover, people tend to have regular routines and be
+   characterized by a set of "significant places", thus making it possible
+   to identify a user from his/her mobility data.
+   In this paper we present a series of techniques for identifying
+   individuals from their GPS movements. More specifically, we study the
+   uniqueness of GPS information for three popular datasets, and we provide
+   a detailed analysis of the discriminatory power of speed, direction and
+   distance of travel. Most importantly, we present a simple yet effective
+   technique for the identification of users from location information that
+   are not included in the original dataset used for training, thus raising
+   important privacy concerns for the management of location datasets.
+OI Rossi, Luca/0000-0002-6116-9761
+Z8 1
+ZB 1
+TC 10
+ZS 0
+ZR 0
+Z9 11
+SN 2193-1127
+UT WOS:000368069900011
+ER
+
+PT J
+AU Deng, Bin
+   Denman, Steve
+   Zachariadis, Vassilis
+   Jin, Ying
+TI Estimating traffic delays and network speeds from low-frequency GPS
+   taxis traces for urban transport modelling
+SO EUROPEAN JOURNAL OF TRANSPORT AND INFRASTRUCTURE RESEARCH
+VL 15
+IS 4
+BP 639
+EP 661
+PD SEP 28 2015
+PY 2015
+AB The collection of actual traffic delays and road traffic speed data is
+   essential in modelling urban transport resource efficiency, congestion
+   and carbon and pollutant emissions, which is in turn part of core
+   empirical basis for evidence-based policy making for improving urban
+   sustainability. This data collection has also been one of the most
+   expensive and time-consuming tasks, which restricts how well and how
+   often the models can be built and validated, often to the extent that
+   urban transport models have to rely on severely outdated data with
+   sparse coverage. New smart data such as GPS vehicle traces has raised
+   the prospect of remedying the data shortage, but for operational and
+   data protection reasons often only low-sampling frequency traces are
+   available. This paper proposes a novel method for estimating actual,
+   congested link-speeds from low-sampling frequency taxi GPS traces that
+   are publicly available. The method is based on a path inference process
+   and is applied over a detailed road network in a large city region. It
+   shows that low frequency GPS trajectories can significantly improve the
+   spatial and temporal resolutions of traffic speed data for transport
+   modelling and policy analysis. This opens up the prospect of improving
+   road operation performance, managing travel demand and optimizing urban
+   circulation.
+Z8 0
+ZB 1
+ZR 0
+TC 7
+ZS 0
+Z9 7
+SN 1567-7133
+EI 1567-7141
+UT WOS:000366901000015
+ER
+
+PT J
+AU Huang, Wei
+   Li, Songnian
+   Liu, Xintao
+   Ban, Yifang
+TI Predicting human mobility with activity changes
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 29
+IS 9
+BP 1569
+EP 1587
+DI 10.1080/13658816.2015.1033421
+PD SEP 2 2015
+PY 2015
+AB Human mobility patterns can provide valuable information in
+   understanding the impact of human behavioral regularities in urban
+   systems, usually with a specific focus on traffic prediction, public
+   health or urban planning. While existing studies on human movement have
+   placed huge emphasis on spatial location to predict where people go
+   next, the time dimension component is usually being treated with
+   oversimplification or even being neglected. Time dimension is crucial to
+   understanding and detecting human activity changes, which play a
+   negative role in prediction and thus may affect the predictive accuracy.
+   This study aims to predict human movement from a spatio-temporal
+   perspective by taking into account the impact of activity changes. We
+   analyze and define changes of human activity and propose an algorithm to
+   detect such changes, based on which a Markov chain model is used to
+   predict human movement. The Microsoft GeoLife dataset is used to test
+   our methodology, and the data of two selected users is used to evaluate
+   the performance of the prediction. We compare the predictive accuracy
+   (R-2) derived from the data with and without implementing the activity
+   change detection. The results show that the R-2 is improved from 0.295
+   to 0.762 for the user with obvious activity changes and from 0.965 to
+   0.971 for the user without obvious activity changes. The method proposed
+   by this study improves the accuracy in analyzing and predicting human
+   movement and lays the foundation for related urban studies.
+RI Liu, Xintao/F-6744-2017; Huang, Wei/; Li, Songnian/
+OI Liu, Xintao/0000-0002-7323-9878; Huang, Wei/0000-0001-8324-8877; Li,
+   Songnian/0000-0002-8244-5681
+ZR 0
+ZS 0
+Z8 1
+TC 18
+ZB 1
+Z9 19
+SN 1365-8816
+EI 1362-3087
+UT WOS:000360905500004
+ER
+
+PT J
+AU Gong, Lei
+   Sato, Hitomi
+   Yamamoto, Toshiyuki
+   Miwa, Tomio
+   Morikawa, Takayuki
+TI Identification of activity stop locations in GPS trajectories by
+   density-based clustering method combined with support vector machines
+SO JOURNAL OF MODERN TRANSPORTATION
+VL 23
+IS 3
+BP 202
+EP 213
+DI 10.1007/s40534-015-0079-x
+PD SEP 2015
+PY 2015
+AB The identification of activity locations in continuous GPS trajectories
+   is an essential preliminary step in obtaining person trip data and for
+   activity-based transportation demand forecasting. In this research, a
+   two-step methodology for identifying activity stop locations is
+   proposed. In the first step, an improved density-based spatial
+   clustering of applications with noise (DBSCAN) algorithm identifies stop
+   points and moving points; then in the second step, the support vector
+   machines (SVMs) method distinguishes activity stops from non-activity
+   stops among the identified stop points. A time sequence constraint and a
+   direction change constraint are applied as improvements to DBSCAN
+   (yielding an improved algorithm known as C-DBSCAN). Then three major
+   features are extracted for use in the SVMs method: stop duration, mean
+   distance to the centroid of a cluster of points at a stop location, and
+   the shorter of distances from current location to home and to the
+   workplace. The proposed methodology was tested using GPS data collected
+   from mobile phones in the Nagoya area of Japan. The C-DBSCAN algorithm
+   achieves an accuracy of 90 % in identifying stop points in the first
+   step, while the SVMs method is 96 % accurate in distinguishing the
+   locations of activity stops from non-activity stops in the second step.
+   Compared to other variants of DBSCAN used to identify activity locations
+   from GPS trajectories, this two-step method is generally superior.
+RI Yamamoto, Toshiyuki/F-3814-2012; GONG, Lei/C-9558-2016; Miwa, Tomio/I-6084-2014
+OI Yamamoto, Toshiyuki/0000-0002-7540-5040; GONG, Lei/0000-0001-7375-5349;
+   Miwa, Tomio/0000-0001-9385-7844
+TC 18
+ZB 0
+Z8 1
+ZR 0
+ZS 0
+Z9 19
+SN 2095-087X
+EI 2196-0577
+UT WOS:000373116800005
+ER
+
+PT J
+AU McArdle, Gavin
+   Tahir, Ali
+   Bertolotto, Michela
+TI Interpreting map usage patterns using geovisual analytics and
+   spatio-temporal clustering
+SO INTERNATIONAL JOURNAL OF DIGITAL EARTH
+VL 8
+IS 8
+SI SI
+BP 599
+EP 622
+DI 10.1080/17538947.2014.898704
+PD AUG 3 2015
+PY 2015
+AB Extracting meaningful information from the growing quantity of spatial
+   data is a challenge. The issues are particularly evident with
+   spatio-temporal data describing movement. Such data typically
+   corresponds to movement of humans, animals and machines in the physical
+   environment. This article considers a special form of movement data
+   generated through human-computer interactions with online web maps. As a
+   user interacts with a web map using a mouse as a pointing tool,
+   invisible trajectories are generated. By examining the spatial features
+   on the map where the mouse cursor visits, a user's interests and
+   experience can be detected. To analyse this valuable information, we
+   have developed a geovisual analysis tool which provides a rich insight
+   into such user behaviour. The focus of this paper is on a clustering
+   technique which we apply to mouse trajectories to group trajectories
+   with similar behavioural properties. Our experiments reveal that it is
+   possible to identify experienced and novice users of web mapping
+   environments using an incremental clustering approach. The results can
+   be used to provide personalised map interfaces to users and provide
+   appropriate interventions for completing spatial tasks.
+OI McArdle, Gavin/0000-0003-0613-546X
+TC 4
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+Z9 4
+SN 1753-8947
+EI 1753-8955
+UT WOS:000359756800002
+ER
+
+PT J
+AU Cong, Yirui
+   Zhou, Xiangyun
+   Kennedy, Rodney A.
+TI Interference Prediction in Mobile Ad Hoc Networks With a General
+   Mobility Model
+SO IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS
+VL 14
+IS 8
+BP 4277
+EP 4290
+DI 10.1109/TWC.2015.2418763
+PD AUG 2015
+PY 2015
+AB In a mobile ad hoc network (MANET), effective prediction of time-varying
+   interferences can enable adaptive transmission designs and therefore
+   improve the communication performance. This paper investigates
+   interference prediction in MANETs with a finite number of nodes by
+   proposing and using a general-order linear model for node mobility. The
+   proposed mobility model can well approximate node dynamics of practical
+   MANETs. In contrast to previous studies on interference statistics, we
+   are able through this model to give a best estimate of the time-varying
+   interference at any time rather than long-term average effects.
+   Specifically, we propose a compound Gaussian point process functional as
+   a general framework to obtain analytical results on the mean value and
+   moment-generating function of the interference prediction. With a series
+   form of this functional, we give the necessary and sufficient condition
+   for when the prediction is essentially equivalent to that from a
+   binomial point process (BPP) network in the limit as time goes to
+   infinity. These conditions permit one to rigorously determine when the
+   commonly used BPP approximations are valid. Finally, our simulation
+   results corroborate the effectiveness and accuracy of the analytical
+   results on interference prediction and also show the advantages of our
+   method in dealing with complex mobilities.
+RI Kennedy, Rodney/B-8215-2009; Zhou, Xiangyun/
+OI Kennedy, Rodney/0000-0002-3946-3673; Zhou, Xiangyun/0000-0001-8973-9079
+ZB 0
+ZS 0
+TC 12
+Z8 0
+ZR 0
+Z9 12
+SN 1536-1276
+EI 1558-2248
+UT WOS:000359601900015
+ER
+
+PT J
+AU Raychoudhury, Vaskar
+   Shrivastav, Shikhar
+   Sandha, Sandeep Singh
+   Cao, Jiannong
+TI CROWD-PAN-360: Crowdsourcing Based Context-Aware Panoramic Map
+   Generation for Smartphone Users
+SO IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS
+VL 26
+IS 8
+BP 2208
+EP 2219
+DI 10.1109/TPDS.2014.2345067
+PD AUG 2015
+PY 2015
+AB Recent advances in smartphones and location-aware services necessitate
+   identifying logical locations of users, in terms of their surroundings,
+   instead of raw location coordinates. In this paper, we have proposed
+   CROWD-PAN-360 (CP360), a novel smartphone-based system to generate
+   360-degree panoramic map of a querying user for his unfamiliar
+   surrounding using crowd-sourced images. The objects (logical locations)
+   appearing in the images are identified using manually or automatically
+   generated tags. The system is context-aware and it intelligently
+   associates user location coordinates with several smartphone contexts,
+   like acceleration and orientation. CP360 can significantly reduce GPS
+   positional errors for even cheap low-end smartphones and can identify
+   the user surroundings very efficiently. We extensively tested the system
+   in both indoor and outdoor environments of IIT Roorkee campus using
+   Android smartphones over a dataset of more than 6,000 crowd-sourced
+   images of nearly 70 objects (departments, hostels, cafeteria, etc.) and
+   CP360 generates the panoramic map with an average accuracy of 92.2
+   percent.
+OI Cao, Jiannong/0000-0002-2725-2529
+ZR 0
+Z8 0
+ZB 0
+TC 7
+ZS 0
+Z9 7
+SN 1045-9219
+EI 1558-2183
+UT WOS:000358226400012
+ER
+
+PT J
+AU Kim, Byoungjip
+   Kang, Seungwoo
+   Ha, Jin-Young
+   Song, Junehwa
+TI VisitSense: Sensing Place Visit Patterns from Ambient Radio on
+   Smartphones for Targeted Mobile Ads in Shopping Malls
+SO SENSORS
+VL 15
+IS 7
+BP 17274
+EP 17299
+DI 10.3390/s150717274
+PD JUL 2015
+PY 2015
+AB In this paper, we introduce a novel smartphone framework called
+   VisitSense that automatically detects and predicts a smartphone user's
+   place visits from ambient radio to enable behavioral targeting for
+   mobile ads in large shopping malls. VisitSense enables mobile app
+   developers to adopt visit-pattern-aware mobile advertising for shopping
+   mall visitors in their apps. It also benefits mobile users by allowing
+   them to receive highly relevant mobile ads that are aware of their place
+   visit patterns in shopping malls. To achieve the goal, VisitSense
+   employs accurate visit detection and prediction methods. For accurate
+   visit detection, we develop a change-based detection method to take into
+   consideration the stability change of ambient radio and the mobility
+   change of users. It performs well in large shopping malls where ambient
+   radio is quite noisy and causes existing algorithms to easily fail. In
+   addition, we proposed a causality-based visit prediction model to
+   capture the causality in the sequential visit patterns for effective
+   prediction. We have developed a VisitSense prototype system, and a
+   visit-pattern-aware mobile advertising application that is based on it.
+   Furthermore, we deploy the system in the COEX Mall, one of the largest
+   shopping malls in Korea, and conduct diverse experiments to show the
+   effectiveness of VisitSense.
+RI Song, Junehwa/C-1575-2011
+Z8 0
+ZB 0
+ZS 0
+ZR 0
+TC 5
+Z9 5
+SN 1424-8220
+UT WOS:000361788200126
+PM 26193275
+ER
+
+PT J
+AU Trinh Minh Tri Do
+   Dousse, Olivier
+   Miettinen, Markus
+   Gatica-Perez, Daniel
+TI A probabilistic kernel method for human mobility prediction with
+   smartphones
+SO PERVASIVE AND MOBILE COMPUTING
+VL 20
+BP 13
+EP 28
+DI 10.1016/j.pmcj.2014.09.001
+PD JUL 2015
+PY 2015
+AB Human mobility prediction is an important problem that has a large
+   number of applications, especially in context-aware services. This paper
+   presents a study on location prediction using smartphone data, in which
+   we address modeling and application aspects. Building personalized
+   location prediction models from smartphone data remains a technical
+   challenge due to data sparsity, which comes from the complexity of human
+   behavior and the typically limited amount of data available for
+   individual users. To address this problem, we propose an approach based
+   on kernel density estimation, a popular smoothing technique for sparse
+   data. Our approach contributes to existing work in two ways. First, our
+   proposed model can estimate the probability that a user will be at a
+   given location at a specific time in the future, by using both spatial
+   and temporal information via multiple kernel functions. Second, we also
+   show how our probabilistic framework extends to a more practical task of
+   location prediction for a time window in the future. Our approach is
+   validated on an everyday life location dataset consisting of 133
+   smartphone users. Our method reaches an accuracy of 84% for the next
+   hour, and an accuracy of 77% for the next three hours. (C) 2014 Elsevier
+   B.V. All rights reserved.
+TC 18
+ZS 0
+Z8 0
+ZR 0
+ZB 1
+Z9 18
+SN 1574-1192
+EI 1873-1589
+UT WOS:000355199300002
+ER
+
+PT J
+AU Widhalm, Peter
+   Yang, Yingxiang
+   Ulm, Michael
+   Athavale, Shounak
+   Gonzalez, Marta C.
+TI Discovering urban activity patterns in cell phone data
+SO TRANSPORTATION
+VL 42
+IS 4
+SI SI
+BP 597
+EP 623
+DI 10.1007/s11116-015-9598-x
+PD JUL 2015
+PY 2015
+AB Massive and passive data such as cell phone traces provide samples of
+   the whereabouts and movements of individuals. These are a potential
+   source of information for models of daily activities in a city. The main
+   challenge is that phone traces have low spatial precision and are
+   sparsely sampled in time, which requires a precise set of techniques for
+   mining hidden valuable information they contain. Here we propose a
+   method to reveal activity patterns that emerge from cell phone data by
+   analyzing relational signatures of activity time, duration, and land
+   use. First, we present a method of how to detect stays and extract a
+   robust set of geolocated time stamps that represent trip chains. Second,
+   we show how to cluster activities by combining the detected trip chains
+   with land use data. This is accomplished by modeling the dependencies
+   between activity type, trip scheduling, and land use types via a
+   Relational Markov Network. We apply the method to two different kinds of
+   mobile phone datasets from the metropolitan areas of Vienna, Austria and
+   Boston, USA. The former data includes information from mobility
+   management signals, while the latter are usual Call Detail Records. The
+   resulting trip sequence patterns and activity scheduling from both
+   datasets agree well with their respective city surveys, and we show that
+   the inferred activity clusters are stable across different days and both
+   cities. This method to infer activity patterns from cell phone data
+   allows us to use these as a novel and cheaper data source for
+   activity-based modeling and travel behavior studies.
+RI Gonzalez, Marta/E-9456-2011; Widhalm, Peter/
+OI Gonzalez, Marta/0000-0002-8482-0318; Widhalm, Peter/0000-0002-5074-5356
+ZR 0
+TC 42
+ZS 0
+ZB 1
+Z8 2
+Z9 44
+SN 0049-4488
+EI 1572-9435
+UT WOS:000355923100005
+ER
+
+PT J
+AU Xu, Yang
+   Shaw, Shih-Lung
+   Zhao, Ziliang
+   Yin, Ling
+   Fang, Zhixiang
+   Li, Qingquan
+TI Understanding aggregate human mobility patterns using passive mobile
+   phone location data: a home-based approach
+SO TRANSPORTATION
+VL 42
+IS 4
+SI SI
+BP 625
+EP 646
+DI 10.1007/s11116-015-9597-y
+PD JUL 2015
+PY 2015
+AB Advancements of information, communication and location-aware
+   technologies have made collections of various passively generated
+   datasets possible. These datasets provide new opportunities to
+   understand human mobility patterns at a low cost and large scale. This
+   study presents a home-based approach to understanding human mobility
+   patterns based on a large mobile phone location dataset from Shenzhen,
+   China. First, we estimate each individual's "home" anchor point, and a
+   modified standard distance () is proposed to measure the spread of each
+   individual's activity space centered at this "home" anchor point. We
+   then derive aggregate mobility patterns at mobile phone tower level to
+   describe the distance distribution of for people who share the same
+   "home" anchor point. A hierarchical clustering algorithm is performed
+   and the spatial distributions of the derived clusters are analyzed to
+   highlight areas with similar aggregate human mobility patterns. The
+   results suggest that 43 % of the population sample travelled within a
+   short distance () during the 13-day study period while 23.9 % of them
+   were associated with a large activity space (). The geographical
+   differences of people's mobility patterns in Shenzhen are evident. Areas
+   with a large proportion of people who have a small activity space mainly
+   locate in the northern part of Shenzhen such as Baoan and Longgang
+   districts. In the southern part where the economy is highly developed,
+   the percentage of people with a larger activity space is higher in
+   general. The findings could offer useful implications on policy and
+   decision making. The proposed approach can also be used in other studies
+   involving similar spatiotemporal datasets for travel behavior and policy
+   analysis.
+OI Xu, Yang/0000-0003-3898-022X
+Z8 2
+TC 27
+ZB 0
+ZS 0
+ZR 0
+Z9 29
+SN 0049-4488
+EI 1572-9435
+UT WOS:000355923100006
+ER
+
+PT J
+AU Liu, Yaqiong
+   Seah, Hock Soon
+TI Points of interest recommendation from GPS trajectories
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 29
+IS 6
+BP 953
+EP 979
+DI 10.1080/13658816.2015.1005094
+PD JUN 3 2015
+PY 2015
+AB Recently, points of interest (POIs) recommendation has evolved into a
+   hot research topic with real-world applications. In this paper, we
+   propose a novel semantics-enhanced density-based clustering algorithm
+   SEM-DTBJ-Cluster, to extract semantic POIs from GPS trajectories. We
+   then take into account three different factors (popularity, temporal and
+   geographical features) that can influence the recommendation score of a
+   POI. We characterize the impacts caused by popularity, temporal and
+   geographical information, by using different scoring functions based on
+   three developed recommendation models. Finally, we combine the three
+   scoring functions together and obtain a unified framework PTG-Recommend
+   for recommending candidate POIs for a mobile user. To the best of our
+   knowledge, this work is the first that considers popularity, temporal
+   and geographical information together. Experimental results on two
+   real-world data sets strongly demonstrate that our framework is robust
+   and effective, and outperforms the baseline recommendation methods in
+   terms of precision and recall.
+ZS 0
+ZR 0
+TC 10
+Z8 0
+ZB 0
+Z9 10
+SN 1365-8816
+EI 1362-3087
+UT WOS:000357018400004
+ER
+
+PT J
+AU Bhattacharya, Tanusri
+   Kulik, Lars
+   Bailey, James
+TI Automatically recognizing places of interest from unreliable GPS data
+   using spatio-temporal density estimation and line intersections
+SO PERVASIVE AND MOBILE COMPUTING
+VL 19
+BP 86
+EP 107
+DI 10.1016/j.pmcj.2014.08.003
+PD MAY 2015
+PY 2015
+AB Stay points are important for recognizing significant places from a
+   mobile user's GPS trajectory. Such places are often located indoors and
+   in urban canyons, where GPS is unreliable. Consequently, mapping a
+   user's stay point to a Place of Interest (POI) using only GPS data is
+   particularly challenging. Our novel algorithm employs both
+   spatio-temporaldensity estimation and line count inference to predict
+   and rank a user's POI(s) at building level accuracy from noisy
+   time-annotated GPS data points. An experimental study demonstrates the
+   superiority of our algorithm against several baseline approaches with a
+   recall of 96.5% for the top 5 retrieved locations. (C) 2014 Elsevier
+   B.V. All rights reserved.
+OI Bhattacharya, Tanusri/0000-0003-4228-3785
+ZR 0
+ZS 0
+Z8 2
+TC 11
+ZB 0
+Z9 13
+SN 1574-1192
+EI 1873-1589
+UT WOS:000353830400006
+ER
+
+PT J
+AU Reinau, Kristian Hegner
+   Harder, Henrik
+   Weber, Michael
+TI The SMS-GPS-Trip method: A new method for collecting trip information in
+   travel behavior research
+SO TELECOMMUNICATIONS POLICY
+VL 39
+IS 3-4
+SI SI
+BP 363
+EP 373
+DI 10.1016/j.telpol.2014.05.006
+PD MAY 2015
+PY 2015
+AB This article presents a new method for collecting travel behavior data,
+   based on a combination of GPS tracking and SMS technology, coined the
+   SMS-GPS-Trip method. The state-of-the-art method for collecting data for
+   activity based traffic models is a combination of travel diaries and GPS
+   tracking data, an approach which is not well suited for capturing data
+   on experiences surrounding trips. Currently increasing research is being
+   done on how to incorporate such data in traffic models, and there is
+   therefore a need for a method, which is suited to collect such data. The
+   new method presented in this article builds on ideas from experience
+   sampling methods (ESM) and it is well suited specifically for collecting
+   such experience data. Given the use of SMS technology, this method makes
+   it possible to reach a wide range of respondents. The usefulness of the
+   new method is proven on a theoretical level and illustrated in practice
+   through a case study. (C) 2014 Elsevier Ltd. All rights reserved.
+ZB 0
+ZS 0
+ZR 0
+TC 5
+Z8 0
+Z9 5
+SN 0308-5961
+EI 1879-3258
+UT WOS:000353860600017
+ER
+
+PT J
+AU Pejovic, Veljko
+   Musolesi, Mirco
+TI Anticipatory Mobile Computing: A Survey of the State of the Art and
+   Research Challenges
+SO ACM COMPUTING SURVEYS
+VL 47
+IS 3
+AR 47
+DI 10.1145/2693843
+PD APR 2015
+PY 2015
+AB Today's mobile phones are far from the mere communication devices they
+   were 10 years ago. Equipped with sophisticated sensors and advanced
+   computing hardware, phones can be used to infer users' location,
+   activity, social setting, and more. As devices become increasingly
+   intelligent, their capabilities evolve beyond inferring context to
+   predicting it, and then reasoning and acting upon the predicted context.
+   This article provides an overview of the current state of the art in
+   mobile sensing and context prediction paving the way for full-fledged
+   anticipatory mobile computing. We present a survey of phenomena that
+   mobile phones can infer and predict, and offer a description of machine
+   learning techniques used for such predictions. We then discuss proactive
+   decision making and decision delivery via the user-device feedback loop.
+   Finally, we discuss the challenges and opportunities of anticipatory
+   mobile computing.
+OI Pejovic, Veljko/0000-0002-9009-0024
+TC 39
+ZR 0
+ZS 0
+Z8 0
+ZB 0
+Z9 39
+SN 0360-0300
+EI 1557-7341
+UT WOS:000354046600010
+ER
+
+PT J
+AU Xue, Andy Yuan
+   Qi, Jianzhong
+   Xie, Xing
+   Zhang, Rui
+   Huang, Jin
+   Li, Yuan
+TI Solving the data sparsity problem in destination prediction
+SO VLDB JOURNAL
+VL 24
+IS 2
+SI SI
+BP 219
+EP 243
+DI 10.1007/s00778-014-0369-7
+PD APR 2015
+PY 2015
+AB Destination prediction is an essential task for many emerging
+   location-based applications such as recommending sightseeing places and
+   targeted advertising according to destinations. A common approach to
+   destination prediction is to derive the probability of a location being
+   the destination based on historical trajectories. However, almost all
+   the existing techniques use various kinds of extra information such as
+   road network, proprietary travel planner, statistics requested from
+   government, and personal driving habits. Such extra information, in most
+   circumstances, is unavailable or very costly to obtain. Thereby we
+   approach the task of destination prediction by using only historical
+   trajectory dataset. However, this approach encounters the "data sparsity
+   problem", i.e., the available historical trajectories are far from
+   enough to cover all possible query trajectories, which considerably
+   limits the number of query trajectories that can obtain predicted
+   destinations. We propose a novel method named Sub-Trajectory Synthesis
+   (SubSyn) to address the data sparsity problem. SubSyn first decomposes
+   historical trajectories into sub-trajectories comprising two adjacent
+   locations, and then connects the sub-trajectories into "synthesised"
+   trajectories. This process effectively expands the historical trajectory
+   dataset to contain much more trajectories. Experiments based on real
+   datasets show that SubSyn can predict destinations for up to ten times
+   more query trajectories than a baseline prediction algorithm.
+   Furthermore, the running time of the SubSyn-training algorithm is almost
+   negligible for a large set of 1.9 million trajectories, and the
+   SubSyn-prediction algorithm runs over two orders of magnitude faster
+   than the baseline prediction algorithm constantly.
+RI Qi, Jianzhong/P-7112-2015; ZHANG, RUI/
+OI Qi, Jianzhong/0000-0001-6501-9050; ZHANG, RUI/0000-0002-8132-6250
+ZB 1
+ZR 0
+Z8 6
+ZS 0
+TC 13
+Z9 18
+SN 1066-8888
+EI 0949-877X
+UT WOS:000351381200003
+ER
+
+PT J
+AU Ilarri, Sergio
+   Stojanovic, Dragan
+   Ray, Cyril
+TI Semantic management of moving objects: A vision towards smart mobility
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 42
+IS 3
+BP 1418
+EP 1435
+DI 10.1016/j.eswa.2014.08.057
+PD FEB 15 2015
+PY 2015
+AB This position paper presents our vision for the semantic management of
+   moving objects. We argue that exploiting semantic techniques in mobility
+   data management can bring valuable benefits to many domains
+   characterized by the mobility of users and moving. objects in general,
+   such as traffic management, urban dynamics analysis, ambient assisted
+   living, emergency management, m-health, etc. We present the
+   state-of-the-art in the domain of management of semantic locations and
+   trajectories, and outline research challenges that need to be
+   investigated to enable a full-fledged and intelligent semantic
+   management of moving objects and location-based services that support
+   smarter mobility. We propose a distributed framework for the semantic
+   enrichment and management of mobility data and analyze the potential
+   deployment and exploitation of such a framework. (C) 2014 Elsevier Ltd.
+   All rights reserved.
+RI ILARRI, SERGIO/L-6311-2014; Stojanovic, Dragan/
+OI ILARRI, SERGIO/0000-0002-7073-219X; Stojanovic,
+   Dragan/0000-0003-4893-3814
+Z8 1
+ZB 0
+ZS 0
+TC 15
+ZR 0
+Z9 15
+SN 0957-4174
+EI 1873-6793
+UT WOS:000345734700036
+ER
+
+EF

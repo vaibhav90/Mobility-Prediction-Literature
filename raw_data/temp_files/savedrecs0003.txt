@@ -1,0 +1,531 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ferrari, Laura
+   Mamei, Marco
+TI Identifying and understanding urban sport areas using Nokia Sports
+   Tracker
+SO PERVASIVE AND MOBILE COMPUTING
+VL 9
+IS 5
+SI SI
+BP 616
+EP 628
+DI 10.1016/j.pmcj.2012.10.006
+PD OCT 2013
+PY 2013
+AB Current advancements in pervasive technologies allow users to create and
+   share an increasing amount of whereabouts data. Thus, some rich datasets
+   on human mobility are becoming available on the web. In this paper we
+   extracted approximately 790,000 mobility traces from a web-based
+   repository of GPS tracks-the Nokia Sports Tracker Service. Using data
+   mining mechanisms, we show that this data can be analyzed to uncover
+   daily routines and interesting schemes in the use of public spaces. We
+   first show that our approach supports large-scale analysis of people's
+   whereabouts by comparing behavioral patterns across cities. Then, using
+   Kernel Density Estimation, we present a mechanism to identify popular
+   sport areas in individual cities. This kind of analysis allows us to
+   highlight human-centered geographies that can support a wide range of
+   applications ranging from location-based services to urban planning. (C)
+   2012 Elsevier B. V. All rights reserved.
+OI mamei, marco/0000-0003-3918-2107
+ZB 1
+ZS 0
+TC 7
+ZR 0
+Z8 0
+Z9 7
+SN 1574-1192
+UT WOS:000324028700003
+ER
+
+PT J
+AU Bosmann, Markus
+   Haggadone, Mikel D.
+   Zetoune, Firas S.
+   Sarma, J. Vidya
+   Ward, Peter A.
+TI The interaction between C5a and both C5aR and C5L2 receptors is required
+   for production of G-CSF during acute inflammation
+SO EUROPEAN JOURNAL OF IMMUNOLOGY
+VL 43
+IS 7
+BP 1907
+EP 1913
+DI 10.1002/eji.201243075
+PD JUL 2013
+PY 2013
+AB The complement activation product, C5a, is a key factor for regulation
+   of inflammatory responses. C5a and C5a(desArg) bind to their receptors,
+   C5aR and C5L2, but the functional roles of C5L2 remain controversial. We
+   screened the patterns of 23 inflammatory mediators in cultures of
+   LPS-activated mouse peritoneal elicited macrophages (PEMs) in the
+   presence or absence of recombinant mouse C5a. Production of most
+   mediators studied was suppressed by C5a, whereas G-CSF production was
+   enhanced. G-CSF gene expression and secretion from PEMs was amplified
+   two- to threefold by C5a in a dose- and time-dependent fashion. The
+   degradation product C5a(desArg) promoted lower levels of G-CSF. The
+   effects of C5a on G-CSF were associated with activation of PI3K/Akt and
+   MEK1/2 signaling pathways. C5a did not enhance G-CSF production in
+   cultures of PEMs from either C5aR- or C5L2-deficient mice, indicating
+   that both C5a receptors are indispensable for mediating the effects of
+   C5a in the production of G-CSF. Finally, G-CSF levels in plasma during
+   polymicrobial sepsis after cecal ligation and puncture were
+   substantially lower in C5aR- or C5L2-deficient mice as compared with
+   that in C57BL/6J WT mice. These findings elucidate the functional
+   characteristics of the C5L2 receptor during the acute inflammatory
+   response.
+ZB 19
+TC 20
+ZS 0
+Z8 3
+ZR 0
+Z9 23
+SN 0014-2980
+EI 1521-4141
+UT WOS:000327695500025
+PM 23575697
+ER
+
+PT J
+AU Bobadilla, J.
+   Ortega, F.
+   Hernando, A.
+   Gutierrez, A.
+TI Recommender systems survey
+SO KNOWLEDGE-BASED SYSTEMS
+VL 46
+BP 109
+EP 132
+DI 10.1016/j.knosys.2013.03.012
+PD JUL 2013
+PY 2013
+AB Recommender systems have developed in parallel with the web. They were
+   initially based on demographic, content-based and collaborative
+   filtering. Currently, these systems are incorporating social
+   information. In the future, they will use implicit, local and personal
+   information from the Internet cif things. This article provides an
+   overview of recommender systems as well as collaborative filtering
+   methods and algorithms; it also explains their evolution, provides an
+   original classification for these systems, identifies areas of future
+   implementation and develops certain areas selected for past, present or
+   future importance. (C) 2013 Elsevier B.V. All rights reserved.
+RI Hernando, Antonio/H-3104-2015; HERNANDO ESTEBAN, ANTONIO/; ORTEGA REQUENA, FERNANDO/; BOBADILLA SANCHO, JESUS/
+OI HERNANDO ESTEBAN, ANTONIO/0000-0001-6985-2058; ORTEGA REQUENA,
+   FERNANDO/0000-0003-4765-1479; BOBADILLA SANCHO,
+   JESUS/0000-0003-0619-1322
+TC 740
+Z8 37
+ZS 1
+ZR 1
+ZB 27
+Z9 776
+SN 0950-7051
+EI 1872-7409
+UT WOS:000319483300010
+ER
+
+PT J
+AU Wei, Ling-Yin
+   Peng, Wen-Chih
+   Lee, Wang-Chien
+TI Exploring Pattern-Aware Travel Routes for Trajectory Search
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 4
+IS 3
+AR UNSP 48
+DI 10.1145/2483669.2483681
+PD JUN 2013
+PY 2013
+AB With the popularity of positioning devices, Web 2.0 technology, and trip
+   sharing services, many users are willing to log and share their trips on
+   the Web. Thus, trip planning Web sites are able to provide some new
+   services by inferring Regions-Of-Interest (ROIs) and recommending
+   popular travel routes from trip trajectories. We argue that simply
+   providing some travel routes consisting of popular ROIs to users is not
+   sufficient. To tour around a wide geographical area, for example, a
+   city, some users may prefer a trip to visit as many ROIs as possible,
+   while others may like to stop by only a few ROIs for an in-depth visit.
+   We refer to a trip fitting the former user group as an in-breadth trip
+   and a trip suitable for the latter user group as an in-depth trip. Prior
+   studies on trip planning have focused on mining ROIs and travel routes
+   without considering these different preferences. In this article, given
+   a spatial range and a user preference of depth/breadth specified by a
+   user, we develop a Pattern-Aware Trajectory Search (PATS) framework to
+   retrieve the top K trajectories passing through popular ROIs. PATS is
+   novel because the returned travel trajectories, discovered from travel
+   patterns hidden in trip trajectories, may represent the most valuable
+   travel experiences of other travelers fitting the user's trip preference
+   in terms of depth or breadth. The PATS framework comprises two
+   components: travel behavior exploration and trajectory search. The
+   travel behavior exploration component determines a set of ROIs along
+   with their attractive scores by considering not only the popularity of
+   the ROIs but also the travel sequential relationships among the ROIs. To
+   capture the travel sequential relationships among ROIs and to derive
+   their attractive scores, a user movement graph is constructed. For the
+   trajectory search component of PATS, we formulate two trajectory score
+   functions, the depth-trip score function and the breadth-trip score
+   function, by taking into account the number of ROIs in a trajectory and
+   their attractive scores. Accordingly, we propose an algorithm, namely,
+   Bounded Trajectory Search (BTS), to efficiently retrieve the top K
+   trajectories based on the two trajectory scores. The PATS framework is
+   evaluated by experiments and user studies using a real dataset. The
+   experimental results demonstrate the effectiveness and the efficiency of
+   the proposed PATS framework.
+Z8 0
+ZR 0
+TC 5
+ZS 0
+ZB 0
+Z9 5
+SN 2157-6904
+UT WOS:000321223600012
+ER
+
+PT S
+AU Zhuang, Yi
+   Chiu, Dickson K. W.
+   Jiang, Guochang
+   Hu, Hua
+   Jiang, Nan
+BE Wang, JF
+   Lau, R
+TI Effective Location-Based Geo-tagged Image Retrieval for Mobile Culture
+   and Tourism Education
+SO ADVANCES IN WEB-BASED LEARNING - ICWL 2013
+SE Lecture Notes in Computer Science
+VL 8167
+BP 152
+EP 161
+PD 2013
+PY 2013
+AB With the development of Web 2.0 and location-based technologies,
+   location-based image retrieval and indexing is now possible. This can
+   provide high-quality support for field visits and teaching, which is an
+   integral part for culture and tourism education. In the state-of-the-art
+   retrieval methods, geo-tag and visual feature-based image retrieval has
+   not been considered together so far. In this paper, we present an
+   efficient location-based image retrieval method by conducting the search
+   over combined geo-tag and visual-feature spaces. In this retrieval
+   method, a cost-based query optimization scheme is proposed to optimize
+   the query processing. Different from conventional image retrieval
+   methods, our proposed retrieval algorithm combines the above two
+   functions as uniform measure. Comprehensive experiments are conducted to
+   testify the effectiveness and efficiency of our proposed retrieval and
+   indexing methods respectively.
+CT 12th International Conference on Advances in Web-Based Learning (ICWL)
+CY OCT 06-09, 2013
+CL TAIWAN
+SP Hong Kong Web Soc; Tajen Univ; City Univ Hong Kong
+RI Chiu, Dickson K. W./B-9630-2017
+Z8 0
+ZB 0
+TC 1
+ZS 0
+ZR 0
+Z9 1
+SN 0302-9743
+BN 978-3-642-41174-8; 978-3-642-41175-5
+UT WOS:000340556100016
+ER
+
+PT B
+AU Sarwat, Mohamed
+   Mokbel, Mohamed F.
+GP IEEE
+TI Social Networking and Mobility: A Data Management Perspective
+SO 2013 IEEE 14TH INTERNATIONAL CONFERENCE ON MOBILE DATA MANAGEMENT (MDM
+   2013), VOL 2
+BP 5
+EP 6
+DI 10.1109/MDM.2013.102
+PD 2013
+PY 2013
+CT IEEE 14th International Conference on Mobile Data Management (MDM)
+CY JUN 03-06, 2013
+CL Univ Milan, Milan, ITALY
+HO Univ Milan
+SP IEEE; IEEE Comp Soc; IBM Res; STMicroelectron; Telecom Italia; Univ
+   Milan, Dept Comp Sci; Google
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+BN 978-1-4673-6068-5
+UT WOS:000333752300003
+ER
+
+PT B
+AU Chen, Jen-Hsiang
+   Chao, Kuo-ming
+   Shah, Nazaraf
+BE James, A
+   Fei, X
+   Chao, KM
+   Chung, JY
+TI Hybrid Recommendation System for Tourism
+SO 2013 IEEE 10TH INTERNATIONAL CONFERENCE ON E-BUSINESS ENGINEERING
+   (ICEBE)
+SE International Conference on e-Business Engineering
+BP 156
+EP 161
+DI 10.1109/ICEBE.2013.24
+PD 2013
+PY 2013
+AB This paper adopts item-based collaborative filtering to predict the
+   interests of an active tourist by collecting preferences or taste
+   information from a number of other tourists. Our proposed mechanism is
+   able to predict a set recommended tourism places of elicited rating
+   places (e.g., ratings of 1 through 5 stars) for the active tourist
+   pre-traveling places. Furthermore, giving restriction of traveling
+   factors, such as budge and time, the recommendation system will refine
+   the exact set of tourism places by applying genetic algorithm mechanism.
+   Finally, the system is based on minimum cost to schedule traveling path
+   from a set of selected places by the using genetic algorithm approach.
+   Our proposed hybrid recommendation algorithm focuses on the refining
+   efficiency and provides multifunctional tourism information.
+CT 10th IEEE International Conference on e-Business Engineering (ICEBE)
+CY SEP 11-13, 2013
+CL Coventry, ENGLAND
+SP IEEE; IEEE Comp Soc; IEEE Comp Soc Tech Comm Business Informat & Syst;
+   Coventry Univ
+OI Shah, Nazaraf/0000-0002-4140-8200
+ZR 0
+Z8 1
+ZS 0
+TC 5
+ZB 0
+Z9 6
+BN 978-0-7695-5111-1
+UT WOS:000330341500024
+ER
+
+PT J
+AU Zhang Junchao
+   Chen Junjie
+   Song, Jiancheng
+   Zhao, Rong-Xiang
+TI Monte Carlo Based Personalized PageRank on Dynamic Networks
+SO INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS
+AR 829804
+DI 10.1155/2013/829804
+PD 2013
+PY 2013
+AB In large-scale networks, the structure of the underlying network changes
+   frequently, and thus the power iteration method for Personalized
+   PageRank computation cannot deal with this kind of dynamic network
+   efficiently. In this paper, we design a Monte Carlo-based incremental
+   method for Personalized PageRank computation. In a dynamic network,
+   first, we do a random walk starting from each node and save the
+   performed walks into a fingerprint database; second, we update the
+   fingerprint database in a fixed time interval with our proposed update
+   algorithm; finally, when a query is issued by a user, we estimate the
+   Personalized PageRank vector by our proposed approximation algorithm.
+   Experiments on real-world networks show that our method can handle
+   multichanges of the underlying network at a time and is more efficient
+   than related work, so it can be used in real incremental Personalized
+   PageRank-based applications.
+ZB 0
+TC 0
+ZS 0
+Z8 0
+ZR 0
+Z9 0
+SN 1550-1477
+UT WOS:000325323000001
+ER
+
+PT J
+AU Liu, Qi
+   Ma, Haiping
+   Chen, Enhong
+   Xiong, Hui
+TI A SURVEY OF CONTEXT-AWARE MOBILE RECOMMENDATIONS
+SO INTERNATIONAL JOURNAL OF INFORMATION TECHNOLOGY & DECISION MAKING
+VL 12
+IS 1
+BP 139
+EP 172
+DI 10.1142/S0219622013500077
+PD JAN 2013
+PY 2013
+AB Mobile recommender systems target on recommending the right product or
+   information to the right mobile users at anytime and anywhere. It is
+   well known that the contextual information is often the key for the
+   performances of mobile recommendations. Therefore, in this paper, we
+   provide a focused survey of the recent development of context-aware
+   mobile recommendations. After briefly reviewing the state-of-the-art of
+   recommender systems, we first discuss the general notion of mobile
+   context and how the contextual information is collected. Then, we
+   introduce the existing approaches to exploit contextual information for
+   modeling mobile recommendations. Furthermore, we summarize several
+   existing recommendation tasks in the mobile scenarios, such as the
+   recommendations in the tourism domain. Finally, we discuss some key
+   issues that are still critical in the field of context-aware mobile
+   recommendations, including the privacy problem, the energy efficiency
+   issues, and the design of user interfaces.
+ZS 0
+ZB 0
+ZR 0
+Z8 3
+TC 31
+Z9 32
+SN 0219-6220
+EI 1793-6845
+UT WOS:000317849700007
+ER
+
+PT J
+AU Yoon, Hyoseok
+   Zheng, Yu
+   Xie, Xing
+   Woo, Woontack
+TI Social itinerary recommendation from user-generated digital trails
+SO PERSONAL AND UBIQUITOUS COMPUTING
+VL 16
+IS 5
+SI SI
+BP 469
+EP 484
+DI 10.1007/s00779-011-0419-8
+PD JUN 2012
+PY 2012
+AB Planning travel to unfamiliar regions is a difficult task for novice
+   travelers. The burden can be eased if the resident of the area offers to
+   help. In this paper, we propose a social itinerary recommendation by
+   learning from multiple user-generated digital trails, such as GPS
+   trajectories of residents and travel experts. In order to recommend
+   satisfying itinerary to users, we present an itinerary model in terms of
+   attributes extracted from user-generated GPS trajectories. On top of
+   this itinerary model, we present a social itinerary recommendation
+   framework to find and rank itinerary candidates. We evaluated the
+   efficiency of our recommendation method against baseline algorithms with
+   a large set of user-generated GPS trajectories collected from Beijing,
+   China. First, systematically generated user queries are used to compare
+   the recommendation performance in the algorithmic level. Second, a user
+   study involving current residents of Beijing is conducted to compare
+   user perception and satisfaction on the recommended itinerary. Third, we
+   compare mobile-only approach with Mobile+Cloud architecture for
+   practical mobile recommender deployment. Lastly, we discuss
+   personalization and adaptation factors in social itinerary
+   recommendation throughout the paper.
+RI Woo, Woontack/C-3696-2012; Yoon, Hyoseok/
+OI Yoon, Hyoseok/0000-0002-9907-0775
+Z8 7
+ZS 0
+ZR 0
+ZB 0
+TC 36
+Z9 43
+SN 1617-4909
+EI 1617-4917
+UT WOS:000304563900002
+ER
+
+PT B
+AU Baraglia, Ranieri
+   Frattari, Claudio
+   Muntean, Cristina Ioana
+   Nardini, Franco Maria
+   Silvestri, Fabrizio
+BE Li, Y
+   Zhang, Y
+   Zhong, N
+TI RecTour: A Recommender System for Tourists
+SO 2012 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND
+   INTELLIGENT AGENT TECHNOLOGY WORKSHOPS (WI-IAT WORKSHOPS 2012), VOL 3
+BP 92
+EP 96
+DI 10.1109/WI-IAT.2012.88
+PD 2012
+PY 2012
+AB This paper presents a recommender system that provides personalized
+   information about locations of potential interest to a tourist. The
+   system generates suggestions, consisting of touristic places, according
+   to the current position and history data describing the tourist
+   movements. For the selection of tourist sites, the system uses a set of
+   points of interest a priori identified. We evaluate our system on two
+   datasets: a real and a synthetic one, both storing trajectories
+   describing previous movements of tourists. The proposed solution has
+   high applicability and the results show that the solution is both
+   efficient and viable.
+CT 11th IEEE/WIC/ACM International Joint Conference on Web Intelligence and
+   Intelligent Agent Technology (WI-IAT)
+CY DEC 04-07, 2012
+CL Macau, PEOPLES R CHINA
+SP IEEE; Assoc Comp Machinery; Web Intelligence Consortium; IEEE Comp Soc;
+   Univ Macau; Hong Kong Baptist Univ; IEEE Comp Soc Tech Comm Intelligent
+   Informat; ACM SIGART
+RI Muntean, Cristina Ioana/P-8042-2018; Nardini, Franco Maria/
+OI Muntean, Cristina Ioana/0000-0001-5265-1831; Nardini, Franco
+   Maria/0000-0003-3183-334X
+TC 1
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+Z9 1
+BN 978-0-7695-4880-7
+UT WOS:000423017600020
+ER
+
+PT J
+AU Zheng, Yu
+   Zhang, Lizhu
+   Ma, Zhengxin
+   Xie, Xing
+   Ma, Wei-Ying
+TI Recommending Friends and Locations Based on Individual Location History
+SO ACM TRANSACTIONS ON THE WEB
+VL 5
+IS 1
+SI SI
+AR 5
+DI 10.1145/1921591.1921596
+PD FEB 2011
+PY 2011
+AB The increasing availability of location-acquisition technologies (GPS,
+   GSM networks, etc.) enables people to log the location histories with
+   spatio-temporal data. Such real-world location histories imply, to some
+   extent, users' interests in places, and bring us opportunities to
+   understand the correlation between users and locations. In this article,
+   we move towards this direction and report on a personalized friend and
+   location recommender for the geographical information systems (GIS) on
+   the Web. First, in this recommender system, a particular individual's
+   visits to a geospatial region in the real world are used as their
+   implicit ratings on that region. Second, we measure the similarity
+   between users in terms of their location histories and recommend to each
+   user a group of potential friends in a GIS community. Third, we estimate
+   an individual's interests in a set of unvisited regions by involving
+   his/her location history and those of other users. Some unvisited
+   locations that might match their tastes can be recommended to the
+   individual. A framework, referred to as a hierarchical-graph-based
+   similarity measurement (HGSM), is proposed to uniformly model each
+   individual's location history, and effectively measure the similarity
+   among users. In this framework, we take into account three factors: 1)
+   the sequence property of people's outdoor movements, 2) the visited
+   popularity of a geospatial region, and 3) the hierarchical property of
+   geographic spaces. Further, we incorporated a content-based method into
+   a user-based collaborative filtering algorithm, which uses HGSM as the
+   user similarity measure, to estimate the rating of a user on an item. We
+   evaluated this recommender system based on the GPS data collected by 75
+   subjects over a period of 1 year in the real world. As a result, HGSM
+   outperforms related similarity measures, namely similarity-by-count,
+   cosine similarity, and Pearson similarity measures. Moreover, beyond the
+   item-based CF method and random recommendations, our system provides
+   users with more attractive locations and better user experiences of
+   recommendation.
+ZR 0
+ZS 0
+ZB 3
+TC 137
+Z8 26
+Z9 161
+SN 1559-1131
+EI 1559-114X
+UT WOS:000288062500005
+ER
+
+EF

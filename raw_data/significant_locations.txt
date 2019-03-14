@@ -1,4 +1,3 @@
-
 Using GPS to learn significant locations and predict movement across multiple users
 2003 Ubiquitous Computing
 Daniel Ashbrook, Thad Starner

@@ -1,0 +1,2293 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Lv, Mingqi
+   Chen, Ling
+   Chen, Tieming
+   Zeng, Dajian
+   Cao, Bin
+TI Discovering individual movement patterns from cell-id trajectory data by
+   exploiting handoff features
+SO INFORMATION SCIENCES
+VL 474
+BP 18
+EP 32
+DI 10.1016/j.ins.2018.09.033
+PD FEB 2019
+PY 2019
+AB The discovery of movement patterns from trajectory data is crucial for
+   supporting many location-based applications. Most existing methods
+   require that the trajectories contain explicit location information.
+   However, it is usually difficult to collect such kind of trajectories
+   from mobile phone users. In this paper, we propose a method for mining
+   movement patterns from cell-id trajectories (i.e., sequences of cell
+   tower identifiers) without explicit location information. Specifically,
+   we firstly estimate the spatial closeness between cell towers in a
+   cell-id trajectory dataset by exploiting the handoff features. Then, we
+   propose a novel sequential pattern mining algorithm to mine movement
+   patterns from the cell-id trajectory dataset by taking into account the
+   estimated spatial closeness. We evaluated the proposed method based on a
+   real cell-id trajectory dataset. The experiment results show that the
+   proposed method can adapt to the high uncertainty of cell-id
+   trajectories and it outperforms state-of-the-art methods in terms of
+   efficiency, completeness, and usefulness. (C) 2018 Elsevier Inc. All
+   rights reserved.
+ZR 0
+TC 0
+Z8 0
+ZS 0
+ZB 0
+Z9 0
+SN 0020-0255
+EI 1872-6291
+UT WOS:000449567200002
+ER
+
+PT J
+AU Tang, Lei
+   Cai, Dandan
+   Duan, Zongtao
+   Ma, Junchi
+   Han, Meng
+   Wang, Hanbo
+TI Discovering Travel Community for POI Recommendation on Location-Based
+   Social Networks
+SO COMPLEXITY
+AR 8503962
+DI 10.1155/2019/8503962
+PD 2019
+PY 2019
+AB Point-of-interest (POI) recommendations are a popular form of
+   personalized service in which users share their POI location and related
+   content with their contacts in location-based social networks (LBSNs).
+   The similarity and relatedness between users of the same POI type are
+   frequently used for trajectory retrieval, but most of the existing works
+   rely on the explicit characteristics from all users' check-in records
+   without considering individual activities. We propose a POI
+   recommendation method that attempts to optimally recommend POI types to
+   serve multiple users. The proposed method aims to predict destination
+   POIs of a user and search for similar users of the same regions of
+   interest, thus optimizing the user acceptance rate for each
+   recommendation. The proposed method also employs the variable-order
+   Markov model to determine the distribution of a user's POIs based on his
+   or her travel histories in LBSNs. To further enhance the user's
+   experience, we also apply linear discriminant analysis to cluster the
+   topics related to Travel and connect to users with social links or
+   similar interests. The probability of POIs based on users' historical
+   trip data and interests in the same topics can be calculated. The system
+   then provides a list of the recommended destination POIs ranked by their
+   probabilities. We demonstrate that our work outperforms
+   collaborative-filtering-based and other methods using two real-world
+   datasets from New York City. Experimental results show that the proposed
+   method is better than other models in terms of both accuracy and recall.
+   The proposed POI recommendation algorithms can be deployed in certain
+   online transportation systems and can serve over 100,000 users.
+ZR 0
+ZS 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+SN 1076-2787
+EI 1099-0526
+UT WOS:000459674400001
+ER
+
+PT J
+AU Jiang, Jian
+   Lin, Fei
+   Fan, Jin
+   Lv, Hang
+   Wu, Jia
+TI A Destination Prediction Network Based on Spatiotemporal Data for
+   Bike-Sharing
+SO COMPLEXITY
+AR 7643905
+DI 10.1155/2019/7643905
+PD 2019
+PY 2019
+AB Bike-sharing is a new low-carbon and environment-friendly mode of public
+   transport based on the sharing economy. Since 2017, the bike-sharing
+   market has boomed in China's major cities. Bikes equipped with GPS
+   transmitters are docked along sidewalks that can be easily accessed
+   through smartphone apps. However, this new form of transport has also
+   led to problems, such as illegal parking, vandalism, and theft, each of
+   which presents a major administrative challenge. Further, imbalances in
+   user demand and bike availability need to be overcome to ensure a
+   convenient, flexible service for customers. Hence, predicting a
+   cyclist's destination could be of great importance to shared-bike
+   operators. In this paper, we propose an innovative deep learning model
+   to predict the most probable destination for each user. The model,
+   called destination prediction network based on spatiotemporal data
+   (DPNst), comprises three steps. First, the data is preprocessed and a
+   pool of likely candidate destinations is generated based on frequent
+   item mining. This candidate set is then used to build the DPNst model: a
+   long short-term memory network learns the user's behavior; a
+   convolutional neural network learns the spatial relationships between
+   the origin and the candidate destinations; and a fully connected neural
+   network learns the external features. In the final step, DPNst
+   dynamically aggregates the output of the three neural networks based on
+   the given data and generates the predictions. In a series of experiments
+   on real-world stationless bike-sharing data, DPNst returned an F1 score
+   of 42.71% and demonstrated better performance overall than the compared
+   baselines.
+Z8 0
+ZS 0
+TC 0
+ZB 0
+ZR 0
+Z9 0
+SN 1076-2787
+EI 1099-0526
+UT WOS:000455751500001
+ER
+
+PT J
+AU Wei, Xiaojuan
+   Li, Jinglin
+   Yuan, Quan
+   Chen, Kaihui
+   Zhou, Ao
+   Yang, Fangchun
+TI Predicting Fine-Grained Traffic Conditions via Spatio-Temporal LSTM
+SO WIRELESS COMMUNICATIONS & MOBILE COMPUTING
+AR 9242598
+DI 10.1155/2019/9242598
+PD 2019
+PY 2019
+AB Predicting traffic conditions for road segments is the prelude of
+   working on intelligent transportation. Many existing methods can be used
+   for short-term or long-term traffic prediction, but they focus more on
+   regions than on road segments. The lack of fine-grained traffic
+   predicting approach hinders the development of ITS. Therefore, MapLSTM,
+   a spatio-temporal long short-term memory network preluded by
+   map-matching, is proposed in this paper to predict fine-grained traffic
+   conditions. MapLSTM first obtains the historical and real-time traffic
+   conditions of road segments via map-matching. Then LSTM is used to
+   predict the conditions of the corresponding road segments in the future.
+   Breaking the single-index forecasting, MapLSTM can predict the vehicle
+   speed, traffic volume, and the travel time in different directions of
+   road segments simultaneously. Experiments confirmed MapLSTM can not only
+   achieve prediction for road segments based a large scale of GPS
+   trajectories effectively but also have higher predicting accuracy than
+   GPR and ConvLSTM. Moreover, we demonstrate that MapLSTM can serve
+   various applications in a lightweight way, such as cognizing driving
+   preferences, learning navigation, and inferring traffic emissions.
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+SN 1530-8669
+EI 1530-8677
+UT WOS:000457073700001
+ER
+
+PT J
+AU Taguchi, Shun
+   Koide, Satoshi
+   Yoshimura, Takayoshi
+TI Online Map Matching With Route Prediction
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 20
+IS 1
+BP 338
+EP 347
+DI 10.1109/TITS.2018.2812147
+PD JAN 2019
+PY 2019
+AB Map matching is a procedure that estimates the route traveled by
+   vehicles or people by using observed coordinates. It is an important
+   preprocessing procedure for location services based on global
+   positioning system (GPS) data obtained from probe vehicles. One recently
+   proposed major map matching approach is the hidden Markov model
+   (HMM)-based method. However, HMM-based approaches suffer from latency,
+   because they rely on the availability of future GPS points. This latency
+   limits the ability of real-time traffic sensing and location services.
+   This paper presents a novel online map matching algorithm that uses a
+   probabilistic route prediction model instead of future GPS points. The
+   probabilistic route prediction model can be trained by using historical
+   trajectory data. Our experimental results show that the accuracy of the
+   untrained proposed model is competitive with a naive online HMM-based
+   method without any latency. Moreover, the results show that the trained
+   model obtains even higher accuracy. The experimental results also show
+   that the proposed method is faster than the online HMM.
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+TC 0
+Z9 0
+SN 1524-9050
+EI 1558-0016
+UT WOS:000454236200028
+ER
+
+PT J
+AU Wang, Weiqing
+   Yin, Hongzhi
+   Du, Xingzhong
+   Quoc Viet Hung Nguyen
+   Zhou, Xiaofang
+TI TPM: A Temporal Personalized Model for Spatial Item Recommendation
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 9
+IS 6
+AR 61
+DI 10.1145/3230706
+PD NOV 2018
+PY 2018
+AB With the rapid development of location-based social networks (LBSNs),
+   spatial item recommendation has become an important way of helping users
+   discover interesting locations to increase their engagement with
+   location-based services. The availability of spatial, temporal, and
+   social information in LBSNs offers an unprecedented opportunity to
+   enhance the spatial item recommendation. Many previous works studied
+   spatial and social influences on spatial item recommendation in LBSNs.
+   Due to the strong correlations between a user's check-in time and the
+   corresponding check-in location, which include the sequential influence
+   and temporal cyclic effect, it is essential for spatial item recommender
+   system to exploit the temporal effect to improve the recommendation
+   accuracy. Leveraging temporal information in spatial item recommendation
+   is, however, very challenging, considering (1) when integrating
+   sequential influences, users' check-in data in LBSNs has a low sampling
+   rate in both space and time, which renders existing location prediction
+   techniques on GPS trajectories ineffective, and the prediction space is
+   extremely large, with millions of distinct locations as the next
+   prediction target, which impedes the application of classical Markov
+   chain models; (2) there are various temporal cyclic patterns (i.e.,
+   daily, weekly, and monthly) in LBSNs, but existing work is limited to
+   one specific pattern; and (3) there is no existing framework that
+   unifies users' personal interests, temporal cyclic patterns, and the
+   sequential influence of recently visited locations in a principled
+   manner.
+   In light of the above challenges, we propose a Temporal Personalized
+   Model (TPM), which introduces a novel latent variable topic-region to
+   model and fuse sequential influence, cyclic patterns with personal
+   interests in the latent and exponential space. The advantages of
+   modeling the temporal effect at the topic-region level include a
+   significantly reduced prediction space, an effective alleviation of data
+   sparsity, and a direct expression of the semantic meaning of users'
+   spatial activities. Moreover, we introduce two methods to model the
+   effect of various cyclic patterns. The first method is a time indexing
+   scheme that encodes the effect of various cyclic patterns into a binary
+   code. However, the indexing scheme faces the data sparsity problem in
+   each time slice. To deal with this data sparsity problem, the second
+   method slices the time according to each cyclic pattern separately and
+   explores these patterns in a joint additive model.
+   Furthermore, we design an asymmetric Locality Sensitive Hashing (ALSH)
+   technique to speed up the online top-k recommendation process by
+   extending the traditional LSH. We evaluate the performance of TPM on two
+   real datasets and one large-scale synthetic dataset. The performance of
+   TPM in recommending cold-start items is also evaluated. The results
+   demonstrate a significant improvement in TPM's ability to recommend
+   spatial items, in terms of both effectiveness and efficiency, compared
+   with the state-of-the-art methods.
+RI Zhou, Xiaofang/C-6169-2013
+OI Zhou, Xiaofang/0000-0001-6343-1455
+ZS 0
+ZB 0
+TC 0
+Z8 0
+ZR 0
+Z9 0
+SN 2157-6904
+EI 2157-6912
+UT WOS:000455480700001
+ER
+
+PT J
+AU Luan, WenJing
+   Liu, GuanJun
+   Jiang, ChangJun
+   Zhou, MengChu
+TI MPTR: A Maximal-Marginal-Relevance-Based Personalized Trip
+   Recommendation Method
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 19
+IS 11
+BP 3461
+EP 3474
+DI 10.1109/TITS.2017.2781138
+PD NOV 2018
+PY 2018
+AB Personalized trip recommendation has drawn much attention recently with
+   the development of location-based services. How to utilize the data in
+   the location-based social network to recommend a single Point of
+   Interest (POI) or a sequence of POIs for users is an important question
+   to answer. Recommending the latter is called trip recommendation that is
+   a challenging study because of the diversity of trips and complexity of
+   involved computation. This work proposes a
+   maximal-marginal-relevance-based personalized trip recommendation method
+   that considers both relevance and diversity of trips in trip planning.
+   An antcolony-optimization-based trip planning algorithm is developed to
+   efficiently plan a trip. Finally, case studies and experiments
+   illustrate the effectiveness of our method.
+OI Liu, Guanjun/0000-0002-7523-4827
+ZS 0
+ZR 0
+Z8 0
+TC 0
+ZB 0
+Z9 0
+SN 1524-9050
+EI 1558-0016
+UT WOS:000449978100004
+ER
+
+PT J
+AU Naserian, Elahe
+   Wang, Xinheng
+   Xu, Xiaolong
+   Dong, Yuning
+TI A Framework of Loose Travelling Companion Discovery from Human
+   Trajectories
+SO IEEE TRANSACTIONS ON MOBILE COMPUTING
+VL 17
+IS 11
+BP 2497
+EP 2511
+DI 10.1109/TMC.2018.2813369
+PD NOV 2018
+PY 2018
+AB Through the availability of location-acquisition devices, huge volumes
+   of spatio-temporal data recording the movement of people is provided.
+   Discovery of the group of people who travel together can provide
+   valuable knowledge to a variety of critical applications. Existing
+   studies on this topic mainly focus on the movement of vehicles or
+   animals with forcing the group members to stay always connected.
+   However, the movement of people is different; people might belong to the
+   same main group while they contribute in various sub-groups during their
+   movement. In this paper, we propose a group pattern called loose
+   travelling companion pattern (LTCP), which allows the members of a group
+   to contribute to various sub-groups as long as the community of members
+   does not change during the movement and all of the members stay
+   connected for a few time-slots. In addition, we propose weakly
+   continuous loose travelling companion pattern (WCLTCP) to relax the
+   continuous time constraint in LTCP. Finally, three algorithms have been
+   developed to discover the proposed group patterns: (i) straightforward
+   approach, (ii) smart-and-fast method, and (iii) and opportunistic
+   algorithm. Through the extensive experimental evaluation on both real
+   and experimental datasets, the efficiency and effectiveness of the
+   proposed group discovery approaches are proven.
+OI Xu, Xiaolong/0000-0001-6254-5864; Wang, Xinheng/0000-0001-8771-8901
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+SN 1536-1233
+EI 1558-0660
+UT WOS:000446655000003
+ER
+
+PT J
+AU Shou, Zhenyu
+   Di, Xuan
+TI Similarity analysis of frequent sequential activity pattern mining
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+VL 96
+BP 122
+EP 143
+DI 10.1016/j.trc.2018.09.018
+PD NOV 2018
+PY 2018
+AB Activity pattern classification is extensively studied using
+   multi-person single-day mobile traces. However, human mobility exhibits
+   intra-personal variability and thus single-day activity may not fully
+   capture one's activity patterns. This paper creates a methodological
+   framework to analyze similarity of activity patterns using frequent
+   sequential pattern mining when multi-person multi day data is available.
+   Frequent sequential pattern mining discovers the frequently occurring
+   ordered subsequences and is a natural approach of analyzing multi-day
+   travel patterns. Prefix Span algorithm is implemented to extract
+   frequent patterns for each individual. Then similarity measures are
+   defined to describe the extent to which two travelers' activity patterns
+   are alike and the regularity of how one repeats her activity patterns
+   from day to day. Based upon the pairwise similarity values between two
+   individuals, hierarchical clustering is conducted to divide travelers
+   into communities. To illustrate these methodologies, 349 travelers'
+   19,130 travel activity sequences are extracted from the world's first
+   connected vehicle testbed in Ann Arbor, Michigan. Three major clusters
+   are identified. Coupled with demographics, these clusters are
+   characterized as "seniors", "working class", and "parents",
+   respectively. Multinomial logistic regression is employed to model to
+   what extent the similarity of socio-demographics can explain that of
+   travel patterns. This work can be extended to either infer an unknown
+   user's demographics (or customer profiling) based on her activity
+   patterns, or to reconstruct an unknown user's frequent activity patterns
+   based on her demographics and other similar travelers' patterns.
+ZR 0
+Z8 0
+ZB 0
+TC 0
+ZS 0
+Z9 0
+SN 0968-090X
+UT WOS:000449246800008
+ER
+
+PT J
+AU Liu, Jinwei
+   Shen, Haiying
+   Narman, Husnu S.
+   Chung, Wingyan
+   Lin, Zongfang
+TI A Survey of Mobile Crowdsensing Techniques: A Critical Component for The
+   Internet of Things
+SO ACM TRANSACTIONS ON CYBER-PHYSICAL SYSTEMS
+VL 2
+IS 3
+SI SI
+AR 18
+DI 10.1145/3185504
+PD JUL 2018
+PY 2018
+AB Mobile crowdsensing serves as a critical building block for emerging
+   Internet of Things (IoT) applications. However, the sensing devices
+   continuously generate a large amount of data, which consumes much
+   resources (e.g., bandwidth, energy, and storage) and may sacrifice the
+   Quality-of-Service (QoS) of applications. Prior work has demonstrated
+   that there is significant redundancy in the content of the sensed data.
+   By judiciously reducing redundant data, data size and load can be
+   significantly reduced, thereby reducing resource cost and facilitating
+   the timely delivery of unique, probably critical information and
+   enhancing QoS. This article presents a survey of existing works on
+   mobile crowdsensing strategies with an emphasis on reducing resource
+   cost and achieving high QoS. We start by introducing the motivation for
+   this survey and present the necessary background of crowdsensing and
+   IoT. We then present various mobile crowdsensing strategies and discuss
+   their strengths and limitations. Finally, we discuss future research
+   directions for mobile crowdsensing for IoT. The survey addresses a broad
+   range of techniques, methods, models, systems, and applications related
+   to mobile crowdsensing and IoT. Our goal is not only to analyze and
+   compare the strategies proposed in prior works, but also to discuss
+   their applicability toward the IoT and provide guidance on future
+   research directions for mobile crowdsensing.
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z8 0
+Z9 1
+SN 2378-962X
+EI 2378-9638
+UT WOS:000458603800004
+ER
+
+PT J
+AU Al Sonosy, Ola A.
+   Rady, Sherine
+   Badr, Nagwa L.
+   Hashem, Mohammed
+TI Toward efficient business behavior prediction using location-based
+   social networks
+SO WILEY INTERDISCIPLINARY REVIEWS-DATA MINING AND KNOWLEDGE DISCOVERY
+VL 8
+IS 4
+AR e1263
+DI 10.1002/widm.1263
+PD JUL-AUG 2018
+PY 2018
+AB Understanding business behavior in a city requires acquiring huge amount
+   of data coming from diverse field studies. The growing use of mobile
+   devices in social media provides massive data transactions that can
+   replace such data acquired by field studies. Location-based social
+   networks' (LBSNs') data can be exploited in urban analysis for economic
+   reasons. In this research, the spatial correlation of business turnouts
+   for venues registered in LBSNs is studied for business behavior
+   predictions. A novel similarity embedded (SE)-spatial interpolation
+   technique is proposed for business turnouts' predictions. The proposed
+   technique utilizes diverse features provided by LBSNs in the prediction
+   process to improve prediction performance. Moreover, a local filter is
+   introduced to avoid local extreme involvements in the prediction process
+   issuing better prediction results. To test the proposed techniques,
+   experimental case study is implemented for predicting business behavior
+   of venues registered in Foursquare in Texas. The proposed SE-spatial
+   interpolation has shown better prediction accuracy than classical
+   spatial interpolation predictions. The additional integration of the
+   local filter shows further alleviated prediction errors. Furthermore,
+   this study extends the work for the efficient application of the
+   proposed prediction technique in big datasets. An iterative nearest
+   neighbors first search method is designed for accelerating the execution
+   time of the prediction technique implementation regardless the dataset
+   size. The proposed method was tested over several size datasets. The
+   test results show accelerated execution time for the proposed method
+   when compared with the classical implementation execution time. This
+   article is categorized under:
+   Algorithmic Development > Spatial and Temporal Data Mining Fundamental
+   Concepts of Data and Knowledge > Big Data Mining Technologies >
+   Prediction
+ZR 0
+ZB 0
+TC 0
+Z8 0
+ZS 0
+Z9 0
+SN 1942-4787
+EI 1942-4795
+UT WOS:000435287000008
+ER
+
+PT J
+AU Tao, Longquan
+   Cao, Jinli
+   Liu, Fei
+TI Dynamic feature weighting based on user preference sensitivity for
+   recommender systems
+SO KNOWLEDGE-BASED SYSTEMS
+VL 149
+BP 61
+EP 75
+DI 10.1016/j.knosys.2018.02.019
+PD JUN 1 2018
+PY 2018
+AB With the development of information technology, the issue of information
+   overload has become an ever-increasing problem throughout this decade.
+   In order to provide useful and interesting information to users,
+   recommender systems were proposed to actively select preferable items
+   for users who potentially desired. In this paper, we focus on
+   personalizing aspects of recommender systems, since it is observed that
+   the weights of the dimensions should be distinct for every user when
+   measuring the similarities between items. To achieve this outcome, we
+   suggest that the dimensions of items should be classified into different
+   types such as numeric and textual, and then the average preferences (AP)
+   should be calculated for these dimensions based on all the users in the
+   recommender system. Then, the preference sensitivities (PS) for every
+   dimension can be calculated for every user so that finally the dynamic
+   feature weights can be applied in the calculations. All these
+   aforementioned methodologies are evaluated via experiments using a
+   Recipe Recommender System which achieves an 81.0% overall satisfaction
+   rate on a basis of more than 50 real volunteer users from diverse
+   educational background. Crown Copyright (C) 2018 Published by Elsevier
+   B.V. All rights reserved.
+Z8 0
+ZS 0
+TC 1
+ZB 0
+ZR 0
+Z9 1
+SN 0950-7051
+EI 1872-7409
+UT WOS:000429763600005
+ER
+
+PT J
+AU Tang, Kun
+   Chen, Shuyan
+   Liu, Zhiyuan
+   Khattak, Aemal J.
+TI A tensor-based Bayesian probabilistic model for citywide personalized
+   travel time estimation
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+VL 90
+BP 260
+EP 280
+DI 10.1016/j.trc.2018.03.004
+PD MAY 2018
+PY 2018
+AB Urban travel time information is of great importance for many levels of
+   traffic management and operation. This paper develops a tensor-based
+   Bayesian probabilistic model for citywide and personalized travel time
+   estimation, using the large-scale and sparse GPS trajectories generated
+   by taxicabs. Combined with the knowledge learned from historical
+   trajectories, travel times of different drivers on all road segments in
+   some time slots are modeled with a 3-order tensor. This tensor-based
+   modeling approach incorporates both the spatial correlation between
+   different road segments and the person-specific variation between
+   different drivers, as well as the coarse-grain temporal correlation
+   between recent and historical traffic conditions and the fine-grain
+   temporal correlation between different time slots. To account for the
+   variability caused by the intrinsic uncertainties in urban road network,
+   each travel time entry in the built tensor is treated as a variable
+   following a log-normal distribution. With the help of the fully Bayesian
+   treatment, the model achieves automatic hyper-parameter tuning and model
+   complexity controlling, and therefore the problem of over-fitting is
+   prevented even when the used data is large-scale and sparse. The
+   proposed model is applied to a real case study on the citywide road
+   network of Beijing, China, using the large-scale and sparse GPS
+   trajectories collected from over 32,670 taxicabs for a period of two
+   months. Empirical results of extensive experiments demonstrate that the
+   proposed model provides an effective and robust approach for urban
+   travel time estimation and outperforms the considered competing methods.
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+TC 2
+Z9 2
+SN 0968-090X
+UT WOS:000432513300016
+ER
+
+PT J
+AU Zhou, Chunjie
+   Dai, Pengfei
+   Zhang, Zhenxing
+TI OrientSTS-Spatio Temporal Sequence Searching for Trip Planning
+SO INTERNATIONAL JOURNAL OF WEB SERVICES RESEARCH
+VL 15
+IS 2
+BP 21
+EP 46
+DI 10.4018/IJWSR.2018040102
+PD APR-JUN 2018
+PY 2018
+AB For a satisfactory trip planning, the following features are desired: 1)
+   automated suggestion of scenes or attractions; 2) personalized based on
+   the interest and habits of travelers; 3) maximal coverage of sites of
+   interest; and 4) minimal effort such as transporting time on the route.
+   Automated scene suggestion requires collecting massive knowledge about
+   scene sites and their characteristics, and personalized planning
+   requires matching of a traveler profile with knowledge of scenes of
+   interest. As a trip contains a sequence of stops at multiple scenes, the
+   problem of trip planning becomes optimizing a temporal sequence where
+   each stop is weighted. This article presents OrientSTS, a novel
+   spatio-temporal sequence (STS) searching system for optimal personalized
+   trip planning. OrientSTS provides a knowledge base of scenes with their
+   tagged features and season characteristics. By combining personal
+   profiles and scene features, OrientSTS generates a set of weighted
+   scenes for each city for each user. OrientSTS can then retrieve the
+   optimal sequence of scenes in terms of distance, weight, visiting time,
+   and scene features. The authors develop alternative algorithms for
+   searching optimal sequences, with consideration of the weight of each
+   scene, the preference of users, and the travel time constraint. The
+   experiments demonstrate the efficiency of the proposed algorithms based
+   on real datasets from social networks.
+ZR 0
+TC 0
+ZS 0
+ZB 0
+Z8 0
+Z9 0
+SN 1545-7362
+EI 1546-5004
+UT WOS:000455187200003
+ER
+
+PT J
+AU Xu, Zheng
+   Mei, Lin
+   Choo, Kim-Kwang Raymond
+   Lv, Zhihan
+   Hu, Chuanping
+   Luo, Xiangfeng
+   Liu, Yunhuai
+TI Mobile crowd sensing of human-like intelligence using social sensors: A
+   survey
+SO NEUROCOMPUTING
+VL 279
+SI SI
+BP 3
+EP 10
+DI 10.1016/j.neucom.2017.01.127
+PD MAR 1 2018
+PY 2018
+AB Recently, with the fast proliferation of smart phones, mobile phone has
+   the powerful ability of not only communication but also computation.
+   Human beings are not only data consumers, but data producer with their
+   objective or subjective sensing needs. Mobile crowd sensing is an
+   emerging computing paradigm that tasks everyday mobile devices to form
+   participatory sensor networks. It allows the increasing number of mobile
+   phone users to share local knowledge acquired by their sensor-enhanced
+   devices. Social sensors, social sensor receiver platform, and mobile
+   crowd sensing paradigm compose a process by which physical sensors
+   present in mobile devices such as GPS are used to infer social
+   relationships and human activities. In this survey, we review the mobile
+   crowd sensing applications on social sensors based on social sensor
+   receiver platform (e.g., Weibo and Twitter) from three categories:
+   public security, smart city, and location based services. Most
+   applications adopted in current works fit in one of these categories.
+   Existing works on applications of mobile crowd sensing on social sensors
+   are collected and studied. Some possible future directions of potential
+   new application category are proposed and analyzed. (c) 2017 Elsevier
+   B.V. All rights reserved.
+RI Choo, Kim-Kwang Raymond/A-3634-2009
+OI Choo, Kim-Kwang Raymond/0000-0001-9208-5336
+ZS 0
+TC 3
+ZR 0
+Z8 0
+ZB 0
+Z9 3
+SN 0925-2312
+EI 1872-8286
+UT WOS:000424888300002
+ER
+
+PT J
+AU Cao, Zhiguang
+   Guo, Hongliang
+   Zhang, Jie
+TI A Multiagent-Based Approach for Vehicle Routing by Considering Both
+   Arriving on Time and Total Travel Time
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 9
+IS 3
+SI SI
+AR 25
+DI 10.1145/3078847
+PD FEB 2018
+PY 2018
+AB Arriving on time and total travel time are two important properties for
+   vehicle routing. Existing route guidance approaches always consider them
+   independently, because they may conflict with each other. In this
+   article, we develop a semi-decentralized multiagent-based vehicle
+   routing approach where vehicle agents follow the local route guidance by
+   infrastructure agents at each intersection, and infrastructure agents
+   perform the route guidance by solving a route assignment problem. It
+   integrates the two properties by expressing them as two objective terms
+   of the route assignment problem. Regarding arriving on time, it is
+   formulated based on the probability tail model, which aims to maximize
+   the probability of reaching destination before deadline. Regarding total
+   travel time, it is formulated as a weighted quadratic term, which aims
+   to minimize the expected travel time from the current location to the
+   destination based on the potential route assignment. The weight for
+   total travel time is designed to be comparatively large if the deadline
+   is loose. Additionally, we improve the proposed approach in two aspects,
+   including travel time prediction and computational efficiency.
+   Experimental results on real road networks justify its ability to
+   increase the average probability of arriving on time, reduce total
+   travel time, and enhance the overall routing performance.
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 2157-6904
+EI 2157-6912
+UT WOS:000425718400004
+ER
+
+PT J
+AU Zhang, Desheng
+   He, Tian
+   Zhang, Fan
+TI Real-Time Human Mobility Modeling with Multi-View Learning
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 9
+IS 3
+SI SI
+AR 22
+DI 10.1145/3092692
+PD FEB 2018
+PY 2018
+AB Real-time human mobility modeling is essential to various urban
+   applications. To model such human mobility, numerous data-driven
+   techniques have been proposed. However, existing techniques are mostly
+   driven by data from a single view, for example, a transportation view or
+   a cellphone view, which leads to over-fitting of these single-view
+   models. To address this issue, we propose a human mobility modeling
+   technique based on a generic multi-view learning framework called
+   coMobile. In coMobile, we first improve the performance of single-view
+   models based on tensor decomposition with correlated contexts, and then
+   we integrate these improved single-view models together for multi-view
+   learning to iteratively obtain mutually reinforced knowledge for
+   real-time human mobility at urban scale. We implement coMobile based on
+   an extremely large dataset in the Chinese city Shenzhen, including data
+   about taxi, bus, and subway passengers along with cellphone users,
+   capturing more than 27 thousand vehicles and 10 million urban residents.
+   The evaluation results show that our approach outperforms a single-view
+   model by 51% on average. More importantly, we design a novel application
+   where urban taxis are dispatched based on unaccounted mobility demand
+   inferred by coMobile.
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 2157-6904
+EI 2157-6912
+UT WOS:000425718400001
+ER
+
+PT J
+AU Yuan, Ye
+   Luo, Xin
+   Shang, Ming-Sheng
+TI Effects of preprocessing and training biases in latent factor models for
+   recommender systems
+SO NEUROCOMPUTING
+VL 275
+BP 2019
+EP 2030
+DI 10.1016/j.neucom.2017.10.040
+PD JAN 31 2018
+PY 2018
+AB Latent factor (LF)-based models are highly efficient in addressing
+   high-dimensional and sparse (HiDS) matrices raised in big-data-related
+   applications like recommender systems. While linear biases have proven
+   to be effective in improving the prediction accuracy and computational
+   efficiency of LF models, their individual and combinational effects in
+   such performance gain remain unclear. To address this issue, this work
+   aims at studying the effects of linear biases in LF models for
+   recommender systems. Based on careful investigations into existing
+   methods, we categorize frequently adopted biases into two classes, i.e.,
+   preprocessing bias (PB) and training bias (TB). Subsequently, we deduce
+   the training objectives and parameter updating rules of LF models with
+   different PB and TB combinations. Experimental results on three HiDS
+   matrices generated by real recommender systems show that (a) each PB/TB
+   does have positive/negative effects in the performance of an LF model;
+   (b) Such effects are partially data dependent, however, some specific
+   PB/TB can bring stable performance gain to an LF model; and (c) several
+   PB and TB combinations appear significantly more effective in improving
+   an LF model's performance when compared to their peers. (C) 2017
+   Elsevier B.V. All rights reserved.
+TC 1
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+Z9 1
+SN 0925-2312
+EI 1872-8286
+UT WOS:000418370200189
+ER
+
+PT J
+AU Gao, Rong
+   Li, Jing
+   Li, Xuefei
+   Song, Chengfang
+   Zhou, Yifei
+TI A personalized point-of-interest recommendation model via fusion of
+   geo-social information
+SO NEUROCOMPUTING
+VL 273
+BP 159
+EP 170
+DI 10.1016/j.neucom.2017.08.020
+PD JAN 17 2018
+PY 2018
+AB Recently, as location-based social networks (LBSNs) rapidly grow,
+   general users utilize point-of-interest recommender systems to discover
+   attractive locations. Most existing POI recommendation algorithms always
+   employ the check-in data and rich contextual information (e. g.,
+   geographical information and users' social network information) of users
+   to learn their preference on POIs. Unfortunately, these studies
+   generally suffer from two major limitations: (1) when modeling
+   geographical influence, users' personalized behavior differences are
+   ignored; (2) when modeling the users' social influence, the implicit
+   social influence is seldom exploited. In this paper, we propose a novel
+   POI recommendation approach called GeoEISo. GeoEISo achieves three key
+   goals in this work. (1) We develop a kernel estimation method with a
+   selfadaptive kernel bandwidth to model the geographical influence
+   between POIs. (2) We use the Gaussian radial basis kernel function based
+   support vector regression (SVR) model to predict explicit trust values
+   between users, and then devise a novel trust-based recommendation model
+   to simultaneously incorporate both the explicit and implicit social
+   trust information into the process of POI recommendation. (3) We develop
+   a unified geo-social framework which combines users' preference on a POI
+   with the geographical influence as well as social correlations.
+   Experimental results on two real-world datasets collected from
+   Foursquare show that GeoEISo provides significantly superior
+   performances compared to other state-of-the-art POI recommendation
+   models. (C) 2017 Elsevier B.V. All rights reserved.
+ZB 0
+TC 2
+ZR 0
+ZS 0
+Z8 0
+Z9 2
+SN 0925-2312
+EI 1872-8286
+UT WOS:000414762100016
+ER
+
+PT J
+AU Wang, Qing-Xian
+   Luo, Xin
+   Li, Yan
+   Shi, Xiao-Yu
+   Gu, Liang
+   Shang, Ming-Sheng
+TI Incremental Slope-one recommenders
+SO NEUROCOMPUTING
+VL 272
+BP 606
+EP 618
+DI 10.1016/j.neucom.2017.07.033
+PD JAN 10 2018
+PY 2018
+AB Collaborative filtering (CF)-based recommenders work by estimating a
+   user's potential preferences on unobserved items referring to the other
+   users' observed preferences. Slope-one, as a well-known CF recommender,
+   is widely adopted in industrial applications owing to it's (a)
+   competitive prediction accuracy for user's potential preferences, (b)
+   high computational efficiency, and (c) ease of implementation. However,
+   current Slope-one-based algorithms are all designed for static datasets,
+   which are contradictory to real situations where dynamic datasets are
+   mostly involved. This paper focuses on designing incremental Slope-one
+   recommenders able to address dynamic datasets, reflecting their
+   variations instantly without retraining the whole model. To do so, we
+   have carefully analyzed the parameter training processing of
+   Slope-one-based recommenders to design the incremental update rules for
+   involved parameters reflecting data increments in dynamic environments.
+   Three incremental Slope-one recommenders, including the incremental
+   Slope-one, incremental weighted Slope-one, and incremental bi-polar
+   slope one, are proposed. Experimental results on two large real datasets
+   indicate that the proposed incremental slope-one recommenders can
+   correctly reflect the increments of dynamic datasets with high
+   computational efficiency. (C) 2017 Elsevier B.V. All rights reserved.
+Z8 0
+ZS 0
+TC 0
+ZR 0
+ZB 0
+Z9 0
+SN 0925-2312
+EI 1872-8286
+UT WOS:000413821400061
+ER
+
+PT S
+AU Migliorini, Sara
+   Carra, Damian
+   Belussi, Alberto
+GP IEEE
+TI Adaptive Trip Recommendation System: Balancing Travelers Among POIs with
+   MapReduce
+SO 2018 IEEE INTERNATIONAL CONGRESS ON BIG DATA (IEEE BIGDATA CONGRESS)
+SE IEEE International Congress on Big Data
+BP 255
+EP 259
+DI 10.1109/BigDataCongress.2018.00045
+PD 2018
+PY 2018
+AB Travel recommendation systems provide suggestions to the users based on
+   different information, such as user preferences, needs, or constraints.
+   The recommendation may also take into account some characteristics of
+   the points of interest (POIs) to be visited, such as the opening hours,
+   or the peak hours. Although a number of studies have been proposed on
+   the topic, most of them tailor the recommendation considering the user
+   viewpoint, without evaluating the impact of the suggestions on the
+   system as a whole. This may lead to oscillatory dynamics, where the
+   choices made by the system generate new peak hours.
+   This paper considers the trip planning problem that takes into account
+   the balancing of users among the different POIs. To this aim, we
+   consider the estimate of the level of crowding at POIs, including both
+   the historical data and the effects of the recommendation. We formulate
+   the problem as a multi-objective optimization problem, and we design a
+   recommendation engine that explores the solution space in near
+   real-time, through a distributed version of the Simulated Annealing
+   approach. Through an experimental evaluation on a real dataset, we show
+   that our solution is able to provide high quality recommendations, yet
+   maintaining that the attractions are not overcrowded.
+CT IEEE International Congress on Big Data (IEEE BigData) Part of the IEEE
+   World Congress on Services
+CY JUL 02-07, 2018
+CL San Francisco, CA
+SP IEEE; IEEE Comp Soc; CCF, TCSC
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+TC 0
+Z9 0
+SN 2379-7703
+BN 978-1-5386-7232-7
+UT WOS:000450160400037
+ER
+
+PT J
+AU Shams, Bita
+   Haratizadeh, Saman
+TI GraphLoc: a graph based approach for automatic detection of significant
+   locations from GPS trajectory data
+SO JOURNAL OF SPATIAL SCIENCE
+VL 63
+IS 1
+BP 115
+EP 134
+DI 10.1080/14498596.2017.1327374
+PD 2018
+PY 2018
+AB Automatic discovery of significant locations from row GPS data is the
+   first phase of mining mobility pattern and developing location-aware
+   services. Unfortunately, current location discovery algorithms are
+   ineffective when locations have different local properties such as
+   density. Moreover, these algorithms suffer from the sharp boundary
+   problem that is assigning some close points to different locations while
+   they intuitively belong to one location. This article presents a novel
+   framework, GraphLoc that formulates location discovery as a network
+   community detection problem to address these issues. Experimental
+   results show that GraphLoc's locations lead to higher performance in
+   mobility mining and location prediction.
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+SN 1449-8596
+EI 1836-5655
+UT WOS:000444569000009
+ER
+
+PT J
+AU Cui, Ge
+   Luo, Jun
+   Wang, Xin
+TI Personalized travel route recommendation using collaborative filtering
+   based on GPS trajectories
+SO INTERNATIONAL JOURNAL OF DIGITAL EARTH
+VL 11
+IS 3
+BP 284
+EP 307
+DI 10.1080/17538947.2017.1326535
+PD 2018
+PY 2018
+AB Travelling is a critical component of daily life. With new technology,
+   personalized travel route recommendations are possible and have become a
+   new research area. A personalized travel route recommendation refers to
+   plan an optimal travel route between two geographical locations, based
+   on the road networks and users' travel preferences. In this paper, we
+   define users' travel behaviours from their historical Global Positioning
+   System (GPS) trajectories and propose two personalized travel route
+   recommendation methods - collaborative travel route recommendation
+   (CTRR) and an extended version of CTRR (CTRR+). Both methods consider
+   users' personal travel preferences based on their historical GPS
+   trajectories. In this paper, we first estimate users' travel behaviour
+   frequencies by using collaborative filtering technique. A route with the
+   maximum probability of a user's travel behaviour is then generated based
+   on the naive Bayes model. The CTRR+ method improves the performances of
+   CTRR by taking into account cold start users and integrating distance
+   with the user travel behaviour probability. This paper also conducts
+   some case studies based on a real GPS trajectory data set from Beijing,
+   China. The experimental results show that the proposed CTRR and CTRR+
+   methods achieve better results for travel route recommendations compared
+   with the shortest distance path method.
+ZB 0
+ZR 0
+ZS 0
+TC 4
+Z8 0
+Z9 4
+SN 1753-8947
+EI 1753-8955
+UT WOS:000428620000004
+ER
+
+PT J
+AU Margaris, Dionisis
+   Vassilakis, Costas
+TI Exploiting Internet of Things information to enhance venues'
+   recommendation accuracy
+SO SERVICE ORIENTED COMPUTING AND APPLICATIONS
+VL 11
+IS 4
+SI SI
+BP 393
+EP 409
+DI 10.1007/s11761-017-0216-y
+PD DEC 2017
+PY 2017
+AB In this paper, we introduce a novel recommendation algorithm, which
+   exploits data sourced from web services provided by the Internet of
+   Things in order to produce more accurate venue recommendations. The
+   proposed algorithm provides added value for the web services offered by
+   the Internet of Things and enhances the state-of-the-art in this
+   algorithm category by taking into account (a) web of things data
+   regarding the contexts of the user and the context of the venues to be
+   recommended (restaurants, movie theaters, etc.), such as the user's
+   geographical position, road traffic and weather conditions, (b)
+   qualitative aspects of the venues, such as price, atmosphere or service,
+   (c) the semantic similarity of venues and (d) the influencing factors
+   between social network users, derived from user participation in social
+   networks. The combination of these features leads to more accurate and
+   better user-targeted recommendations. We also present a framework which
+   incorporates the above characteristics, and we evaluate the presented
+   algorithm, both in terms of performance and recommendation quality.
+OI Vassilakis, Costas/0000-0001-9940-1821; Margaris,
+   Dionisis/0000-0002-7487-374X
+ZB 0
+ZR 0
+TC 3
+Z8 0
+ZS 0
+Z9 3
+SN 1863-2386
+EI 1863-2394
+UT WOS:000416872000002
+ER
+
+PT J
+AU Zhu, Xiaoyan
+   Hao, Ripei
+   Chi, Haotian
+   Du, Xiaojiang
+TI FineRoute: Personalized and Time-Aware Route Recommendation Based on
+   Check-Ins
+SO IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+VL 66
+IS 11
+BP 10461
+EP 10469
+DI 10.1109/TVT.2017.2764999
+PD NOV 2017
+PY 2017
+AB The rapid expansion of urbanization and the fast pace of life result in
+   abundant choices with little time for people to manage routes. A proper
+   planning route enables us to enjoy life better with fewer time and
+   energy costs. Therefore, route planning becomes too valuable to be
+   ignored. At the same time, with the popularity of mobile devices,
+   location sensing, and Web 2.0 technologies, location-based social
+   networks (e. g., Facebook Palaces and Foursquare) have attracted
+   millions of users to share their visited locations and other
+   information, which generates large amounts of user check-in data. These
+   data can be used to mine users' preferences and time information for
+   recommending routes. In this paper, we propose FineRoute, a personalized
+   and time-sensitive route recommendation system. We take three factors
+   that user' preferences, proper visiting time, and transition time into
+   consideration for the route generation. First, we infer users'
+   preferences by constructing a three-dimensional tensor, with three
+   dimensions representing users, locations, and time, respectively.
+   Second, we obtain the proper visiting time for certain locations, as
+   well as the transition time between two locations from the check-in
+   dataset. Moreover, we adopt Kullback-Leibler divergence in order to
+   measure the quality of a route in terms of the proper visiting month and
+   the proper visiting hour. Finally, we propose a route generation
+   algorithm by extending the classic longest path algorithm. We conduct
+   experiments on a real-world check-in dataset and the results demonstrate
+   the effectiveness of our scheme.
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+TC 1
+Z9 1
+SN 0018-9545
+EI 1939-9359
+UT WOS:000415114600066
+ER
+
+PT J
+AU Tao, Longquan
+   Cao, Jinli
+   Liu, Fei
+TI Quantifying textual terms of items for similarity measurement
+SO INFORMATION SCIENCES
+VL 415
+BP 269
+EP 282
+DI 10.1016/j.ins.2017.06.030
+PD NOV 2017
+PY 2017
+AB It is well known that recommender systems rely on the similarity between
+   items to be recommended. Most current research projects in this area
+   utilize traditional similarity measurement algorithms, such as cosine
+   distance or derivatives of these. However, the most challenging problem
+   facing these approaches is to quantify the non-numerical attributes of
+   items. This is quite intractable and cannot be solved with regular
+   similarity measurement algorithms. This paper proposes two novel
+   methods, the Taxonomic Trees Similarity Measurement (TTSM) and the
+   Decomposed Structures Similarity Measurement (SDSM), so that the
+   similarities between the textual attributes can be measured using
+   numeric values after they have been quantified. Also, the quantifying
+   process is completely based on the semantic meanings of the textual
+   terms. Furthermore, a maximized term matching (MTM) mechanism is induced
+   and applied to the group-based textual attributes of items in
+   recommender systems. Finally, we evaluate our methods by implementing a
+   recipe recommender system which achieves a 74.4% overall satisfaction
+   rate as evaluated by real users. (C) 2017 Elsevier Inc. All rights
+   reserved.
+ZS 0
+ZB 0
+TC 1
+ZR 0
+Z8 0
+Z9 1
+SN 0020-0255
+EI 1872-6291
+UT WOS:000409151300020
+ER
+
+PT J
+AU Zou, Zhiqiang
+   Yu, Zhe
+   Cao, Kai
+TI An innovative GPS trajectory data based model for geographic
+   recommendation service
+SO TRANSACTIONS IN GIS
+VL 21
+IS 5
+BP 880
+EP 896
+DI 10.1111/tgis.12248
+PD OCT 2017
+PY 2017
+AB Geographic services based on GPS trajectory data, such as location
+   prediction and recommender services, have received increasing attention
+   because of their potential social and commercial benefits. In this
+   study, a Geographic Service Recommender Model (GSRM) is proposed, which
+   loosely comprises three essential steps. Firstly, location sequences are
+   obtained through a clustering operation on GPS locations. To improve
+   efficiency, a programming model with a distributed algorithm is employed
+   to accelerate the clustering. Secondly, in order to mine spatial and
+   temporal information from the cluster trajectory, an algorithm
+   (MiningMP) is designed. Last but not least, the next possible location
+   to which the user will travel is predicted. An integrated framework of
+   GSRM could then be constructed and provide the appropriate geographic
+   recommendation service by considering location sequences as well as
+   other related semantic information. Experiments were conducted based on
+   real GPS trajectories from Microsoft Research Asia (182 users within a
+   period of five years). The experimental results clearly demonstrate that
+   our proposed GSRM model is effective and efficient at predicting
+   locations and can provide users with personalized smart recommendation
+   services in the following possible position with excellent performance
+   in scalability, adaptability, and quality of service.
+RI Cao, Kai/P-3238-2015
+OI Cao, Kai/0000-0002-8043-1462
+TC 1
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 1
+SN 1361-1682
+EI 1467-9671
+UT WOS:000412577200003
+ER
+
+PT J
+AU Bonnel, Patrick
+   Hombourger, Etienne
+   Olteanu-Raimond, Ana-Maria
+   Smoreda, Zbigniew
+TI Potential and limitations of mobile phone passive data to build
+   origin-destination matrices
+SO REVUE D ECONOMIE REGIONALE ET URBAINE
+IS 4
+BP 647
+EP 671
+DI 10.3917/reru.174.0647
+PD OCT 2017
+PY 2017
+AB The aim of the paper is to test the potential of passive mobile phone
+   data to produce accurate origin-destination matrices. In this paper, we
+   present applications performed on a dataset (communication events +
+   handovers and location automatic updates) collected by Orange operator
+   from March 31 to April 11, 2009 for the whole Paris Region. Data allow
+   producing pseudo real-time spatiotemporal trajectory of devices. But the
+   trajectory is not sufficient to determine trips. We need to introduce
+   assumptions to generate origin and destination.
+   In order to test the accuracy of mobile phone trip matrix, we confront
+   it with the matrix built from household travel survey data at
+   conurbation level in Paris Region (Enquete Globale Transport). Results
+   appear promising for the comparison with household travel survey data
+   for which we obtain rather good matching for each cell of
+   origin-destination matrix. The paper also presents data limits and
+   perspectives to improve matrix construction and comparison methodology.
+ZR 0
+ZS 0
+Z8 0
+ZB 0
+TC 0
+Z9 0
+SN 0180-7307
+EI 2107-0865
+UT WOS:000423929700003
+ER
+
+PT J
+AU Cui, Chaoran
+   Shen, Jialie
+   Nie, Liqiang
+   Hong, Richang
+   Ma, Jun
+TI Augmented Collaborative Filtering for Sparseness Reduction in
+   Personalized POI Recommendation
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 8
+IS 5
+AR 71
+DI 10.1145/3086635
+PD SEP 2017
+PY 2017
+AB As mobile device penetration increases, it has become pervasive for
+   images to be associated with locations in the form of geotags. Geotags
+   bridge the gap between the physical world and the cyberspace, giving
+   rise to new opportunities to extract further insights into user
+   preferences and behaviors. In this article, we aim to exploit geotagged
+   photos from online photo-sharing sites for the purpose of personalized
+   Point-of-Interest (POI) recommendation. Owing to the fact that most
+   users have only very limited travel experiences, data sparseness poses a
+   formidable challenge to personalized POI recommendation. To alleviate
+   data sparseness, we propose to augment current collaborative filtering
+   algorithms along from multiple perspectives. Specifically, hybrid
+   preference cues comprising user-uploaded and user-favored photos are
+   harvested to study users' tastes. Moreover, heterogeneous high-order
+   relationship information is jointly captured from user social networks
+   and POI multimodal contents with hypergraph models. We also build upon
+   the matrix factorization algorithm to integrate the disparate sources of
+   preference and relationship information, and apply our approach to
+   directly optimize user preference rankings. Extensive experiments on a
+   large and publicly accessible dataset well verified the potential of our
+   approach for addressing data sparseness and offering quality
+   recommendations to users, especially for those who have only limited
+   travel experiences.
+RI SHEN, Jialie/E-8573-2012
+ZB 0
+ZR 0
+Z8 0
+TC 1
+ZS 0
+Z9 1
+SN 2157-6904
+EI 2157-6912
+UT WOS:000414318500010
+ER
+
+PT J
+AU Xu, Zhenxing
+   Chen, Ling
+   Dai, Yimeng
+   Chen, Gencai
+TI A Dynamic Topic Model and Matrix Factorization-Based Travel
+   Recommendation Method Exploiting Ubiquitous Data
+SO IEEE TRANSACTIONS ON MULTIMEDIA
+VL 19
+IS 8
+BP 1933
+EP 1945
+DI 10.1109/TMM.2017.2688928
+PD AUG 2017
+PY 2017
+AB The vast volumes of community-contributed geotagged photos (CCGPs)
+   available on the Web can be utilized to make travel location
+   recommendations. The sparsity of user location interactions makes it
+   difficult to learn travel preferences, because a user usually visits
+   only a limited number of travel locations. Static topic models can be
+   used to solve the sparsity problem by considering user travel topics.
+   However, all travel histories of a user are regarded as one document
+   drawn from a set of static topics, ignoring the evolving of topics and
+   travel preferences. In this paper, we propose a dynamic topic model
+   (DTM) and matrix factorization (MF)-based travel recommendation method.
+   A DTM is used to obtain the temporally fine-grained topic distributions
+   (i.e., implicit topic information) of users and locations. In addition,
+   a large amount of explicit information is extracted from the metadata
+   and visual contents of CCGPs, check-ins, and point of interest
+   categories datasets. The information is used to obtain user-user and
+   location-location similarity information, which is imposed as two
+   regularization terms to constraint MF. The proposed method is evaluated
+   on a publicly available Flickr dataset. Experimental results demonstrate
+   that the proposed method can generate significantly superior
+   recommendations compared to other state-of-the-art travel location
+   recommendation studies.
+ZR 0
+TC 1
+Z8 0
+ZS 0
+ZB 1
+Z9 1
+SN 1520-9210
+EI 1941-0077
+UT WOS:000411240400020
+ER
+
+PT J
+AU Zhu, Guixiang
+   Cao, Jie
+   Li, Changsheng
+   Wu, Zhiang
+TI A recommendation engine for travel products based on topic sequential
+   patterns
+SO MULTIMEDIA TOOLS AND APPLICATIONS
+VL 76
+IS 16
+BP 17595
+EP 17612
+DI 10.1007/s11042-017-4406-6
+PD AUG 2017
+PY 2017
+AB Travel products recommendation has become one of emerging issues in the
+   realm of recommendation systems. The widely-used collaborative filtering
+   algorithms are usually difficult to be used for recommending travel
+   products due to a number of reasons, including (1) the content of travel
+   products is very complex, (2) the user-item matrix is extremely sparse,
+   and (3) the cold-start users are widely existing. To tackle these
+   issues, we try to exploit Web server logs for generating recommendation,
+   and present a novel recommendation engine (SECT for short) for travel
+   products based on topic sequential patterns. In detail, we first extract
+   topics from semantic description of every Web page. Then, we mine topic
+   frequent sequential patterns and their target products to form click
+   patterns library. At last, we propose a Markov n-gram model for matching
+   the real-time click-stream of users with the click patterns library and
+   thus computing recommendation scores. Experimental results on a
+   real-world travel dataset demonstrate that the SECT prevails over the
+   state-of-art baseline algorithms. In particular, SECT shows merits in
+   improving the both coverage and accuracy for recommending products to
+   cold-start users. Also, SECT is effective to recommend long tail items
+   and outperform baseline algorithms.
+Z8 0
+ZB 0
+ZR 0
+TC 3
+ZS 0
+Z9 3
+SN 1380-7501
+EI 1573-7721
+UT WOS:000405528500040
+ER
+
+PT J
+AU Gasparetti, Fabio
+TI Personalization and Context-awareness in Social Local Search:
+   State-of-the-art and Future Research Challenges
+SO PERVASIVE AND MOBILE COMPUTING
+VL 38
+SI SI
+BP 446
+EP 473
+DI 10.1016/j.pmcj.2016.04.004
+PN 2
+PD JUL 2017
+PY 2017
+AB Location-based services (LBS) are now the platforms for aggregating
+   relevant information about users and understanding their mobile behavior
+   and preferences based on the location histories. The increasing
+   availability of large amounts of spatio-temporal data brings us
+   opportunities and challenges to automatically discover valuable
+   knowledge. While context-aware properties quickly became the key of the
+   success of these pervasive applications, information related to user
+   preferences and social signals still lack of adequate capitalization.
+   Local search in LBSs is a peculiar service where recent and current
+   interests, the network of explicit and implicit social interactions
+   between users can be combined for effectively performing fine-tuned and
+   personalized recommendations of points of interest. In this article we
+   present the various and peculiar aspects of local search in mobile
+   scenarios. Then we explore the added value of personalization and the
+   benefits of considering social signals, summarizing open challenges and
+   emerging technologies. (C) 2016 Elsevier B.V. All rights reserved.
+OI Gasparetti, Fabio/0000-0003-0263-531X
+Z8 0
+ZR 0
+TC 4
+ZB 0
+ZS 0
+Z9 4
+SN 1574-1192
+EI 1873-1589
+UT WOS:000404826600013
+ER
+
+PT J
+AU Fan, Xiaoyi
+   Liu, Jiangchuan
+   Wang, Zhi
+   Jiang, Yong
+   Liu, Xue
+TI Crowdsourced Road Navigation: Concept, Design, and Implementation
+SO IEEE COMMUNICATIONS MAGAZINE
+VL 55
+IS 6
+BP 126
+EP 131
+DI 10.1109/MCOM.2017.1600738
+PD JUN 2017
+PY 2017
+AB Map services and applications have been studied extensively within the
+   mobile computing community in the past two decades, starting from
+   standalone GPS receivers and then moving toward connected smart
+   terminals with live digital maps of transportation networks and even
+   real-time traffic. More recently, with the deep penetration of modern
+   3G/4G networking and social networking, the crowd intelligence from the
+   social community has been explored toward crowdsourced navigation. In
+   this article, we first provide an overview of the past and present road
+   navigation technologies. We then discuss very recent advances in crowd
+   intelligence, identifying the unique challenges and opportunities
+   therein. We further present a case study that utilizes the crowdsourced
+   driving information to combat the last mile puzzle for road navigation.
+ZR 0
+ZB 0
+TC 2
+Z8 0
+ZS 0
+Z9 2
+SN 0163-6804
+EI 1558-1896
+UT WOS:000403536100019
+ER
+
+PT J
+AU Tang, Luliang
+   Zou, Qianqian
+   Zhang, Xia
+   Ren, Chang
+   Li, Qingquan
+TI Spatio-Temporal Behavior Analysis and Pheromone-Based Fusion Model for
+   Big Trace Data
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 6
+IS 5
+AR UNSP 151
+DI 10.3390/ijgi6050151
+PD MAY 2017
+PY 2017
+AB People leave traces of movements that might affect the behavior of
+   others both online in cyberspace and offline in real space. Previous
+   studies, however, have used only questionnaires, network data, or GPS
+   data to study spatio-temporal behaviors, ignoring the relationship
+   between online and offline activities, and overlooking the influence of
+   previous activities on future behaviors. We propose a Pheromone-based
+   Fusion Model, viewing human behaviors as similar to insect foraging
+   behaviors to model spatio-temporal recreational activity patterns, on
+   and offline. In our model, website data were combined with GPS data to
+   evaluate the attractiveness of destinations over time using twenty-nine
+   landscapes in Beijing, China; big website data and GPS trajectories were
+   gathered from 181 users for 57 months. The datasets were portioned into
+   two periods. Online and offline recreational pheromones were calculated
+   from the first period, and the visitation rates were extracted from the
+   second period. These data were subsequently applied in a regression
+   analysis to determine unknown parameters and estimate the attractiveness
+   of destinations. The proposed method was compared with two other
+   approaches that use either GPS data or online data alone, in order to
+   verify effectiveness. The results show that the proposed method can
+   estimate future behaviors, based on real world and online past actions.
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+SN 2220-9964
+UT WOS:000404525500026
+ER
+
+PT J
+AU Huang, Chao
+   Wang, Dong
+   Mann, Brian
+TI Towards social-aware interesting place finding in social sensing
+   applications
+SO KNOWLEDGE-BASED SYSTEMS
+VL 123
+BP 31
+EP 40
+DI 10.1016/j.knosys.2017.02.006
+PD MAY 1 2017
+PY 2017
+AB This paper develops a principled approach to accurately identify
+   interesting places in a city through social sensing applications. Social
+   sensing has emerged as a new application paradigm, where a crowd of
+   social sources (humans or devices on their behalf) collectively
+   contribute a large amount of observations about the physical world. This
+   paper studies an interesting place finding problem, in which the goal is
+   to correctly identify the interesting places in a city. Important
+   challenges exist in solving this problem: (i) the interestingness of a
+   place is not only related to the number of users who visit it, but also
+   depends upon the travel experience of the visiting users; (ii) the
+   user's social connections could directly affect their visiting behavior
+   and the interestingness judgment of a given place. In this paper, we
+   develop a new Social-aware Interesting Place Finding Plus (SIPF+)
+   approach that addresses the above challenges by explicitly incorporating
+   both the user's travel experience and social relationship into a
+   rigorous analytical framework. The SIPF+ scheme can find interesting
+   places not typically identified by traditional travel websites (e.g.,
+   TripAdvisor, Expedia). We compare our solution with state-of-the-art
+   baselines using two real-world datasets collected from location-based
+   social network services and verified the effectiveness of our approach.
+   (C) 2017 Elsevier B.V. All rights reserved.
+TC 2
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+Z9 2
+SN 0950-7051
+EI 1872-7409
+UT WOS:000399632500003
+ER
+
+PT J
+AU Wang, Weiqing
+   Yin, Hongzhi
+   Chen, Ling
+   Sun, Yizhou
+   Sadiq, Shazia
+   Zhou, Xiaofang
+TI ST-SAGE: A Spatial-Temporal Sparse Additive Generative Model for Spatial
+   Item Recommendation
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 8
+IS 3
+SI SI
+AR 48
+DI 10.1145/3011019
+PD APR 2017
+PY 2017
+AB With the rapid development of location-based social networks (LBSNs),
+   spatial item recommendation has become an important mobile application,
+   especially when users travel away from home. However, this type of
+   recommendation is very challenging compared to traditional recommender
+   systems. A user may visit only a limited number of spatial items,
+   leading to a very sparse user-item matrix. This matrix becomes even
+   sparser when the user travels to a distant place, as most of the items
+   visited by a user are usually located within a short distance from the
+   user's home. Moreover, user interests and behavior patterns may vary
+   dramatically across different time and geographical regions. In light of
+   this, we propose ST-SAGE, a spatial-temporal sparse additive generative
+   model for spatial item recommendation in this article. ST-SAGE considers
+   both personal interests of the users and the preferences of the crowd in
+   the target region at the given time by exploiting both the co-occurrence
+   patterns and content of spatial items. To further alleviate the
+   data-sparsity issue, ST-SAGE exploits the geographical correlation by
+   smoothing the crowd's preferences over a well-designed spatial index
+   structure called the spatial pyramid. To speed up the training process
+   of ST-SAGE, we implement a parallel version of themodel inference
+   algorithm on the GraphLab framework. We conduct extensive experiments;
+   the experimental results clearly demonstrate that ST-SAGE outperforms
+   the state-of-the-art recommender systems in terms of recommendation
+   effectiveness, model training efficiency, and online recommendation
+   efficiency.
+RI Zhou, Xiaofang/C-6169-2013
+OI Zhou, Xiaofang/0000-0001-6343-1455
+ZR 0
+TC 3
+ZB 0
+ZS 0
+Z8 0
+Z9 3
+SN 2157-6904
+EI 2157-6912
+UT WOS:000400160800015
+ER
+
+PT J
+AU Drif, Ahlem
+   Boukerram, Abdellah
+   Slimani, Yacine
+   Giordano, Silvia
+TI Discovering Interest Based Mobile Communities
+SO MOBILE NETWORKS & APPLICATIONS
+VL 22
+IS 2
+BP 344
+EP 355
+DI 10.1007/s11036-017-0811-3
+PD APR 2017
+PY 2017
+AB Human mobility has attracted lots of attention in the domain of wireless
+   communication technologies and behavioral sciences. Exploring and
+   analyzing human movements that are changing over time, relating to user
+   habits and depending on spacial aspect is a challenging problem. In this
+   paper, we are interested in discovering communities of mobile users and
+   studying how do communities provide accurate knowledge to analysis the
+   different forms of human mobility. The basic idea of our work is to
+   model the behaviour of users with strong social characteristics
+   regarding the context of their location histories to explore a similar
+   interest of people by mining their mobiles communities. The proposed
+   analysis illustrates in what way a common interest of a group of
+   individuals can create better understanding of human mobility. Realistic
+   models based on these interest based communities can be the basis for
+   applications as recommendation system or wireless networks management.
+OI DRIF, AHLEM/0000-0002-6666-952X; SLIMANI, Yacine/0000-0003-2775-071X
+Z8 0
+TC 1
+ZR 0
+ZB 0
+ZS 0
+Z9 1
+SN 1383-469X
+EI 1572-8153
+UT WOS:000399021400020
+ER
+
+PT J
+AU Wang, Yong-Tao
+   Tao, Jing
+   Maimaiti, Ailifeire
+   Adi, Dilare
+   Yang, Yi-Ning
+   Li, Xiao-Mei
+   Ma, Xiang
+   Liu, Fen
+   Chen, Bang-Dang
+   Ma, Yi-Tong
+TI Prevalence of valvular heart diseases and associated risk factors in
+   Han, Uygur and Kazak population in Xinjiang, China
+SO PLOS ONE
+VL 12
+IS 3
+AR e0174490
+DI 10.1371/journal.pone.0174490
+PD MAR 29 2017
+PY 2017
+AB Background
+   Valvular heart diseases (VHD) is very common in clinical practice and
+   has became the subject of growing attention in the field of
+   cardiovascular medicine. Our aim was to assess the prevalence and
+   correlates of VHD in the general population in Xinjiang, China.
+   Methods
+   Using a 4-stage stratified cluster random sampling method, a total of
+   14618 participants were recruited in the Cardiovascular Risk Survey
+   (CRS) study. The participants' personal information, medical history
+   were assessed by questionnaire. VHD was diagnosed by trans thoracic
+   echocardiography. We carried out the statistical analysis utilizing SPSS
+   Statistics version 19.0.
+   Results
+   In the total study group, VHD was observed in 1397 (9.65%) individuals.
+   The prevalence rates of VHD in Han, Uygur and Kazak group are 13.51%,
+   2.71% and 12.29% respectively. The prevalence rates of VHD increased
+   strikingly with age (all P < 0.001). The results of multinomial
+   regression analysis indicated that VHD were related to age in Han group,
+   to age smoking and hypertension in Uygur group, to age and hypertension
+   in Kazak group.
+   Conclusion
+   Our research provides a unique prevalence rate of VHD in Xinjiang
+   natural population. The result suggests that VHD are notably common in
+   this population (9.65%) and increase with age. There exists significant
+   difference of prevalence rate between ethnics. The main risk factors of
+   VHD are age, hypertension and smoking. Valvular heart diseases should be
+   regarded as a serious and growing public-health problem.
+ZS 0
+Z8 0
+ZB 1
+TC 2
+ZR 0
+Z9 2
+SN 1932-6203
+UT WOS:000399174600056
+PM 28355290
+ER
+
+PT J
+AU Zhao, Guoshuai
+   Qian, Xueming
+   Kang, Chen
+TI Service Rating Prediction by Exploring Social Mobile Users' Geographical
+   Locations
+SO IEEE TRANSACTIONS ON BIG DATA
+VL 3
+IS 1
+BP 67
+EP 78
+DI 10.1109/TBDATA.2016.2552541
+PD MAR 1 2017
+PY 2017
+AB Recently, advances in intelligent mobile device and positioning
+   techniques have fundamentally enhanced social networks, which allows
+   users to share their experiences, reviews, ratings, photos, check-ins,
+   etc. The geographical information located by smart phone bridges the gap
+   between physical and digital worlds. Location data functions as the
+   connection between user's physical behaviors and virtual social networks
+   structured by the smart phone or web services. We refer to these social
+   networks involving geographical information as location-based social
+   networks (LBSNs). Such information brings opportunities and challenges
+   for recommender systems to solve the cold start, sparsity problem of
+   datasets and rating prediction. In this paper, we make full use of the
+   mobile users' location sensitive characteristics to carry out rating
+   prediction. We mine: 1) the relevance between user's ratings and
+   user-item geographical location distances, called as user-item
+   geographical connection, 2) the relevance between users' rating
+   differences and user-user geographical location distances, called as
+   user-user geographical connection. It is discovered that humans' rating
+   behaviors are affected by geographical location significantly. Moreover,
+   three factors: user-item geographical connection, user-user geographical
+   connection, and interpersonal interest similarity, are fused into a
+   unified rating prediction model. We conduct a series of experiments on a
+   real social rating network dataset Yelp. Experimental results
+   demonstrate that the proposed approach outperforms existing models.
+Z8 3
+ZB 0
+TC 11
+ZS 0
+ZR 0
+Z9 13
+SN 2332-7790
+UT WOS:000415161400008
+ER
+
+PT J
+AU Woerndl, Wolfgang
+   Hefele, Alexander
+   Herzog, Daniel
+TI Recommending a sequence of interesting places for tourist trips
+SO INFORMATION TECHNOLOGY & TOURISM
+VL 17
+IS 1
+SI SI
+BP 31
+EP 54
+DI 10.1007/s40558-017-0076-5
+PD MAR 2017
+PY 2017
+AB Tourist trip design problems (TTDP) support tourists in creating trips
+   composed of multiple points of interest (POIs) or other travel-related
+   items. We present a novel approach to generate routes comprising
+   different POIs with a reasonable routing for a short city trip. In our
+   scenario, a user enters a start and an end point in a web application
+   together with preferences and receives a walking route with interesting
+   places to visit along the way. The place discovery is based on
+   retrieving arbitrarily rated places from Foursquare, so it is not
+   restricted to certain cities or regions. The developed scoring mechanism
+   rates the level of interest of a POI and accounts for the number of
+   places per category. Discovered places are then combined to a practical
+   route using a constraint-free and a constraint-based version of our
+   algorithm. The algorithms are based on Dijkstra's algorithm to find the
+   shortest path in a graph. We show that Dijkstra's algorithm can be
+   modified to find not only the shortest paths, but also trips that solve
+   the TTDP by maximizing the entertainment for the user while respecting
+   time and budget constraints. The solution has been implemented in a
+   practical web application. We conducted a user study showing that our
+   test users highly accepted the application. Improvement with regard to
+   user preferences for place categories lead to additional benefits in
+   terms of user satisfaction with the routing and the match with their
+   preferences. Finally, we outline challenges for future work on TTDPs in
+   this article.
+ZB 0
+ZR 0
+ZS 0
+TC 5
+Z8 0
+Z9 5
+SN 1098-3058
+EI 1943-4294
+UT WOS:000413821200003
+ER
+
+PT J
+AU Zhuang, Chenyi
+   Ma, Qiang
+   Yoshikawa, Masatoshi
+TI SNS user classification and its application to obscure POI discovery
+SO MULTIMEDIA TOOLS AND APPLICATIONS
+VL 76
+IS 4
+BP 5461
+EP 5487
+DI 10.1007/s11042-016-4034-6
+PD FEB 2017
+PY 2017
+AB Technologies are increasingly taking advantage of the explosion of
+   social media (e.g., web searches, ad targeting, personalized geo-social
+   recommendations, urban computing). Estimating the characteristics of
+   users, or user profiling, is one of the key challenges for such
+   technologies. This paper focuses on the important problem of
+   automatically estimating social networking service (SNS) user authority
+   with a given city, which can significantly improve location-based
+   services and systems. The "authority" in our work measures a user's
+   familiarity with a particular city. By analyzing users' social,
+   temporal, and spatial behavior, we respectively propose and compare
+   three models for user authority: a social-network-driven model,
+   time-driven model, and location-driven model. Furthermore, we discuss
+   the integration of these three models. Finally, by using these
+   user-profiling models, we propose a new application for geo-social
+   recommendations. In contrast to related studies, which focus on popular
+   and famous points of interests (POIs), our models help discover obscure
+   POIs that are not well known. Experimental evaluations and analysis on a
+   real dataset collected from three cities demonstrate the performance of
+   the proposed user-profiling models. To verify the effect of discovering
+   obscure POIs, the proposed application was implemented to discover and
+   explore obscure POIs in Kyoto, Japan.
+RI Zhuang, Chenyi/L-6992-2018
+OI Zhuang, Chenyi/0000-0003-1891-5666
+ZS 0
+ZR 0
+ZB 0
+TC 2
+Z8 0
+Z9 2
+SN 1380-7501
+EI 1573-7721
+UT WOS:000397020500035
+ER
+
+PT B
+AU Salehi, Mehdi
+GP IEEE
+TI Optimal Physiology-Aware Scheduling of Clinical States in Rural
+   Ambulance Transport
+SO PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON INVENTIVE COMPUTING AND
+   INFORMATICS (ICICI 2017)
+BP 247
+EP 252
+PD 2017
+PY 2017
+AB Remote monitoring in a continuous manner is a key component of ambulance
+   transports for patients with severe diseases. The measurements of the
+   patients, e.g. their heart rate, temperature, level of glucose and many
+   more, should constantly be reported to the hospital with expert doctors
+   to give instructions to people in ambulance so that the patient survives
+   on the way to hospital where more instruments and expert doctors are
+   available in hand. In rural areas, the coverage of communication
+   services are not sufficient for transmission of such signals, so the
+   available bandwidth should be used in an efficient manner, or severe
+   irreparable damages can be caused for the patient. The available
+   bandwidth can come from different sources like satellite communication,
+   2G/3G/4G communication from different carriers, or other wireless
+   communications available for ambulances specifically. Given that the
+   physiological states of a patient are of different priorities and that
+   the different sources of communications have different bandwidths (and
+   so different round trip time), an important issue is to schedule the
+   right physiological state of the patient to the right communication
+   channel, so that the cost incurred to the patient minimizes In this
+   paper, we investigate the performance of different scheduling algorithms
+   on our system model, and propose an adaptive communication scheme for
+   remote monitoring of critically ill patients who are receiving ambulance
+   transport in rural areas with poor communication coverage to minimize
+   the instantaneous incurred damage to these patients.
+CT International Conference on Inventive Computing and Informatics (ICICI)
+CY NOV 23-24, 2017
+CL Coimbatore, INDIA
+SP IEEE; REC
+TC 0
+ZB 0
+ZS 0
+ZR 0
+Z8 0
+Z9 0
+BN 978-1-5386-4031-9
+UT WOS:000435263600046
+ER
+
+PT S
+AU Li, Chao
+   Palanisamy, Balaji
+   Joshi, James
+BE Karypis, G
+   Zhang, J
+TI Differentially Private Trajectory Analysis for Points-of-Interest
+   Recommendation
+SO 2017 IEEE 6TH INTERNATIONAL CONGRESS ON BIG DATA (BIGDATA CONGRESS 2017)
+SE IEEE International Congress on Big Data
+BP 49
+EP 56
+DI 10.1109/BigDataCongress.2017.16
+PD 2017
+PY 2017
+AB Ubiquitous deployment of low-cost mobile positioning devices and the
+   widespread use of high-speed wireless networks enable massive collection
+   of large-scale trajectory data of individuals moving on road networks.
+   Trajectory data mining finds numerous applications including
+   understanding users' historical travel preferences and recommending
+   places of interest to new visitors. Privacy-preserving trajectory mining
+   is an important and challenging problem as exposure of sensitive
+   location information in the trajectories can directly invade the
+   location privacy of the users associated with the trajectories. In this
+   paper, we propose a differentially private trajectory analysis algorithm
+   for points-of-interest recommendation to users that aims at maximizing
+   the accuracy of the recommendation results while protecting the privacy
+   of the exposed trajectories with differential privacy guarantees. Our
+   algorithm first transforms the raw trajectory dataset into a bipartite
+   graph with nodes representing the users and the points-of-interest and
+   the edges representing the visits made by the users to the locations,
+   and then extracts the association matrix representing the bipartite
+   graph to inject carefully calibrated noise to meet is an element
+   of-differential privacy guarantees. A post-processing of the perturbed
+   association matrix is performed to suppress noise prior to performing a
+   Hyperlink-Induced Topic Search (HITS) on the transformed data that
+   generates an ordered list of recommended points-of interest. Extensive
+   experiments on a real trajectory dataset show that our algorithm is
+   efficient, scalable and demonstrates high recommendation accuracy while
+   meeting the required differential privacy guarantees.
+CT IEEE 6th International Congress on Big Data (BigData Congress)
+CY JUN 25-30, 2017
+CL Honolulu, HI
+SP IEEE; IEEE Comp Soc; Serv Comp; Serv Soc; Big Data; Hp; IBM; SAP; IBM
+   Res; Huawei; Object Management Grp; Business Proc Integrat & Management;
+   IT Profess; Int Journal Web Serv Res; Comp Now; IEEE Transact Serv Comp
+ZB 0
+TC 0
+Z8 0
+ZS 0
+ZR 0
+Z9 0
+SN 2379-7703
+BN 978-1-5386-1996-4
+UT WOS:000428141800007
+ER
+
+PT B
+AU Yang, Jie
+   Sun, Zhu
+   Bozzon, Alessandro
+   Zhang, Jie
+   Larson, Martha
+GP ACM
+TI CitRec 2017: International Workshop on Recommender Systems for Citizens
+SO PROCEEDINGS OF THE ELEVENTH ACM CONFERENCE ON RECOMMENDER SYSTEMS
+   (RECSYS'17)
+BP 388
+EP 389
+DI 10.1145/3109859.3109969
+PD 2017
+PY 2017
+AB The "International Workshop on Recommender Systems for Citizens"
+   (CitRec) is focused on a novel type of recommender systems both in terms
+   of ownership and purpose: recommender systems run by citizens and
+   serving society as a whole.
+CT 11th ACM Conference on Recommender Systems (RecSys)
+CY AUG 27-31, 2017
+CL Como, ITALY
+SP Assoc Comp Machinery; ACM SIGCHI
+OI Bozzon, Alessandro/0000-0002-3300-2913
+Z8 0
+ZS 0
+TC 0
+ZR 0
+ZB 0
+Z9 0
+BN 978-1-4503-4652-8
+UT WOS:000426967000081
+ER
+
+PT B
+AU Yasser, Khaled
+   Hemayed, Elsayed
+GP IEEE
+TI Location Category Classification using Tree Based Models with Novelty
+   Discrimination
+SO 2017 13TH INTERNATIONAL COMPUTER ENGINEERING CONFERENCE (ICENCO)
+BP 269
+EP 275
+PD 2017
+PY 2017
+AB As a result of the vast amount of location data, and the variety of the
+   location based social network types such as Facebook check-ins and
+   Foursquare. Many questions raised to enhance the quality of these
+   networks, one important question is, which activity is the user going
+   to, we formulated this as the prediction of the next location semantics,
+   or the category. This feature would help service providers, to
+   personalize the marketing campaigns and to enhance other problems
+   results, such as the next location prediction. In order to solve this
+   task, we divided it into two subtasks; first, to develop a model for
+   novelty prediction, second to use its results to predict the next
+   location. The predication task considers two cases of prediction;
+   regular places (visited before) and novel places (never visited before).
+   The predication accuracy of the proposed approach yields high accuracy
+   of 86.7%, for regular places and an accuracy of 38.4% for novel places.
+CT 13th International Computer Engineering Conference (ICENCO)
+CY DEC 27-28, 2017
+CL Cairo Univ, Cairo, EGYPT
+HO Cairo Univ
+SP Cairo Univ,Faculty Eng, Comp Eng Dept
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+BN 978-1-5386-4266-5
+UT WOS:000426982100047
+ER
+
+PT S
+AU Margaris, Dionisis
+   Vassilakis, Costas
+   Georgiadis, Panagiotis
+BE AlorHernandez, G
+   ValenciaGarcia, R
+TI Knowledge-Based Leisure Time Recommendations in Social Networks
+SO CURRENT TRENDS ON KNOWLEDGE-BASED SYSTEMS
+SE Intelligent Systems Reference Library
+VL 120
+BP 23
+EP 48
+DI 10.1007/978-3-319-51905-0_2
+PD 2017
+PY 2017
+AB We introduce a novel knowledge-based recommendation algorithm for
+   leisure time information to be used in social networks, which enhances
+   the state-of-the-art in this algorithm category by taking into account
+   (a) qualitative aspects of the recommended places (restaurants, museums,
+   tourist attractions etc.), such as price, service and atmosphere, (b)
+   influencing factors between social network users, (c) the semantic and
+   geographical distance between locations and (d) the semantic
+   categorization of the places to be recommended. The combination of these
+   features leads to more accurate and better user-targeted leisure time
+   recommendations.
+OI Vassilakis, Costas/0000-0001-9940-1821; Margaris,
+   Dionisis/0000-0002-7487-374X
+ZR 0
+TC 3
+ZB 0
+Z8 0
+ZS 0
+Z9 3
+SN 1868-4394
+BN 978-3-319-51905-0; 978-3-319-51904-3
+UT WOS:000419726000003
+D2 10.1007/978-3-319-51905-0
+ER
+
+PT S
+AU Gubiani, Donatella
+   Pavan, Marco
+BE Maturo, A
+   HoskovaMayerova, S
+   Soitu, DT
+   Kacprzyk, J
+TI From Trajectory Modeling to Social Habits and Behaviors Analysis
+SO RECENT TRENDS IN SOCIAL SYSTEMS: QUANTITATIVE THEORIES AND QUANTITATIVE
+   MODELS
+SE Studies in Systems Decision and Control
+VL 66
+BP 371
+EP 385
+DI 10.1007/978-3-319-40585-8_33
+PD 2017
+PY 2017
+AB In recent years, the widespread of mobile devices has made easier and
+   popular the activities of recording locations visited by users and of
+   inferring their trajectories. The availability of such large amount of
+   spatio-temporal data opens new challenges to automatically extract
+   information and get valuable knowledge. The many aspects of this issue
+   have aroused the interest of researchers in several areas, such as
+   information retrieval, data mining, context-aware computing, security
+   and privacy issues, urban planning, and transport management. Recently,
+   there has been a strong interest in understanding how people move during
+   their common daily activities in order to get information about their
+   behaviors and habits. In this paper we describe considerable recent
+   research works related to the analysis of mobile spatio-temporal data,
+   focusing on the study of social habits and behaviors. We provide a
+   general perspective on studies on human mobility by depicting and
+   comparing methods and algorithms, highlighting some critical issues
+   related to information extraction from spatio-temporal data, and future
+   research directions.
+OI Gubiani, Donatella/0000-0001-7684-5200
+ZB 0
+Z8 0
+ZS 0
+TC 2
+ZR 0
+Z9 2
+SN 2198-4182
+BN 978-3-319-40585-8; 978-3-319-40583-4
+UT WOS:000399117700034
+D2 10.1007/978-3-319-40585-8
+ER
+
+PT J
+AU Tiwari, Sunita
+   Kaushik, Saroj
+TI Evolving recommendations from past travel sequences using soft computing
+   techniques
+SO INTERNATIONAL JOURNAL OF COMPUTATIONAL SCIENCE AND ENGINEERING
+VL 14
+IS 3
+BP 242
+EP 254
+DI 10.1504/IJCSE.2017.10005022
+PD 2017
+PY 2017
+AB The World Wide Web (WWW) and mobile devices have become an indispensable
+   part of life in this time. The pervasiveness of location acquisition
+   technologies like global positioning system (GPS) has enabled the
+   convenient logging of the movement sequences of users using mobile
+   devices. This work proposes a personalised tourist spot recommender
+   system for mobile users using genetic algorithm (GA) for a situation
+   when explicit user ratings for tourist spots are not available. Implicit
+   ratings of users for tourist spots are mined using GPS trajectory logs.
+   GA is used to evolve ratings of unvisited spots using implicit ratings.
+   GPS trajectory dataset of 178 users collected by Microsoft Research
+   Asia's GeoLife project is used for the purpose of evaluation and
+   experiments. We emphasise that proposed approach is comparable with
+   existing related approaches when compared in terms of average root mean
+   squared error (RMSE) and provides focused, personalised and relevant
+   recommendations.
+TC 1
+ZB 0
+Z8 0
+ZR 0
+ZS 0
+Z9 1
+SN 1742-7185
+EI 1742-7193
+UT WOS:000405549100004
+ER
+
+PT J
+AU Yu, Shui
+   Liu, Meng
+   Dou, Wanchun
+   Liu, Xiting
+   Zhou, Sanming
+TI Networking for Big Data: A Survey
+SO IEEE COMMUNICATIONS SURVEYS AND TUTORIALS
+VL 19
+IS 1
+BP 531
+EP 549
+DI 10.1109/COMST.2016.2610963
+PD 2017
+PY 2017
+AB Complementary to the fancy big data applications, networking for big
+   data is an indispensable supporting platform for these applications in
+   practice. This emerging research branch has gained extensive attention
+   from both academia and industry in recent years. In this new territory,
+   researchers are facing many unprecedented theoretical and practical
+   challenges. We are therefore motivated to solicit the latest works in
+   this area, aiming to pave a comprehensive and solid starting ground for
+   interested readers. We first clarify the definition of networking for
+   big data based on the cross disciplinary nature and integrated needs of
+   the domain. Second, we present the current understanding of big data
+   from different levels, including its formation, networking features,
+   mathematical representations, and the networking technologies. Third, we
+   discuss the challenges and opportunities from various perspectives in
+   this hopeful field. We further summarize the lessons we learned based on
+   the survey. We humbly hope this paper will shed light for forthcoming
+   researchers to further explore the uncharted part of this promising
+   land.
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+TC 31
+Z9 31
+SN 1553-877X
+UT WOS:000395896100021
+ER
+
+PT J
+AU Zhou, Xiaolu
+   Wang, Mingshu
+   Li, Dongying
+TI From stay to play - A travel planning tool based on crowdsourcing
+   user-generated contents
+SO APPLIED GEOGRAPHY
+VL 78
+BP 1
+EP 11
+DI 10.1016/j.apgeog.2016.10.002
+PD JAN 2017
+PY 2017
+AB Conventional ways of trip planning using online reviews from multiple
+   sources are often cumbersome and uncustomizable. The advance in
+   information and communication technology (ICT) and the surge in
+   user-generated contents (UGC) provide great opportunities to facilitate
+   trip planning. This paper proposes a travel-planning tool by
+   crowdsourcing multiple UGCs to provide customized information for
+   tourists. We harvested hotel customer reviews from TripAdvisor, photo
+   information from Flickr, and travel costs between destinations from
+   Uber. First, we used geospatial data mining approaches to extract
+   tourism attractions information from Flickr; identified multi-facet
+   characteristics of hotels with natural language processing (NLP); and
+   provided travel route recommendations with graph analysis. Second, we
+   developed a web-based interface to let users communicate with the system
+   interactively, which provides integrated recommendations including
+   attractions, hotels, and visit route sequences. Two cities in the United
+   States (i.e. Atlanta and Chicago) were used as cases to illustrate our
+   approaches. The proposed travel planning tool is not only beneficial to
+   support customized travel decision-making, but also supportive for hotel
+   managers with strategic management implications. (C) 2016 Elsevier Ltd.
+   All rights reserved.
+RI Wang, Mingshu/I-1533-2014; Li, Dongying/
+OI Wang, Mingshu/0000-0001-5260-3143; Li, Dongying/0000-0002-2273-8079
+Z8 0
+TC 7
+ZB 0
+ZS 0
+ZR 0
+Z9 7
+SN 0143-6228
+EI 1873-7730
+UT WOS:000392895900001
+ER
+
+EF

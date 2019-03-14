@@ -1,0 +1,64 @@
+Point-of-Interest Recommendation Using Heterogeneous Link Prediction
+
+    Alireza Pourali, Fattane Zarrinkalam, Ebrahim BagheriEDBT2018
+
+Highly Influenced
+6 Excerpts
+Wireless Social Networks: A Survey of Recent Advances, Applications and Challenges
+
+    Furqan Jameel, Shurjeel Wyne, Dushantha Nalin K. Jayakody, Georges Kaddoum, Richard O&#x2019;KennedyIEEE Access2018
+
+Highly Influenced
+4 Excerpts
+Mining online footprints to predict user's next location
+
+    Qunying HuangInternational Journal of Geographical Information…
+    2017
+
+Highly Influenced
+8 Excerpts
+WhereNext : Prediction of human mobility based on location of interest ( Hotspot )
+
+    Vinayak Pawar, Dr. Peizhao Hu2016
+
+Highly Influenced
+8 Excerpts
+Characterising and Predicting Urban Mobility Dynamics by Mining Bike Sharing System Data
+
+    Ida Bagus Irawan Purnama, Neil W. Bergmann, Raja Jurdak, Kun ZhaoIEEE 12th Intl Conf on Ubiquitous Intelligence…
+    2015
+
+Highly Influenced
+5 Excerpts
+Mobility Location Prediction : A review of Techniques used in Mobile Ad-Hoc Network
+
+    Y. PanpatilA.2015
+
+Highly Influenced
+9 Excerpts
+CrowdTracker: Optimized Urban Moving Object Tracking Using Mobile Crowd Sensing
+
+    Yao Jing, B. N. Guo, Zhu Wang, Victor O. K. Li, Jacqueline C. K. Lam, Zhiwen YuIEEE Internet of Things Journal2018
+
+Highly Influenced
+3 Excerpts
+Joint Mobility Pattern Mining with Urban Region Partitions
+
+    Jing Lian, Yang Li, Weixi Gu, Shao-Lun Huang, Lin ZhangMobiQuitous2018
+
+Highly Influenced
+6 Excerpts
+DAZIO: Detecting Activity Zones based on Input/Output Call and SMS Activity
+
+    Miguel Núñez-del-Prado, Ana Luna, Romain GauthierSIMBig2016
+
+Highly Influenced
+4 Excerpts
+STF-RNN: Space Time Features-based Recurrent Neural Network for predicting people next location
+
+    Abdulrahman Al-Molegi, Mohammed Jabreel, Baraq GhalebIEEE Symposium Series on Computational…
+    2016
+
+Highly Influenced
+5 Excerpts
+

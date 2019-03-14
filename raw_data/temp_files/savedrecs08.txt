@@ -1,0 +1,411 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Zhang, Desheng
+   He, Tian
+BE Kato, S
+TI pCruise: Reducing Cruising Miles for Taxicab Networks
+SO PROCEEDINGS OF THE 2012 IEEE 33RD REAL-TIME SYSTEMS SYMPOSIUM (RTSS)
+SE Real-Time Systems Symposium-Proceedings
+BP 85
+EP 94
+DI 10.1109/RTSS.2012.61
+PD 2012
+PY 2012
+AB In taxicab industry, a long standing challenge is how to reduce
+   taxicab's mileage spent without a fare, i.e., cruising mile. The current
+   solution for this challenge usually requires the participation of the
+   passengers. To solve the issue without the passengers involved, in this
+   paper, we propose a cruising system, pCruise, for taxicab drivers to
+   maximize theirs profits by finding the optimal route to pick up a
+   passenger, thus reducing the cruising mile. In pCruise, base on
+   collected GPS records about other near taxicabs, a taxicab characterizes
+   its cruising process with a cruising graph. When a taxicab becomes
+   vacant and tries to find a passenger, cruising graph will provide the
+   shortest cruising route with at least one expected available passengers
+   for this taxicab. With the shortest cruising routes, taxicabs will
+   significantly reduce theirs cruising miles. We evaluate pCruise based on
+   a 7 days 10 GB real world GPS dataset from a city with more than 15, 000
+   taxicabs. The evaluation results show that pCruise can assist taxicab
+   drivers to reduce cruising miles by 41% on average.
+CT 33rd IEEE Real-Time Systems Symposium
+CY DEC 05-07, 2012
+CL San Juan, PR
+SP IEEE; IEEE Comp Soc; IEEE Comp Soc, Tech Comm Real-Time Syst
+Z8 0
+TC 13
+ZB 0
+ZR 0
+ZS 0
+Z9 13
+SN 1052-8725
+BN 978-0-7695-4869-2
+UT WOS:000317284200008
+ER
+
+PT S
+AU Xiao, Yu
+   Low, David
+   Bandara, Thusitha
+   Pathak, Parth
+   Lim, Hock Beng
+   Goyal, Devendra
+   Santos, Jorge
+   Cottrill, Caitlin
+   Pereira, Francisco
+   Zegras, Chris
+   Ben-Akiva, Moshe
+GP IEEE
+TI Transportation Activity Analysis Using Smartphones
+SO 2012 IEEE CONSUMER COMMUNICATIONS AND NETWORKING CONFERENCE (CCNC)
+SE IEEE Consumer Communications and Networking Conference
+BP 60
+EP +
+PD 2012
+PY 2012
+CT IEEE Consumer Communications and Networking Conference (CCNC)
+CY JAN 14-17, 2012
+CL Las Vegas, NV
+SP IEEE
+TC 18
+ZB 1
+ZR 0
+Z8 0
+ZS 0
+Z9 18
+SN 2331-9852
+BN 978-1-4577-2071-0
+UT WOS:000312834500022
+ER
+
+PT S
+AU Waga, Karol
+   Tabarcea, Andrei
+   Chen, Minjie
+   Franti, Pasi
+GP ICST
+TI Detecting Movement Type by Route Segmentation and Classification
+SO PROCEEDINGS OF THE 2012 8TH INTERNATIONAL CONFERENCE ON COLLABORATIVE
+   COMPUTING: NETWORKING, APPLICATIONS AND WORKSHARING (COLLABORATECOM
+   2012)
+SE CollaborateCom
+BP 508
+EP 513
+DI 10.4108/icst.collaboratecom.2012.250450
+PD 2012
+PY 2012
+AB Data about people movement is nowadays easy to collect by GPS technology
+   embedded in smartphones. GPS routes provide information about position,
+   time and speed, but further conclusion requires either prior information
+   or data analysis. We propose a method to detect the movement type by
+   segmentation of the GPS route using speed, direction and their
+   derivatives, and by applying an inference algorithm via a second order
+   Markov model. The method is able to classify most typical moving types
+   such as motor vehicle, bicycle, run, walk and stop.
+CT 8th IEEE International Conference on Collaborative Computing:
+   Networking, Applications and Worksharing (CollaborateCom)
+CY OCT 14-17, 2012
+CL Pittsburgh, PA
+SP IEEE; European Alliance Innovat; IEEE Comp Soc; Create Net
+ZR 0
+ZS 0
+Z8 0
+TC 5
+ZB 0
+Z9 5
+SN 2310-9807
+BN 978-1-4673-2740-4; 978-1-4673-2740-4
+UT WOS:000399722200056
+ER
+
+PT S
+AU Mustra, Mario
+   Grgic, Mislay
+   Bozek, Jelena
+BE Bozek, J
+   Grgic, M
+TI Application of Gabor Filters for Detection of Dense Tissue in Mammograms
+SO PROCEEDINGS ELMAR-2012
+SE ELMAR Proceedings
+BP 67
+EP 70
+PD 2012
+PY 2012
+AB Determining breast density in mammograms is important both in diagnostic
+   and computer-aided detection applications. Knowing the right breast
+   density and having knowledge of changes in breast density could give a
+   hint of a process which started to happen in a patient. Mammograms are
+   projection images and suffer from problem of overlapping tissue which
+   results in possibility of inaccurate detection of tissue types. The main
+   problem is the fibroglandular tissue which has rather high attenuation
+   of x-rays and is visible as brighter area in the resulting image. Small
+   blood vessels are usually the most common interfering objects in
+   mammograms. In this paper we try to suppress scattered structures which
+   do not represent glandular or dense tissue in order to divide mammograms
+   more accurately in two major tissue types, fatty and dense tissue. For
+   suppressing blood vessels we have used Gabor filters of different size
+   and orientation to detect edges of blood vessels and subtract them from
+   the original image. Obtained results show much more homogenous areas
+   which could be used for easier discrimination between tissue types.
+CT 54th ELMAR International Symposium
+CY SEP 12-14, 2012
+CL Zadar, CROATIA
+SP IEEE Reg 8; IEEE Croatia Sect; Signal Proc Soc, IEEE Croatia Sect
+   Chapter; AP Soc, IEEE Croatia Sect Chapter; MTT Soc, IEEE Croatia Sect
+   Chapter; European Assoc Signal Proc; Republ Croatia, Minist Sci, Educ &
+   Sports; Republ Croatia, Minist Maritime Affairs, Transport &
+   Infrastructure; Fdn Croatian Acad Sci & Arts; Natl Fdn Civil Soc Dev;
+   Univ Zagreb, Fac Elect Engn & Comp; Univ Zadar
+RI Grgic, Mislav/B-6128-2008; Bozek, Jelena/
+OI Grgic, Mislav/0000-0001-6230-3734; Bozek, Jelena/0000-0002-5986-5442
+TC 2
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+Z9 2
+SN 1334-2630
+BN 978-953-7044-13-8
+UT WOS:000399723300015
+ER
+
+PT S
+AU Zheng, Yunxiang
+   Wan, Hai
+BE Lee, G
+TI Operational Semantics of Business Process Description Model Supported by
+   Answer Set
+SO 2012 INTERNATIONAL CONFERENCE ON FUTURE INFORMATION TECHNOLOGY AND
+   MANAGEMENT SCIENCE & ENGINEERING (FITMSE 2012)
+SE Lecture Notes in Information Technology
+VL 14
+BP 569
+EP 574
+PD 2012
+PY 2012
+AB Practice shows that Answer Set Supported Double State-based Business
+   Process Description Model (ASDSBPDM) better fits the need of incomplete
+   process representation and nonmonotonic reasoning in e-government. This
+   paper defines precisely the operational semantics of ASDSBPDM on the
+   basis of Finite State Machine Theory, Logic Programming and Answer Set
+   Semantics. We conclude that process forwarding is equivalent to
+   continuous transition of its instance's configuration. Therefore it
+   succeeds in discussing both business process and its operational
+   semantics under the same framework (Finite State Machine), and helps to
+   get a solid, theoretical foundation for further process analysis,
+   tracking and mining in e-government.
+CT International Conference on Future Information Technology and Management
+   Science and Engineering (FITMSE 2012)
+CY APR 12-13, 2012
+CL HONG KONG
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+TC 0
+Z9 0
+SN 2070-1918
+BN 978-1-61275-012-5
+UT WOS:000393447400103
+ER
+
+PT J
+AU Zheng, Yu
+   Zhang, Lizhu
+   Ma, Zhengxin
+   Xie, Xing
+   Ma, Wei-Ying
+TI Recommending Friends and Locations Based on Individual Location History
+SO ACM TRANSACTIONS ON THE WEB
+VL 5
+IS 1
+SI SI
+AR 5
+DI 10.1145/1921591.1921596
+PD FEB 2011
+PY 2011
+AB The increasing availability of location-acquisition technologies (GPS,
+   GSM networks, etc.) enables people to log the location histories with
+   spatio-temporal data. Such real-world location histories imply, to some
+   extent, users' interests in places, and bring us opportunities to
+   understand the correlation between users and locations. In this article,
+   we move towards this direction and report on a personalized friend and
+   location recommender for the geographical information systems (GIS) on
+   the Web. First, in this recommender system, a particular individual's
+   visits to a geospatial region in the real world are used as their
+   implicit ratings on that region. Second, we measure the similarity
+   between users in terms of their location histories and recommend to each
+   user a group of potential friends in a GIS community. Third, we estimate
+   an individual's interests in a set of unvisited regions by involving
+   his/her location history and those of other users. Some unvisited
+   locations that might match their tastes can be recommended to the
+   individual. A framework, referred to as a hierarchical-graph-based
+   similarity measurement (HGSM), is proposed to uniformly model each
+   individual's location history, and effectively measure the similarity
+   among users. In this framework, we take into account three factors: 1)
+   the sequence property of people's outdoor movements, 2) the visited
+   popularity of a geospatial region, and 3) the hierarchical property of
+   geographic spaces. Further, we incorporated a content-based method into
+   a user-based collaborative filtering algorithm, which uses HGSM as the
+   user similarity measure, to estimate the rating of a user on an item. We
+   evaluated this recommender system based on the GPS data collected by 75
+   subjects over a period of 1 year in the real world. As a result, HGSM
+   outperforms related similarity measures, namely similarity-by-count,
+   cosine similarity, and Pearson similarity measures. Moreover, beyond the
+   item-based CF method and random recommendations, our system provides
+   users with more attractive locations and better user experiences of
+   recommendation.
+ZR 0
+ZS 0
+ZB 3
+TC 137
+Z8 26
+Z9 161
+SN 1559-1131
+EI 1559-114X
+UT WOS:000288062500005
+ER
+
+PT S
+AU Spaccapietra, Stefano
+   Parent, Christine
+BE Jeusfeld, MA
+   Delcambre, L
+   Ling, TW
+TI Adding Meaning to Your Steps (Keynote Paper)
+SO CONCEPTUAL MODELING - ER 2011
+SE Lecture Notes in Computer Science
+VL 6998
+BP 13
+EP +
+PD 2011
+PY 2011
+AB Mobility data is becoming an important player in many application
+   domains. Many techniques have been elaborated to extract statistical
+   knowledge from the data sets gathering raw data tracks about the moving
+   objects of interest to an application. These data tracks obey the
+   physical-level specifications of the devices used for data acquisition
+   (GPS, GSM, RFID, smart phones, and other sensors). Nowadays, interest
+   has shifted from raw data tracks analysis to more application-oriented
+   ways of analyzing more meaningful movement records suitable for the
+   specific purposes of the application at hand. This trend has promoted
+   the concept of semantically rich trajectories, rather than raw movement,
+   as the core object of interest in mobility studies.
+   This keynote paper intends to provide the foundations of a semantic
+   approach to data about movement. It focuses on the definitions of the
+   most important concepts about mobility data, concepts that are
+   frequently used but rarely rigorously defined.
+CT 30th International Conference on Conceptual Modeling (ER)
+CY OCT 31-NOV 03, 2011
+CL Brussels, BELGIUM
+SP Microsoft Res; FNRS; FWO; Euranova; IBM; Intergraph; Springer; Univ
+   Libre Bruxelles; FUNDP Namur; Ville Bruxelles; Ompartners; Cetic; OCE;
+   Rever
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+TC 5
+Z9 5
+SN 0302-9743
+BN 978-3-642-24605-0
+UT WOS:000303359500002
+ER
+
+PT J
+AU Zheng, Yu
+   Xie, Xing
+TI Learning Travel Recommendations from User-Generated GPS Traces
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 2
+IS 1
+SI SI
+AR UNSP 2
+DI 10.1145/1889681.1889683
+PD 2011
+PY 2011
+AB The advance of GPS-enabled devices allows people to record their
+   location histories with GPS traces, which imply human behaviors and
+   preferences related to travel. In this article, we perform two types of
+   travel recommendations by mining multiple users' GPS traces. The first
+   is a generic one that recommends a user with top interesting locations
+   and travel sequences in a given geospatial region. The second is a
+   personalized recommendation that provides an individual with locations
+   matching her travel preferences. To achieve the first recommendation, we
+   model multiple users' location histories with a tree-based hierarchical
+   graph (TBHG). Based on the TBHG, we propose a HITS (Hypertext Induced
+   Topic Search)-based model to infer the interest level of a location and
+   a user's travel experience (knowledge). In the personalized
+   recommendation, we first understand the correlation between locations,
+   and then incorporate this correlation into a collaborative filtering
+   (CF)-based model, which predicts a user's interests in an unvisited
+   location based on her locations histories and that of others. We
+   evaluated our system based on a real-world GPS trace dataset collected
+   by 107 users over a period of one year. As a result, our HITS-based
+   inference model outperformed baseline approaches like rank-by-count and
+   rank-by-frequency. Meanwhile, we achieved a better performance in
+   recommending travel sequences beyond baselines like rank-by-count.
+   Regarding the personalized recommendation, our approach is more
+   effective than the weighted Slope One algorithm with a slightly
+   additional computation, and is more efficient than the Pearson
+   correlation-based CF model with the similar effectiveness.
+ZR 0
+ZB 3
+Z8 2
+TC 113
+ZS 0
+Z9 115
+SN 2157-6904
+UT WOS:000208616800002
+ER
+
+PT S
+AU Yoon, Hyoseok
+   Zheng, Yu
+   Xie, Xing
+   Woo, Woontack
+BE Yu, Z
+   Liscano, R
+   Chen, GL
+   Zhang, DQ
+   Zhou, XS
+TI Smart Itinerary Recommendation Based on User-Generated GPS Trajectories
+SO UBIQUITOUS INTELLIGENCE AND COMPUTING
+SE Lecture Notes in Computer Science
+VL 6406
+BP 19
+EP +
+PD 2010
+PY 2010
+AB Traveling to unfamiliar regions require a significant effort from novice
+   travelers to plan where to go within a limited duration. In this paper,
+   we propose a smart recommendation for highly efficient and balanced
+   itineraries based on multiple user-generated GPS trajectories. Users
+   only need to provide a. minimal query composed of a start point, an end
+   point and travel duration to receive an itinerary recommendation. To
+   differentiate good itinerary candidates from less fulfilling ones, we
+   describe how we model and define itinerary in terms of several
+   characteristics mined from user-generated GPS trajectories. Further, we
+   evaluated the efficiency of our method based on 17,745 user-generated
+   GPS trajectories contributed by 125 users in Beijing, China. Also we
+   performed a user study where current residents of Beijing used our
+   system to review and give ratings to itineraries generated by our
+   algorithm and baseline algorithms for comparison.
+CT 7th International Conference on Autonomic and Trusted Computing
+CY OCT 26-29, 2010
+CL NW Polytechn Univ, Xian, PEOPLES R CHINA
+HO NW Polytechn Univ
+SP Nokia; Ind Corp China
+OI Yoon, Hyoseok/0000-0002-9907-0775
+Z8 1
+ZB 0
+TC 27
+ZR 0
+ZS 0
+Z9 28
+SN 0302-9743
+BN 978-3-642-16354-8
+UT WOS:000289495500005
+ER
+
+EF

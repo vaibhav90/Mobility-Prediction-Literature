@@ -1,0 +1,32 @@
+I'd be overwhelmed, but it's just one more thing to do: availability and interruption in research management
+
+    James M. Hudson, Jim Christensen, Wendy A. Kellogg, Thomas A. EricksonCHI2002
+
+Social net: using patterns of physical proximity over time to infer shared interests
+
+    Michael A. Terry, Elizabeth D. Mynatt, Kathy Ryall, Darren LeighCHI Extended Abstracts2002
+
+The Museum Wearable : real-time sensor-driven understanding of visitors ’ interests for personalized visually-augmented museum experiences
+
+    Flavia Sparacino2002
+
+Elimination of the travel diary: An experiment to derive trip purpose from GPS travel data
+
+    Jean Wolf, Randall Guensler, William BachmanIn Notes from Transportation Research Board, 80th…
+    2001
+
+Using Handheld Devices in Synchronous Collaborative Scenarios
+
+    Jörg Roth, Claus UngerPersonal and Ubiquitous Computing2001
+
+Wearable Computers as Packet Transport Mechanisms in Highly-Partitioned Ad-Hoc Networks
+
+    James A. Davis, Andrew H. Fagg, Brian Neil LevineSEMWEB2001
+
+Energy Conserving Routing in Wireless Ad-hoc Networks
+
+    Jae-Hwan Chang, Leandros TassiulasINFOCOM2000
+
+Location-Aware Information Delivery with ComMotion
+
+    Natalia Marmasse, Chris SchmandtHUC2000

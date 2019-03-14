@@ -1,0 +1,2070 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Jiang, Jian
+   Lin, Fei
+   Fan, Jin
+   Lv, Hang
+   Wu, Jia
+TI A Destination Prediction Network Based on Spatiotemporal Data for
+   Bike-Sharing
+SO COMPLEXITY
+AR 7643905
+DI 10.1155/2019/7643905
+PD 2019
+PY 2019
+AB Bike-sharing is a new low-carbon and environment-friendly mode of public
+   transport based on the sharing economy. Since 2017, the bike-sharing
+   market has boomed in China's major cities. Bikes equipped with GPS
+   transmitters are docked along sidewalks that can be easily accessed
+   through smartphone apps. However, this new form of transport has also
+   led to problems, such as illegal parking, vandalism, and theft, each of
+   which presents a major administrative challenge. Further, imbalances in
+   user demand and bike availability need to be overcome to ensure a
+   convenient, flexible service for customers. Hence, predicting a
+   cyclist's destination could be of great importance to shared-bike
+   operators. In this paper, we propose an innovative deep learning model
+   to predict the most probable destination for each user. The model,
+   called destination prediction network based on spatiotemporal data
+   (DPNst), comprises three steps. First, the data is preprocessed and a
+   pool of likely candidate destinations is generated based on frequent
+   item mining. This candidate set is then used to build the DPNst model: a
+   long short-term memory network learns the user's behavior; a
+   convolutional neural network learns the spatial relationships between
+   the origin and the candidate destinations; and a fully connected neural
+   network learns the external features. In the final step, DPNst
+   dynamically aggregates the output of the three neural networks based on
+   the given data and generates the predictions. In a series of experiments
+   on real-world stationless bike-sharing data, DPNst returned an F1 score
+   of 42.71% and demonstrated better performance overall than the compared
+   baselines.
+Z8 0
+ZS 0
+TC 0
+ZB 0
+ZR 0
+Z9 0
+SN 1076-2787
+EI 1099-0526
+UT WOS:000455751500001
+ER
+
+PT J
+AU Aghdam, Arash Hazeghi
+   Alesheikh, Ali Asghar
+TI Predicting the future location of cars on urban street network by
+   chaining spatial web services
+SO IET INTELLIGENT TRANSPORT SYSTEMS
+VL 12
+IS 8
+BP 793
+EP 800
+DI 10.1049/iet-its.2017.0085
+PD OCT 2018
+PY 2018
+AB The use of web services for analysing and visualising maps has received
+   great attention recently, because the complicated analysis of spatial
+   data requires different processes to be run consecutively. Predicting
+   the future location of a vehicle on a street network is one of the most
+   challenging analyses used for improving context-aware location-based
+   services, intelligent transportation systems and criminology. In this
+   research, the authors present a new short-term prediction algorithm and
+   explore the required analyses and web services. They present an
+   appropriate method for chaining these web services to predict
+   location(s). To assess their methodology, they developed a prototype
+   system and tested for trajectories in Beijing. This system calculates
+   the prediction time for a specified car to show the predicted future
+   location in the street network. Their results showed that the average
+   transferred data volume increases as the prediction period increases.
+   The results also showed that the prediction algorithm has 75% accuracy
+   at 1 min and 87.5% accuracy at 2 and 3 min. The implemented chaining
+   method reduces the complexity of the location prediction algorithm for
+   users because they do not need to know the processes. The outputs from
+   this system can be used as input parameters for other web-based
+   applications.
+TC 0
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+Z9 0
+SN 1751-956X
+EI 1751-9578
+UT WOS:000444389300007
+ER
+
+PT J
+AU Xin Li
+   Yu, Chongsheng
+   Lei Ju
+   Jian Qin
+   Yu Zhang
+   Lei Dou
+   Sun Yuqing
+TI Position prediction system based on spatio-temporal regularity of object
+   mobility
+SO INFORMATION SYSTEMS
+VL 75
+BP 43
+EP 55
+DI 10.1016/j.is.2018.02.004
+PD JUN 2018
+PY 2018
+AB With the accumulation of the vast amount of location data acquired by
+   positioning devices embedded in mobile phones and cars, position
+   prediction of moving objects has been an important research direction
+   for many location-based services such as public transit forecasting and
+   tourist behavior analysis. In this paper, a position prediction system
+   has been proposed, which utilizes not only spatial but also temporal
+   regularity of object mobility. Historical trajectory data of the object
+   is used to extract personal trajectory patterns to obtain candidate next
+   positions. Each of the candidate next positions is scored by the
+   proposed Spatio-Temporal Regularity-based Prediction (STRP) algorithm
+   according to time components of patterns and current time. The position
+   with the highest score is considered as the predicted next position.
+   Furthermore, a hybrid B/S and C/S architecture is employed to perform
+   the real-time prediction and results display. An evaluation based on two
+   different public trajectory data sets demonstrates that the proposed
+   STRP algorithm achieves highly accurate position prediction. Moreover,
+   the average accuracy rate of our prediction algorithm with one known
+   position is about 86.8%, which is 43.9% better than the Markov-based
+   algorithm. (C) 2018 Elsevier Ltd. All rights reserved.
+ZR 0
+ZB 0
+TC 0
+Z8 0
+ZS 0
+Z9 0
+SN 0306-4379
+EI 1873-6076
+UT WOS:000430779200004
+ER
+
+PT J
+AU Stegmann, Roelant A.
+   Zliobaite, Indre
+   Tolvanen, Tuukka
+   Hollmen, Jaakko
+   Read, Jesse
+TI A survey of evaluation methods for personal route and destination
+   prediction from mobility traces
+SO WILEY INTERDISCIPLINARY REVIEWS-DATA MINING AND KNOWLEDGE DISCOVERY
+VL 8
+IS 2
+AR e1237
+DI 10.1002/widm.1237
+PD MAR-APR 2018
+PY 2018
+AB Personal mobility data can nowadays be easily collected by personal
+   mobile phones and used for analytical modeling. To assist in such an
+   analysis, a variety of computational approaches have been developed. The
+   goal is to extract mobility patterns in order to provide traveling
+   assistance, information, recommendations or on-demand services. While
+   various computational techniques are being developed, research
+   literature on destination and route prediction lacks consistency in
+   evaluation methods for such approaches. This study presents a review and
+   categorization of evaluation criteria and terminology used in assessing
+   the performance of such methods. The review is complemented by
+   experimental analysis of selected evaluation criteria, to highlight the
+   nuances existing between the evaluation measures. The experimental study
+   uses previously unpublished mobility data of 15 users collected over a
+   period of 6 months in Helsinki metropolitan area in Finland. The article
+   is primarily intended for researchers developing approaches for
+   personalized mobility analysis, as well as a guideline for practitioners
+   to select criteria when assessing and selecting between computational
+   approaches. Our main recommendation is to consider user-specific
+   accuracy measures in addition to averaged aggregates, as well as to take
+   into consideration that for many users accuracy does not saturate fast
+   and the performance keeps evolving over time. Therefore, we recommend
+   using time-weighted measures. (c) 2017 Wiley Periodicals, Inc.
+OI Zliobaite, Indre/0000-0003-2427-5407
+ZS 0
+TC 0
+ZB 0
+ZR 0
+Z8 0
+Z9 0
+SN 1942-4787
+EI 1942-4795
+UT WOS:000425174000004
+ER
+
+PT J
+AU Shams, Bita
+   Haratizadeh, Saman
+TI GraphLoc: a graph based approach for automatic detection of significant
+   locations from GPS trajectory data
+SO JOURNAL OF SPATIAL SCIENCE
+VL 63
+IS 1
+BP 115
+EP 134
+DI 10.1080/14498596.2017.1327374
+PD 2018
+PY 2018
+AB Automatic discovery of significant locations from row GPS data is the
+   first phase of mining mobility pattern and developing location-aware
+   services. Unfortunately, current location discovery algorithms are
+   ineffective when locations have different local properties such as
+   density. Moreover, these algorithms suffer from the sharp boundary
+   problem that is assigning some close points to different locations while
+   they intuitively belong to one location. This article presents a novel
+   framework, GraphLoc that formulates location discovery as a network
+   community detection problem to address these issues. Experimental
+   results show that GraphLoc's locations lead to higher performance in
+   mobility mining and location prediction.
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+SN 1449-8596
+EI 1836-5655
+UT WOS:000444569000009
+ER
+
+PT S
+AU Lv, Jianming
+   Li, Qing
+   Sun, Qinghui
+   Wang, Xintong
+GP IEEE
+TI T-CONV: A Convolutional Neural Network For Multi-scale Taxi Trajectory
+   Prediction
+SO 2018 IEEE INTERNATIONAL CONFERENCE ON BIG DATA AND SMART COMPUTING
+   (BIGCOMP)
+SE International Conference on Big Data and Smart Computing
+BP 82
+EP 89
+DI 10.1109/BigComp.2018.00021
+PD 2018
+PY 2018
+AB Precise destination prediction of taxi trajectories can benefit many
+   intelligent location based services such as accurate ad for passengers.
+   Traditional prediction approaches, which treat trajectories as
+   one-dimensional sequences and process them in single scale, fail to
+   capture the diverse two-dimensional patterns of trajectories in
+   different spatial scales. In this paper, we propose T-CONV which models
+   trajectories as two-dimensional images, and adopts multi-layer
+   convolutional neural networks to combine multi-scale trajectory patterns
+   to achieve precise prediction. Furthermore, we conduct gradient analysis
+   to visualize the multi-scale spatial patterns captured by T-CONV and
+   extract the areas with distinct influence on the ultimate prediction.
+   Finally, we integrate multiple local enhancement convolutional fields to
+   explore these important areas deeply for better prediction.
+   Comprehensive experiments based on real trajectory data show that T-CONV
+   can achieve higher accuracy than the state-of-the-art methods.
+CT IEEE International Conference on Big Data and Smart Computing (BigComp)
+CY JAN 15-17, 2018
+CL Shanghai, PEOPLES R CHINA
+SP IEEE; IEEE Comp Soc; Korean Inst Informat Scientists & Engineers
+ZS 0
+TC 0
+Z8 0
+ZB 0
+ZR 0
+Z9 0
+SN 2375-933X
+BN 978-1-5386-3649-7
+UT WOS:000435014000012
+ER
+
+PT J
+AU Gasparetti, Fabio
+TI Personalization and Context-awareness in Social Local Search:
+   State-of-the-art and Future Research Challenges
+SO PERVASIVE AND MOBILE COMPUTING
+VL 38
+SI SI
+BP 446
+EP 473
+DI 10.1016/j.pmcj.2016.04.004
+PN 2
+PD JUL 2017
+PY 2017
+AB Location-based services (LBS) are now the platforms for aggregating
+   relevant information about users and understanding their mobile behavior
+   and preferences based on the location histories. The increasing
+   availability of large amounts of spatio-temporal data brings us
+   opportunities and challenges to automatically discover valuable
+   knowledge. While context-aware properties quickly became the key of the
+   success of these pervasive applications, information related to user
+   preferences and social signals still lack of adequate capitalization.
+   Local search in LBSs is a peculiar service where recent and current
+   interests, the network of explicit and implicit social interactions
+   between users can be combined for effectively performing fine-tuned and
+   personalized recommendations of points of interest. In this article we
+   present the various and peculiar aspects of local search in mobile
+   scenarios. Then we explore the added value of personalization and the
+   benefits of considering social signals, summarizing open challenges and
+   emerging technologies. (C) 2016 Elsevier B.V. All rights reserved.
+OI Gasparetti, Fabio/0000-0003-0263-531X
+Z8 0
+ZR 0
+TC 4
+ZB 0
+ZS 0
+Z9 4
+SN 1574-1192
+EI 1873-1589
+UT WOS:000404826600013
+ER
+
+PT J
+AU Zheng, Weimin
+   Huang, Xiaoting
+   Li, Yuan
+TI Understanding the tourist mobility using GPS: Where is the next place?
+SO TOURISM MANAGEMENT
+VL 59
+BP 267
+EP 280
+DI 10.1016/j.tourman.2016.08.009
+PD APR 2017
+PY 2017
+AB Understanding the mobility of tourists plays a fundamental role in the
+   administration and design of tourist destinations, planning of on-site
+   movement and marketing of attractions. In this paper, we focus on how to
+   accurately predict the tourist's next location within a given
+   attraction. A heuristic method based on data mining is proposed, which
+   considers the trajectory of a focal tourist and the movements of past
+   visitors. To evaluate the performance of the proposed method, a case
+   study was conducted at the Summer Palace in Beijing, China. We collected
+   movement information from tourists using GPS tracking technology, and
+   the results of an independent samples t-test indicate that the proposed
+   method indeed performs significantly better than existing methods. We
+   further explore the potential applications of the proposed method. Our
+   results significantly contribute to enhancing the level of personalized
+   location based service, tourist attraction administration, and real-time
+   crowd control. (C) 2016 Elsevier Ltd. All rights reserved.
+Z8 1
+ZS 0
+ZB 0
+ZR 0
+TC 23
+Z9 24
+SN 0261-5177
+EI 1879-3193
+UT WOS:000390739400027
+ER
+
+PT J
+AU Wang, Liang
+   Yu, Zhiwen
+   Guo, Bin
+   Ku, Tao
+   Yi, Fei
+TI Moving Destination Prediction Using Sparse Dataset: A Mobility Gradient
+   Descent Approach
+SO ACM TRANSACTIONS ON KNOWLEDGE DISCOVERY FROM DATA
+VL 11
+IS 3
+AR 37
+DI 10.1145/3051128
+PD MAR 2017
+PY 2017
+AB Moving destination prediction offers an important category of
+   location-based applications and provides essential intelligence to
+   business and governments. In existing studies, a common approach to
+   destination prediction is to match the given query trajectory with
+   massive recorded trajectories by similarity calculation. Unfortunately,
+   due to privacy concerns, budget constraints, and many other factors, in
+   most circumstances, we can only obtain a sparse trajectory dataset. In
+   sparse dataset, the available moving trajectories are far from enough to
+   cover all possible query trajectories; thus the predictability of the
+   matching-based approach will decrease remarkably. Toward destination
+   prediction with sparse dataset, instead of searching similar
+   trajectories over the sparse records, we alternatively examine the
+   changes of distances from sampling locations to final destination on
+   query trajectory. The underlying idea is intuitive: It is directly
+   motivated by travel purpose, people always get closer to the final
+   destination during the movement. By borrowing the conception of gradient
+   descent in optimization theory, we propose a novel moving destination
+   prediction approach, namely MGDPre. Building upon the mobility gradient
+   descent, MGDPre only investigates the behavior characteristics of query
+   trajectory itself without matching historical trajectories, and thus is
+   applicable for sparse dataset. We evaluate our approach based on
+   extensive experiments, using GPS trajectories generated by a sample of
+   taxis over a 10-day period in Shenzhen city, China. The results
+   demonstrate that the effectiveness, efficiency, and scalability of our
+   approach outperform state-of-the-art baseline methods.
+ZR 0
+Z8 1
+ZS 0
+ZB 0
+TC 8
+Z9 8
+SN 1556-4681
+EI 1556-472X
+UT WOS:000399725200012
+ER
+
+PT J
+AU Trasarti, R.
+   Guidotti, R.
+   Monreale, A.
+   Giannotti, F.
+TI MyWay: Location prediction via mobility profiling
+SO INFORMATION SYSTEMS
+VL 64
+BP 350
+EP 367
+DI 10.1016/j.is.2015.11.002
+PD MAR 2017
+PY 2017
+AB Forecasting the future positions of mobile users is a valuable task
+   allowing us to operate efficiently a myriad of different applications
+   which need this type of information. We propose MyWay, a prediction
+   system which exploits the individual systematic behaviors modeled by
+   mobility profiles to predict human movements. MyWay provides three
+   strategies: the individual strategy uses only the user individual
+   mobility profile, the collective strategy takes advantage of all users
+   individual systematic behaviors, and the hybrid strategy that is a
+   combination of the previous two. A key point is that MyWay only requires
+   the sharing of individual mobility profiles, a concise representation of
+   the user's movements, instead of raw trajectory data revealing the
+   detailed movement of the users. We evaluate the prediction performances
+   of our proposal by a deep experimentation on large real-world data. The
+   results highlight that the synergy between the individual and collective
+   knowledge is the key for a better prediction and allow the system to
+   outperform the state-of-art methods. (C) 2015 Published by Elsevier Ltd.
+OI MONREALE, ANNA/0000-0001-8541-0284
+ZR 0
+Z8 0
+ZB 0
+TC 3
+ZS 0
+Z9 3
+SN 0306-4379
+EI 1873-6076
+UT WOS:000391900000026
+ER
+
+PT S
+AU Diop, Papa Samour
+   Mbacke, Ahmath Bamba
+   Mendy, Gervais
+BE Puliafito, A
+   Bruneo, D
+   Distefano, S
+   Longo, F
+TI Centralized and Distributed Architectures: Approximation of the Response
+   Time in a Video Surveillance System of Road Traffic by Logarithm, Power
+   and Linear Functions
+SO AD-HOC, MOBILE, AND WIRELESS NETWORKS, ADHOC-NOW 2017
+SE Lecture Notes in Computer Science
+VL 10517
+BP 314
+EP 327
+DI 10.1007/978-3-319-67910-5_26
+PD 2017
+PY 2017
+AB In this article, we propose mathematical models that result in
+   logarithmic, power and linear functions for the predictive evaluation of
+   the response times of video surveillance systems in smart cities. Most
+   of the QoS measurements and evaluations used in the current literature
+   are hardware based and do not take into account the influence of the
+   technical architecture. We have therefore proposed a decomposition
+   process of video surveillance systems to obtain mathematical
+   approximations of each treatment time. The integration of these
+   components guided us towards generic mathematical models validated by
+   experimentation. The measurements resulting from the experiment were
+   approached with logarithmic, power and linear functions before adopting
+   the most precise model between distributed and centralized
+   architectures. The comparison between these architectures shows a much
+   lower response time for the distributed architecture especially with the
+   determination coefficient R-2 of the functions.
+CT 16th International Conference on Ad-Hoc Networks and Wireless
+   (ADHOC-NOW)
+CY SEP 20-22, 2017
+CL Messina, ITALY
+SP Univ Messina, SmartMe Io
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+TC 0
+Z9 0
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-67910-5; 978-3-319-67909-9
+UT WOS:000445237000026
+ER
+
+PT S
+AU Lassoued, Yassine
+   Monteil, Julien
+   Gu, Yingqi
+   Russo, Giovanni
+   Shorten, Robert
+   Mevissen, Martin
+GP IEEE
+TI A Hidden Markov Model for Route and Destination Prediction
+SO 2017 IEEE 20TH INTERNATIONAL CONFERENCE ON INTELLIGENT TRANSPORTATION
+   SYSTEMS (ITSC)
+SE IEEE International Conference on Intelligent Transportation Systems-ITSC
+PD 2017
+PY 2017
+AB We present a simple model and algorithm for predicting driver
+   destinations and routes, based on the input of the latest road links
+   visited as part of an ongoing trip. The algorithm may be used to predict
+   any clusters previously observed in a driver's trip history. It assumes
+   that the driver's historical trips are grouped into clusters sharing
+   similar patterns. Given a new trip, the algorithm attempts to predict
+   the cluster in which the trip belongs. The proposed algorithm has low
+   temporal complexity. In addition, it does not require the transition and
+   emission matrices of the Markov chain to be computed. Rather it relies
+   on the frequencies of co-occurrences of road links and trip clusters. We
+   validate the proposed algorithm against an experimental dataset. We
+   discuss the success and convergence of the algorithm and show that our
+   algorithm has a high prediction success rate.
+CT 20th IEEE International Conference on Intelligent Transportation Systems
+   (ITSC)
+CY OCT 16-19, 2017
+CL Yokohama, JAPAN
+SP IEEE
+ZR 0
+TC 1
+ZS 0
+Z8 0
+ZB 0
+Z9 1
+SN 2153-0009
+BN 978-1-5386-1526-3
+UT WOS:000432373000287
+ER
+
+PT B
+AU Wang, Liang
+   Wang, Mei
+   Ku, Tao
+   Cheng, Yong
+   Guo, Xinying
+GP IEEE
+TI A Hybrid Model Towards Moving Route Prediction Under Data Sparsity
+SO 2017 20TH INTERNATIONAL CONFERENCE ON INFORMATION FUSION (FUSION)
+BP 1721
+EP 1728
+PD 2017
+PY 2017
+AB Moving route prediction offers important benefits for many emerging
+   location-aware applications such as target advertising and urban traffic
+   management. A common approach to route prediction is to match similar
+   trace recordings from a larger volume of historical trajectories, and
+   return the targeted recorded path as desired answer. However, due to
+   privacy concerns, incentive mechanism and other reasons, especially in
+   small business environment, a limited dataset with sparse trajectories
+   is only available. Actually, the existing sparse dataset cannot cover
+   sufficient query routes, and then the match-based approach may return no
+   results at all. Moreover, the existing sparse dataset may fail many
+   trajectory mining approaches that work well on general environment. In
+   this paper, we investigate moving route prediction from sparse
+   trajectory dataset, and propose a novel hybrid model, namely HMRP, to
+   address the above problem. To avoid sparse distribution over spatial
+   semantic layer, a road network map reconstruction methods are proposed
+   to accommodate the sparse trajectories in semantic transformation. And
+   then, by training historical trajectories, the implicit mobility
+   patterns and Markov transition model are constructed to support route
+   prediction. When a query trajectory arrives, towards its derived
+   potential destination, our proposed HMRP model integrates pattern
+   matching strategy and Markov probability distribution to predict its
+   future route gradually in a complementary way. Experiments on real-life
+   taxicab GPS recorded dataset demonstrate that HMRP method can improve
+   movement prediction precision significantly, comparing with the baseline
+   prediction algorithms. And the response time for each query trajectory
+   is acceptable for most application cases.
+CT 20th International Conference on Information Fusion (Fusion)
+CY JUL 10-13, 2017
+CL Xian, PEOPLES R CHINA
+SP Xian Jiaotong Univ; Int Soc Informat Fus; SATPRO; CEEC; China Gezhouba
+   Grp No 3 Engn Co Ltd; Minist Educ, Key Lab Informat Fus Technol;
+   Hangzhou Dianzi Univ; China Elect Technol Grp Corp, Sci & Technol
+   Informat Syst Engn Lab, 28 Res Inst; China Elect Technol Grp Corp, 10
+   Res Inst; Wuhan Digital Engn Inst; Jiangsu Automat Res Inst; CNGC N
+   Automat Control Technol Inst
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+TC 0
+Z9 0
+BN 978-0-9964-5270-0
+UT WOS:000410938300240
+ER
+
+PT J
+AU Fu, Zhongliang
+   Tian, Zongshun
+   Xu, Yanqing
+   Zhou, Kaichun
+TI Mining Frequent Route Patterns Based on Personal Trajectory Abstraction
+SO IEEE ACCESS
+VL 5
+BP 11352
+EP 11363
+DI 10.1109/ACCESS.2017.2712703
+PD 2017
+PY 2017
+AB Frequent route pattern mining from personal trajectory data is the basis
+   of location awareness and location services. However, because personal
+   trajectory data is highly uncertain, most existing approaches are only
+   capable of finding short and incomplete route patterns. In this paper, a
+   novel approach is proposed for the discovery of frequent route patterns
+   based on trajectory abstraction. First, trajectory partition, location
+   extraction, data simplification, and common segment discovery are used
+   to abstract trajectory data, convert these trajectories into common
+   segment temporal sequences (STS) and generate 1-frequent itemsets. Then,
+   a pattern mining algorithm is proposed based on the spatial-temporal
+   adjacency relationship. This algorithm uses the constraint mechanism and
+   bidirectional projected database to mine frequent route patterns from
+   STS. Based on the real GeoLife trajectory data, the experimental results
+   indicate that the proposed method has better performance and can find
+   longer route patterns than other currently available methods.
+TC 1
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+Z9 1
+SN 2169-3536
+UT WOS:000404486900037
+ER
+
+PT J
+AU Tian, Bin
+   Morris, Brendan Tran
+   Tang, Ming
+   Liu, Yuqiang
+   Yao, Yanjie
+   Gou, Chao
+   Shen, Dayong
+   Tang, Shaohu
+TI Hierarchical and Networked Vehicle Surveillance in ITS: A Survey
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 18
+IS 1
+BP 25
+EP 48
+DI 10.1109/TITS.2016.2552778
+PD JAN 2017
+PY 2017
+AB Traffic surveillance has become an important topic in intelligent
+   transportation systems (ITSs), which is aimed at monitoring and managing
+   traffic flow. With the progress in computer vision, video-based
+   surveillance systems have made great advances on traffic surveillance in
+   ITSs. However, the performance of most existing surveillance systems is
+   susceptible to challenging complex traffic scenes (e.g., object
+   occlusion, pose variation, and cluttered background). Moreover, existing
+   related research is mainly on a single video sensor node, which is
+   incapable of addressing the surveillance of traffic road networks.
+   Accordingly, we present a review of the literature on the video-based
+   vehicle surveillance systems in ITSs. We analyze the existing challenges
+   in video-based surveillance systems for the vehicle and present a
+   general architecture for video surveillance systems, i.e., the
+   hierarchical and networked vehicle surveillance, to survey the different
+   existing and potential techniques. Then, different methods are reviewed
+   and discussed with respect to each module. Applications and future
+   developments are discussed to provide future needs of ITS services.
+OI Morris, Brendan/0000-0002-8592-8806
+ZR 0
+ZS 0
+TC 16
+ZB 0
+Z8 0
+Z9 16
+SN 1524-9050
+EI 1558-0016
+UT WOS:000396139200003
+ER
+
+PT J
+AU Thomason, Alasdair
+   Griffiths, Nathan
+   Sanchez, Victor
+TI Context Trees: Augmenting Geospatial Trajectories with Context
+SO ACM TRANSACTIONS ON INFORMATION SYSTEMS
+VL 35
+IS 2
+AR 14
+DI 10.1145/2978578
+PD DEC 2016
+PY 2016
+AB Exposing latent knowledge in geospatial trajectories has the potential
+   to provide a better understanding of the movements of individuals and
+   groups. Motivated by such a desire, this work presents the context tree,
+   a new hierarchical data structure that summarises the context behind
+   user actions in a single model. We propose a method for context tree
+   construction that augments geospatial trajectories with land usage data
+   to identify such contexts. Through evaluation of the construction method
+   and analysis of the properties of generated context trees, we
+   demonstrate the foundation for understanding and modelling behaviour
+   afforded. Summarising user contexts into a single data structure gives
+   easy access to information that would otherwise remain latent, providing
+   the basis for better understanding and predicting the actions and
+   behaviours of individuals and groups. Finally, we also present a method
+   for pruning context trees for use in applications where it is desirable
+   to reduce the size of the tree while retaining useful information.
+TC 1
+ZB 0
+ZR 0
+ZS 0
+Z8 0
+Z9 1
+SN 1046-8188
+EI 1558-2868
+UT WOS:000391724600006
+ER
+
+PT J
+AU Mazumdar, Pramit
+   Patra, Bidyut Kr.
+   Lock, Russell
+   Korra, Sathya Babu
+TI An approach to compute user similarity for GPS applications
+SO KNOWLEDGE-BASED SYSTEMS
+VL 113
+BP 125
+EP 142
+DI 10.1016/j.knosys.2016.09.017
+PD DEC 2016
+PY 2016
+AB The proliferation of GPS enabled devices has led people to share
+   locations both consciously and unconsciously. Large spatio-temporal data
+   comprising of shared locations and whereabouts are now being routinely
+   collected for analysis. As user movements are generally driven by their
+   interests, so mining these mobility patterns can reveal commonalities
+   between a pair of users. In this paper, we present a framework for
+   mining the published trajectories to identify patterns in user mobility.
+   In this framework, we extract the locations where a user stays for a
+   period of time popularly known as stay points. These stay points help to
+   identify the interests of a user. The statistics of pattern and check-in
+   distributions over the GPS data are used to formulate similarity
+   measures for finding K-nearest neighbors of an active user. In this
+   work, we categorize the neighbors into three groups namely strongly
+   similar, closely similar and weakly similar. We introduce three
+   similarity measures to determine them, one for each of the categories.
+   We perform experiments on a real-world GPS log data to find the
+   similarity scores between a pair of users and subsequently find the
+   effective K-neighbors. Experimental results show that our proposed
+   metric outperforms existing metrics in literature. (C) 2016 Elsevier
+   B.V. All rights reserved.
+RI Lock, Russell/S-5741-2017; Korra, Sathya Babu/R-2218-2017
+OI Lock, Russell/0000-0002-4543-3753; Korra, Sathya
+   Babu/0000-0002-5963-5735
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+TC 4
+Z9 4
+SN 0950-7051
+EI 1872-7409
+UT WOS:000387519500012
+ER
+
+PT J
+AU Fu, Zhongliang
+   Tian, Zongshun
+   Xu, Yanqing
+   Qiao, Changjian
+TI A Two-Step Clustering Approach to Extract Locations from Individual GPS
+   Trajectory Data
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 5
+IS 10
+AR 166
+DI 10.3390/ijgi5100166
+PD OCT 2016
+PY 2016
+AB High-accuracy location identification is the basis of location awareness
+   and location services. However, because of the influence of GPS signal
+   loss, data drift and repeated access in the individual trajectory data,
+   the efficiency and accuracy of existing algorithms have some
+   deficiencies. Therefore, we propose a two-step clustering approach to
+   extract individuals' locations according to their GPS trajectory data.
+   Firstly, we defined three different types of stop points; secondly, we
+   extracted these points from the trajectory data by using the
+   spatio-temporal clustering algorithm based on time and distance. The
+   experimental results show that the spatio-temporal clustering algorithm
+   outperformed traditional extraction algorithms. It can avoid the
+   problems caused by repeated access and can substantially reduce the
+   effects of GPS signal loss and data drift. Finally, an improved
+   clustering algorithm based on a fast search and identification of
+   density peaks was applied to discover the trajectory locations. Compared
+   to the existing algorithms, our method shows better performance and
+   accuracy.
+OI Tian, Zongshun/0000-0003-4621-2829
+Z8 0
+TC 8
+ZB 0
+ZS 0
+ZR 0
+Z9 8
+SN 2220-9964
+UT WOS:000387885900001
+ER
+
+PT J
+AU Li, Xiang
+   Li, Mengting
+   Gong, Yue-Jiao
+   Zhang, Xing-Lin
+   Yin, Jian
+TI T-DesP: Destination Prediction Based on Big Trajectory Data
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 17
+IS 8
+BP 2344
+EP 2354
+DI 10.1109/TITS.2016.2518685
+PD AUG 2016
+PY 2016
+AB Destination prediction is very important in location-based services such
+   as recommendation of targeted advertising location. Most current
+   approaches always predict destination according to existing trip based
+   on history trajectories. However, no existing work has considered the
+   difference between the effects of passing-by locations and the
+   destination in history trajectories, which seriously impacts the
+   accuracy of predicted results as the destination can indicate the
+   purpose of traveling. Meanwhile, the temporal information of history
+   trajectories in destination prediction plays an important role. On one
+   hand, the history trajectories in different periods also differ in the
+   influence, e.g., the history trajectories from last week can reflect the
+   status quo more accurately than the history trajectories two years ago.
+   On the other hand, the history trajectories in different time slots
+   reflect different facts of traffic and moving habits of people, e.g.,
+   visiting a restaurant in the daytime and visiting a bar at night.
+   Although a huge amount of history trajectories can be achieved in the
+   era of big data, it is still far from covering all the query
+   trajectories since a road network is widely distributed and trajectory
+   data is sparse. The temporal sensitivity of history trajectories
+   highlights the sparsity problem even more. Therefore, we propose a novel
+   model T-DesP to solve the aforementioned problems. The model is
+   comprised of two modules: trajectory learning and destination
+   prediction. In the module of trajectory learning, a novel method called
+   the mirror absorbing Markov chain model is proposed for modeling the
+   trajectories for isolating the destination. We build a transition tensor
+   to deduce the transition probability between each location pair in a
+   particular time slot. To address the data sparsity problem, we fill the
+   missing values in transition tensor through a context-aware tensor
+   decomposition approach. In the module of destination prediction, an
+   absorbing tensor is derived from the filled transition tensor, and the
+   theoretical model is established for destination prediction. The
+   experiments prove the effectiveness and efficiency of T-DesP.
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 8
+Z9 8
+SN 1524-9050
+EI 1558-0016
+UT WOS:000381456400022
+ER
+
+PT J
+AU Colot, Christian
+   Linden, Isabelle
+   Baecke, Philippe
+TI A Survey on Mobile Data Uses
+SO INTERNATIONAL JOURNAL OF DECISION SUPPORT SYSTEM TECHNOLOGY
+VL 8
+IS 2
+BP 29
+EP 49
+DI 10.4018/IJDSST.2016040103
+PD APR-JUN 2016
+PY 2016
+AB Mobile devices leave an unprecedented volume and variety of digital
+   traces of human beings. In this paper, the authors propose an overview
+   of multiple uses of mobile data published in the scientific literature.
+   The organization of the survey follows a typology built on two criteria:
+   interaction level and focus of analysis. Crossing these two dimensions
+   would suggest 8 research areas. Only 4 of them are actually covered by
+   the collected pieces of work. They are discussed in turn showing off the
+   main characteristics of them. Finally, the discussion of the 4 remaining
+   areas highlights new research areas with a special focus on the
+   possibility to use mobile data to influence individual users towards
+   efficient collective behaviors. To conclude, current and future research
+   avenues suggest that mobile devices and their underlying data are likely
+   to be employed in many domains and may be used not only to observe human
+   life but also to influence it.
+ZB 0
+Z8 0
+ZS 0
+TC 0
+ZR 0
+Z9 0
+SN 1941-6296
+EI 1941-630X
+UT WOS:000383185100004
+ER
+
+PT J
+AU Wang, Tianben
+   Zhang, Daqing
+   Zhou, Xingshe
+   Qi, Xin
+   Ni, Hongbo
+   Wang, Haipeng
+   Zhou, Gang
+TI Mining Personal Frequent Routes via Road Corner Detection
+SO IEEE TRANSACTIONS ON SYSTEMS MAN CYBERNETICS-SYSTEMS
+VL 46
+IS 4
+BP 445
+EP 458
+DI 10.1109/TSMC.2015.2444416
+PD APR 2016
+PY 2016
+AB Frequent route is an important individual outdoor behavior pattern that
+   many trajectory-based applications rely on. In this paper, we propose a
+   novel framework for extracting frequent routes from personal GPS
+   trajectories. The key idea of our design is to accurately detect road
+   corners and utilize these new metaphors to tackle the problem of
+   frequent route extraction. Concretely, our framework contains three
+   phases: 1) characteristic point (CP) extraction; 2) corner detection;
+   and 3) trajectory mapping. In the first phase, we present a linear
+   fitting-based algorithm to extract CPs. In the second phase, we develop
+   a multiple density level DBSCAN (density-based spatial clustering of
+   applications with noise) algorithm to locate road corners by clustering
+   CPs. In the third phase, we convert each trajectory into an ordered
+   sequence of road corners and obtain all routes that have been traversed
+   by an individual for at least F (frequency threshold) times. We evaluate
+   the framework using real-world trajectory datasets of individuals for
+   one year and the experimental results demonstrate that our framework
+   outperforms the baseline approach by 7.8% on average in terms of
+   precision and 21.9% in terms of recall.
+ZB 0
+ZS 0
+TC 3
+Z8 0
+ZR 0
+Z9 3
+SN 2168-2216
+UT WOS:000372790700001
+ER
+
+PT J
+AU Lv, Mingqi
+   Chen, Ling
+   Xu, Zhenxing
+   Li, Yinglong
+   Chen, Gencai
+TI The discovery of personally semantic places based on trajectory data
+   mining
+SO NEUROCOMPUTING
+VL 173
+BP 1142
+EP 1153
+DI 10.1016/j.neucom.2015.08.071
+PD JAN 15 2016
+PY 2016
+AB A personally semantic place is a space that is frequently visited by an
+   individual user and carries important semantic meanings (e.g. home,
+   work, etc.) to the user. Many location-aware applications could be
+   greatly enhanced by the ability of automatic discovery of personally
+   semantic places. The discovery of a user's personally semantic places
+   involves obtaining the physical locations and semantic meanings of these
+   places. In this paper, we propose approaches to address both of the
+   problems. For the physical place extraction problem, a hierarchical
+   clustering algorithm is proposed to firstly extract visit points from
+   the GPS trajectories, and then clusters these visit points to form
+   physical places. For the semantic place recognition problem, the
+   temporal, spatial and sequential features in which the places have been
+   visited are explored to categorize them into pre-defined types. An
+   extensive set of experiments conducted based on a dataset of real-world
+   GPS trajectories has demonstrated the effectiveness of the proposed
+   approaches. (C) 2015 Elsevier B.V. All rights reserved.
+Z8 1
+ZB 0
+ZS 0
+TC 16
+ZR 0
+Z9 17
+SN 0925-2312
+EI 1872-8286
+UT WOS:000366879800067
+ER
+
+PT S
+AU Yang, Dingyu
+   Wang, Fu
+   Ji, Chunlei
+BE Fei, X
+   Wang, L
+   Ji, C
+   Sun, Q
+   Chen, N
+   Song, X
+   Wang, X
+TI Hite: Histogram-Based Traffic Estimation on Real-time Trajectory
+SO 2016 3RD INTERNATIONAL CONFERENCE ON SYSTEMS AND INFORMATICS (ICSAI)
+SE International Conference on Systems and Informatics
+BP 444
+EP 449
+PD 2016
+PY 2016
+AB Traffic estimation in real-time is able to help users to choose a better
+   router timely, and also saves the travel time and energy consumption.
+   Several methods have been investigated to estimate the traffic condition
+   based on large amounts of trajectory data. However, these methods need
+   to be maintained with tremendous overhead if the traffic varies
+   frequently. We build a system Hite, a distributed stream processing
+   platform for real-time traffic estimation. In Hite a histogram-based
+   model is proposed to forecast the traffic condition and can be
+   incremental updated in real-time. Experimental results demonstrate that
+   the performance for traffic estimation by Hite is better than existing
+   method ARIMA and ES methods.
+CT 3rd International Conference on Systems and Informatics (ICSAI)
+CY NOV 19-21, 2016
+CL Shanghai, PEOPLES R CHINA
+SP Shanghai Dianji Univ, Sch Elect & Informat; Shanghai Dianji Univ; IEEE
+   Syst Man & Cybernet Soc; IEEE Ind Elect Soc; DI
+ZB 0
+ZR 0
+TC 0
+Z8 0
+ZS 0
+Z9 0
+SN 2474-0217
+BN 978-1-5090-5521-0
+UT WOS:000400697600078
+ER
+
+PT S
+AU Diop, Papa Samour
+   Mbacke, Ahmath Bamba
+   Mendy, Gervais
+BE Hsu, CH
+   Wang, S
+   Zhou, A
+   Shawkat, A
+TI Predictive Assessment of Response Time for Road Traffic Video
+   Surveillance Systems: The Case of Centralized and Distributed Systems
+SO INTERNET OF VEHICLES - TECHNOLOGIES AND SERVICES
+SE Lecture Notes in Computer Science
+VL 10036
+BP 34
+EP 48
+DI 10.1007/978-3-319-51969-2_4
+PD 2016
+PY 2016
+AB In this paper, we propose mathematical models for predictive assessment
+   of response times of road traffic video surveillance systems. Their
+   performances depend highly on the ability to perceive mobiles within a
+   certain radius of networked sensors, then distinguish their potential
+   trajectory for further decision making. Most QoS measurements and
+   evaluations used within actual literature are hardware based, and do not
+   consider the influence of the technical architecture. We therefore
+   proposed a process based decomposition of video surveillance systems to
+   obtain functions approximating each ones time consumption. The
+   integration of these components guided us to generic mathematical models
+   validated through experimentations. The comparison between them shows a
+   considerably lower response time for a distributed architecture over a
+   centralized.
+CT 3rd International Conference on Internet of Vehicles (IOV)
+CY DEC 07-10, 2016
+CL Nadi, FIJI
+ZS 0
+ZR 0
+ZB 0
+TC 1
+Z8 0
+Z9 1
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-51969-2; 978-3-319-51968-5
+UT WOS:000425524000004
+ER
+
+PT B
+AU Xu, Mengwen
+   Wang, Dong
+   Li, Jian
+GP Assoc Comp Machinery
+TI DESTPRE : A Data-Driven Approach to Destination Prediction for Taxi
+   Rides
+SO UBICOMP'16: PROCEEDINGS OF THE 2016 ACM INTERNATIONAL JOINT CONFERENCE
+   ON PERVASIVE AND UBIQUITOUS COMPUTING
+BP 729
+EP 739
+DI 10.1145/2971648.2971664
+PD 2016
+PY 2016
+AB With the wide use of mobile devices, predicting the destination of
+   moving vehicles has become an increasingly important problem for
+   location based recommendation systems and destination-based advertising.
+   Most existing approaches are based on various Markov chain models, in
+   which the historical trajectories are used to train the model and the
+   top-k most probable destinations are returned. We identify certain
+   limitations of the previous approaches. Instead, we propose a new
+   data-driven framework, called DESTPRE, which is not based on a
+   probabilistic model, but directly operates on the trajectories and makes
+   the prediction. We make use of only historic trajectories, without
+   individual identity information. Our design of DESTPRE, although simple,
+   is a result of several useful observations from the real trajectory
+   data. DESTPRE involves an index based on Bucket PR Quadtree and Minwise
+   hashing, for efficiently retrieving similar trajectories, and a
+   clustering on destinations for predictions. By incorporating some
+   additional ideas, we show that the prediction accuracy can be further
+   improved. We have conducted extensive experiments on real Beijing Taxi
+   dataset. The experimental results demonstrate the effectiveness of
+   DESTPRE.
+CT ACM International Joint Conference on Pervasive and Ubiquitous Computing
+   (UbiComp)
+CY SEP 12-16, 2016
+CL Heidelberg, GERMANY
+SP Assoc Comp Machinery; ACM SIGCHI; ACM SIGMOBILE
+ZB 0
+Z8 0
+ZR 0
+TC 4
+ZS 0
+Z9 4
+BN 978-1-4503-4461-6
+UT WOS:000455942400066
+ER
+
+PT J
+AU Tian, Bin
+   Morris, Brendan Tran
+   Tang, Ming
+   Liu, Yuqiang
+   Yao, Yanjie
+   Gou, Chao
+   Shen, Dayong
+   Tang, Shaohu
+TI Hierarchical and Networked Vehicle Surveillance in ITS: A Survey
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 16
+IS 2
+BP 557
+EP 580
+DI 10.1109/TITS.2014.2340701
+PD APR 2015
+PY 2015
+AB Traffic surveillance has become an important topic in intelligent
+   transportation systems (ITSs), which is aimed at monitoring and managing
+   traffic flow. With the progress in computer vision, video-based
+   surveillance systems have made great advances on traffic surveillance in
+   ITSs. However, the performance of most existing surveillance systems is
+   susceptible to challenging complex traffic scenes (e.g., object
+   occlusion, pose variation, and cluttered background). Moreover, existing
+   related research is mainly on a single video sensor node, which is
+   incapable of addressing the surveillance of traffic road networks.
+   Accordingly, we present a review of the literature on the video-based
+   vehicle surveillance systems in ITSs. We analyze the existing challenges
+   in video-based surveillance systems for the vehicle and present a
+   general architecture for video surveillance systems, i.e., the
+   hierarchical and networked vehicle surveillance, to survey the different
+   existing and potential techniques. Then, different methods are reviewed
+   and discussed with respect to each module. Applications and future
+   developments are discussed to provide future needs of ITS services.
+RI Tang, Shaohu/D-6566-2016; Morris, Brendan/
+OI Morris, Brendan/0000-0002-8592-8806
+ZS 0
+ZR 0
+TC 29
+Z8 1
+ZB 0
+Z9 30
+SN 1524-9050
+EI 1558-0016
+UT WOS:000352282500004
+ER
+
+PT J
+AU Xue, Andy Yuan
+   Qi, Jianzhong
+   Xie, Xing
+   Zhang, Rui
+   Huang, Jin
+   Li, Yuan
+TI Solving the data sparsity problem in destination prediction
+SO VLDB JOURNAL
+VL 24
+IS 2
+SI SI
+BP 219
+EP 243
+DI 10.1007/s00778-014-0369-7
+PD APR 2015
+PY 2015
+AB Destination prediction is an essential task for many emerging
+   location-based applications such as recommending sightseeing places and
+   targeted advertising according to destinations. A common approach to
+   destination prediction is to derive the probability of a location being
+   the destination based on historical trajectories. However, almost all
+   the existing techniques use various kinds of extra information such as
+   road network, proprietary travel planner, statistics requested from
+   government, and personal driving habits. Such extra information, in most
+   circumstances, is unavailable or very costly to obtain. Thereby we
+   approach the task of destination prediction by using only historical
+   trajectory dataset. However, this approach encounters the "data sparsity
+   problem", i.e., the available historical trajectories are far from
+   enough to cover all possible query trajectories, which considerably
+   limits the number of query trajectories that can obtain predicted
+   destinations. We propose a novel method named Sub-Trajectory Synthesis
+   (SubSyn) to address the data sparsity problem. SubSyn first decomposes
+   historical trajectories into sub-trajectories comprising two adjacent
+   locations, and then connects the sub-trajectories into "synthesised"
+   trajectories. This process effectively expands the historical trajectory
+   dataset to contain much more trajectories. Experiments based on real
+   datasets show that SubSyn can predict destinations for up to ten times
+   more query trajectories than a baseline prediction algorithm.
+   Furthermore, the running time of the SubSyn-training algorithm is almost
+   negligible for a large set of 1.9 million trajectories, and the
+   SubSyn-prediction algorithm runs over two orders of magnitude faster
+   than the baseline prediction algorithm constantly.
+RI Qi, Jianzhong/P-7112-2015; ZHANG, RUI/
+OI Qi, Jianzhong/0000-0001-6501-9050; ZHANG, RUI/0000-0002-8132-6250
+ZB 1
+ZR 0
+Z8 6
+ZS 0
+TC 13
+Z9 18
+SN 1066-8888
+EI 0949-877X
+UT WOS:000351381200003
+ER
+
+PT J
+AU Boulmakoul, Azedine
+   Karim, Lamia
+   Elbouziri, Adil
+   Lbath, Ahmed
+TI A System Architecture for Heterogeneous Moving-Object Trajectory
+   Metamodel Using Generic Sensors: Tracking Airport Security Case Study
+SO IEEE SYSTEMS JOURNAL
+VL 9
+IS 1
+BP 283
+EP 291
+DI 10.1109/JSYST.2013.2293837
+PD MAR 2015
+PY 2015
+AB This paper proposes a system architecture and case study for a
+   heterogeneous moving-object trajectory metamodel using generic sensors.
+   In order to provide a unified metamodel and powerful framework for
+   trajectory's services and queries, the proposed trajectory's data model
+   has benefited from advantages of both conceptual and ontological
+   space-time. However, it extends the basic data model of trajectory with
+   new patterns as the space-time path to describe activities of the moving
+   object and the composite region of interest. Additionally, the proposed
+   system is distinguished by providing a framework for dealing with
+   moving-object trajectory in an interoperable way, using heterogonous
+   sensors that traditional data model incapable for this purpose. The
+   proposed system architecture for the moving-object trajectory's data
+   model is focused on service composability and data interoperability
+   combining Open Geospatial Consortium (OGC) standards, Service-Oriented
+   Architecture, and streaming technology, to allow applications built
+   using the framework to be scalable and have better performance. The case
+   study presented for tracking travelers at the airport means that
+   passenger locations can be determined with a higher degree of accuracy
+   and precision. Indeed, this system makes it easy to answer complex
+   queries, such as seeing closely where passengers congregate, how much
+   time they spend in stores and restaurants, and where there may be
+   bottlenecks. It will also enable airport retailers to communicate with
+   travelers directly.
+CT 7th International Conference on System of Systems Engineering (SoSE)
+CY JUL 16-19, 2012
+CL Genoa, ITALY
+SP IEEE Syst, Man, & Cybernet Soc (SMC); IEEE Reliabil Soc; Univ Genoa,
+   Dept Commun Comp & Syst Sci (dist); ACE; MABL
+ZS 0
+TC 5
+ZB 0
+Z8 0
+ZR 0
+Z9 5
+SN 1932-8184
+EI 1937-9234
+UT WOS:000351075000029
+ER
+
+PT B
+AU Zou, Yue
+   Zhang, SanFeng
+GP IEEE
+TI Position Prediction Social-relationship-based Of Multi-Order Markov
+   Model
+SO 2015 Third International Conference on Advanced Cloud and Big Data
+BP 36
+EP 43
+DI 10.1109/CBD.2015.16
+PD 2015
+PY 2015
+AB Opportunistic network mobile user-nodes location prediction can help to
+   collect the data, improve the dynamic network and help to decrease the
+   problems which include the delay, low success rate, high storage space
+   energy consume and so on, which are the results of the blindness in the
+   process of delivery. In this paper, a mobile node location prediction
+   algorithm base on the Multi-Order Markov prediction model as the initial
+   forecast, and then use social-relationship which is closely linked to
+   the node to optimize the algorithm. Experimental results show that the
+   proposed algorithm is better than the single Multi-Order Markov model.
+CT 2015 Third International Conference on Advanced Cloud and Big Data
+CY OCT 30-NOV 01, 2015
+CL Yangzhou, PEOPLES R CHINA
+SP Southeast Univ; Yangzhou Univ; IBM; Acm; China Nanjing Chapter; JSCS;
+   TSINGHUA Sci & Technol
+ZB 0
+Z8 0
+ZS 0
+ZR 0
+TC 0
+Z9 0
+BN 978-1-4673-8537-4
+UT WOS:000380509300006
+ER
+
+PT S
+AU Wang, Xipeng
+   Ma, Yuan
+   Di, Junru
+   Murphey, Yi L.
+   Qiu, Shiqi
+   Kristinsson, Johannes
+   Meyer, Jason
+   Tseng, Finn
+   Feldkamp, Timothy
+BE Roy, A
+   Angelov, P
+   Alimi, A
+   Venayagamoorthy, K
+   Trafalis, T
+TI Building efficient probability transition matrix using machine learning
+   from big data for personalized route prediction
+SO INNS CONFERENCE ON BIG DATA 2015 PROGRAM
+SE Procedia Computer Science
+VL 53
+BP 284
+EP 291
+DI 10.1016/j.procs.2015.07.305
+PD 2015
+PY 2015
+AB Personalized route prediction is an important technology in many
+   applications related to intelligent vehicles and transportation systems.
+   Current route prediction technologies used in many general navigation
+   systems are, by and large, based on either the shortest or the fastest
+   route selection. Personal traveling route prediction is a very
+   challenging big data problem, as trips getting longer and variations in
+   routes growing. It is particularly challenging for real-time in-vehicle
+   applications, since many embedded processors have limited memory and
+   computational power. In this paper we present a machine learning
+   algorithm for modeling route prediction based on a Markov chain model,
+   and a route prediction algorithm based on a probability transition
+   matrix. We also present two data reduction algorithms, one is developed
+   to map large GPS based trips to a compact link-based standard route
+   representation, and another a machine learning algorithm to
+   significantly reduce the size of a probability transition matrix. The
+   proposed algorithms are evaluated on real-world driving trip data
+   collected in four months, where the data collected in the first three
+   months are used as training and the data in the fourth month are used as
+   testing. Our experiment results show that the proposed personal route
+   prediction system generated more than 91% prediction accuracy in average
+   among the test trips. The data reduction algorithm gave about 8:1
+   reduction in link-based standard route representation and 23: 1 in
+   reducing the size of probability transition matrix.
+CT INNS Conference on Big Data
+CY AUG 08-10, 2015
+CL San Francisco, CA
+SP INNS
+ZR 0
+TC 2
+Z8 0
+ZB 0
+ZS 0
+Z9 2
+SN 1877-0509
+BN *****************
+UT WOS:000360311000033
+ER
+
+PT S
+AU Silva, Paulo
+   Antunes, Francisco
+   Gomes, Rui
+   Bento, Carlos
+BE Pereira, F
+   Machado, P
+   Costa, E
+   Cardoso, A
+TI Demand Modelling for Responsive Transport Systems Using Digital
+   Footprints
+SO PROGRESS IN ARTIFICIAL INTELLIGENCE-BK
+SE Lecture Notes in Artificial Intelligence
+VL 9273
+BP 181
+EP 186
+DI 10.1007/978-3-319-23485-4_19
+PD 2015
+PY 2015
+AB Traditionally, travel demand modelling focused on long-term multiple
+   socio-economic scenarios and land-use configurations to estimate the
+   required transport supply. However, the limited number of transportation
+   requests in demand-responsive flexible transport systems require a
+   higher resolution zoning. This work analyses users short-term
+   destination choice patterns, with a careful analysis of the available
+   data coming from various different sources, such as GPS traces and
+   social networks. We use a Multinomial Logit Model, with a social
+   component for utility and characteristics, both derived from Social
+   Network Analyses. The results from the model show meaningful
+   relationships between distance and attractiveness for all the different
+   alternatives, with the variable distance being the most significant.
+CT 17th Portuguese Conference on Artificial Intelligence (EPIA)
+CY SEP 08-11, 2015
+CL Univ Coimbra, Coimbra, PORTUGAL
+HO Univ Coimbra
+SP Sistemas Cognitivos S A; Feedzai S A; Thinkware S A; iClio; FBA;
+   Fundacao Ciencia Tecnologia
+RI Gomes, Rui/N-7429-2018; Gomes, Rui/M-4036-2013
+OI Gomes, Rui/0000-0001-7233-0736; Gomes, Rui/0000-0001-7233-0736
+ZB 0
+Z8 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-23485-4; 978-3-319-23484-7
+UT WOS:000363570000019
+ER
+
+PT J
+AU Boulmakoul, A.
+   Karim, L.
+   Mandar, M.
+   Idri, A.
+   Daissaoui, A.
+TI Towards Scalable Distributed Framework for Urban Congestion Traffic
+   Patterns Warehousing
+SO APPLIED COMPUTATIONAL INTELLIGENCE AND SOFT COMPUTING
+AR 578601
+DI 10.1155/2015/578601
+PD 2015
+PY 2015
+AB We put forward architecture of a framework for integration of data from
+   moving objects related to urban transportation network. Most of this
+   research refers to the GPS outdoor geolocation technology and uses
+   distributed cloud infrastructure with big data NoSQL database. A network
+   of intelligent mobile sensors, distributed on urban network, produces
+   congestion traffic patterns. Congestion predictions are based on
+   extended simulation model. This model provides traffic indicators
+   calculations, which fuse with the GPS data for allowing estimation of
+   traffic states across the whole network. The discovery process of
+   congestion patterns uses semantic trajectories metamodel given in our
+   previous works. The challenge of the proposed solution is to store
+   patterns of traffic, which aims to ensure the surveillance and
+   intelligent real-time control network to reduce congestion and avoid its
+   consequences. The fusion of real-time data from GPS-enabled smartphones
+   integrated with those provided by existing traffic systems improves
+   traffic congestion knowledge, as well as generating new information for
+   a soft operational control and providing intelligent added value for
+   transportation systems deployment.
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+TC 2
+Z9 2
+SN 1687-9724
+EI 1687-9732
+UT WOS:000355617800001
+ER
+
+PT S
+AU Hsu, William W. Y.
+   Wu, Yi-Wen
+   You, Min-Ruey
+   Liao, Cheng-Hsin
+   Lu, Cheng-Yu
+   Wang, Hao-Hsun
+BE Fujita, H
+   Su, SF
+TI Constructing an Efficient State Space Query System for the Voyage Data
+   Recorder
+SO NEW TRENDS ON SYSTEM SCIENCES AND ENGINEERING
+SE Frontiers in Artificial Intelligence and Applications
+VL 276
+BP 294
+EP 305
+DI 10.3233/978-1-61499-522-7-294
+PD 2015
+PY 2015
+AB Voyage data recorders are devices kept on vessels to track their
+   trajectories when overseas. It receives signals from global positioning
+   satellites to compute its current location on Earth and records the
+   current speed, course, and bearing within its internal memory. The
+   information is downloaded and recorded each time the fishing vessel
+   docks for fueling. Currently, over 10 thousand devices are installed and
+   tracked, collecting over 3 billion GPS samples over 8 years period. This
+   paper presents our approach to clean and reorganize the data, and design
+   an efficient incremental updatable database for fast query on the state
+   of vessels and the spacial locations of vessels. We have also adapted
+   the WebGL technology for visualization of trajectories with more than
+   100 thousand points. The initialization of this work will provide a
+   better platform for future fisheries management such as resource
+   estimation, catch per unit effort analysis, environmental protections,
+   operational efficiency, and activity surveillance.
+CT International Conference on System Science and Engineering (ICSSE)
+CY JUL 06-08, 2015
+CL Morioka, JAPAN
+ZR 0
+ZB 0
+TC 0
+ZS 0
+Z8 0
+Z9 0
+SN 0922-6389
+EI 1879-8314
+BN 978-1-61499-522-7; 978-1-61499-521-0
+UT WOS:000455824500027
+ER
+
+PT J
+AU Lin, Miao
+   Hsu, Wen-Jing
+TI Mining GPS data for mobility patterns: A survey
+SO PERVASIVE AND MOBILE COMPUTING
+VL 12
+BP 1
+EP 16
+DI 10.1016/j.pmcj.2013.06.005
+PD JUN 2014
+PY 2014
+AB With the help of various positioning tools, individuals' mobility
+   behaviors are being continuously captured from mobile phones, wireless
+   networking devices and GPS appliances. These mobility data serve as an
+   important foundation for understanding individuals' mobility behaviors.
+   For instance, recent studies show that, despite the dissimilarity in the
+   mobility areas covered by individuals, there is high regularity in the
+   human mobility behaviors, suggesting that most individuals follow a
+   simple and reproducible pattern. This survey paper reviews relevant
+   results on uncovering mobility patterns from GPS datasets. Specially, it
+   covers the results about inferring locations of significance for
+   prediction of future moves, detecting modes of transport, mining
+   trajectory patterns and recognizing locationbased activities. The survey
+   provides a general perspective for studies on the issues of individuals'
+   mobility by reviewing the methods and algorithms in detail and comparing
+   the existing results on the same issues. Several new and emergent issues
+   concerning individuals' mobility are proposed for further research. (C)
+   2013 Elsevier B. V. All rights reserved.
+RI Hsu, Wen-Jing/A-3702-2011
+ZS 0
+TC 40
+Z8 2
+ZB 0
+ZR 0
+Z9 42
+SN 1574-1192
+EI 1873-1589
+UT WOS:000336519700001
+ER
+
+PT B
+AU Corona, Nicola
+   Giannotti, Fosca
+   Monreale, Anna
+   Trasarti, Roberto
+BA Janssens, D
+   Yasar, AU
+   Knapen, L
+TI On Predicting the Future Locations of Moving Objects: The State of the
+   Art
+SO DATA SCIENCE AND SIMULATION IN TRANSPORTATION RESEARCH
+SE Advances in Data Mining and Database Management (ADMDM) Book Series
+BP 30
+EP 47
+DI 10.4018/978-1-4666-4920-0.ch002
+PD 2014
+PY 2014
+AB The pervasiveness of mobile devices and location-based services produces
+   as side effects an increasing volume of mobility data, which in turn
+   creates the opportunity for a novel generation of analysis methods of
+   movement behaviors. In this chapter, the authors focus on the problem of
+   predicting future locations aimed at predicting with a certain accuracy
+   the next location of a moving object. In particular, they provide a
+   classification of the proposals in the literature addressing that
+   problem. Then the authors preset the data mining method WhereNext and
+   finally discuss possible improvements of that method.
+RI Monreale, Anna/I-1935-2016
+OI Monreale, Anna/0000-0001-8541-0284
+Z8 0
+TC 0
+ZS 0
+ZR 0
+ZB 0
+Z9 0
+BN 978-1-4666-4921-7; 978-1-4666-4920-0
+UT WOS:000364530200004
+D2 10.4018/978-1-4666-4920-0
+ER
+
+PT S
+AU Tian, Jie
+   Wang, Guiling
+   Gao, Xin
+   Shi, Kaixuan
+GP IEEE
+TI User Behavior based Automatical Navigation System on Android Platform
+SO 2014 23RD WIRELESS AND OPTICAL COMMUNICATION CONFERENCE (WOCC)
+SE Wireless and Optical Communication Conference
+PD 2014
+PY 2014
+AB Nowadays, navigation applications in smartphones are widely used in our
+   daily lives. But the problem existing in using the applications is that
+   a lot of operations between users and smartphones are needed, such as
+   destination setting, options setting and zooming in/out. Potential
+   dangers may bring to the users when they are walking on the street or
+   especially driving. In this paper, we study providing an automatical
+   navigation system, in which the number of users' operations is largely
+   reduced. The navigation system can automatically predict user's future
+   possible destinations and routes without any operation from users. The
+   prediction is performed by analyzing both user's current position and
+   historical tracing data. We implement the proposed system on the Android
+   platform. The experimental results show that the application works
+   effectively to provide anticipated routes and destinations for a single
+   user.
+CT 23rd Wireless and Optical Communication Conference (WOCC)
+CY MAY 09-10, 2014
+CL Newark, NJ
+ZR 0
+Z8 0
+ZS 0
+TC 0
+ZB 0
+Z9 0
+SN 2379-1268
+BN 978-1-4799-5249-6
+UT WOS:000357018500008
+ER
+
+PT S
+AU Lung, Huei-Yu
+   Chung, Chih-Heng
+   Dai, Bi-Ru
+BE Peng, WC
+   Wang, H
+   Bailey, J
+   Tseng, VS
+   Ho, TB
+   Zhou, ZH
+   Chen, ALP
+TI Predicting Locations of Mobile Users Based on Behavior Semantic Mining
+SO TRENDS AND APPLICATIONS IN KNOWLEDGE DISCOVERY AND DATA MINING
+SE Lecture Notes in Artificial Intelligence
+VL 8643
+BP 168
+EP 180
+DI 10.1007/978-3-319-13186-3_16
+PD 2014
+PY 2014
+AB Predicting movements of mobile users has become increasingly popular
+   because of the ease of trajectory data collecting nowadays. However, as
+   most of these prediction techniques need geographic pattern matching of
+   users' trajectory data, it is possible that the techniques cannot work
+   in a place where the user has never been before. In this paper, we
+   propose an approach based on transportation mode and behavior semantic
+   features to predict the next location of the users' movement. First, we
+   identify the users' transportation mode to get sequential data of the
+   users' motion mode. Then, we get the semantic meaning as behavior
+   semantic features from the places where users have stopped and visited
+   for a while. We determine the relationship between the transportation
+   mode and behavior semantic features to predict the next location based
+   on the Hidden Markov model. We use real world data for our experiment to
+   demonstrate the effectiveness of our approach.
+CT 18th Pacific-Asia Conference on Knowledge Discovery and Data Mining
+   (PAKDD)
+CY MAY 13-16, 2014
+CL Tainan, TAIWAN
+ZB 0
+ZR 0
+Z8 0
+ZS 0
+TC 0
+Z9 0
+SN 0302-9743
+BN 978-3-319-13186-3; 978-3-319-13185-6
+UT WOS:000354705300016
+ER
+
+PT S
+AU Lin, Yung-Hsiang
+   Lai, Chien-Hsiang
+   Lei, Po-Ruey
+BE Peng, WC
+   Wang, H
+   Bailey, J
+   Tseng, VS
+   Ho, TB
+   Zhou, ZH
+   Chen, ALP
+TI Mining Top-K Relevant Stay Regions from Historical Trajectories
+SO TRENDS AND APPLICATIONS IN KNOWLEDGE DISCOVERY AND DATA MINING
+SE Lecture Notes in Artificial Intelligence
+VL 8643
+BP 293
+EP 304
+DI 10.1007/978-3-319-13186-3_28
+PD 2014
+PY 2014
+AB With increasingly prevalent mobile positioning devices, such as GPS
+   loggers, smart phones, and GPS navigation devices, a huge amount of
+   trajectories data is collected. Users are able to obtain the various
+   location-based services by uploading their trajectories. In this paper,
+   we address that a user's movement behavior is able to discover by their
+   similar shape trajectories and resulted in some regions frequently stay
+   in common, called relevant stay regions. Once a set of stay regions
+   discovered, we can predict the next region where the user intends to go
+   and provide location-based information of the next stay in advance, such
+   as traffic status, targeted advertises, sightseeing recommendations, and
+   so on. Prior works have elaborated on discovering stay region from the
+   whole crowd trajectories and then exploring the relations between the
+   regions to describe the movement patterns for location prediction.
+   However, the trajectories pass the same region may not have the similar
+   movement behavior. Thus, we propose a framework to discover stay regions
+   relevant to the specific movement behavior and then applied in location
+   prediction, called Region Modeling and Mobility Prediction. The proposed
+   framework includes two modules: region modeling and mobility prediction.
+   In the region modeling module, we develop shape clustering method to
+   group the similar trajectories from historical data and then explore the
+   stay region model from trajectory clusters. Based on the discovered
+   region model, the mobility prediction module provide a cluster selection
+   algorithm and several prediction strategies to generate the top-k
+   relevant stay regions. Experiments results on real datasets demonstrate
+   the effectiveness and accuracy of our proposed model on detecting next
+   stay region, comparing with other baseline methods.
+CT 18th Pacific-Asia Conference on Knowledge Discovery and Data Mining
+   (PAKDD)
+CY MAY 13-16, 2014
+CL Tainan, TAIWAN
+Z8 0
+TC 0
+ZB 0
+ZR 0
+ZS 0
+Z9 0
+SN 0302-9743
+BN 978-3-319-13186-3; 978-3-319-13185-6
+UT WOS:000354705300028
+ER
+
+PT B
+AU Roth, Joerg
+BE Eichler, G
+   Fouchal, H
+   Erfurth, C
+TI Predicting Route Targets Based on Optimality Considerations
+SO 2014 14TH INTERNATIONAL CONFERENCE ON INNOVATIONS FOR COMMUNITY SERVICES
+   (I4CS)
+BP 61
+EP 68
+PD 2014
+PY 2014
+AB In this paper we present an approach to predict a target of a mobile
+   user on the move. After observing the movement from a starting point, we
+   are able to create possible extrapolations of routes. Our basic
+   assumption: a mobile user tries to move efficiently, thus only a certain
+   set of destinations is reasonable. We use a road network that contains
+   information about movement costs to detect reasonable movements, but we
+   do not expect theoretical optimal paths. We are able to model different
+   efficiency goals and different degrees of optimality. We present an
+   efficient algorithm to actually compute the set of reasonable targets
+   that avoids brute force computation. In contrast to existing work to
+   predict route destinations, we do not require a learning phase to
+   collect an archive of former routes.
+CT 14th International Conference on Innovations for Community Services
+   (I4CS)
+CY JUN 04-06, 2014
+CL Univ Reims Champagne Ardenne, Reims, FRANCE
+HO Univ Reims Champagne Ardenne
+SP IEEE; IEEE Commun Soc; Telekom Innovat Lab
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+TC 3
+Z9 3
+BN 978-1-4799-5350-9
+UT WOS:000345224700010
+ER
+
+PT J
+AU Wen, Li
+   Xia Shi-xiong
+   Feng, Liu
+   Lei, Zhang
+TI Improving Location Prediction by Exploring Spatial-Temporal-Social Ties
+SO MATHEMATICAL PROBLEMS IN ENGINEERING
+AR 151803
+DI 10.1155/2014/151803
+PD 2014
+PY 2014
+AB As there is great differences of movement patterns and social
+   correlation between weekdays and weekends, we propose a fallback
+   social-temporal-hierarchic Markov model (FSTHM) to predict individual's
+   future location. The division of weekdays and weekends is used to
+   decompose the original state of traditional Markov model into two
+   different states and distinguish the difference of the strength of
+   social ties on weekdays and weekends. Except for the time division, the
+   distribution of the visit time for each state is also considered to
+   improve the predictive performance. In addition, in order to best suit
+   the characteristics of Markov model, we introduce the modified
+   cross-sample entropy to quantify the similarities between the individual
+   and his friends. The experiments based on real location-based social
+   network show the FSTHM model gives a 9% improvement over the Markov
+   model and 2% improvement over the social Markov models which use cosine
+   similarity or mutual information to measure the social correlation.
+TC 2
+ZS 0
+Z8 0
+ZB 0
+ZR 0
+Z9 2
+SN 1024-123X
+EI 1563-5147
+UT WOS:000344261600001
+ER
+
+PT J
+AU Lv, Mingqi
+   Chen, Ling
+   Chen, Gencai
+TI Mining user similarity based on routine activities
+SO INFORMATION SCIENCES
+VL 236
+BP 17
+EP 32
+DI 10.1016/j.ins.2013.02.050
+PD JUL 1 2013
+PY 2013
+AB Mobile user similarity is significant for location-based social network
+   services. With the pervasiveness of location-acquisition technologies,
+   research on measuring mobile user similarity based on their trajectories
+   has attracted a lot of attention. However, trajectories imply only
+   short-term mobile regularities, and thus users' long-term activity
+   similarity is difficult to be captured. In this paper, we address the
+   problem of mining users' long-term activity similarity based on their
+   trajectories. To solve this problem, we propose a two-stage approach. At
+   the first stage, the notion of routine activity is proposed to capture
+   users' long-term activity regularities. The routine activities of a user
+   are extracted from his/her daily trajectories. At the second stage, user
+   similarity is calculated hierarchically based on the extracted routine
+   activities. Finally, we evaluated our approach based on both real and
+   artificial datasets. The experimental results show that users with
+   different profiles can be discriminated on the basis of our similarity
+   metric, and thus demonstrate the effectiveness of our approach. (C) 2013
+   Elsevier Inc. All rights reserved.
+ZS 0
+ZB 0
+TC 22
+Z8 3
+ZR 0
+Z9 25
+SN 0020-0255
+EI 1872-6291
+UT WOS:000318747800002
+ER
+
+PT S
+AU Helmholz, Patrick
+   Ziesmann, Edgar
+   Robra-Bissantz, Susanne
+BE VomBrocke, J
+   Hekkala, R
+   Ram, S
+   Rossi, M
+TI Context-Awareness in the Car: Prediction, Evaluation and Usage of Route
+   Trajectories
+SO DESIGN SCIENCE AT THE INTERSECTION OF PHYSICAL AND VIRTUAL DESIGN
+SE Lecture Notes in Computer Science
+VL 7939
+BP 412
+EP 419
+PD 2013
+PY 2013
+AB A route trajectory is described as the upcoming course of the road in
+   geographical terms as well as in terms of time. This enables the
+   possibility of providing context-aware applications in modern vehicles.
+   In order to generate such a trajectory with its context aware
+   information, it is still necessary to enter a destination point into a
+   navigation system. However, the most frequent commutations (drives,
+   trips) are to known destinations and are therefore not performed with
+   any active guidance system. This means that the prediction must be
+   determined in a different manner. This paper presents a method, which
+   predicts the route trajectory of a vehicle based on the travel history
+   of its user. In addition to the traveled distance further context
+   parameters are used for the prediction. These parameters include the
+   current time of day, day of week and the route frequency, which
+   indicates the number of times a particular route has already been
+   traveled. Moreover, the developed prediction is evaluated in a
+   volunteers study with about 500 rides and about 9.500 driven kilometers.
+   The results show that in 80 percent of the cases the forward-lying path
+   can be predicted correctly.
+CT 8th DESRIST International Conference
+CY JUN 11-12, 2013
+CL Helsinki, FINLAND
+Z8 0
+TC 2
+ZS 0
+ZR 0
+ZB 0
+Z9 2
+SN 0302-9743
+EI 1611-3349
+BN 978-3-642-38827-9; 978-3-642-38826-2
+UT WOS:000342991100030
+ER
+
+PT S
+AU Xue, Andy Yuan
+   Zhang, Rui
+   Zheng, Yu
+   Xie, Xing
+   Huang, Jin
+   Xu, Zhenghua
+GP IEEE
+TI Destination Prediction by Sub-Trajectory Synthesis and Privacy
+   Protection Against Such Prediction
+SO 2013 IEEE 29TH INTERNATIONAL CONFERENCE ON DATA ENGINEERING (ICDE)
+SE IEEE International Conference on Data Engineering
+BP 254
+EP 265
+PD 2013
+PY 2013
+AB Destination prediction is an essential task for many emerging location
+   based applications such as recommending sightseeing places and targeted
+   advertising based on destination. A common approach to destination
+   prediction is to derive the probability of a location being the
+   destination based on historical trajectories. However, existing
+   techniques using this approach suffer from the "data sparsity problem",
+   i.e., the available historical trajectories is far from being able to
+   coverall possible trajectories. This problem considerably limits the
+   number of query trajectories that can obtain predicted destinations. We
+   propose a novel method named Sub-Trajectory Synthesis(SubSyn) algorithm
+   to address the data sparsity problem. SubSyn algorithm first decomposes
+   historical trajectories into sub-trajectories comprising two
+   neighbouring locations,and then connects the sub-trajectories into
+   "synthesised" trajectories. The number of query trajectories that can
+   have predicted destinations is exponentially increased by this means.
+   Experiments based on real datasets show that SubSyn algorithm can
+   predict destinations for upto ten times more query trajectories than a
+   baseline algorithm while the SubSyn prediction algorithm runs over two
+   orders of magnitude faster than the baseline algorithm. In this paper,we
+   also consider the privacy protection issue in case an adversary uses
+   SubSyn algorithm to derive sensitive location information of users. We
+   propose an efficient algorithm to select a minimum number of locations a
+   user has to hide on her trajectory in order to avoid privacy leak.
+   Experiments also validate the high efficiency of the privacy protection
+   algorithm.
+CT 29th IEEE International Conference on Data Engineering (ICDE)
+CY APR 08-12, 2013
+CL Brisbane, AUSTRALIA
+SP IEEE; IEEE Comp Soc; IEEE Tech Comm Data Engn; SAP; Microsoft; Tourism &
+   Events Queensland; HP; Univ Queensland; CSIRO; RMIT Univ; Oracle Labs;
+   Renmin Univ, SA Ctr Big Data Res; Univ Melbourne; NICTA; Google; NEC;
+   Facebook; Univ New S Wales
+RI Xue, Andy/E-7391-2014; ZHANG, RUI/
+OI Xue, Andy/0000-0001-7362-842X; ZHANG, RUI/0000-0002-8132-6250
+Z8 20
+ZR 0
+TC 79
+ZS 0
+ZB 2
+Z9 96
+SN 1084-4627
+BN 978-1-4673-4909-3; 978-1-4673-4908-6
+UT WOS:000326733500024
+ER
+
+PT J
+AU Chen, Ling
+   Chen, Gencai
+   Benford, Steve
+TI Your Way Your Missions: A Location-Aware Pervasive Game Exploiting the
+   Routes of Players
+SO INTERNATIONAL JOURNAL OF HUMAN-COMPUTER INTERACTION
+VL 29
+IS 2
+BP 110
+EP 128
+DI 10.1080/10447318.2012.694790
+PD JAN 1 2013
+PY 2013
+AB With the development of pervasive computing, location-aware pervasive
+   games have proliferated quickly. To counter the inefficiency of
+   information adaptation based on a location and a radius, this article
+   presents the design and implementation of Your Way Your Missions (YWYM),
+   which is a location-aware pervasive game exploiting the routes of
+   players. YWYM provides a Google Mapsbased tool for players to predefine
+   routes, and utilizes self-reporting method to obtain the planned routes
+   of players. By such a design, missions are returned to players in terms
+   of the location properties of missions and the planned routes of
+   players. A field study was conducted to investigate the usage of YWYM,
+   and the results indicate that route predefining and self-reporting
+   methods are an effective approach to obtain the planned routes of
+   players, and information adaptation based on the planned routes of
+   players could help them find missions at any place and any time.
+OI Benford, Steve/0000-0001-8041-2520
+TC 7
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+Z9 7
+SN 1044-7318
+UT WOS:000315721000005
+ER
+
+PT J
+AU Rodriguez-Carrion, Alicia
+   Garcia-Rubio, Carlos
+   Campo, Celeste
+   Cortes-Martin, Alberto
+   Garcia-Lozano, Estrella
+   Noriega-Vivas, Patricia
+TI Study of LZ-Based Location Prediction and Its Application to
+   Transportation Recommender Systems
+SO SENSORS
+VL 12
+IS 6
+BP 7496
+EP 7517
+DI 10.3390/s120607496
+PD JUN 2012
+PY 2012
+AB Predicting users' next location allows to anticipate their future
+   context, thus providing additional time to be ready for that context and
+   react consequently. This work is focused on a set of LZ-based algorithms
+   (LZ, LeZi Update and Active LeZi) capable of learning mobility patterns
+   and estimating the next location with low resource needs, which makes it
+   possible to execute them on mobile devices. The original algorithms have
+   been divided into two phases, thus being possible to mix them and check
+   which combination is the best one to obtain better prediction accuracy
+   or lower resource consumption. To make such comparisons, a set of
+   GSM-based mobility traces of 95 different users is considered. Finally,
+   a prototype for mobile devices that integrates the predictors in a
+   public transportation recommender system is described in order to show
+   an example of how to take advantage of location prediction in an
+   ubiquitous computing environment.
+RI Cortes-Martin, Alberto/L-5343-2014; Garcia-Rubio, Carlos/L-8306-2014; Campo, Celeste/L-1824-2014; Garcia Lozano, Estrella M/
+OI Cortes-Martin, Alberto/0000-0001-5825-8352; Garcia-Rubio,
+   Carlos/0000-0002-4635-722X; Campo, Celeste/0000-0003-1788-890X; Garcia
+   Lozano, Estrella M/0000-0002-0260-2393
+TC 9
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+Z9 9
+SN 1424-8220
+UT WOS:000305801400037
+PM 22969357
+ER
+
+EF

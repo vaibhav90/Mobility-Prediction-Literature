@@ -1,0 +1,2197 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Zhou, Mu
+   Wong, Albert Kai-sun
+   Tian, Zengshan
+   Zhang, Victoria Ying
+   Yu, Xiang
+   Luo, Xin
+TI Adaptive Mobility Mapping for People Tracking Using Unlabelled Wi-Fi
+   Shotgun Reads
+SO IEEE COMMUNICATIONS LETTERS
+VL 17
+IS 1
+BP 87
+EP 90
+DI 10.1109/LCOMM.2012.112812.121999
+PD JAN 2013
+PY 2013
+AB Mobility tracking plays an important role in identifying human
+   activities and providing location-based services (LBSs). Up to now, with
+   the help of special infrastructures or hardware devices, many existing
+   tracking systems involve some cumbersome work of fingerprint or landmark
+   calibration. In this letter, we present an adaptive mobility map
+   construction scheme for large-scale Wi-Fi mobility tracking in indoor
+   areas which does not require any off-line fingerprinting effort or
+   deployment of landmarks. Our scheme works by collecting a large data-set
+   of Wi-Fi received signal strength using a large number of cell phones
+   carried by users during their normal daily activities.
+OI Wong, Kai Sun Albert/0000-0001-7923-5854
+Z8 0
+ZB 1
+TC 20
+ZS 0
+ZR 0
+Z9 20
+SN 1089-7798
+UT WOS:000314713700023
+ER
+
+PT J
+AU Montoliu, Raul
+   Blom, Jan
+   Gatica-Perez, Daniel
+TI Discovering places of interest in everyday life from smartphone data
+SO MULTIMEDIA TOOLS AND APPLICATIONS
+VL 62
+IS 1
+BP 179
+EP 207
+DI 10.1007/s11042-011-0982-z
+PD JAN 2013
+PY 2013
+AB In this paper, a new framework to discover places-of-interest from
+   multimodal mobile phone data is presented. Mobile phones have been used
+   as sensors to obtain location information from users' real lives. A
+   place-of-interest is defined as a location where the user usually goes
+   and stays for a while. Two levels of clustering are used to obtain
+   places of interest. First, user location points are grouped using a
+   time-based clustering technique which discovers stay points while
+   dealing with missing location data. The second level performs clustering
+   on the stay points to obtain stay regions. Agrid-based clustering
+   algorithm has been used for this purpose. To obtain more user location
+   points, a client-server system has been installed on the mobile phones,
+   which is able to obtain location information by integrating GPS, Wifi,
+   GSM and accelerometer sensors, among others. An extensive set of
+   experiments has been performed to show the benefits of using the
+   proposed framework, using data from the real life of a significant
+   number of users over almost a year of natural phone usage.
+OI Montoliu Colas, Raul/0000-0002-8467-391X
+ZR 0
+ZS 0
+TC 36
+Z8 2
+ZB 0
+Z9 38
+SN 1380-7501
+UT WOS:000313965800009
+ER
+
+PT S
+AU Brunauer, Richard
+   Hufnagl, Michael
+   Rehrl, Karl
+   Wagner, Andreas
+GP IEEE
+TI Motion Pattern Analysis Enabling Accurate Travel Mode Detection from GPS
+   Data Only
+SO 2013 16TH INTERNATIONAL IEEE CONFERENCE ON INTELLIGENT TRANSPORTATION
+   SYSTEMS - (ITSC)
+SE IEEE International Conference on Intelligent Transportation Systems-ITSC
+BP 404
+EP 411
+PD 2013
+PY 2013
+AB Travel modes are one of the crucial pieces of information to
+   characterize one's travel behavior. In recent years several approaches
+   of mode detection from GPS data have been proposed. The approach
+   presented in this paper uses machine learning to evaluate a set of
+   GPS-based features for their ability to recognize the common modes walk,
+   bicycle, car, bus, and train. The proposed features describe motion
+   characteristics from GPS-trajectories by relative frequencies. Compared
+   to previous work the proposed feature set leads to higher average
+   recognition rates around 92% without relying on additional GIS or
+   real-time information. The evaluation compares detection rates from
+   multilayer perceptrons, logistic model trees, and C4.5 decision trees
+   and is complemented by an evolutionary feature selection for selecting
+   the most beneficial feature subsets leading to the best quality gain. In
+   contrast to other research, this study uses a comparatively large set of
+   400 GPS trajectories which have been recorded in rural and urban
+   European areas. Results contribute to a higher reliability as well as a
+   broader applicability of GPS-only travel mode detection.
+CT 16th International IEEE Conference on Intelligent Transportation Systems
+   (ITSC)
+CY OCT 06-09, 2013
+CL The Hague, NETHERLANDS
+SP IEEE
+ZB 0
+TC 6
+ZR 0
+Z8 0
+ZS 0
+Z9 6
+SN 2153-0009
+BN 978-1-4799-2914-6
+UT WOS:000346481000064
+ER
+
+PT B
+AU Yamada, Naoharu
+   Isoda, Yoshinori
+   Sakamoto, Kenji
+   Tanaka, Satoshi
+   Kunito, Goro
+   Yamazaki, Kenichi
+BE Yang, LT
+   Syukur, E
+   Loke, SW
+TI Automatic Identification of Location Semantics Based on Environmental
+   Entities
+SO HANDBOOK ON MOBILE AND UBIQUITOUS COMPUTING: STATUS AND PERSPECTIVE
+BP 3
+EP 21
+PD 2013
+PY 2013
+Z8 0
+TC 0
+ZR 0
+ZS 0
+ZB 0
+Z9 0
+BN 978-1-4398-4812-8; 978-1-4398-4811-1
+UT WOS:000355142000002
+ER
+
+PT B
+AU Pribyl, J.
+   Zemcik, P.
+   Burian, T.
+   Kudlac, B.
+BE Oliveira, MM
+   Skala, V
+TI A Motion-aware Data Transfers Scheduling for Distributed Virtual
+   Walkthrough Applications
+SO WSCG 2013, FULL PAPERS PROCEEDINGS
+BP 49
+EP 58
+PD 2013
+PY 2013
+AB Data transfers scheduling is an important part of almost all distributed
+   virtual walkthrough (DVW) applications. Its main purpose is to preserve
+   data transfer efficiency and render quality during scene exploration.
+   The most limiting factors here are network restrictions such as low
+   bandwidth and high latency. Current scheduling algorithms use
+   multi-resolution data representation, priority determination and data
+   prefetching algorithms to minimize these restrictions. Advanced priority
+   determination and data prefetching methods for DVW applications use
+   mathematic description of motion to predict next position of each
+   individual user. These methods depend on the recent motion of a user so
+   that they can accurately predict only near locations. In the case of
+   sudden but regular changes in user motion direction (road networks) or
+   fast moving user, these algorithms are not sufficient to predict future
+   position with required accuracy and at required distances. In this paper
+   we propose a systematic solution to scheduling of data transfer for DVW
+   applications which uses next location prediction methods to compute
+   download priority or additionally prefetch rendered data in advance.
+   Experiments show that compared to motion functions the proposed
+   scheduling scheme can increase data transfer efficiency and rendered
+   image quality during scene exploration.
+CT 21st International Conference in Central Europe on Computer Graphics,
+   Visualization and Computer Vision
+CY JUN 24-27, 2013
+CL Pilsen, CZECH REPUBLIC
+RI Zemcik, Pavel/G-6439-2010
+Z8 0
+ZB 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+BN 978-80-86943-74-9
+UT WOS:000399864900006
+ER
+
+PT J
+AU Horner, Mark W.
+   Zook, Brandon
+   Downs, Joni A.
+TI Where were you? Development of a time-geographic approach for activity
+   destination re-construction
+SO COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+VL 36
+IS 6
+BP 488
+EP 499
+DI 10.1016/j.compenvurbsys.2012.06.002
+PD NOV 2012
+PY 2012
+AB With the use of individual-level travel survey datasets describing the
+   detailed activities of households, it is possible to analyze human
+   movements with a high degree of precision. However, travel survey data
+   are not without quality issues. Potential exists for origins and
+   destinations of reported trips not to be geo-referenced, perhaps due to
+   misreported information or inconsistencies in spatial address databases,
+   which can limit the usefulness of the survey data. From an analytical
+   standpoint, this is a serious problem because a single unreferenced stop
+   in a trip record in effect renders that individual's data useless,
+   especially in cases where analyzing chains of activity locations is of
+   interest. This paper presents a framework and basic computational
+   approach for exploring unlocatable activity locations inherent to travel
+   surveys. Derived from recent work in developing a network-based,
+   probabilistic time geography, the proposed methods are able to estimate
+   the likely locations of missing trip origins and destinations. The
+   methods generate probabilistic potential path trees which are used to
+   visualize and quantify potential locations for the unreferenced
+   destinations. The methods are demonstrated with simulated survey data
+   from a smaller metropolitan area. (C) 2012 Elsevier Ltd. All rights
+   reserved.
+Z8 1
+ZB 0
+ZR 0
+TC 9
+ZS 0
+Z9 9
+SN 0198-9715
+UT WOS:000312421300002
+ER
+
+PT J
+AU Chen, Liming
+   Hoey, Jesse
+   Nugent, Chris D.
+   Cook, Diane J.
+   Yu, Zhiwen
+TI Sensor-Based Activity Recognition
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART C-APPLICATIONS AND
+   REVIEWS
+VL 42
+IS 6
+BP 790
+EP 808
+DI 10.1109/TSMCC.2012.2198883
+PD NOV 2012
+PY 2012
+AB Research on sensor-based activity recognition has, recently, made
+   significant progress and is attracting growing attention in a number of
+   disciplines and application domains. However, there is a lack of
+   high-level overview on this topic that can inform related communities of
+   the research state of the art. In this paper, we present a comprehensive
+   survey to examine the development and current status of various aspects
+   of sensor-based activity recognition. We first discuss the general
+   rationale and distinctions of vision-based and sensor-based activity
+   recognition. Then, we review the major approaches and methods associated
+   with sensor-based activity monitoring, modeling, and recognition from
+   which strengths and weaknesses of those approaches are highlighted. We
+   make a primary distinction in this paper between data-driven and
+   knowledge-driven approaches, and use this distinction to structure our
+   survey. We also discuss some promising directions for future research.
+OI Nugent, Chris/0000-0003-0882-7902
+ZS 0
+Z8 6
+TC 297
+ZR 0
+ZB 13
+Z9 302
+SN 1094-6977
+EI 1558-2442
+UT WOS:000310139700001
+ER
+
+PT J
+AU Mocholi, Jose A.
+   Jaen, Javier
+   Krynicki, Kamil
+   Catala, Alejandro
+   Picon, Artzai
+   Cadenas, Alejandro
+TI Learning semantically-annotated routes for context-aware recommendations
+   on map navigation systems
+SO APPLIED SOFT COMPUTING
+VL 12
+IS 9
+BP 3088
+EP 3098
+DI 10.1016/j.asoc.2012.05.010
+PD SEP 2012
+PY 2012
+AB Modern technology has brought many changes to our everyday lives. Our
+   need to be in constant touch with others has been met with the
+   cellphone, which has become our companion and the convergence point of
+   many technological advances. The combination of capabilities such as
+   browsing the Internet and GPS reception has multiplied the services and
+   applications based on the current location of the user. However,
+   providing the user with these services has certain drawbacks. Although
+   map navigation systems are the most meaningful way of displaying this
+   information, the user still has to manually set up the filter in order
+   to obtain a non-bloated visualization of the map and the available
+   services. To tackle this problem, we present here a semantic
+   multicriteria ant colony algorithm capable of learning the user's
+   routes, including associated context information, and then predicting
+   the most likely route a user is following, given his current location
+   and context data. This knowledge could then be used as the basis for
+   offering services related to his current (or most likely future) context
+   data close to the path he is following. Our experimental results show
+   that our algorithm is capable of obtaining consistent solutions sets
+   even when multiple objective ontological terms are included in the
+   process. (C) 2012 Elsevier B.V. All rights reserved.
+RI Mocholi Agues, Jose Antonio/L-4076-2017; Jaen, Javier/; Picon, Artzai/; Krynicki, Kamil/
+OI Mocholi Agues, Jose Antonio/0000-0001-9358-8330; Jaen,
+   Javier/0000-0002-8815-9643; Picon, Artzai/0000-0002-3316-6571; Krynicki,
+   Kamil/0000-0002-6382-8863
+TC 7
+Z8 1
+ZS 0
+ZR 0
+ZB 0
+Z9 8
+SN 1568-4946
+UT WOS:000306107900033
+ER
+
+PT J
+AU Rodriguez-Carrion, Alicia
+   Garcia-Rubio, Carlos
+   Campo, Celeste
+   Cortes-Martin, Alberto
+   Garcia-Lozano, Estrella
+   Noriega-Vivas, Patricia
+TI Study of LZ-Based Location Prediction and Its Application to
+   Transportation Recommender Systems
+SO SENSORS
+VL 12
+IS 6
+BP 7496
+EP 7517
+DI 10.3390/s120607496
+PD JUN 2012
+PY 2012
+AB Predicting users' next location allows to anticipate their future
+   context, thus providing additional time to be ready for that context and
+   react consequently. This work is focused on a set of LZ-based algorithms
+   (LZ, LeZi Update and Active LeZi) capable of learning mobility patterns
+   and estimating the next location with low resource needs, which makes it
+   possible to execute them on mobile devices. The original algorithms have
+   been divided into two phases, thus being possible to mix them and check
+   which combination is the best one to obtain better prediction accuracy
+   or lower resource consumption. To make such comparisons, a set of
+   GSM-based mobility traces of 95 different users is considered. Finally,
+   a prototype for mobile devices that integrates the predictors in a
+   public transportation recommender system is described in order to show
+   an example of how to take advantage of location prediction in an
+   ubiquitous computing environment.
+RI Cortes-Martin, Alberto/L-5343-2014; Garcia-Rubio, Carlos/L-8306-2014; Campo, Celeste/L-1824-2014; Garcia Lozano, Estrella M/
+OI Cortes-Martin, Alberto/0000-0001-5825-8352; Garcia-Rubio,
+   Carlos/0000-0002-4635-722X; Campo, Celeste/0000-0003-1788-890X; Garcia
+   Lozano, Estrella M/0000-0002-0260-2393
+TC 9
+ZR 0
+Z8 0
+ZS 0
+ZB 0
+Z9 9
+SN 1424-8220
+UT WOS:000305801400037
+PM 22969357
+ER
+
+PT J
+AU Yoon, Hyoseok
+   Zheng, Yu
+   Xie, Xing
+   Woo, Woontack
+TI Social itinerary recommendation from user-generated digital trails
+SO PERSONAL AND UBIQUITOUS COMPUTING
+VL 16
+IS 5
+SI SI
+BP 469
+EP 484
+DI 10.1007/s00779-011-0419-8
+PD JUN 2012
+PY 2012
+AB Planning travel to unfamiliar regions is a difficult task for novice
+   travelers. The burden can be eased if the resident of the area offers to
+   help. In this paper, we propose a social itinerary recommendation by
+   learning from multiple user-generated digital trails, such as GPS
+   trajectories of residents and travel experts. In order to recommend
+   satisfying itinerary to users, we present an itinerary model in terms of
+   attributes extracted from user-generated GPS trajectories. On top of
+   this itinerary model, we present a social itinerary recommendation
+   framework to find and rank itinerary candidates. We evaluated the
+   efficiency of our recommendation method against baseline algorithms with
+   a large set of user-generated GPS trajectories collected from Beijing,
+   China. First, systematically generated user queries are used to compare
+   the recommendation performance in the algorithmic level. Second, a user
+   study involving current residents of Beijing is conducted to compare
+   user perception and satisfaction on the recommended itinerary. Third, we
+   compare mobile-only approach with Mobile+Cloud architecture for
+   practical mobile recommender deployment. Lastly, we discuss
+   personalization and adaptation factors in social itinerary
+   recommendation throughout the paper.
+RI Woo, Woontack/C-3696-2012; Yoon, Hyoseok/
+OI Yoon, Hyoseok/0000-0002-9907-0775
+Z8 7
+ZS 0
+ZR 0
+ZB 0
+TC 36
+Z9 43
+SN 1617-4909
+EI 1617-4917
+UT WOS:000304563900002
+ER
+
+PT J
+AU Strobbe, Matthias
+   Van Laere, Olivier
+   Ongenae, Femke
+   Dauwe, Samuel
+   Dhoedt, Bart
+   De Turck, Filip
+   Demeester, Piet
+   Luyten, Kris
+TI Novel Applications Integrate Location and Context Information
+SO IEEE PERVASIVE COMPUTING
+VL 11
+IS 2
+BP 64
+EP 73
+DI 10.1109/MPRV.2011.60
+PD APR-JUN 2012
+PY 2012
+RI Dhoedt, Bart/K-5851-2015; Demeester, Piet/N-6619-2013; Ongenae, Femke/; Dauwe, Samuel/
+OI Dhoedt, Bart/0000-0002-7271-7479; Demeester, Piet/0000-0003-2810-3899;
+   Ongenae, Femke/0000-0003-2529-5477; Dauwe, Samuel/0000-0002-3854-9248
+TC 13
+Z8 1
+ZS 0
+ZB 1
+ZR 0
+Z9 14
+SN 1536-1268
+EI 1558-2590
+UT WOS:000302974700012
+ER
+
+PT J
+AU Ogris, Georg
+   Lukowicz, Paul
+   Stiefmeier, Thomas
+   Troester, Gerhard
+TI Continuous activity recognition in a maintenance scenario: combining
+   motion sensors and ultrasonic hands tracking
+SO PATTERN ANALYSIS AND APPLICATIONS
+VL 15
+IS 1
+BP 87
+EP 111
+DI 10.1007/s10044-011-0216-z
+PD FEB 2012
+PY 2012
+AB We describe the design and evaluation of pattern analysis methods for
+   the recognition of maintenance-related activities. The presented work
+   focuses on the spotting of subtle hand actions in a continuous stream of
+   data based on a combination of body-mounted motion sensors and
+   ultrasonic positioning. The spotting and recognition approach is based
+   on three core ideas: (1) the use of location information to compensate
+   for the ambiguity of hand motions, (2) the use of motion data to
+   compensate for the slow sampling rate and unreliable signal of the low
+   cost ultrasonic positioning system, and (3) an incremental, multistage
+   spotting methodology. The proposed methods are evaluated in an elaborate
+   bicycle repair experiment containing nearly 10 h of data from six
+   subjects. The evaluation compares different strategies and system
+   variants and shows that precision and recall rates around 90% can be
+   achieved.
+ZS 0
+TC 6
+Z8 0
+ZR 0
+ZB 0
+Z9 6
+SN 1433-7541
+EI 1433-755X
+UT WOS:000299505000007
+ER
+
+PT S
+AU Elkhodr, Mahmoud
+   Shahrestani, Seyed
+   Cheung, Hon
+GP IEEE
+TI A Review of Mobile Location Privacy in the Internet of Things
+SO 2012 TENTH INTERNATIONAL CONFERENCE ON ICT AND KNOWLEDGE ENGINEERING
+SE International Conference on ICT and Knowledge Engineering
+BP 266
+EP 272
+PD 2012
+PY 2012
+AB The goal of Internet of Things (IoT) research is to extend computing and
+   connectivity to anything, anyone, anywhere and anytime. While there are
+   apparent benefits in using IoT systems, the convergence of technologies
+   has begun to challenge the privacy of users. Powered by location based
+   services, these systems have the potential to enable a systematic mass
+   surveillance and to impinge on the personal privacy of users, especially
+   their location privacy. This paper overviews some of the existing
+   location privacy issues found on mobile devices. Particular attention is
+   paid to the current access permission mechanism used on the Android,
+   iPhone and Windows Mobile platforms. It is anticipated that the current
+   privacy issues in mobile platforms are more likely to be inherited if
+   not magnified in the IoT.
+CT 10th International Conference on ICT and Knowledge Engineering (ICT&KE)
+CY NOV 21-23, 2012
+CL Siam Univ, Bangkok, THAILAND
+HO Siam Univ
+SP Pacific Distance Multimedia Educ Network (APDMEN)); IEEE; IEEE Thailand
+   Sect; Comp Assoc Thailand
+OI Elkhodr, Mahmoud/0000-0001-9904-7551
+ZB 0
+TC 6
+ZR 0
+Z8 0
+ZS 0
+Z9 6
+SN 2157-0981
+BN 978-1-4673-2314-7
+UT WOS:000320918300044
+ER
+
+PT B
+AU Zhang, Mingyue
+   Liu, Jianxun
+   Liu, Yizhi
+   Hu, Zhenyang
+   Yi, Liang
+BE Liu, J
+   Chen, J
+   Xu, G
+TI Recommending Pick-up Points for Taxi-drivers based on Spatio-temporal
+   Clustering
+SO SECOND INTERNATIONAL CONFERENCE ON CLOUD AND GREEN COMPUTING / SECOND
+   INTERNATIONAL CONFERENCE ON SOCIAL COMPUTING AND ITS APPLICATIONS
+   (CGC/SCA 2012)
+BP 67
+EP 72
+DI 10.1109/CGC.2012.34
+PD 2012
+PY 2012
+AB Using GPS trajectories to recommend pick-up points for taxi driver comes
+   to be a promising approach of increasing profits and decreasing
+   pollutions. In the existing methods, nearly all the GPS data of a city
+   are computed for recommendation. However, it is time-consuming and not
+   accurate enough owing to too much spatio-temporal noise. Therefore, we
+   propose a novel method of recommending pick-up for taxi driver based on
+   spatio-temporal clustering. It is made up of data preprocessing and
+   real-time recommendation. Firstly, we capture the historical pick-up
+   points by analyzing their intervals. These points are clustered at
+   different time and different regions to create - candidate pick-up
+   points. Secondly, after ranking the candidate pick-up points around the
+   taxi, the top-5 valuable pick-up points are recommended for taxi
+   drivers. The experimental results, whose data come from Microsoft
+   Research Asia, show that our method can effectively recommend pick-up
+   points for taxi drivers.
+CT 2nd International Conference on Cloud and Green Computing / 2nd
+   International Conference on Social Computing and its Applications
+   (CGC/SCA)
+CY NOV 01-03, 2012
+CL Xiangtan, PEOPLES R CHINA
+SP IEEE Comp Soc
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+TC 8
+Z9 8
+BN 978-0-7695-4864-7
+UT WOS:000318812400010
+ER
+
+PT B
+AU Pereira, Daniel
+   Loyola, Luis
+BE Zhong, N
+   Gong, Z
+   Cheung, YM
+   Santos, E
+   Tianfield, H
+   Lau, HC
+TI Inferring User Context from Spatio-Temporal Pattern Mining for Mobile
+   Application Services
+SO 2012 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND
+   INTELLIGENT AGENT TECHNOLOGY (WI-IAT 2012), VOL 2
+BP 450
+EP 457
+DI 10.1109/WI-IAT.2012.10
+PD 2012
+PY 2012
+AB Recent research on geographical data mining that focuses on user
+   behavior is lacking some fundamental aspects; measurements rely on large
+   quantities of geographic data and lack contextual information. This work
+   introduces a novel knowledge discovery architecture that brings together
+   machine learning techniques with readily available information from
+   popular Location Social Networks, in order to enrich geographical
+   locations with context and add meaning to user behavior. Results show
+   that through analysis of context enriched data we are capable of
+   inferring context for detected user points of interest and patterns,
+   such as where the user lives, works and spends his free time, without a
+   large quantity of information or prior knowledge of the user and his
+   private data.
+CT 11th IEEE/WIC/ACM International Joint Conference on Web Intelligence and
+   Intelligent Agent Technology (WI-IAT)
+CY DEC 04-07, 2012
+CL Macau, PEOPLES R CHINA
+SP IEEE; Assoc Comp Machinery; Web Intelligence Consortium; IEEE Comp Soc;
+   Univ Macau; Hong Kong Baptist Univ; IEEE Comp Soc Tech Comm Intelligent
+   Informat; ACM SIGART
+Z8 0
+ZB 0
+TC 0
+ZS 0
+ZR 0
+Z9 0
+BN 978-0-7695-4880-7
+UT WOS:000423016900065
+ER
+
+PT B
+AU Yu, Jiangbo
+   Low, Kian Hsiang
+   Oran, Ali
+   Jaillet, Patrick
+BE Zhong, N
+   Gong, Z
+   Cheung, YM
+   Santos, E
+   Tianfield, H
+   Lau, HC
+TI Hierarchical Bayesian Nonparametric Approach to Modeling and Learning
+   the Wisdom of Crowds of Urban Traffic Route Planning Agents
+SO 2012 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND
+   INTELLIGENT AGENT TECHNOLOGY (WI-IAT 2012), VOL 2
+BP 478
+EP 485
+DI 10.1109/WI-IAT.2012.216
+PD 2012
+PY 2012
+AB Route prediction is important to analyzing and understanding the route
+   patterns and behavior of traffic crowds. Its objective is to predict the
+   most likely or "popular" route of road segments from a given point in a
+   road network. This paper presents a hierarchical Bayesian non-parametric
+   approach to efficient and scalable route prediction that can harness the
+   wisdom of crowds of route planning agents by aggregating their
+   sequential routes of possibly varying lengths and origin-destination
+   pairs. In particular, our approach has the advantages of (a) not
+   requiring a Markov assumption to be imposed and (b) generalizing well
+   with sparse data, thus resulting in significantly improved prediction
+   accuracy, as demonstrated empirically using real-world taxi route data.
+   We also show two practical applications of our route prediction
+   algorithm: predictive taxi ranking and route recommendation.
+CT 11th IEEE/WIC/ACM International Joint Conference on Web Intelligence and
+   Intelligent Agent Technology (WI-IAT)
+CY DEC 04-07, 2012
+CL Macau, PEOPLES R CHINA
+SP IEEE; Assoc Comp Machinery; Web Intelligence Consortium; IEEE Comp Soc;
+   Univ Macau; Hong Kong Baptist Univ; IEEE Comp Soc Tech Comm Intelligent
+   Informat; ACM SIGART
+ZR 0
+Z8 0
+TC 4
+ZS 0
+ZB 0
+Z9 4
+BN 978-0-7695-4880-7
+UT WOS:000423016900069
+ER
+
+PT S
+AU Stumptner, Reinhard
+   Freudenthaler, Bernhard
+   Hoenigl, Juergen
+   Rehrl, Karl
+   Kueng, Josef
+BE MorenoDiaz, R
+   Pichler, F
+   QuesadaArencibia, A
+TI Using GPS Trajectories to Create a Dynamic Network of Significant
+   Locations as an Abstraction of Road Maps
+SO COMPUTER AIDED SYSTEMS THEORY - EUROCAST 2011, PT I
+SE Lecture Notes in Computer Science
+VL 6927
+BP 161
+EP 168
+PD 2012
+PY 2012
+AB This contribution discusses an approach on finding significant locations
+   from a set of GPS tracks, called Hotspots in this contribution. Based on
+   that, a model where traffic infrastructure is represented by a dynamic
+   network of Hotspots is suggested. Besides the location of Hotspots,
+   information about travel times between these Hotspot-Nodes also comes
+   along with the extracted significant places. This information can be
+   used to improve or enrich traffic management and/or navigation systems
+   by consequently achieving a more precise estimation of travel times
+   compared to current systems.
+CT 13th International Conference on Computer Aided Systems Theory
+   (EUROCAST)
+CY FEB 06-11, 2011
+CL Las Palmas de Gran Canaria, SPAIN
+SP Univ Las Palmas de Gran Canaria, Inst Univ Ciencias & Tecnologias
+   Ciberneticas; Osterreichische Gesellschaft Technologie-Politik (OGTP);
+   Univ Politecnica Madrid, Consejo Super Investigaciones Cientificas
+   (CSIC), Centro Automatica & Robotica; Museo Elder Ciencia & Tecnologia;
+   Int Federat Automat Control (IFAC)
+Z8 0
+ZB 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+SN 0302-9743
+BN 978-3-642-27548-7; 978-3-642-27549-4
+UT WOS:000314461400021
+ER
+
+PT B
+AU Chen Hongbo
+   Chen Zhiming
+   Arefin, Mohammad Shamsul
+   Morimoto, Yasuhiko
+GP IEEE
+TI Place Recommendation from Check-in Spots on Location-Based Online Social
+   Networks
+SO 2012 THIRD INTERNATIONAL CONFERENCE ON NETWORKING AND COMPUTING (ICNC
+   2012)
+BP 143
+EP 148
+DI 10.1109/ICNC.2012.29
+PD 2012
+PY 2012
+AB With rapid growth of the GPS enabled mobile device, location-based
+   online social network services become more and more popular, and allow
+   their users to share life experiences with location information. In this
+   paper, we considered a method for recommending places to a user based on
+   spatial databases of location-based online social network services. We
+   used a user-based collaborative filtering method to make a set of
+   recommended places. In the proposed method, we calculate similarity of
+   users' check-in activities not only their positions but also their
+   semantics such as "shopping", "eating", "drinking", and so forth. We
+   empirically evaluated our method in a real database and found that it
+   outperforms the naive singular value decomposition collaborative
+   filtering recommendation by comparing the prediction accuracy.
+CT 3rd International Conference on Networking and Computing (ICNC)
+CY DEC 05-07, 2012
+CL Naha, JAPAN
+SP IEEE Comp Soc
+Z8 0
+ZR 0
+TC 1
+ZB 0
+ZS 0
+Z9 1
+BN 978-0-7695-4893-7
+UT WOS:000317190500020
+ER
+
+PT S
+AU Freudiger, Julien
+   Shokri, Reza
+   Hubaux, Jean-Pierre
+BE Danezis, G
+TI Evaluating the Privacy Risk of Location-Based Services
+SO FINANCIAL CRYPTOGRAPHY AND DATA SECURITY
+SE Lecture Notes in Computer Science
+VL 7035
+BP 31
+EP 46
+PD 2012
+PY 2012
+AB In modern mobile networks, users increasingly share their location with
+   third-parties in return for location-based services. Previous works show
+   that operators of location-based services may identify users based on
+   the shared location information even if users make use of pseudonyms. In
+   this paper, we push the understanding of the privacy risk further. We
+   evaluate the ability of location-based services to identify users and
+   their points of interests based on different sets of location
+   information. We consider real life scenarios of users sharing location
+   information with location-based services and quantify the privacy risk
+   by experimenting with real-world mobility traces.
+CT 15th International Conference on Financial Cryptography and Data
+   Security
+CY FEB 28-MAR 04, 2011
+CL Gros Islet, ST LUCIA
+SP Off Naval Res Global; Res Mot; E Caribbean Financial Hold; Google; Lime;
+   WorldPay; Financial Serv Technol Consortium BITS
+OI Shokri, Reza/0000-0001-9816-0173
+ZS 0
+ZB 0
+ZR 0
+Z8 3
+TC 24
+Z9 27
+SN 0302-9743
+EI 1611-3349
+BN 978-3-642-27575-3
+UT WOS:000306943300003
+ER
+
+PT J
+AU Sadilek, Adam
+   Kautz, Henry
+TI Location-Based Reasoning about Complex Multi-Agent Behavior
+SO JOURNAL OF ARTIFICIAL INTELLIGENCE RESEARCH
+VL 43
+BP 87
+EP 133
+DI 10.1613/jair.3421
+PD 2012
+PY 2012
+AB Recent research has shown that surprisingly rich models of human
+   activity can be learned from GPS (positional) data. However, most effort
+   to date has concentrated on modeling single individuals or statistical
+   properties of groups of people. Moreover, prior work focused solely on
+   modeling actual successful executions (and not failed or attempted
+   executions) of the activities of interest. We, in contrast, take on the
+   task of understanding human interactions, attempted interactions, and
+   intentions from noisy sensor data in a fully relational multi-agent
+   setting. We use a real-world game of capture the flag to illustrate our
+   approach in a well-defined domain that involves many distinct
+   cooperative and competitive joint activities. We model the domain using
+   Markov logic, a statistical-relational language, and learn a theory that
+   jointly denoises the data and infers occurrences of high-level
+   activities, such as a player capturing an enemy. Our unified model
+   combines constraints imposed by the geometry of the game area, the
+   motion model of the players, and by the rules and dynamics of the game
+   in a probabilistically and logically sound fashion. We show that while
+   it may be impossible to directly detect a multi-agent activity due to
+   sensor noise or malfunction, the occurrence of the activity can still be
+   inferred by considering both its impact on the future behaviors of the
+   people involved as well as the events that could have preceded it.
+   Further, we show that given a model of successfully performed
+   multi-agent activities, along with a set of examples of failed attempts
+   at the same activities, our system automatically learns an augmented
+   model that is capable of recognizing success and failure, as well as
+   goals of people's actions with high accuracy. We compare our approach
+   with other alternatives and show that our unified model, which takes
+   into account not only relationships among individual players, but also
+   relationships among activities over the entire length of a game,
+   although more computationally costly, is significantly more accurate.
+   Finally, we demonstrate that explicitly modeling unsuccessful attempts
+   boosts performance on other important recognition tasks.
+TC 20
+ZB 2
+ZR 0
+ZS 0
+Z8 0
+Z9 20
+SN 1076-9757
+EI 1943-5037
+UT WOS:000299950600001
+ER
+
+PT B
+AU Kiefer, Peter
+TI Mobile Intention Recognition
+SO MOBILE INTENTION RECOGNITION
+BP 1
+EP +
+DI 10.1007/978-1-4614-1854-2
+PD 2012
+PY 2012
+Z8 0
+ZB 0
+TC 4
+ZR 0
+ZS 0
+Z9 4
+BN 978-1-4614-1853-5
+UT WOS:000301204500001
+ER
+
+PT S
+AU Nguyen, Nam Tuan
+   Wang, Yichuan
+   Liu, Xin
+   Zheng, Rong
+   Han, Zhu
+BE Wang, X
+   Zheng, R
+   Jing, T
+   Xing, K
+TI A Nonparametric Bayesian Approach for Opportunistic Data Transfer in
+   Cellular Networks
+SO WIRELESS ALGORITHMS, SYSTEMS, AND APPLICATIONS, WASA 2012
+SE Lecture Notes in Computer Science
+VL 7405
+BP 88
+EP 99
+PD 2012
+PY 2012
+AB The number of mobile Internet users is growing rapidly, as well as the
+   capability of mobile Internet devices. As a result, the enormous amount
+   of traffic generated everyday on mobile Internet is pushing cellular
+   services to their limits. We see great potential in the idea of
+   scheduling the transmission of delay tolerant data towards times when
+   the network condition is better. However, such scheduling requires good
+   network condition prediction, which has not been effectively tackled in
+   previous research. In this paper, we propose a Dynamic Hidden Markov
+   Model (DHMM) to model the time dependent and location dependent network
+   conditions observed by individual users. The model is dynamic since
+   transition matrix and states are updated when new observations are
+   available. On the other hand, it has all the properties of a Hidden
+   Markov Model. DHMM can predict precisely the next state given the
+   current state, hence can provide a good prediction of network condition.
+   DHMM has two layers, the top layer is Received Signal Strength (RSS) and
+   the bottom layer consists of states, defined as a mixture of location,
+   time and the signal strength itself. Since the state is defined as a
+   mixture, it is hidden and the number of states is also not known a
+   priori. Thus, the Nonparametric Bayesian Classification is applied to
+   determine the hidden states. We show through simulations that when
+   combined with a Markov decision process, the opportunistic scheduling
+   can reduce transmission costs up to 50.34% compared with a naive
+   approach.
+CT 7th International Conference on Wireless Algorithms, Systems, and
+   Applications (WASA)
+CY AUG 08-10, 2012
+CL PEOPLES R CHINA
+SP Natl Nat Sci Fdn China; Beijing Jiaotong Univ
+ZR 0
+ZS 0
+Z8 0
+TC 2
+ZB 0
+Z9 2
+SN 0302-9743
+BN 978-3-642-31869-6
+UT WOS:000343423700007
+ER
+
+PT J
+AU Joseph, Joshua
+   Doshi-Velez, Finale
+   Huang, Albert S.
+   Roy, Nicholas
+TI A Bayesian nonparametric approach to modeling motion patterns
+SO AUTONOMOUS ROBOTS
+VL 31
+IS 4
+SI SI
+BP 383
+EP 400
+DI 10.1007/s10514-011-9248-x
+PD NOV 2011
+PY 2011
+AB The most difficult-and often most essential-aspect of many interception
+   and tracking tasks is constructing motion models of the targets. Experts
+   rarely can provide complete information about a target's expected motion
+   pattern, and fitting parameters for complex motion patterns can require
+   large amounts of training data. Specifying how to parameterize complex
+   motion patterns is in itself a difficult task.
+   In contrast, Bayesian nonparametric models of target motion are very
+   flexible and generalize well with relatively little training data. We
+   propose modeling target motion patterns as a mixture of Gaussian
+   processes (GP) with a Dirichlet process (DP) prior over mixture weights.
+   The GP provides an adaptive representation for each individual motion
+   pattern, while the DP prior allows us to represent an unknown number of
+   motion patterns. Both automatically adjust the complexity of the motion
+   model based on the available data. Our approach outperforms several
+   parametric models on a helicopter-based car-tracking task on data
+   collected from the greater Boston area.
+Z8 0
+ZB 0
+TC 40
+ZR 0
+ZS 0
+Z9 40
+SN 0929-5593
+UT WOS:000298632900007
+ER
+
+PT J
+AU Lane, Nicholas D.
+   Xu, Ye
+   Lu, Hong
+   Campbell, Andrew T.
+   Choudhury, Tanzeem
+   Eisenman, Shane B.
+TI Exploiting Social Networks for Large-Scale Human Behavior Modeling
+SO IEEE PERVASIVE COMPUTING
+VL 10
+IS 4
+BP 45
+EP 53
+DI 10.1109/MPRV.2011.70
+PD OCT-DEC 2011
+PY 2011
+Z8 0
+TC 26
+ZR 0
+ZS 0
+ZB 3
+Z9 26
+SN 1536-1268
+UT WOS:000295792300008
+ER
+
+PT J
+AU Bayir, Murat Ali
+   Demirbas, Murat
+   Cosar, Ahmet
+TI A Web-Based Personalized Mobility Service for Smartphone Applications
+SO COMPUTER JOURNAL
+VL 54
+IS 5
+BP 800
+EP 814
+DI 10.1093/comjnl/bxq027
+PD MAY 2011
+PY 2011
+AB Nowadays, most of the basic web services use instant location
+   information for providing suitable content to smartphone users. However,
+   more intelligent smartphone applications such as context-based search
+   and advertising, early warning systems and city-wide sensing
+   applications may require additional information about smartphone users
+   such as their mobility profiles. To meet more personalized demand of
+   these applications we propose TRACK ME: A new web-based framework for
+   smartphone applications with personalized lightweight mobility service
+   as well as location tracking and mobility profile construction. We
+   showed that our personalized mobility service supports different
+   smartphone applications and it is lightweight enough to provide fast
+   access to the mobility profiles of smartphone users. We illustrate the
+   benefits of our mobility service on two smartphone applications:
+   location prediction and air pollution exposure risk estimation.
+Z8 0
+ZR 0
+ZB 0
+TC 3
+ZS 0
+Z9 3
+SN 0010-4620
+UT WOS:000290315200013
+ER
+
+PT J
+AU Chen, Ling
+   Lv, Mingqi
+   Ye, Qian
+   Chen, Gencai
+   Woodward, John
+TI A personal route prediction system based on trajectory data mining
+SO INFORMATION SCIENCES
+VL 181
+IS 7
+BP 1264
+EP 1284
+DI 10.1016/j.ins.2010.11.035
+PD APR 1 2011
+PY 2011
+AB This paper presents a system where the personal route of a user is
+   predicted using a probabilistic model built from the historical
+   trajectory data. Route patterns are extracted from personal trajectory
+   data using a novel mining algorithm, Continuous Route Pattern Mining
+   (CRPM), which can tolerate different kinds of disturbance in trajectory
+   data. Furthermore, a client-server architecture is employed which has
+   the dual purpose of guaranteeing the privacy of personal data and
+   greatly reducing the computational load on mobile devices. An evaluation
+   using a corpus of trajectory data from 17 people demonstrates that CRPM
+   can extract longer route patterns than current methods. Moreover, the
+   average correct rate of one step prediction of our system is greater
+   than 71%, and the average Levenshtein distance of continuous route
+   prediction of our system is about 30% shorter than that of the Markov
+   model based method. (C) 2010 Elsevier Inc. All rights reserved.
+Z8 5
+ZR 0
+ZS 1
+ZB 1
+TC 46
+Z9 52
+SN 0020-0255
+UT WOS:000287269600005
+ER
+
+PT J
+AU Agamennoni, Gabriel
+   Nieto, Juan I.
+   Nebot, Eduardo M.
+TI Robust Inference of Principal Road Paths for Intelligent Transportation
+   Systems
+SO IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS
+VL 12
+IS 1
+BP 298
+EP 308
+DI 10.1109/TITS.2010.2069097
+PD MAR 2011
+PY 2011
+AB Over the last few years, electronic vehicle guidance systems have become
+   increasingly more popular. However, despite their ubiquity, performance
+   will always be subject to availability of detailed digital road maps.
+   Most current digital maps are still inadequate for advanced applications
+   in unstructured environments. Lack of up-to-date information and
+   insufficient refinement of the road geometry are among the most
+   important shortcomings. The massive use of inexpensive Global
+   Positioning System (GPS) receivers, combined with the rapidly increasing
+   availability of wireless communication infrastructure, suggests that
+   large amounts of data combining both modalities will be available in the
+   near future. The approach presented here draws on machine-learning
+   techniques and processes logs of position traces to consistently build a
+   detailed and fine-grained representation of the road network by
+   extracting the principal paths followed by the vehicles. Although this
+   work addresses the road-building problem in dynamic environments such as
+   open-pit mines, it is also applicable to urban environments. New
+   contributions include a fully unsupervised segmentation method for
+   sampling roads and inferring the network topology, which is a general
+   technique for extracting detailed information about road splits, merges,
+   and intersections, as well as a robust algorithm that articulates these
+   two. Experimental results with data from large mining operations are
+   presented to validate the new algorithm.
+TC 39
+ZB 0
+Z8 3
+ZS 0
+ZR 0
+Z9 42
+SN 1524-9050
+EI 1558-0016
+UT WOS:000287867000029
+ER
+
+PT J
+AU Gasson, Mark N.
+   Kosta, Eleni
+   Royer, Denis
+   Meints, Martin
+   Warwick, Kevin
+TI Normality Mining: Privacy Implications of Behavioral Profiles Drawn From
+   GPS Enabled Mobile Phones
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART C-APPLICATIONS AND
+   REVIEWS
+VL 41
+IS 2
+BP 251
+EP 261
+DI 10.1109/TSMCC.2010.2071381
+PD MAR 2011
+PY 2011
+AB There is growing interest in the ways in which the location of a person
+   can be utilized by new applications and services. Recent advances in
+   mobile technologies have meant that the technical capability to record
+   and transmit location data for processing is appearing in off-the-shelf
+   handsets. This opens possibilities to profile people based on the places
+   they visit, people they associate with, or other aspects of their
+   complex routines determined through persistent tracking. It is possible
+   that services offering customized information based on the results of
+   such behavioral profiling could become commonplace. However, it may not
+   be immediately apparent to the user that a wealth of information about
+   them, potentially unrelated to the service, can be revealed. Further
+   issues occur if the user agreed, while subscribing to the service, for
+   data to be passed to third parties where it may be used to their
+   detriment. Here, we report in detail on a short case study tracking four
+   people, in three European member states, persistently for six weeks
+   using mobile handsets. The GPS locations of these people have been mined
+   to reveal places of interest and to create simple profiles. The
+   information drawn from the profiling activity ranges from intuitive
+   through special cases to insightful. In this paper, these results and
+   further extensions to the technology are considered in light of European
+   legislation to assess the privacy implications of this emerging
+   technology.
+OI Warwick, Kevin/0000-0003-3722-9960
+ZS 0
+TC 11
+ZB 0
+Z8 0
+ZR 0
+Z9 11
+SN 1094-6977
+EI 1558-2442
+UT WOS:000287652800009
+ER
+
+PT J
+AU Boc, Mathias
+   de Amorim, Marcelo Dias
+   Fladenmuller, Anne
+TI Near-zero triangular location through time-slotted mobility prediction
+SO WIRELESS NETWORKS
+VL 17
+IS 2
+BP 465
+EP 478
+DI 10.1007/s11276-010-0291-x
+PD FEB 2011
+PY 2011
+AB To setup efficient wireless mesh networks, it is fundamental to limit
+   the overhead needed to localize a mobile user. A promising approach is
+   to rely on a rendezvous-based location system where the current location
+   of a mobile node is stored at specific nodes called locators.
+   Nevertheless, such a solution has a drawback, which happens when the
+   locator is far from the source-destination shortest path. This results
+   in a triangular location problem and consequently in increased overhead
+   of signaling messages. One solution to prevent this problem would be to
+   place the locator as close as possible to the mobile node. This requires
+   however to predict the mobile node's location at all times. To obtain
+   such information, we define a mobility prediction model (an agenda)
+   that, for each node, specifies the mesh router that is likely to be the
+   closest to the mobile node at specific time periods. The location
+   service that we propose formalizes the integration of the agenda with
+   the management of location servers in a coherent and self-organized
+   fashion. To evaluate the performance of our system compared to
+   traditional approaches, we use two real-life mobility datasets of Wi-Fi
+   devices in the Dartmouth campus and Taxicabs in the bay area of San
+   Francisco. We show that our strategy significantly outperforms
+   traditional solutions; we obtain gains ranging from 39 to 72% compared
+   to the centralized scheme and more than 35% compared to a traditional
+   rendezvous-based solution.
+Z8 0
+ZB 0
+ZR 0
+TC 2
+ZS 0
+Z9 2
+SN 1022-0038
+UT WOS:000286829700012
+ER
+
+PT J
+AU Zheng, Yu
+   Zhang, Lizhu
+   Ma, Zhengxin
+   Xie, Xing
+   Ma, Wei-Ying
+TI Recommending Friends and Locations Based on Individual Location History
+SO ACM TRANSACTIONS ON THE WEB
+VL 5
+IS 1
+SI SI
+AR 5
+DI 10.1145/1921591.1921596
+PD FEB 2011
+PY 2011
+AB The increasing availability of location-acquisition technologies (GPS,
+   GSM networks, etc.) enables people to log the location histories with
+   spatio-temporal data. Such real-world location histories imply, to some
+   extent, users' interests in places, and bring us opportunities to
+   understand the correlation between users and locations. In this article,
+   we move towards this direction and report on a personalized friend and
+   location recommender for the geographical information systems (GIS) on
+   the Web. First, in this recommender system, a particular individual's
+   visits to a geospatial region in the real world are used as their
+   implicit ratings on that region. Second, we measure the similarity
+   between users in terms of their location histories and recommend to each
+   user a group of potential friends in a GIS community. Third, we estimate
+   an individual's interests in a set of unvisited regions by involving
+   his/her location history and those of other users. Some unvisited
+   locations that might match their tastes can be recommended to the
+   individual. A framework, referred to as a hierarchical-graph-based
+   similarity measurement (HGSM), is proposed to uniformly model each
+   individual's location history, and effectively measure the similarity
+   among users. In this framework, we take into account three factors: 1)
+   the sequence property of people's outdoor movements, 2) the visited
+   popularity of a geospatial region, and 3) the hierarchical property of
+   geographic spaces. Further, we incorporated a content-based method into
+   a user-based collaborative filtering algorithm, which uses HGSM as the
+   user similarity measure, to estimate the rating of a user on an item. We
+   evaluated this recommender system based on the GPS data collected by 75
+   subjects over a period of 1 year in the real world. As a result, HGSM
+   outperforms related similarity measures, namely similarity-by-count,
+   cosine similarity, and Pearson similarity measures. Moreover, beyond the
+   item-based CF method and random recommendations, our system provides
+   users with more attractive locations and better user experiences of
+   recommendation.
+ZR 0
+ZS 0
+ZB 3
+TC 137
+Z8 26
+Z9 161
+SN 1559-1131
+EI 1559-114X
+UT WOS:000288062500005
+ER
+
+PT S
+AU Rechert, Klaus
+   Meier, Konrad
+   Greschbach, Benjamin
+   Wehrle, Dennis
+   von Suchodoletz, Dirk
+BE Lai, XJ
+   Zhou, JY
+   Li, H
+TI Assessing Location Privacy in Mobile Communication Networks
+SO INFORMATION SECURITY
+SE Lecture Notes in Computer Science
+VL 7001
+BP 309
+EP +
+PD 2011
+PY 2011
+AB In this paper we analyze a class of location disclosure in which
+   location information from individuals is generated in an automated way,
+   i.e. is observed by a ubiquitous infrastructure. Since such information
+   is valuable for both scientific research and commercial use, location
+   information might be passed on to third parties. Users are usually aware
+   neither of the extent of the information disclosure (e.g. by carrying a
+   mobile phone), nor how the collected data is used and by whom.
+   In order to assess the expected privacy risk in terms of the possible
+   extent of exposure, we propose an adversary model and a privacy metric
+   that allow an evaluation of the possible privacy loss by using mobile
+   communication infrastructure. Furthermore, a case study on the privacy
+   effects of using GSM infrastructure was conducted with the goal of
+   analyzing the side effects of using a mobile handset. Based on these
+   results requirements for a privacy-aware mobile handheld device were
+   derived.
+CT 14th Information Security Conference (ISC)
+CY OCT 26-29, 2011
+CL Xian, PEOPLES R CHINA
+SP China Comp Federat; Xidian Univ; Shanghai Jiao Tong Univ
+Z8 0
+ZR 0
+TC 3
+ZB 0
+ZS 0
+Z9 3
+SN 0302-9743
+BN 978-3-642-24860-3
+UT WOS:000306719400021
+ER
+
+PT S
+AU Eno, Joshua
+   Stafford, Gregory
+   Gauch, Susan
+   Thompson, Craig W.
+BE Konstan, JA
+   Conejo, R
+   Marzo, JL
+   Oliver, N
+TI Hybrid User Preference Models for Second Life and OpenSimulator Virtual
+   Worlds
+SO USER MODELING, ADAPTATION, AND PERSONALIZATION
+SE Lecture Notes in Computer Science
+VL 6787
+BP 87
+EP 98
+PD 2011
+PY 2011
+AB Virtual world user models have similarities with hypertext system user
+   models. User knowledge and preferences may be derived from the locations
+   users visit or recommend. The models can represent topics of interest
+   for the user based on the subject or content of visited locations, and
+   corresponding location models can enable matching between users and
+   locations. However, virtual worlds also present challenges and
+   opportunities that differ from hypertext worlds. Content collection for
+   a cross-world search and recommendation service may be more difficult in
+   virtual worlds, and there is less text available for analysis. In some
+   cases, though, extra information is available to add to user and content
+   profiles enhance the matching ability of the system. In this paper, we
+   present a content collection system for Second Life and OpenSimulator
+   virtual worlds, as well as user and location models derived from the
+   collected content. The models incorporate text, social proximity, and
+   metadata attributes to create hybrid user models for representing user
+   interests and preferences. The models are evaluated based on their
+   ability to match content popularity and observed user behavior.
+CT 19th International Conference on User Modeling, Adaptation and
+   Personalization (UMAP 2011)
+CY JUL 11-15, 2011
+CL Girona, SPAIN
+SP User Modeling Inc; ACM SIGART, SIGCHI & SIGIR; Chen Family Fdn;
+   Microsoft Res; US Natl Sci Fdn; Springer; Telefon Espana; Univ Girona
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+TC 1
+Z9 1
+SN 0302-9743
+BN 978-3-642-22361-7
+UT WOS:000306990100008
+ER
+
+PT S
+AU Krumm, John
+   Brush, A. J. Bernheim
+BE Lyons, K
+   Hightower, J
+   Huang, EM
+TI Learning Time-Based Presence Probabilities
+SO PERVASIVE COMPUTING
+SE Lecture Notes in Computer Science
+VL 6696
+BP 79
+EP 96
+PD 2011
+PY 2011
+AB Many potential pervasive computing applications could use predictions of
+   when a person will be at a certain place. Using a survey and GPS data
+   from 34 participants in 11 households, we develop and test algorithms
+   for predicting when a person will be at home or away. We show that our
+   participants' self-reported home/away schedules are not very accurate,
+   and we introduce a probabilistic home/away schedule computed from
+   observed GPS data. The computation includes smoothing and a soft
+   schedule template. We show how the probabilistic schedule outperforms
+   both the self-reported schedule and an algorithm based on driving time.
+   We also show how to combine our algorithm with the best part of the
+   drive time algorithm for a slight boost in performance.
+CT 15th Annual International Symposium on Wearable Computers (ISWC)/9th
+   International Conference on Pervasive Computing (Pervasive)
+CY JUN 12-15, 2011
+CL San Francisco, CA
+SP IEEE; IEEE Comp Soc
+Z8 0
+TC 22
+ZS 0
+ZR 0
+ZB 0
+Z9 22
+SN 0302-9743
+BN 978-3-642-21726-5
+UT WOS:000305891700006
+ER
+
+PT S
+AU Buthpitiya, Senaka
+   Zhang, Ying
+   Dey, Anind K.
+   Griss, Martin
+BE Lyons, K
+   Hightower, J
+   Huang, EM
+TI n-Gram Geo-trace Modeling
+SO PERVASIVE COMPUTING
+SE Lecture Notes in Computer Science
+VL 6696
+BP 97
+EP 114
+PD 2011
+PY 2011
+AB As location-sensing smart phones and location-based services gain
+   mainstream popularity, there is increased interest in developing
+   techniques that can detect anomalous activities. Anomaly detection
+   capabilities can be used in theft detection, remote elder-care
+   monitoring systems, and many other applications. In this paper we
+   present an n-gram based model for modeling a user's mobility patterns.
+   Under the Markovian assumption that a user's location at time t depends
+   only on the last n - 1 locations until t - 1, we can model a user's
+   idiosyncratic location patterns through a collection of n-gram
+   geo-labels, each with estimated probabilities. We present extensive
+   evaluations of the n-gram model conducted on real-world data, compare it
+   with the previous approaches of using T-Patterns and Markovian models,
+   and show that for anomaly detection the n-gram model outperforms
+   existing work by approximately 10%. We also show that the model can use
+   a hierarchical location partitioning system that is able to obscure a
+   user's exact location, to protect privacy, while still allowing
+   applications to utilize the obscured location data for modeling
+   anomalies effectively.
+CT 15th Annual International Symposium on Wearable Computers (ISWC)/9th
+   International Conference on Pervasive Computing (Pervasive)
+CY JUN 12-15, 2011
+CL San Francisco, CA
+SP IEEE; IEEE Comp Soc
+OI Griss, Martin/0000-0002-8148-6967
+TC 11
+ZS 0
+ZR 0
+ZB 0
+Z8 0
+Z9 11
+SN 0302-9743
+BN 978-3-642-21726-5
+UT WOS:000305891700007
+ER
+
+PT S
+AU Scellato, Salvatore
+   Musolesi, Mirco
+   Mascolo, Cecilia
+   Latora, Vito
+   Campbell, Andrew T.
+BE Lyons, K
+   Hightower, J
+   Huang, EM
+TI NextPlace: A Spatio-temporal Prediction Framework for Pervasive Systems
+SO PERVASIVE COMPUTING
+SE Lecture Notes in Computer Science
+VL 6696
+BP 152
+EP 169
+PD 2011
+PY 2011
+AB Accurate and fine-grained prediction of future user location and
+   geographical profile has interesting and promising applications
+   including targeted content service, advertisement dissemination for
+   mobile users, and recreational social networking tools for smart-phones.
+   Existing techniques based on linear and probabilistic models are not
+   able to provide accurate prediction of the location patterns from a
+   spatio-temporal perspective, especially for long-term estimation. More
+   specifically, they are able to only forecast the next location of a
+   user, but not his/her arrival time and residence time, i.e., the
+   interval of time spent in that location. Moreover, these techniques are
+   often based on prediction models that are not able to extend predictions
+   further in the future.
+   In this paper we present NextPlace, a novel approach to location
+   prediction based on nonlinear time series analysis of the arrival and
+   residence times of users in relevant places. NextPlace focuses on the
+   predictability of single users when they visit their most important
+   places, rather than on the transitions between different locations. We
+   report about our evaluation using four different datasets and we compare
+   our forecasting results to those obtained by means of the prediction
+   techniques proposed in the literature. We show how we achieve higher
+   performance compared to other predictors and also more stability over
+   time, with an overall prediction precision of up to 90% and a
+   performance increment of at least 50% with respect to the state of the
+   art.
+CT 15th Annual International Symposium on Wearable Computers (ISWC)/9th
+   International Conference on Pervasive Computing (Pervasive)
+CY JUN 12-15, 2011
+CL San Francisco, CA
+SP IEEE; IEEE Comp Soc
+OI Mascolo, Cecilia/0000-0001-9614-4380; Latora, Vito/0000-0002-0984-8038
+Z8 2
+ZS 0
+ZB 2
+TC 51
+ZR 0
+Z9 52
+SN 0302-9743
+BN 978-3-642-21726-5
+UT WOS:000305891700010
+ER
+
+PT S
+AU Xiao, Xiaoming
+   Wong, Albert Kai-sun
+   Woo, Kam Tim
+   Cheng, Roger Shu-Kwan
+GP IEEE
+TI An Energy-efficient Elderly Tracking Algorithm
+SO 2011 IEEE INTERNATIONAL CONFERENCE ON COMMUNICATIONS (ICC)
+SE IEEE International Conference on Communications
+PD 2011
+PY 2011
+AB Location and tracking of healthy or infirm elders is a potentially
+   useful application as society aging is accelerating worldwide and as
+   technologies such as cellular positioning and Assisted Global
+   Positioning System (AGPS) are maturing. For a wearable device to be used
+   in such an application, the battery operating hour is often a key
+   consideration. This paper describes an energy-efficient cellular and
+   AGPS tracking algorithm based on the concept of Personal Common Location
+   (PCL) that we define as the locations at which an elder spends most of
+   his/her time, as recognized from historic cell ID record. During the
+   tracking process, AGPS fixes are avoided if the elderly carrier is
+   determined to be located within a PCL, if the destination PCL can be
+   predicted, or if AGPS signals are likely to be unavailable. This paper
+   also describes our approach for off-line PCL recognition, the necessity
+   of cell ID clustering, as well as the results from our tracking
+   experiments.
+CT IEEE International Conference on Communications (ICC)
+CY JUN 05-09, 2011
+CL Kyoto, JAPAN
+SP IEEE; IEEE Commun Soc; IEICE Commun Soc; Sci Council Japan
+Z8 0
+ZB 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+SN 1550-3607
+BN 978-1-61284-233-2
+UT WOS:000296057100031
+ER
+
+PT S
+AU Lerin, Pablo Martinez
+   Yamamoto, Daisuke
+   Takahashi, Naohisa
+BE Tanaka, K
+   Frohlich, P
+   Kim, KS
+TI Inferring and Focusing Areas of Interest from GPS Traces
+SO WEB AND WIRELESS GEOGRAPHICAL INFORMATION SYSTEMS
+SE Lecture Notes in Computer Science
+VL 6574
+BP 176
+EP 187
+PD 2011
+PY 2011
+AB Advanced GIS applications and GPS loggers allow travelers to record
+   their own tracks and later examine, modify and share them. Searching for
+   the areas of interest, AOIs, however, is often not an easy task,
+   especially with long routes. This paper proposes a system for inferring
+   and focusing AOls, from a UPS trace. The proposed system consists of
+   three main functions: fragmentation, defragmentation, and focusing. The
+   fragmentation detects the changes of the travelling pace and decomposes
+   the GPS trace into a large number of small fragments according the
+   traveling pace while the defragmentation composes adjacent fragments
+   into one fragment which is inside the AOI. The focusing provides a
+   Focus+Context+Glue map where the Focus is an area of a large-scale map
+   including the AOI that enables users to understand details of the AOI.
+   We have developed a prototype of the proposed method that includes the
+   above features and evaluated the feasibility and advantages of the
+   proposed system.
+CT 10th International Symposium on Web and Wireless Geographical
+   Information Systems (W2GIS 2011)
+CY MAR 03-04, 2011
+CL Kyoto Univ GCOE Program, Kyoto, JAPAN
+HO Kyoto Univ GCOE Program
+SP Kyoto Univ, Global COE Program
+ZR 0
+ZB 0
+TC 1
+ZS 0
+Z8 0
+Z9 1
+SN 0302-9743
+BN 978-3-642-19172-5
+UT WOS:000296893200014
+ER
+
+PT S
+AU Casares-Giner, Vicente
+   Pla, Vicent
+   Escalle-Garcia, Pablo
+BE Kouvatsos, DD
+TI Mobility Models for Mobility Management
+SO NETWORK PERFORMANCE ENGINEERING: A HANDBOOK ON CONVERGENT MULTI-SERVICE
+   NETWORKS AND NEXT GENERATION INTERNET
+SE Lecture Notes in Computer Science
+VL 5233
+BP 716
+EP 745
+PD 2011
+PY 2011
+AB The main goals of today's wireless mobile telecommunication systems are
+   to provide both, mobility and ubiquity to mobile terminals (MTs) with a
+   required quality of service. By ubiquity we understand the ability of a
+   MT to be connected to the network anytime, anywhere, regardless of the
+   access channel's characteristics. In this chapter we deal with mobility
+   aspects. We provide some basic background on mobility models that are
+   being used in performance evaluation of relevant mobility management
+   procedures, such as handover and location update. For handover, and
+   consequently for channel holding time. we revisit the characterization
+   of the cell residence time. Then, based on those previous results,
+   models for the location area residence time are built. Cell residence
+   time can be seen as a micro-mobility parameter while the latter can be
+   considered as a macro-mobility parameter; and both have a significant
+   impact on the handover and location update algorithms.
+RI Casares-Giner, Vicente/L-5862-2017; Pla, Vicent/
+OI Casares-Giner, Vicente/0000-0002-6947-8470; Pla,
+   Vicent/0000-0002-0894-9494
+TC 10
+ZS 0
+ZB 0
+Z8 1
+ZR 0
+Z9 10
+SN 0302-9743
+BN 978-3-642-02741-3
+UT WOS:000290879900030
+D2 10.1007/978-3-642-02742-0
+ER
+
+PT S
+AU Mazhelis, Oleksiy
+GP IEEE
+TI Real-time recognition of personal routes using instance-based learning
+SO 2011 IEEE INTELLIGENT VEHICLES SYMPOSIUM (IV)
+SE IEEE Intelligent Vehicles Symposium
+BP 619
+EP 624
+PD 2011
+PY 2011
+AB Predicting routes is a critical enabler for many new location-based
+   applications and services, such as warning drivers about congestion-or
+   accident-risky areas. Hybrid vehicles can also utilize the route
+   prediction for optimizing their charging and discharging phases. In this
+   paper, a new lightweight route recognition approach using instance-based
+   learning is introduced. In this approach, the current route is compared
+   in real-time against the route instances observed in past, and the most
+   similar route is selected. In order to assess the similarity between the
+   routes, a similarity measure based on the longest common subsequence
+   (LCSS) is employed, and an algorithm for incrementally evaluating the
+   LCSS is introduced. The feasibility of the proposed approach is
+   empirically evaluated using real-world data; the obtained results
+   indicate that the routes can be accurately recognized with a delay of 11
+   turn-points.
+CT IEEE Intelligent Vehicles Symposium (IV)
+CY JUN 05-09, 2011
+CL Baden-Baden, GERMANY
+SP IEEE
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 2
+Z9 2
+SN 1931-0587
+BN 978-1-4577-0891-6
+UT WOS:000298736200103
+ER
+
+PT S
+AU Trinh Minh Tri Do
+   Gatica-Perez, Daniel
+GP IEEE
+TI GroupUs: Smartphone Proximity Data and Human Interaction Type Mining
+SO 2011 15TH ANNUAL INTERNATIONAL SYMPOSIUM ON WEARABLE COMPUTERS (ISWC)
+SE IEEE International Symposium on Wearable Computers
+BP 21
+EP 28
+DI 10.1109/ISWC.2011.28
+PD 2011
+PY 2011
+AB There is an increasing interest in analyzing social interaction from
+   mobile sensor data, and smartphones are rapidly becoming the most
+   attractive sensing option. We propose a new probabilistic relational
+   model to analyze long-term dynamic social networks created by physical
+   proximity of people. Our model can infer different interaction types
+   from the network, revealing the participants of a given group
+   interaction, and discovering a variety of social contexts. Our analysis
+   is conducted on Bluetooth data sensed with smartphones for over one year
+   on the life of 40 individuals related by professional or personal links.
+   We objectively validate our model by studying its predictive
+   performance, showing a significant advantage over a recently proposed
+   model.
+CT 15th Annual International Symposium on Wearable Computers (ISWC)/9th
+   International Conference on Pervasive Computing
+CY JUN 12-15, 2011
+CL San Francisco, CA
+SP IEEE; IEEE Comp Soc
+ZB 0
+Z8 0
+TC 15
+ZR 0
+ZS 0
+Z9 15
+SN 1550-4816
+BN 978-0-7695-4438-0
+UT WOS:000299100700004
+ER
+
+PT J
+AU Zheng, Yu
+   Xie, Xing
+TI Learning Travel Recommendations from User-Generated GPS Traces
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+VL 2
+IS 1
+SI SI
+AR UNSP 2
+DI 10.1145/1889681.1889683
+PD 2011
+PY 2011
+AB The advance of GPS-enabled devices allows people to record their
+   location histories with GPS traces, which imply human behaviors and
+   preferences related to travel. In this article, we perform two types of
+   travel recommendations by mining multiple users' GPS traces. The first
+   is a generic one that recommends a user with top interesting locations
+   and travel sequences in a given geospatial region. The second is a
+   personalized recommendation that provides an individual with locations
+   matching her travel preferences. To achieve the first recommendation, we
+   model multiple users' location histories with a tree-based hierarchical
+   graph (TBHG). Based on the TBHG, we propose a HITS (Hypertext Induced
+   Topic Search)-based model to infer the interest level of a location and
+   a user's travel experience (knowledge). In the personalized
+   recommendation, we first understand the correlation between locations,
+   and then incorporate this correlation into a collaborative filtering
+   (CF)-based model, which predicts a user's interests in an unvisited
+   location based on her locations histories and that of others. We
+   evaluated our system based on a real-world GPS trace dataset collected
+   by 107 users over a period of one year. As a result, our HITS-based
+   inference model outperformed baseline approaches like rank-by-count and
+   rank-by-frequency. Meanwhile, we achieved a better performance in
+   recommending travel sequences beyond baselines like rank-by-count.
+   Regarding the personalized recommendation, our approach is more
+   effective than the weighted Slope One algorithm with a slightly
+   additional computation, and is more efficient than the Pearson
+   correlation-based CF model with the similar effectiveness.
+ZR 0
+ZB 3
+Z8 2
+TC 113
+ZS 0
+Z9 115
+SN 2157-6904
+UT WOS:000208616800002
+ER
+
+PT B
+AU Zheng, Yu
+BE Zheng, Y
+   Zhou, XF
+TI Location-Based Social Networks: Users
+SO COMPUTING WITH SPATIAL TRAJECTORIES
+BP 243
+EP 276
+PD 2011
+PY 2011
+AB In this chapter, we introduce and define the meaning of location-based
+   social network (LBSN) and discuss the research philosophy behind LBSNs
+   from the perspective of users and locations. Under the circumstances of
+   trajectory-centric LBSN, we then explore two fundamental research points
+   concerned with understanding users in terms of their locations. One is
+   modeling the location history of an individual using the individual's
+   trajectory data. The other is estimating the similarity between two
+   different people according to their location histories. The inferred
+   similarity represents the strength of connection between two users in a
+   location-based social network, and can enable friend recommendations and
+   community discovery. The general approaches for evaluating these
+   applications are also presented.
+ZB 0
+ZR 0
+ZS 0
+Z8 6
+TC 43
+Z9 49
+BN 978-1-4614-1628-9
+UT WOS:000299184500008
+D2 10.1007/978-1-4614-1629-6
+ER
+
+PT S
+AU Mocholi, Jose A.
+   Jaen, Javier
+   Catala, Alejandro
+BE Augusto, JC
+   Aghajan, H
+   Callaghan, V
+   Cook, DJ
+   ODonoghue, J
+   Egerton, S
+   Gardner, M
+   Johnson, BD
+   Kovalchuk, Y
+   LopezCozar, R
+   Mikulecky, P
+   Ng, JWP
+   Poppe, R
+   Wang, MJ
+   Zamudio, V
+TI Towards affection integration on context-aware recommendation of
+   semantically annotated routes
+SO WORKSHOP PROCEEDINGS OF THE 7TH INTERNATIONAL CONFERENCE ON INTELLIGENT
+   ENVIRONMENTS
+SE Ambient Intelligence and Smart Environments
+VL 10
+BP 51
+EP 62
+DI 10.3233/978-1-60750-795-6-51
+PD 2011
+PY 2011
+AB Modern technology has brought many changes to our everyday lives. Our
+   need to be in constant touch with others has been met with the
+   cellphone, which has become our companion and the convergence point of
+   many technological advances. The combination of capabilities such as
+   browsing the Internet and GPS reception has multiplied the services and
+   applications based on the current location of the user. However,
+   providing the user with these services has certain drawbacks. Although
+   map navigation systems are the most meaningful way of displaying this
+   information, the user still has to manually set up the filter in order
+   to obtain a non-bloated visualization of the map and the available
+   services. To tackle this problem, we present here a semantic
+   multicriteria ant colony algorithm capable of learning the user's
+   routes, including associated context information, and then predicting
+   the most likely route a user is following, given his current location
+   and context data. We also propose an affective component for the
+   algorithm that will add a value to routes likelihood score so it will
+   emphasize those predicted routes that could affect positively user
+   experience or emotional state. This knowledge could then be used as the
+   basis for offering services related to his current ( or most likely
+   future) context data close to the path he is following.
+CT 7th International Conference on Intelligent Environments
+CY JUL 25-26, 2011
+CL Nottingham Trent Univ, Nottingham, ENGLAND
+HO Nottingham Trent Univ
+SP BT; INTEL
+Z8 0
+ZB 0
+TC 0
+ZR 0
+ZS 0
+Z9 0
+SN 1875-4163
+BN 978-1-60750-795-6; 978-1-60750-794-9
+UT WOS:000351351100007
+ER
+
+PT J
+AU Alvarez-Garcia, J. A.
+   Ortega, J. A.
+   Gonzalez-Abril, L.
+   Velasco-Morente, Francisco
+TI Trip destination prediction based on past GPS log using a Hidden Markov
+   Model
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 37
+IS 12
+BP 8166
+EP 8171
+DI 10.1016/j.eswa.2010.05.070
+PD DEC 2010
+PY 2010
+AB In this paper, a system based on the generation of a Hidden Markov Model
+   from the past GPS log and current location is presented to predict a
+   user's destination when beginning a new trip. This approach drastically
+   reduces the number of points supplied by the GPS device and it permits a
+   "support-map" to be generated in which the main characteristics of the
+   trips for each user are taken into account. Hence, in contrast with
+   other similar approaches, total independence from a street-map database
+   is achieved. (C) 2010 Elsevier Ltd. All rights reserved.
+RI Velasco-Morente, Francisco/E-6301-2010; ORTEGA, JUAN ANTONIO/F-2457-2010; Alvarez-Garcia, Juan Antonio/A-6223-2008; Gonzalez Abril, Luis/E-6323-2010
+OI Velasco-Morente, Francisco/0000-0002-9585-1208; ORTEGA, JUAN
+   ANTONIO/0000-0001-9095-7241; Alvarez-Garcia, Juan
+   Antonio/0000-0002-4106-6044; Gonzalez Abril, Luis/0000-0002-2532-0946
+ZB 0
+Z8 1
+ZS 0
+TC 35
+ZR 0
+Z9 36
+SN 0957-4174
+UT WOS:000281339900088
+ER
+
+PT J
+AU Chen, Ling
+   Lv, Mingqi
+   Chen, Gencai
+TI A system for destination and future route prediction based on trajectory
+   mining
+SO PERVASIVE AND MOBILE COMPUTING
+VL 6
+IS 6
+SI SI
+BP 657
+EP 676
+DI 10.1016/j.pmcj.2010.08.004
+PD DEC 2010
+PY 2010
+AB Location is a key context ingredient and many existing pervasive
+   applications rely on the current locations of their users. However, with
+   the ability to predict the future location and movement behavior of a
+   user, the usability of these applications can be greatly improved. In
+   this paper, we propose an approach to predict both the intended
+   destination and the future route of a person. Rather than predicting the
+   destination and future route separately, we have focused on making
+   prediction in an integrated way by exploiting personal movement data
+   (i.e. trajectories) collected by GPS. Since trajectories contain daily
+   whereabouts information of a person, the proposed approach first detects
+   the significant places where the person may depart from or go to using a
+   clustering-based algorithm called FBM (Forward Backward Matching), then
+   abstracts the trajectories based on a space partitioning method, and
+   finally extracts movement patterns from the abstracted trajectories
+   using an extended CRPM (Continuous Route Pattern Mining) algorithm.
+   Extracted movement patterns are organized in terms of origin-destination
+   couples. The prediction is made based on a pattern tree built from these
+   movement patterns. With the real personal movement data of 14
+   participants, we conducted a number of experiments to evaluate the
+   performance of our system. The results show that our approach can
+   achieve approximately 80% and 60% accuracy in destination prediction and
+   1-step prediction, respectively, and result in an average deviation of
+   approximately 60 m in continuous future route prediction. Finally, based
+   on the proposed approach, we implemented a prototype running on mobile
+   phones, which can extract patterns from a user's historical movement
+   data and predict the destination and future route. (C) 2010 Elsevier
+   B.V. All rights reserved.
+ZB 1
+TC 45
+Z8 5
+ZS 0
+ZR 0
+Z9 50
+SN 1574-1192
+UT WOS:000208193100006
+ER
+
+PT J
+AU Liu, Liang
+   Andris, Clio
+   Ratti, Carlo
+TI Uncovering cabdrivers' behavior patterns from their digital traces
+SO COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+VL 34
+IS 6
+SI SI
+BP 541
+EP 548
+DI 10.1016/j.compenvurbsys.2010.07.004
+PD NOV 2010
+PY 2010
+AB Recognizing high-level human behavior and decisions from their digital
+   traces are critical issues in pervasive computing systems. In this
+   paper, we develop a novel methodology to reveal cabdrivers' operation
+   patterns by analyzing their continuous digital traces. For the first
+   time, we systematically study large scale cabdrivers' behavior in a real
+   and complex city context through their daily digital traces. We identify
+   a set of valuable features, which are simple and effective to classify
+   cabdrivers, delineate cabdrivers' operation patterns and compare the
+   different cabdrivers' behavior. The methodology and steps could
+   spatially and temporally quantify, visualize, and examine different
+   cabdrivers' operation patterns. Drivers were categorized into top
+   drivers and ordinary drivers by their daily income. We use the daily
+   operations of 3000 cabdrivers in over 48 million of trips and 240
+   million kilometers to uncover: (1) spatial selection behavior, (2)
+   context-aware spatio-temporal operation behavior, (3) route choice
+   behavior, and (4) operation tactics. Though we focused on cabdriver
+   operation patterns analysis from their digital traces, the methodology
+   is a general empirical and analytical methodology for any GPS-like trace
+   analysis. Our work demonstrates the great potential to utilize the
+   massive pervasive data sets to understand human behavior and high-level
+   intelligence. Published by Elsevier Ltd.
+ZR 0
+ZS 0
+ZB 3
+TC 84
+Z8 16
+Z9 98
+SN 0198-9715
+UT WOS:000284745800010
+ER
+
+PT J
+AU Castle, R. O.
+   Klein, G.
+   Murray, D. W.
+TI Combining monoSLAM with object recognition for scene augmentation using
+   a wearable camera
+SO IMAGE AND VISION COMPUTING
+VL 28
+IS 11
+BP 1548
+EP 1556
+DI 10.1016/j.imavis.2010.03.009
+PD NOV 2010
+PY 2010
+AB In wearable visual computing, maintaining a time-evolving representation
+   of the 3D environment along with the pose of the camera provides the
+   geometrical foundation on which person-centred processing can be built.
+   In this paper, an established method for the recognition of feature
+   clusters is used on live imagery to identify and locate planar objects
+   around the wearer. Objects' locations are incorporated as additional 3D
+   measurements into a monocular simultaneous localization and mapping
+   process, which routinely uses 2D image measurements to acquire and
+   maintain a map of the surroundings, irrespective of whether objects are
+   present or not. Augmenting the 3D maps with automatically recognized
+   objects enables useful annotations of the surroundings to be presented
+   to the wearer. After demonstrating the geometrical integrity of the
+   method, experiments show its use in two augmented reality applications.
+   (C) 2010 Elsevier B.V. All rights reserved.
+TC 36
+ZB 0
+ZS 0
+Z8 1
+ZR 0
+Z9 37
+SN 0262-8856
+EI 1872-8138
+UT WOS:000280972800005
+ER
+
+PT J
+AU Bayir, Murat Ali
+   Demirbas, Murat
+   Eagle, Nathan
+TI Mobility profiler: A framework for discovering mobility profiles of cell
+   phone users
+SO PERVASIVE AND MOBILE COMPUTING
+VL 6
+IS 4
+SI SI
+BP 435
+EP 454
+DI 10.1016/j.pmcj.2010.01.003
+PD AUG 2010
+PY 2010
+AB Mobility path information of cell phone users play a crucial role in a
+   wide range of cell phone applications, including context based search
+   and advertising, early warning systems, city-wide sensing applications
+   such as air pollution exposure estimation and traffic planning. However,
+   there is a disconnect between the low level location data logs available
+   from the cell phones and the high level mobility path information
+   required to support these cell phone applications. In this paper, we
+   present formal definitions to capture the cell phone users' mobility
+   patterns and profiles, and provide a complete framework, Mobility
+   Profiler, for discovering mobile cell phone user profiles starting from
+   cell based location data. We use real-world cell phone log data (of over
+   350 K h of coverage) to demonstrate our framework and perform
+   experiments for discovering frequent mobility patterns and profiles. Our
+   analysis of mobility profiles of cell phone users expose a significant
+   long tail in a user's location-time distribution: A total of 15% of a
+   cell phone user's time is spent on average in locations that each
+   appears with less than 1% of total time. (C) 2010 Elsevier B.V. All
+   rights reserved.
+ZB 0
+ZS 0
+Z8 2
+ZR 0
+TC 43
+Z9 45
+SN 1574-1192
+UT WOS:000208192900004
+ER
+
+PT J
+AU Iqbal, Muhammad Usman
+   Lim, Samsung
+TI Privacy Implications of Automated GPS Tracking and Profiling
+SO IEEE TECHNOLOGY AND SOCIETY MAGAZINE
+VL 29
+IS 2
+BP 39
+EP 46
+DI 10.1109/MTS.2010.937031
+PD SUM 2010
+PY 2010
+OI Lim, Samsung/0000-0001-9838-8960
+TC 13
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+Z9 13
+SN 0278-0097
+UT WOS:000278535900008
+ER
+
+PT J
+AU Niu, William T.
+   Kay, Judy
+TI PERSONAF: framework for personalised ontological reasoning in pervasive
+   computing
+SO USER MODELING AND USER-ADAPTED INTERACTION
+VL 20
+IS 1
+BP 1
+EP 40
+DI 10.1007/s11257-009-9068-2
+PD FEB 2010
+PY 2010
+AB Pervasive computing creates possibilities for presenting highly
+   personalised information about the people, places and things in a
+   building. One of the challenges for such personalisation is the creation
+   of the system that can support ontological reasoning for several key
+   tasks: reasoning about location; personalisation of information about
+   location at the right level of detail; and personalisation to match each
+   person's conceptions of the building based on their own use of it and
+   their relationship to other people in the building. From pragmatic
+   perspectives, it should be inexpensive to create the ontology for each
+   new building. It is also critical that users should be able to
+   understand and control pervasive applications. We created the PERSONAF
+   (personalised pervasive scrutable ontological framework) to address
+   these challenges. PERSONAF is a new abstract framework for pervasive
+   ontological reasoning. We report its evaluation at three levels. First,
+   we assessed the power of the ontology for reasoning about noisy and
+   uncertain location information, showing that PERSONAF can improve
+   location modelling. Notably, the best ontological reasoner varies across
+   users. Second, we demonstrate the use of the PERSONAF framework in
+   Adaptive Locator, an application built upon it, using our low cost
+   mechanisms for non-generic layers of the ontology. Finally, we report a
+   user study, which evaluated the PERSONAF approach as seen by users in
+   the Adaptive Locator. We assessed both the personalisation performance
+   and the understandability of explanations of the system reasoning.
+   Together, these three evaluations show that the PERSONAF approach
+   supports building of low cost ontologies, that can achieve flexible
+   ontological reasoning about smart buildings and the people in them, and
+   that this can be used to build applications which give personalised
+   information that can provide understandable explanations of the
+   reasoning underlying the personalisation.
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+TC 12
+Z9 12
+SN 0924-1868
+EI 1573-1391
+UT WOS:000274328100001
+ER
+
+EF

@@ -1,4 +1,3 @@
-
 Origin–destination trips by purpose and time of day inferred from mobile phone data
 2015 Transportation Research Part C-emerging Technologies
 Lauren Alexander, Shan Jiang, Mikel Murga, Marta C. González

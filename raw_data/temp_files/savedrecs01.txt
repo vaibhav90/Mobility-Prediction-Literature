@@ -1,0 +1,1242 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Al-Turjrnan, F
+AF Al-Turjrnan, Fadi
+TI 5G-enabled devices and smart-spaces in social-IoT: An overview
+SO FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+AB The abundance of smartphones, with their growing capabilities potentiates applications in numerous domains. A typical smartphone nowadays is equipped with an array of embedded sensors (e.g., GPS, accelerometers, gyroscopes, RFID readers, cameras, and microphones) along with different communication interfaces (e.g. Cellular, WiFi, Bluetooth, etc.). Thus, a smartphone is a significant provider for sensory data that awaits the utilization in many critical applications. Primers of this vision have demonstrated success, both in the literature and application's market. In this literature review, we present the main motivations in carrying these smart devices, and the correlation between the user surrounding context and the application usage. We focus on context -awareness in smart systems and space discovery paradigms; online versus offline, the femtocell usage and energy aspects to be considered, and about the ongoing social IoT applications. Moreover, we highlight the most up-to-date open research issues in this area. (C) 2017 Elsevier B.V. All rights reserved.
+SN 0167-739X
+EI 1872-7115
+PD MAR
+PY 2019
+VL 92
+BP 732
+EP 744
+DI 10.1016/j.future.2017.11.035
+UT WOS:000454370600064
+ER
+
+PT S
+AU Luo, W
+   Wang, YL
+   Liu, X
+   Gao, S
+AF Luo, Wei
+   Wang, Yaoli
+   Liu, Xi
+   Gao, Song
+BE Ye, X
+   Liu, X
+TI Cities as Spatial and Social Networks: Towards a Spatio-Socio-Semantic
+   Analysis Framework
+SO CITIES AS SPATIAL AND SOCIAL NETWORKS
+SE Human Dynamics in Smart Cities
+SN 2523-7780
+EI 2523-7799
+BN 978-3-319-95351-9; 978-3-319-95350-2
+PY 2019
+BP 21
+EP 37
+DI 10.1007/978-3-319-95351-9_3
+D2 10.1007/978-3-319-95351-9
+UT WOS:000456847100003
+ER
+
+PT J
+AU Wang, YL
+   Kutadinata, R
+   Winter, S
+AF Wang, Yaoli
+   Kutadinata, Ronny
+   Winter, Stephan
+TI The evolutionary interaction between taxi-sharing behaviours and social
+   networks
+SO TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+AB Mobility services increasingly consider the sharing of vehicles to reduce resource use and congestion. People are, however, reluctant to sharing vehicles with strangers. Therefore, this paper investigates the dynamic co-evolution of taxi-sharing behaviours and the taxi-sharing-oriented social network structure. A social network based taxi-sharing method is introduced that is able to prioritise taxi-sharing with acquaintances over strangers while capping the detour cost to reasonable and varied limits. Furthermore, the social network structure evolves and is updated based on shared trips. An empirical simulation demonstrates the advantages of social network based taxi-sharing, i.e., an increased match rate and a comparable satisfaction level to trip-based methods. The spatial aggregation of the emerging social network not only suggests a space-time searching heuristic for taxi-sharing, but also indicates how social factors conquer space while space constrains social interactions.
+SN 0965-8564
+PD JAN
+PY 2019
+VL 119
+BP 170
+EP 180
+DI 10.1016/j.tra.2018.10.043
+UT WOS:000456755100013
+ER
+
+PT J
+AU Lai, CH
+   Lee, SJ
+   Huang, HL
+AF Lai, Chin-Hui
+   Lee, Shin-Jye
+   Huang, Hung-Ling
+TI A social recommendation method based on the integration of social
+   relationship and product popularity
+SO INTERNATIONAL JOURNAL OF HUMAN-COMPUTER STUDIES
+AB Web 2.0 technology fosters the flourishing growth and development of social networks. More and more people are participating in the activities on social networks to interact and share information with each other. Thus, consumers are often making their purchasing decisions based on information from the Internet such as reviews, ratings, and comments on products, especially from their trusted friends. However, a great amount of available information may cause the problem of information overload for consumers. In seeking to attain a good recommendation performance by taking the high-potential factors into account as far as possible, this paper proposes a novel social recommendation method on the basis of the integration of interactions, trust relationships and product popularity to predict user preferences, and recommend relevant products in social networks. In addition, the proposed method mainly focuses on analyzing user interactions to infer their latent interactions in accordance with the user ratings and corresponding reviews. Additionally, users may be affected by the popularity of products, so this factor has also been taken into consideration in this work. The experimental results show that the proposed recommendation method has a better recommendation performance in comparisons to other methods because the proposed method can accurately analyze user preferences and further recommend high-potential products to target users in social networks to support their purchase decision making. Furthermore, the proposed method can not only reduce the time and effort users spend on querying information, but also positively relieve the problem of information overload.
+SN 1071-5819
+EI 1095-9300
+PD JAN
+PY 2019
+VL 121
+BP 42
+EP 57
+DI 10.1016/j.ijhcs.2018.04.002
+UT WOS:000453495900004
+ER
+
+PT J
+AU Cao, Y
+   Cai, Z
+   Xue, F
+   Li, T
+   Ding, ZM
+AF Cao, Yang
+   Cai, Zhi
+   Xue, Fei
+   Li, Tong
+   Ding, Zhiming
+TI Semantic Trajectory Based Behavior Generation for Groups Identification
+SO KSII TRANSACTIONS ON INTERNET AND INFORMATION SYSTEMS
+AB With the development of GPS and the popularity of mobile devices with positioning capability, collecting massive amounts of trajectory data is feasible and easy. The daily trajectories of moving objects convey a concise overview of their behaviors. Different social roles have different trajectory patterns. Therefore, we can identify users or groups based on similar trajectory patterns by mining implicit life patterns. However, most existing daily trajectories mining studies mainly focus on the spatial and temporal analysis of raw trajectory data but missing the essential semantic information or behaviors. In this paper, we propose a novel trajectory semantics calculation method to identify groups that have similar behaviors. In our model, we first propose a fast and efficient approach for stay regions extraction from daily trajectories, then generate semantic trajectories by enriching the stay regions with semantic labels. To measure the similarity between semantic trajectories, we design a semantic similarity measure model based on spatial and temporal similarity factor. Furthermore, a pruning strategy is proposed to lighten tedious calculations and comparisons. We have conducted extensive experiments on real trajectory dataset of Geolife project, and the experimental results show our proposed method is both effective and efficient.
+SN 1976-7277
+PD DEC 31
+PY 2018
+VL 12
+IS 12
+BP 5782
+EP 5799
+DI 10.3837/tiis.2018.12.010
+UT WOS:000454634300010
+ER
+
+PT J
+AU Zhou, XK
+   Wu, B
+   Jin, Q
+AF Zhou, Xiaokang
+   Wu, Bo
+   Jin, Qun
+TI Analysis of User Network and Correlation for Community Discovery Based
+   on Topic-Aware Similarity and Behavioral Influence
+SO IEEE TRANSACTIONS ON HUMAN-MACHINE SYSTEMS
+AB While social computing related research has focused mostly on how to provide users with more precise and direct information, or on recommending new search methods to find requested information rapidly, the authors believe that network users themselves could be viewed as an important social resource. This study concentrates on analyzing potential and dynamic user correlations, based on topic-aware similarity and behavioral influence, which may help us to discover communities in social networking sites. The dynamically socialized user networking (DSUN) model is extended and refined to represent implicit and explicit user relationships in terms of topic-aware features and social behaviors. A set of measures is defined to describe and quantify interuser correlations, relating to social behaviors. Three types of ties are proposed to describe and discover communities according to influence-based user relationships. Results of the experiment with Twitter data are used to show the discovery of three types of communities, based on the presented model. Comparison with six different schemes and two existing methods demonstrates that the proposed method is effective in discovering influence-based communities. Finally, the scenario-based simulation of collective decision-making processes demonstrates the practicability of the proposed model and method in social interactive systems.
+RI Jin, Qun/H-3752-2012
+OI Jin, Qun/0000-0002-1325-4275
+SN 2168-2291
+EI 2168-2305
+PD DEC
+PY 2018
+VL 48
+IS 6
+BP 559
+EP 571
+DI 10.1109/THMS.2017.2725341
+UT WOS:000450208700001
+ER
+
+PT J
+AU Ghosh, S
+   Ghosh, SK
+AF Ghosh, Shreya
+   Ghosh, Soumya K.
+TI Exploring the association between mobility behaviours and academic
+   performances of students: a context-aware traj-graph (CTG) analysis
+SO PROGRESS IN ARTIFICIAL INTELLIGENCE
+AB Analysing the mobility traces of moving agents (mobile users, GPS-equipped vehicles, CDRs, etc.) may help in interpreting the "human interests and intentions: behind the movements and thus facilitates diverse range of location-based applications. The trajectory analysis uncovers the connections, correlations and differences among individuals and their activities by exploring their mobility attributes. This paper focuses on how mobility information (GPS traces) of a student exhibits correlation with her academic performance. The proposed framework analyses the GPS trajectories of students in an academic campus, models the mobility patterns of students using context-aware traj-graph (CTG), clusters signature mobility patterns and uncovers the correlation of mobility attributes with the academic performance of the students. A mobility knowledge graph has been constructed considering the entities, namely students, places of visits, movement behaviours, subjects, academic performances and the relationships among the entities. Using real-life dataset of an academic campus, we demonstrate that the mobility attributes are associated with students' academic performances and students' academic performance can be predicted from their movement behaviours.
+SN 2192-6352
+EI 2192-6360
+PD DEC
+PY 2018
+VL 7
+IS 4
+SI SI
+BP 307
+EP 326
+DI 10.1007/s13748-018-0164-6
+UT WOS:000447264800005
+ER
+
+PT J
+AU Du, YP
+   Wang, CC
+   Qiao, YL
+   Zhao, DY
+   Guo, WY
+AF Du, Yongping
+   Wang, Chencheng
+   Qiao, Yanlei
+   Zhao, Dongyue
+   Guo, Wenyang
+TI A geographical location prediction method based on continuous time
+   series Markov model
+SO PLOS ONE
+AB Trajectory data uploaded by mobile devices is growing quickly. It represents the movement of an individual or a device based on the longitude and latitude coordinates collected by GPS. The location based service has a broad application prospect in the real world. As the traditional location prediction models which are based on the discrete state sequence cannot predict the locations in real time, we propose a Continuous Time Series Markov Model (CTS-MM) to solve this problem. The method takes the Gaussian Mixed Model (GMM) to simulate the posterior probability of a location in the continuous time series. The probability calculation method and state transition model of the Hidden Markov Model (HMM) are improved to get the precise location prediction. The experimental results on GeoLife data show that CTS-MM performs better for location prediction in exact minute than traditional location prediction models.
+SN 1932-6203
+PD NOV 19
+PY 2018
+VL 13
+IS 11
+AR e0207063
+DI 10.1371/journal.pone.0207063
+UT WOS:000450603800009
+PM 30452446
+ER
+
+PT J
+AU Lu, EHC
+   Yang, YW
+AF Lu, Eric Hsueh-Chan
+   Yang, Ya-Wen
+TI Mining mobile application usage pattern for demand prediction by
+   considering spatial and temporal relations
+SO GEOINFORMATICA
+AB Recently, researches on smart phones have received attentions because the wide potential applications. One of interesting and useful topic is mining and predicting the users' mobile application (App) usage behaviors. With more and more Apps installed in users' smart phone, the users may spend much time to find the Apps they want to use by swiping the screen. App prediction systems benefit for reducing search time and launching time since the Apps which may be launched can preload in the memory before they are actually used. Although some previous studies had been proposed on the problem of App usage analysis, they recommend Apps for users only based on the frequencies of App usages. We consider that the relationship between App usage demands and users' recent spatial and temporal behaviors may be strong. In this paper, we propose Spatial and Temporal App Recommender (STAR), a novel framework to predict and recommend the Apps for mobile users under a smart phone environment. The STAR framework consists of four major modules. We first find the meaningful and semantic location movements from the geographic GPS trajectory data by the Spatial Relation Mining Module and generate the suitable temporal segments by the Temporal Relation Mining Module. Then, we design Spatial and Temporal App Usage Pattern Mine (STAUP-Mine) algorithm to efficiently discover mobile users' Spatial and Temporal App Usage Patterns (STAUPs). Furthermore, an App Usage Demand Prediction Module is presented to predict the following App usage demands according to the discovered STAUPs and spatial/temporal relations. To our knowledge, this is the first study to simultaneously consider the spatial movements, temporal properties and App usage behavior for mining App usage pattern and demand prediction. Through rigorous experimental analysis from two real mobile App datasets, STAR framework delivers an excellent prediction performance.
+OI Lu, Eric Hsueh-Chan/0000-0002-5342-9383
+SN 1384-6175
+EI 1573-7624
+PD OCT
+PY 2018
+VL 22
+IS 4
+SI SI
+BP 693
+EP 721
+DI 10.1007/s10707-018-0322-9
+UT WOS:000448270000002
+ER
+
+PT J
+AU Zhao, XG
+   Ma, ZY
+   Zhang, Z
+AF Zhao, Xiangguo
+   Ma, Zhongyu
+   Zhang, Zhen
+TI A novel recommendation system in location-based social networks using
+   distributed ELM
+SO MEMETIC COMPUTING
+AB Location-based social networks (LBSNs) have become a popular platform for people to communicate with each other. The recommendation problem has attracted considerable attention in both academia and industry as increasingly more users share their experiences and feelings using LBSNs. Machine learning has been widely used in many recommendation systems for recommending new friends or places of interest (POIs) to users in LBSNs. However, the majority of the existing recommendation systems were single function and only used small-scale datasets to provide recommendation services. In the era of big data, recommendation systems should have the ability to fully utilize limited computing resources for mining potential relationships from large-scale LBSN data. In this paper, a novel generic recommendation system is proposed by utilizing a distributed extreme learning machine called GR-DELM, which considers both friend recommendation and POI recommendation in large-scale datasets. For POI recommendation, three features are extracted: (1) geography-influenced feature, (2) popularity-influenced feature, and (3) social-influenced feature. For friend recommendation, two features are extracted: (1) neighborhood-based feature and (2) path-based feature. These features further improve the efficiency and accuracy of large-scale recommendation. Finally, a series of experiments demonstrate that the GR-DELM system outperforms the existing recommendation systems.
+SN 1865-9284
+EI 1865-9292
+PD SEP
+PY 2018
+VL 10
+IS 3
+BP 321
+EP 331
+DI 10.1007/s12293-017-0227-4
+UT WOS:000441387800009
+ER
+
+PT J
+AU Wang, Y
+   McArthur, D
+AF Wang, Yang
+   McArthur, David
+TI Enhancing data privacy with semantic trajectories: A raster-based
+   framework for GPS stop/move management
+SO TRANSACTIONS IN GIS
+AB Tracking facilities on smartphones generate enormous amounts of GPS trajectories, which provide new opportunities to study movement patterns and improve transportation planning. Converting GPS trajectories into semantically meaningful trips is attracting increasing research effort with respect to the development of algorithms, frameworks, and software tools. There are, however, few works focused on designing new semantic enrichment functionalities taking privacy into account. This article presents a raster-based framework which not only detects significant stop locations, segments GPS records into stop/move structures, and brings semantic insights to trips, but also provides possibilities to anonymize users' movements and sensitive stay/move locations into raster cells/regions so that a multi-level data sharing structure is achieved for a variety of data sharing purposes.
+SN 1361-1682
+EI 1467-9671
+PD AUG
+PY 2018
+VL 22
+IS 4
+BP 975
+EP 990
+DI 10.1111/tgis.12334
+UT WOS:000442853100006
+ER
+
+PT J
+AU Wang, GW
+   Zhang, JD
+   Li, J
+AF Wang, Guo-Wei
+   Zhang, Jin-Dou
+   Li, Jing
+TI Complete Your Mobility: Linking Trajectories Across Heterogeneous
+   Mobility Data Sources
+SO JOURNAL OF COMPUTER SCIENCE AND TECHNOLOGY
+AB Nowadays, human activities and movements are recorded by a variety of tools, forming different trajectory sets which are usually isolated from one another. Thus, it is very important to link different trajectories of one person in different sets to provide massive information for facilitating trajectory mining tasks. Most prior work took advantages of only one dimensional information to link trajectories and can link trajectories in a one-to-many manner (providing several candidate trajectories to link to one specific trajectory). In this paper, we propose a novel approach called one-to-one constraint trajectory linking with multi-dimensional information (OCTL) that links the corresponding trajectories of one person in different sets in a one-to-one manner. We extract multidimensional features from different trajectory datasets for corresponding relationships prediction, including spatial, temporal and spatio-temporal information, which jointly describe the relationships between trajectories. Using these features, we calculate the corresponding probabilities between trajectories in different datasets. Then, we formulate the link inference problem as a bipartite graph matching problem and employ effective methods to link one trajectory to another. Moreover, the advantages of our approach are empirically verified on two real-world trajectory sets with convincing results.
+SN 1000-9000
+EI 1860-4749
+PD JUL
+PY 2018
+VL 33
+IS 4
+BP 792
+EP 806
+DI 10.1007/s11390-018-1856-x
+UT WOS:000438683500012
+ER
+
+PT J
+AU Damiani, ML
+   Hachem, F
+   Issa, H
+   Ranc, N
+   Moorcroft, P
+   Cagnacci, F
+AF Damiani, Maria Luisa
+   Hachem, Fatima
+   Issa, Hamza
+   Ranc, Nathan
+   Moorcroft, Paul
+   Cagnacci, Francesca
+TI Cluster-based trajectory segmentation with local noise
+SO DATA MINING AND KNOWLEDGE DISCOVERY
+AB We present a framework for the partitioning of a spatial trajectory in a sequence of segments based on spatial density and temporal criteria. The result is a set of temporally separated clusters interleaved by sub-sequences of unclustered points. A major novelty is the proposal of an outlier or noise model based on the distinction between intra-cluster (local noise) and inter-cluster noise (transition): the local noise models the temporary absence from a residence while the transition the definitive departure towards a next residence. We analyze in detail the properties of the model and present a comprehensive solution for the extraction of temporally ordered clusters. The effectiveness of the solution is evaluated first qualitatively and next quantitatively by contrasting the segmentation with ground truth. The ground truth consists of a set of trajectories of labeled points simulating animal movement. Moreover, we show that the approach can streamline the discovery of additional derived patterns, by presenting a novel technique for the analysis of periodic movement. From a methodological perspective, a valuable aspect of this research is that it combines the theoretical investigation with the application and external validation of the segmentation framework. This paves the way to an effective deployment of the solution in broad and challenging fields such as e-science.
+OI Damiani, Maria Luisa/0000-0001-9587-308X
+SN 1384-5810
+EI 1573-756X
+PD JUL
+PY 2018
+VL 32
+IS 4
+BP 1017
+EP 1055
+DI 10.1007/s10618-018-0561-2
+UT WOS:000435394100006
+ER
+
+PT J
+AU Al Sonosy, OA
+   Rady, S
+   Badr, NL
+   Hashem, M
+AF Al Sonosy, Ola A.
+   Rady, Sherine
+   Badr, Nagwa L.
+   Hashem, Mohammed
+TI Toward efficient business behavior prediction using location-based
+   social networks
+SO WILEY INTERDISCIPLINARY REVIEWS-DATA MINING AND KNOWLEDGE DISCOVERY
+AB Understanding business behavior in a city requires acquiring huge amount of data coming from diverse field studies. The growing use of mobile devices in social media provides massive data transactions that can replace such data acquired by field studies. Location-based social networks' (LBSNs') data can be exploited in urban analysis for economic reasons. In this research, the spatial correlation of business turnouts for venues registered in LBSNs is studied for business behavior predictions. A novel similarity embedded (SE)-spatial interpolation technique is proposed for business turnouts' predictions. The proposed technique utilizes diverse features provided by LBSNs in the prediction process to improve prediction performance. Moreover, a local filter is introduced to avoid local extreme involvements in the prediction process issuing better prediction results. To test the proposed techniques, experimental case study is implemented for predicting business behavior of venues registered in Foursquare in Texas. The proposed SE-spatial interpolation has shown better prediction accuracy than classical spatial interpolation predictions. The additional integration of the local filter shows further alleviated prediction errors. Furthermore, this study extends the work for the efficient application of the proposed prediction technique in big datasets. An iterative nearest neighbors first search method is designed for accelerating the execution time of the prediction technique implementation regardless the dataset size. The proposed method was tested over several size datasets. The test results show accelerated execution time for the proposed method when compared with the classical implementation execution time. This article is categorized under:
+   Algorithmic Development > Spatial and Temporal Data Mining Fundamental Concepts of Data and Knowledge > Big Data Mining Technologies > Prediction
+SN 1942-4787
+EI 1942-4795
+PD JUL-AUG
+PY 2018
+VL 8
+IS 4
+AR e1263
+DI 10.1002/widm.1263
+UT WOS:000435287000008
+ER
+
+PT J
+AU Lian, DF
+   Ge, Y
+   Zhang, FZ
+   Yuan, NJ
+   Xie, X
+   Zhou, T
+   Rui, Y
+AF Lian, Defu
+   Ge, Yong
+   Zhang, Fuzheng
+   Yuan, Nicholas Jing
+   Xie, Xing
+   Zhou, Tao
+   Rui, Yong
+TI Scalable Content-Aware Collaborative Filtering for Location
+   Recommendation
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+AB Location recommendation plays an essential role in helping people find attractive places. Though recent research has studied how to recommend locations with social and geographical information, few of them addressed the cold-start problem of new users. Because mobility records are often shared on social networks, semantic information can be leveraged to tackle this challenge. A typical method is to feed them into explicit-feedback-based content-aware collaborative filtering, but they require drawing negative samples for better learning performance, as users' negative preference is not observable in human mobility. However, prior studies have empirically shown sampling-based methods do not perform well. To this end, we propose a scalable Implicit-feedback-based Content-aware Collaborative Filtering (ICCF) framework to incorporate semantic content and to steer clear of negative sampling. We then develop an efficient optimization algorithm, scaling linearly with data size and feature size, and quadratically with the dimension of latent space. We further establish its relationship with graph Laplacian regularized matrix factorization. Finally, we evaluate ICCF with a large-scale LBSN dataset in which users have profiles and textual content. The results show that ICCF outperforms several competing baselines, and that user information is not only effective for improving recommendations but also coping with cold-start scenarios.
+SN 1041-4347
+EI 1558-2191
+PD JUN 1
+PY 2018
+VL 30
+IS 6
+BP 1122
+EP 1135
+DI 10.1109/TKDE.2018.2789445
+UT WOS:000431441200009
+ER
+
+PT J
+AU Ding, ZJ
+   Li, XL
+   Jiang, CJ
+   Zhou, MC
+AF Ding, Zhijun
+   Li, Xiaolun
+   Jiang, Changjun
+   Zhou, Mengchu
+TI Objectives and State-of-the-Art of Location-Based Social Network
+   Recommender Systems
+SO ACM COMPUTING SURVEYS
+AB Because of the widespread adoption of GPS-enabled devices, such as smartphones and GPS navigation devices, more and more location information is being collected and available. Compared with traditional ones (e.g., Amazon, Taobao, and Dangdang), recommender systems built on location-based social networks (LB-SNs) have received much attention. The former mine users' preferences through the relationship between users and items, e.g., online commodity, movies and music. The latter add location information as a new dimension to the former, hence resulting in a three-dimensional relationship among users, locations, and activities. In this article, we summarize LBSN recommender systems from the perspective of such a relationship. User, activity, and location are called objects, and recommender objectives are formed and achieved by mining and using such 3D relationships. From the perspective of the 3D relationship among these objects, we summarize the state-of-the-art of LBSN recommender systems to fulfill the related objectives. We finally indicate some future research directions in this area.
+SN 0360-0300
+EI 1557-7341
+PD APR
+PY 2018
+VL 51
+IS 1
+AR 18
+DI 10.1145/3154526
+UT WOS:000434678100018
+ER
+
+PT J
+AU Lian, DF
+   Zheng, K
+   Ge, Y
+   Cao, LB
+   Chen, EH
+   Xie, X
+AF Lian, Defu
+   Zheng, Kai
+   Ge, Yong
+   Cao, Longbing
+   Chen, Enhong
+   Xie, Xing
+TI GeoMF plus plus : Scalable Location Recommendation via Joint
+   Geographical Modeling and Matrix Factorization
+SO ACM TRANSACTIONS ON INFORMATION SYSTEMS
+AB Location recommendation is an important means to help people discover attractive locations. However, extreme sparsity of user-location matrices leads to a severe challenge, so it is necessary to take implicit feedback characteristics of user mobility data into account and leverage the location's spatial information. To this end, based on previously developed GeoMF, we propose a scalable and flexible framework, dubbed GeoMF++, for joint geographical modeling and implicit feedback-based matrix factorization. We then develop an efficient optimization algorithm for parameter learning, which scales linearly with data size and the total number of neighbor grids of all locations. GeoMF++ can be well explained from two perspectives. First, it subsumes two-dimensional kernel density estimation so that it captures spatial clustering phenomenon in user mobility data; Second, it is strongly connected with widely used neighbor additive models, graph Laplacian regularized models, and collective matrix factorization. Finally, we extensively evaluate GeoMF++ on two large-scale LBSN datasets. The experimental results show that GeoMF++ consistently outperforms the state-of-the-art and other competing baselines on both datasets in terms of NDCG and Recall. Besides, the efficiency studies show that GeoMF++ is much more scalable with the increase of data size and the dimension of latent space.
+SN 1046-8188
+EI 1558-2868
+PD APR
+PY 2018
+VL 36
+IS 3
+AR 33
+DI 10.1145/3182166
+UT WOS:000431410100011
+ER
+
+PT J
+AU Hsieh, MY
+AF Hsieh, Ming-Yuan
+TI SoLoMo technology: exploring the most critical determinants of SoLoMo
+   technology in the contemporary mobile communication technology era
+SO JOURNAL OF AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING
+AB In order to investigate the developing trend of SoLoMo technology in the current mobile communication technology (MCT) era, this research cross-employs the, factor analysis approach, technology acceptance model and analytical network process model to construct the most effective evaluation model. In order to strengthen the research representativeness, this research hierarchically cross-measures the results of the first 268 valid questionnaires given to random technological users to detect the demands of numerous users and the second 15 valid surveyed questionnaires given to 15 experts in relative technological management fields to refine the evaluated results and conclusion. Contributively, the most three valuable findings are (1) Web 3.0 technology (W3) of perceived usefulness, technological appropriate format of perceived ease of use, user's empathy of attitude toward using and user's reliability of behavioral intention to use are the most influenced determinant of SoLoMo technology; (2) these determinants are the positive influences of external variables during users utilizing newest technology in the current MCT era (PIEV), testified by fuzzy set qualitative comparative analysis method of qualitative analysis and (3) specifically, the interviewed questionnaires have further pointed out that the numerous users have not only focused on the diversified formats of information, multiple connection and media of Web 3.0 technology but also paid more attentions on the reliability and accuracy.
+OI Hsieh, Ming-Yuan/0000-0002-8503-057X
+SN 1868-5137
+EI 1868-5145
+PD APR
+PY 2018
+VL 9
+IS 2
+SI SI
+BP 307
+EP 318
+DI 10.1007/s12652-016-0375-2
+UT WOS:000429249200009
+ER
+
+PT J
+AU Yang, MK
+   Cheng, CQ
+   Chen, B
+AF Yang, Mengke
+   Cheng, Chengqi
+   Chen, Bo
+TI Mining Individual Similarity by Assessing Interactions with Personally
+   Significant Places from GPS Trajectories
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+AB Human mobility is closely associated with places. Due to advancements in GPS devices and related sensor technologies, an unprecedented amount of tracking data has been generated in recent years, thus providing a new way to investigate the interactions between individuals and places, which are vital for depicting individuals' characteristics. In this paper, we propose a framework for mining individual similarity based on long-term trajectory data. In contrast to most existing studies, which have focused on the sequential properties of individuals' visits to public places, this paper emphasizes the essential role of the spatio-temporal interactions between individuals and their personally significant places. Specifically, rather than merely using public geographic databases, which include only public places and lack personal meanings, we attempt to interpret the semantics of places that are significant to individuals from the perspectives of personal behavior. Next, we propose a new individual similarity measurement that incorporates both the spatio-temporal and semantic properties of individuals' visits to significant places. By experimenting on real-world GPS datasets, we demonstrate that our approach is more capable of distinguishing individuals and characterizing individual features than the previous methods. Additionally, we show that our approach can be used to effectively measure individual similarity and to aggregate individuals into meaningful subgroups.
+RI Bo, Chen/D-3383-2017
+OI Bo, Chen/0000-0001-7495-8885
+SN 2220-9964
+PD MAR
+PY 2018
+VL 7
+IS 3
+AR 126
+DI 10.3390/ijgi7030126
+UT WOS:000428557700047
+ER
+
+PT J
+AU Tu, WT
+   Cheung, DW
+   Mamoulis, N
+   Yang, M
+   Lu, ZY
+AF Tu, Wenting
+   Cheung, David W.
+   Mamoulis, Nikos
+   Yang, Min
+   Lu, Ziyu
+TI Activity Recommendation with Partners
+SO ACM TRANSACTIONS ON THE WEB
+AB Recommending social activities, such as watching movies or having dinner, is a common function found in social networks or e-commerce sites. Besides certain websites which manage activity-related locations (e.g., foursquare.com), many items on product sale platforms (e.g., groupon.com) can naturally be mapped to social activities. For example, movie tickets can be thought of as activity items, which can be mapped as a social activity of "watch a movie." Traditional recommender systems estimate the degree of interest for a target user on candidate items (or activities), and accordingly, recommend the top-k activity items to the user. However, these systems ignore an important social characteristic of recommended activities: people usually tend to participate in those activities with friends. This article considers this fact for improving the effectiveness of recommendation in two directions. First, we study the problem of activity-partner recommendation; i.e., for each recommended activity item, find a suitable partner for the user. This (i) saves the user's time for finding activity partners, (ii) increases the likelihood that the activity item will be selected by the user, and (iii) improves the effectiveness of recommender systems to users overall and enkindles their social enthusiasm. Our partner recommender is built upon the users' historical attendance preferences, their social context, and geographic information. Moreover, we explore how to leverage the partner recommendation to help improve the effectiveness of recommending activities to users. Assuming that users tend to select the activities for which they can find suitable partners, we propose a partner-aware activity recommendation model, which integrates this hypothesis into conventional recommendation approaches. Finally, the recommended items not only match users' interests, but also have high chances to be selected by the users, because the users can find suitable partners to attend the corresponding activities together. We conduct experiments on real data to evaluate the effectiveness of activity-partner recommendation and partner-aware activity recommendation. The results verify that (i) suggesting partners greatly improves the likelihood that a recommended activity item is to be selected by the target user and (ii) considering the existence of suitable partners in the ranking of recommended items improves the accuracy of recommendation significantly.
+SN 1559-1131
+EI 1559-114X
+PD FEB
+PY 2018
+VL 12
+IS 1
+AR 4
+DI 10.1145/3121407
+UT WOS:000425712800004
+ER
+
+PT J
+AU Zhang, DS
+   He, T
+   Zhang, F
+AF Zhang, Desheng
+   He, Tian
+   Zhang, Fan
+TI Real-Time Human Mobility Modeling with Multi-View Learning
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+AB Real-time human mobility modeling is essential to various urban applications. To model such human mobility, numerous data-driven techniques have been proposed. However, existing techniques are mostly driven by data from a single view, for example, a transportation view or a cellphone view, which leads to over-fitting of these single-view models. To address this issue, we propose a human mobility modeling technique based on a generic multi-view learning framework called coMobile. In coMobile, we first improve the performance of single-view models based on tensor decomposition with correlated contexts, and then we integrate these improved single-view models together for multi-view learning to iteratively obtain mutually reinforced knowledge for real-time human mobility at urban scale. We implement coMobile based on an extremely large dataset in the Chinese city Shenzhen, including data about taxi, bus, and subway passengers along with cellphone users, capturing more than 27 thousand vehicles and 10 million urban residents. The evaluation results show that our approach outperforms a single-view model by 51% on average. More importantly, we design a novel application where urban taxis are dispatched based on unaccounted mobility demand inferred by coMobile.
+SN 2157-6904
+EI 2157-6912
+PD FEB
+PY 2018
+VL 9
+IS 3
+SI SI
+AR 22
+DI 10.1145/3092692
+UT WOS:000425718400001
+ER
+
+PT J
+AU Qiao, SJ
+   Han, N
+   Zhou, JL
+   Li, RH
+   Jin, CQ
+   Gutierrez, LA
+AF Qiao, Shaojie
+   Han, Nan
+   Zhou, Jiliu
+   Li, Rong-Hua
+   Jin, Cheqing
+   Gutierrez, Louis Alberto
+TI SocialMix: A familiarity-based and preference-aware location suggestion
+   approach
+SO ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+AB Traditionally, location suggestion systems have employed collaborative filtering model to make recommendations for users based on data gathered from users with similar interests, demographics, and check-in records. However, these techniques fail to take into account on very important element present in online social networks, the online relationships that these users maintain. Arguably, this is the most important aspect of their online profiles, often more revealing than their self reported personal interests and check-in records. Aiming to improve the accuracy and novelty of recommendations, this research proposes a hybrid location suggestion algorithm, called SocialMix, of which, takes into full consideration a user's familiarity and preference (interest) similarity, along with relationships. In the first part of this study, we compute the degrees of familiarity between users using three feature variables: the number of mutual friends, the Jaccard index and cosine similarity. In order to determine the weights of the these feature variables, maximum likelihood estimation used, and then the features are fit to a Logistic Regression model in order to calculate the degrees of familiarity. The second part of this research we present a new method for calculating similarity between individuals by integrating users familiarity and preference similarity. This allows us to introduce a new location interest degree calculation method on the hybrid similarity. Extensive experiments were conducted on several real datasets. The performance of SocialMix was analyzed for both accuracy and time complexity using the following metrics: MAE (mean absolute error), RMSE (root mean square error), Precision, Recall, F-measure, Coverage rate, Popularity and Response time. Results were compared against classical recommendation approaches as a baseline. The results show that the accuracy and time performance of SocialMix, when compared with other algorithms which do not consider social relationships, are demonstratively improved. In addition, a positive by product worth noting is that SocialMix has a tendency to recommend more obscure but still interesting locations. (C) 2017 Elsevier Ltd. All rights reserved.
+SN 0952-1976
+EI 1873-6769
+PD FEB
+PY 2018
+VL 68
+BP 192
+EP 204
+DI 10.1016/j.engappai.2017.11.006
+UT WOS:000423894400017
+ER
+
+PT J
+AU Huang, FH
+   Xiong, X
+   Peng, J
+   Guo, B
+   Tong, B
+AF Huang, Feihu
+   Xiong, Xi
+   Peng, Jian
+   Guo, Bing
+   Tong, Bo
+TI RCA: A route city attraction model for air passengers
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+AB Human movement pattern is a research hotspot of social computing and has practical values in various fields, such as traffic planning. Previous studies mainly focus on the travel activities of human beings on the ground rather than those in the air. In this paper, we use the reservation records of air passengers to explore air passengers' movement characteristics. After analyzing the effect of the route-trip length on the throughput, we find that most passengers eventually return to their original departure city and that the mobility of air passengers is not related to the route length. Based on these characteristics, we present a route city attraction (RCA) model, in which GDP or population is considered for the calculation of the attraction. The sub models of our RCA model show the better prediction performance of throughput than the radiation model and the gravity model. (C) 2017 Published by Elsevier B.V.
+SN 0378-4371
+EI 1873-2119
+PD FEB 1
+PY 2018
+VL 491
+BP 887
+EP 897
+DI 10.1016/j.physa.2017.08.081
+UT WOS:000417661500079
+ER
+
+PT B
+AU Zhao, XY
+   Xia, L
+   Zhang, L
+   Ding, ZY
+   Yin, DW
+   Tang, JL
+AF Zhao, Xiangyu
+   Xia, Long
+   Zhang, Liang
+   Ding, Zhuoye
+   Yin, Dawei
+   Tang, Jiliang
+GP ACM
+TI Deep Reinforcement Learning for Page-wise Recommendations
+SO 12TH ACM CONFERENCE ON RECOMMENDER SYSTEMS (RECSYS)
+CT 12th ACM Conference on Recommender Systems (RecSys)
+CY OCT 02-07, 2018
+CL Vancouver, CANADA
+SP Spotify, Univ Massachusetts Amherst, Johannes Kepler Univ Linz, ACM
+AB Recommender systems can mitigate the information overload problem by suggesting users' personalized items. In real-world recommendations such as e-commerce, a typical interaction between the system and its users is - users are recommended a page of items and provide feedback; and then the system recommends a new page of items. To effectively capture such interaction for recommendations, we need to solve two key problems - (1) how to update recommending strategy according to user's real-time feedback, and 2) how to generate a page of items with proper display, which pose tremendous challenges to traditional recommender systems. In this paper, we study the problem of page-wise recommendations aiming to address aforementioned two challenges simultaneously. In particular, we propose a principled approach to jointly generate a set of complementary items and the corresponding strategy to display them in a 2-D page; and propose a novel page-wise recommendation framework based on deep reinforcement learning, DeepPage, which can optimize a page of items with proper display based on real-time feedback from users. The experimental results based on a real-world e-commerce dataset demonstrate the effectiveness of the proposed framework.
+BN 978-1-4503-5901-6
+PY 2018
+BP 95
+EP 103
+DI 10.1145/3240323.3240374
+UT WOS:000458675100015
+ER
+
+PT B
+AU Bayrak, AE
+   Polat, F
+AF Bayrak, Ahmet Engin
+   Polat, Faruk
+BE Brandes, U
+   Reddy, C
+   Tagarelli, A
+TI Mining Individual Features to Enhance Link Prediction Efficiency in
+   Location Based Social Networks
+SO 2018 IEEE/ACM INTERNATIONAL CONFERENCE ON ADVANCES IN SOCIAL NETWORKS
+   ANALYSIS AND MINING (ASONAM)
+CT IEEE/ACM International Conference on Advances in Social Networks
+   Analysis and Mining (ASONAM)
+CY AUG 28-31, 2018
+CL Barcelona, SPAIN
+SP IEEE, Assoc Comp Machinery, IEEE Comp Soc, ACM SIGKDD, IEEE TCDE, Springer, Elsevier
+AB One of the most attractive problems of social network analysis is the link prediction. Social networks' user growth is mostly supported with data driven friend recommendations which are provided by link predictors. Previously, we had studied new features to improve prediction accuracy in Location Based Social Networks (LBSNs) where users share temporal location information with check-in interactions. In this paper, we focused on the efficiency of link predictors as the speed of prediction is as critical as its accuracy in LBSNs. Extraction time costs and prediction accuracy of individual LBSN features are mined to pick a feature subset that is achieving faster link prediction while not losing from accuracy.
+BN 978-1-5386-6051-5
+PY 2018
+BP 920
+EP 925
+UT WOS:000455640600159
+ER
+
+PT S
+AU Zhu, XM
+   Chen, CX
+   Wei, YG
+AF Zhu, Xiaoming
+   Chen, Chuangxia
+   Wei, Yungang
+GP DESTECH PUBLICATIONS, INC
+TI A Personalized Hybrid Recommendation Algorithm for Location-Based
+   Service on Smart Campus
+SO 14TH INTERNATIONAL CONFERENCE ON WIRELESS COMMUNICATIONS, NETWORKING AND
+   MOBILE COMPUTING (WICOM 2018)
+SE DEStech Transactions on Computer Science and Engineering
+CT 14th International Conference on Wireless Communications, Networking and
+   Mobile Computing (WiCOM)
+CY SEP 18-20, 2018
+CL Kunming, PEOPLES R CHINA
+AB In order to provide location-based service for teachers and students, this paper proposes a personalized hybrid recommendation algorithm (GTRA) based on user's geographical locations and tags. First, by analyzing the user's historical stay points and the length of stay time in different feature areas, the user's geographical adjacent user set is identified, which well solves scoring matrix sparse problem; then, we propose a tag growth strategy in which club administrators participate to give an effective solution to the problem of cold start; Finally, personalized push service was offered according to the user's identity and the current location. Through the construction of personalized recommendation system and execution of the experiment, the algorithm proposed in this paper is superior to the traditional collaborative filtering algorithm, and it is suitable for campus application scenarios, which has some reference to the construction of smart campus in which personalized services for teachers and students are emphasized.
+SN 2475-8841
+BN 978-1-6059-5578-0
+PY 2018
+VL 306
+BP 22
+EP 32
+UT WOS:000455311200003
+ER
+
+PT S
+AU Mimoto, T
+   Kiyomoto, S
+   Hidano, S
+   Basu, A
+   Miyaji, A
+AF Mimoto, Tomoaki
+   Kiyomoto, Shinsaku
+   Hidano, Seira
+   Basu, Anirban
+   Miyaji, Atsuko
+BE McLaughlin, K
+   Ghorbani, A
+   Sezer, S
+   Lu, R
+   Chen, L
+   Deng, RH
+   Miller, P
+   Marsh, S
+   Nurse, J
+TI The Possibility of Matrix Decomposition as Anonymization and Evaluation
+   for Time-sequence Data
+SO 2018 16TH ANNUAL CONFERENCE ON PRIVACY, SECURITY AND TRUST (PST)
+SE Annual Conference on Privacy Security and Trust-PST
+CT 16th Annual Conference on Privacy, Security and Trust (PST)
+CY AUG 28-30, 2018
+CL Belfast, NORTH IRELAND
+SP IEEE, Proofpoint, Invest NI, NCSC, CSIT, Allstate, Titan IC, Carson McDowell, RITICS, RISE, Hays Recruitment
+AB Time-sequence data is high dimensional and contains a lot of information, which can be utilized in various fields, such as insurance, finance, and advertising. Personal data including time-sequence data is often converted to anonymized datasets, which need to strike a balance between both privacy and utility. In this paper, we consider low-rank matrix decomposition as one of the anonymization methods and evaluate its efficiency. We convert time-sequence datasets to matrices and evaluate both privacy and utility. The record IDs in time-sequence data are changed at regular intervals to reduce re-identification risk. However, since individuals tend to behave in a similar fashion over periods of time, there remains a risk of record linkage even if record IDs are different. Hence, we evaluate the re-identification and linkage risks as privacy risks of time-sequence data. Our experimental results show that matrix decomposition is a viable anonymization method and it can achieve better utility than existing anonymization methods.
+SN 1712-364X
+BN 978-1-5386-7493-2
+PY 2018
+BP 55
+EP 61
+UT WOS:000454683600005
+ER
+
+PT S
+AU Guy, I
+AF Guy, Ido
+BE Brusilovsky, P
+   He, D
+TI People Recommendation on Social Media
+SO SOCIAL INFORMATION ACCESS: SYSTEMS AND TECHNOLOGIES
+SE Lecture Notes in Computer Science
+AB The social web has brought about many new types of recommender systems. One of the most important is recommendation of people, which bears many unique characteristics and challenges. In this chapter, we will review much of the research that has studied people recommendation in social media. The three main types of people recommendation are based on the presumed level of relationship of the user with the recommended individuals and thereby the goal of the recommendation: from recommending familiar people the user may invite to their network or meet at a place, through recommending interesting people the user may subscribe to or follow, to recommending similar people the user may want to get familiarize with. We will demonstrate each of these recommendation types and the techniques used to address them through different case studies. We will also discuss related research areas, summarize key aspects, and suggest future directions.
+SN 0302-9743
+EI 1611-3349
+BN 978-3-319-90092-6; 978-3-319-90091-9
+PY 2018
+VL 10100
+BP 570
+EP 623
+DI 10.1007/978-3-319-90092-6_15
+D2 10.1007/978-3-319-90092-6
+UT WOS:000449409000016
+ER
+
+PT S
+AU El Midaoui, O
+   El Ghali, B
+   El Qadi, A
+   Rahmani, MD
+AF El Midaoui, Omar
+   El Ghali, Btihal
+   El Qadi, Abderrahim
+   Rahmani, Moulay Driss
+BE Boumhidi, J
+   Erdi, P
+   Ghanou, Y
+   Naoui, EH
+   Oubenaalla, Y
+TI Geographical Query reformulation using a Geographical Taxonomy and
+   WordNet
+SO PROCEEDINGS OF THE FIRST INTERNATIONAL CONFERENCE ON INTELLIGENT
+   COMPUTING IN DATA SCIENCES (ICDS2017)
+SE Procedia Computer Science
+CT 1st International Conference on Intelligent Computing in Data Sciences
+   (ICDS)
+CY DEC 18-19, 2017
+CL Meknes, MOROCCO
+AB Effective geographical query formulation is one of the key difficulties for users in search engines. Our main motivation in this paper is to identify an opportunity for improving geographical search and related technologies. Thus, this work introduces, an approach for geographical query reformulation (GQR), which combines a method of queries' components separation that uses GeoNames, and a technique for reformulating these components using WordNet and a geographic taxonomy constructed using the Latent Semantic Analysis (LSA) method. In our experiments, we varied the taxonomies construction parameters, like the number of used documents, then we compare the values that are returned in every case. Furthermore, we compared the results of our approach to two methods from the literature, using the Mean Average Precision (MAP) and the precision at 10 documents (P@10). According to our results, reformulating geographical queries using the new proposed approach improves considerably the precision of queries and retrieves relevant documents that were not retrieved using the original queries. (C) 2018 The Authors. Published by Elsevier B.V.
+SN 1877-0509
+PY 2018
+VL 127
+BP 489
+EP 498
+DI 10.1016/j.procs.2018.01.147
+UT WOS:000452908100057
+ER
+
+PT B
+AU Li, DL
+   Gu, YL
+   Kamijo, S
+AF Li, Dailin
+   Gu, Yanlei
+   Kamijo, Shunsuke
+BE Mohanty, SP
+   Corcoran, P
+   Li, H
+   Sengupta, A
+   Lee, JH
+TI Smartphone Based Lifelog with Meaningful Place Detection
+SO 2018 IEEE INTERNATIONAL CONFERENCE ON CONSUMER ELECTRONICS (ICCE)
+SE International Conference on Consumer Electronics
+CT IEEE International Conference on Consumer Electronics (ICCE)
+CY JAN 12-14, 2018
+CL Las Vegas, NV
+SP IEEE
+AB With the advancement of electronic techniques, current smartphones can record location information with the help of WIFI signal, base station signal and Global Positioning System (GPS) receivers embedded in them. A smartphone can record where we go and where we stay. However, all the locations are recorded using latitude and longitude, which makes it hard for users to have an intuitive feelings of these data. In this paper, we propose a way to find places where users stay for a while to perform some activities with the location data tracked by smartphone, and use a cascade classifier to infer users' different activities in different places. With places and related activities, we can build a lifelog for smartphone users.
+BN 978-1-5386-3025-9
+PY 2018
+UT WOS:000450073500059
+ER
+
+PT J
+AU Bozanta, A
+   Kutlu, B
+AF Bozanta, Aysun
+   Kutlu, Birgul
+TI Developing a Contextually Personalized Hybrid Recommender System
+SO MOBILE INFORMATION SYSTEMS
+AB It is hard to choose places to go from an endless number of options for some specific circumstances. Recommender systems are supposed to help us deal with these issues and make decisions that are more appropriate. The aim of this study is to recommend new venues to users according to their preferences. For this purpose, a hybrid recommendation model is proposed to integrate user-based and item-based collaborative filtering, content-based filtering together with contextual information in order to get rid of the disadvantages of each approach. Besides that, in which specific circumstances the user will like a specific venue is predicted for each user-venue pair. Moreover, threshold values determining the user's liking toward a venue are determined separately for each user. Results are evaluated with both offline experiments (precision, recall, F-1 score) and a user study. Both the experimental evaluation with a real-world dataset and a user study of the proposed system showed improvement upon the baseline approaches.
+OI Kutlu, Birgul/0000-0003-2696-5727; Bozanta, Aysun/0000-0002-1768-6278
+SN 1574-017X
+EI 1875-905X
+PY 2018
+AR 3258916
+DI 10.1155/2018/3258916
+UT WOS:000449202000001
+ER
+
+PT J
+AU Xu, ZX
+   Chen, L
+   Guo, HD
+   Lv, MQ
+   Chen, GC
+AF Xu, Zhenxing
+   Chen, Ling
+   Guo, Haodong
+   Lv, Mingqi
+   Chen, Gencai
+TI User similarity-based gender-aware travel location recommendation by
+   mining geotagged photos
+SO INTERNATIONAL JOURNAL OF EMBEDDED SYSTEMS
+AB The popularity of camera phones and photo sharing websites, e.g., Flickr and Panoramio, has led to huge volumes of community-contributed geotagged photos, which could be regarded as digital footprints of photo takers. Thus, mining geotagged photos for travel recommendation has become a hot topic. However, most existing work recommends travel locations based on the knowledge mined from photo logs (e.g., time, location), and largely ignores the knowledge implied in the photo contents. In this paper, we propose a geotagged photos mining-based personalised gender-aware travel location recommendation approach, which considers both photo logs and photo contents. Firstly, it uses an entropy-based mobility measure to classify geotagged photos into tour photos or non-tour photos. Secondly, it conducts gender recognition based on face detection from tour photos. Thirdly, it builds the gender-aware profile of travel locations and users. Finally, it recommends personalised travel locations considering both user gender and similarity. Our approach is evaluated on a dataset, which contains geotagged photos taken in eleven cities of China. Experimental results show that our approach has the potential to improve the performance of travel location recommendation.
+SN 1741-1068
+EI 1741-1076
+PY 2018
+VL 10
+IS 5
+BP 356
+EP 365
+DI 10.1504/IJES.2018.095023
+UT WOS:000448368600002
+ER
+
+PT J
+AU Shams, B
+   Haratizadeh, S
+AF Shams, Bita
+   Haratizadeh, Saman
+TI GraphLoc: a graph based approach for automatic detection of significant
+   locations from GPS trajectory data
+SO JOURNAL OF SPATIAL SCIENCE
+AB Automatic discovery of significant locations from row GPS data is the first phase of mining mobility pattern and developing location-aware services. Unfortunately, current location discovery algorithms are ineffective when locations have different local properties such as density. Moreover, these algorithms suffer from the sharp boundary problem that is assigning some close points to different locations while they intuitively belong to one location. This article presents a novel framework, GraphLoc that formulates location discovery as a network community detection problem to address these issues. Experimental results show that GraphLoc's locations lead to higher performance in mobility mining and location prediction.
+SN 1449-8596
+EI 1836-5655
+PY 2018
+VL 63
+IS 1
+BP 115
+EP 134
+DI 10.1080/14498596.2017.1327374
+UT WOS:000444569000009
+ER
+
+PT J
+AU Chen, JP
+   Zhang, W
+   Zhang, P
+   Ying, PG
+   Niu, K
+   Zou, M
+AF Chen, Jinpeng
+   Zhang, Wen
+   Zhang, Pei
+   Ying, Pinguang
+   Niu, Kun
+   Zou, Ming
+TI Exploiting Spatial and Temporal for Point of Interest Recommendation
+SO COMPLEXITY
+AB An increasing number of users have been attracted by location-based social networks (LBSNs) in recent years. Meanwhile, user-generated content in online LBSNs like spatial, temporal, and social information provides an ever-increasing chance to study the human behavior movement from their spatiotemporal mobility patterns and spawns a large number of location-based applications. For instance, one of such applications is to produce personalized point of interest (POI) recommendations that users are interested in. Different from traditional recommendation methods, the recommendations in LBSNs come with two vital dimensions, namely, geographical and temporal. However, previously proposed methods do not adequately explore geographical influence and temporal influence. Therefore, fusing geographical and temporal influences for better recommendation accuracy in LBSNs remains potential. In this work, our aim is to generate a top recommendation list of POIs for a target user. Specially, we explore how to produce the POI recommendation by leveraging spatiotemporal information. In order to exploit both geographical and temporal influences, we first design a probabilistic method to initially detect users' spatial orientation by analyzing visibility weights of POIs which are visited by them. Second, we perform collaborative filtering by detecting users' temporal preferences. At last, for making the POI recommendation, we combine the aforementioned two approaches, that is, integrating the spatial and temporal influences, to construct a unified framework. Our experimental results on two real-world datasets indicate that our proposed method outperforms the current state-of-the-art POI recommendation approaches.
+OI Chen, Jinpeng/0000-0003-4157-5110
+SN 1076-2787
+EI 1099-0526
+PY 2018
+AR 6928605
+DI 10.1155/2018/6928605
+UT WOS:000444165300001
+ER
+
+PT J
+AU Sah, DK
+   Wu, XB
+   Lv, MQ
+   Mirza, HT
+AF Sah, Deependra Kumar
+   Wu, Xiaobo
+   Lv, Mingqi
+   Mirza, Hamid Turab
+TI Activity-based linkage and ranking methods for personal dataspace
+SO INTERNATIONAL JOURNAL OF MOBILE COMMUNICATIONS
+AB This research was conducted to alleviate desktop activity support deficiency, which occurs due to the lack of links between desktop resources. The research exploited information such as associations, contexts, and activity information about accesses to local resources, and translated this information into a personal linkage structure. More specifically, the research presented a novel approach to link and rank desktop resources by analysing users' activities over time, and exploited the associative links of resources from their implicit access patterns. Furthermore, multiple ranking methods, such as frequency of access, recency of access, focus time, and connectivity of resources, were proposed. Prototype systems were also developed, and a user study was conducted to validate the effectiveness of the proposed methods. The results showed that ranking desktop resources by their relevance - as carried out in this research - could improve activity-specific support, as well as overall performance in the area of personal information management.
+SN 1470-949X
+EI 1741-5217
+PY 2018
+VL 16
+IS 3
+BP 266
+EP 285
+DI 10.1504/IJMC.2018.10003823
+UT WOS:000434134200002
+ER
+
+PT S
+AU Gupta, AK
+   Shanker, U
+AF Gupta, Ajay K.
+   Shanker, Udai
+BE Mathew, J
+   Singh, AK
+TI SPMC-CRP:A Cache Replacement Policy for Location Dependent Data in
+   Mobile Environment
+SO 6TH INTERNATIONAL CONFERENCE ON SMART COMPUTING AND COMMUNICATIONS
+SE Procedia Computer Science
+CT 6th International Conference on Smart Computing and Communications
+   (ICSCC)
+CY DEC 07-08, 2017
+CL Natl Inst Technol, Kurukshetra, INDIA
+HO Natl Inst Technol
+AB Earlier cache replacement policies used in LDIS have not evolved any accurate next location prediction policy that can be used in cost computation of several data items. To overcome this limitation of previous policy and to ensure efficient cache utilization SPMC-CRPis being proposed. Here sequential pattern mining and clustering is used to remove random movement data in mobile user's profiles and predict accurate next location. The proposed policy uses the mobility rules extracted from given client movement trajectories. The mobility rules taken here are derived from sequential pattern mining. Proceeding to accurate next location prediction, the policy considers the important factors such as client access probability, query rate, update rate and predicted next client's location while estimating cache replacement cost in order to improve the effectiveness of previous cache replacement policy. (C) 2018 The Authors. Published by Elsevier B.V.
+OI GUPTA, AJAY/0000-0001-9666-5047
+SN 1877-0509
+PY 2018
+VL 125
+BP 632
+EP 639
+DI 10.1016/j.procs.2017.12.081
+UT WOS:000425672100079
+ER
+
+PT J
+AU Dokuz, AS
+   Celik, M
+AF Dokuz, Ahmet Sakir
+   Celik, Mete
+TI Discovering socially important locations of social media users
+SO EXPERT SYSTEMS WITH APPLICATIONS
+AB Socially important locations are places that are frequently visited by social media users in their social media life. Discovering socially interesting, popular or important locations from a location based social network has recently become important for recommender systems, targeted advertisement applications, and urban planning, etc. However, discovering socially important locations from a social network is challenging due to the data size and variety, spatial and temporal dimensions of the datasets, the need for developing computationally efficient approaches, and the difficulty of modeling human behavior. In the literature, several studies are conducted for discovering socially important locations. However, majority of these studies focused on discovering locations without considering historical data of social media users. They focused on analysis of data of social groups without considering each user's preferences in these groups. In this study, we proposed a method and interest measures to discover socially important locations that consider historical user data and each user's (individual's) preferences. The proposed algorithm was compared with a naive alternative using real-life Twitter dataset. The results showed that the proposed algorithm outperforms the naive alternative. (C) 2017 Elsevier Ltd. All rights reserved.
+OI Dokuz, Ahmet Sakir/0000-0002-1775-0954
+SN 0957-4174
+EI 1873-6793
+PD NOV 15
+PY 2017
+VL 86
+BP 113
+EP 124
+DI 10.1016/j.eswa.2017.05.068
+UT WOS:000405973500010
+ER
+
+PT J
+AU Yuan, H
+   Feng, L
+   Qian, Y
+AF Yuan, Hua
+   Feng, Lu
+   Qian, Yu
+TI MINING USER MOVEMENT SIMILARITY BASED ON MASSIVE GPS TRAJECTORY DATA
+   WITH TEMPORAL EFFECTS
+SO JOURNAL OF ELECTRONIC COMMERCE RESEARCH
+CT 15th Wuhan International Conference on E-Business (WHICEB)
+CY MAY, 2016
+CL Wuhan, PEOPLES R CHINA
+AB The pervasive use of mobile devices and location-based services has supported the generation of large spatiotemporal datasets reflecting user movement behavior. However, studies on such type of data have depended heavily on geographic overlapping, and information about the time of day of travel visits has been overlooked. In this paper, we proposed an efficient method for mining user movement similarity based on users' travel histories as recorded by GPS trajectories. Our approach also allowed consideration of related temporal effects. To that end, first we introduced a partition method to divide the trajectories into a set of line segments that allowed us to explore the correlation between users and their visited territories. Significantly, we proposed a characteristic point mapping method to transform the sparse GPS trajectories into a set of transactional data. Based on this data, we conducted a series of data mining procedures for efficient discovery of the users' movement information. Second, we proposed a novel, lowrank matrix factorization-based method to cluster users' movements into groups based on their similarity, including temporal characteristics. The experimental results demonstrated that the proposed method can be used to mine the popular roaming routes of users or similar movements efficiently while including temporal patterns. This approach can prove valuable for the development of location-based social network recommendations and human mobility prediction.
+SN 1526-6133
+EI 1938-9027
+PD NOV
+PY 2017
+VL 18
+IS 4
+SI SI
+BP 303
+EP 316
+UT WOS:000425934100003
+ER
+
+PT J
+AU Yang, L
+   Wu, L
+   Liu, Y
+   Kang, CG
+AF Yang, Liu
+   Wu, Lun
+   Liu, Yu
+   Kang, Chaogui
+TI Quantifying Tourist Behavior Patterns by Travel Motifs and Geo-Tagged
+   Photos from Flickr
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+AB With millions of people traveling to unfamiliar cities to spend holidays, travel recommendation becomes necessary to assist tourists in planning their trips more efficiently. Serving as a prerequisite to travel recommender systems, understanding tourist behavior patterns is therefore of great importance. Recently, geo-tagged photos on social media platforms like Flickr have provided a rich data source that captures location histories of tourists and reflects their preferences. This article utilizes geo-tagged photos from Flickr to extract trajectories of tourists and then extends the concept of motifs from topological spaces, to temporal spaces and to semantic spaces, for detecting tourist mobility patterns. By representing trajectories in terms of three distinct types of travel motif and further using them to measure user similarity, typical tourist travel behavior patterns associated with distinct sightseeing tastes/preferences are identified and analyzed for tourism recommendation. Our empirical results confirm that the proposed analytical framework is effective to uncover meaningful tourist behavior patterns.
+RI Kang, Chaogui/H-7806-2014; Liu, Yu/D-4022-2012
+OI Liu, Yu/0000-0002-0016-2902
+SN 2220-9964
+PD NOV
+PY 2017
+VL 6
+IS 11
+AR 345
+DI 10.3390/ijgi6110345
+UT WOS:000416779300026
+ER
+
+PT J
+AU Zhu, XY
+   Hao, RP
+   Chi, HT
+   Du, XJ
+AF Zhu, Xiaoyan
+   Hao, Ripei
+   Chi, Haotian
+   Du, Xiaojiang
+TI FineRoute: Personalized and Time-Aware Route Recommendation Based on
+   Check-Ins
+SO IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY
+AB The rapid expansion of urbanization and the fast pace of life result in abundant choices with little time for people to manage routes. A proper planning route enables us to enjoy life better with fewer time and energy costs. Therefore, route planning becomes too valuable to be ignored. At the same time, with the popularity of mobile devices, location sensing, and Web 2.0 technologies, location-based social networks (e. g., Facebook Palaces and Foursquare) have attracted millions of users to share their visited locations and other information, which generates large amounts of user check-in data. These data can be used to mine users' preferences and time information for recommending routes. In this paper, we propose FineRoute, a personalized and time-sensitive route recommendation system. We take three factors that user' preferences, proper visiting time, and transition time into consideration for the route generation. First, we infer users' preferences by constructing a three-dimensional tensor, with three dimensions representing users, locations, and time, respectively. Second, we obtain the proper visiting time for certain locations, as well as the transition time between two locations from the check-in dataset. Moreover, we adopt Kullback-Leibler divergence in order to measure the quality of a route in terms of the proper visiting month and the proper visiting hour. Finally, we propose a route generation algorithm by extending the classic longest path algorithm. We conduct experiments on a real-world check-in dataset and the results demonstrate the effectiveness of our scheme.
+SN 0018-9545
+EI 1939-9359
+PD NOV
+PY 2017
+VL 66
+IS 11
+BP 10461
+EP 10469
+DI 10.1109/TVT.2017.2764999
+UT WOS:000415114600066
+ER
+
+PT J
+AU Damiani, ML
+   Hachem, F
+AF Damiani, Maria Luisa
+   Hachem, Fatima
+TI Segmentation techniques for the summarization of individual mobility
+   data
+SO WILEY INTERDISCIPLINARY REVIEWS-DATA MINING AND KNOWLEDGE DISCOVERY
+AB Segmentation techniques partition a sequence of data points into a series of disjoint subsequences-segments-based on some criteria. Depending on the context and the nature of data themselves, segments return an approximate representation. The final result is a summarized representation of the sequence. This intuitive mechanism has been extensively studied, for example, for the summarization of time series in order to preserve the 'shape' of the sequence while omitting irrelevant details. This survey focuses on the use of segmentation methods for extracting behavioral information from individual mobility data, in particular from spatial trajectories. Such information can then be given a compact representation in the form of summarized trajectories, e.g., semantic trajectories and symbolic trajectories. Two major streams of research are discussed, spanning computational geometry and data mining respectively, that are emblematic of the multiplicity of views. (C) 2017 Wiley Periodicals, Inc.
+OI Damiani, Maria Luisa/0000-0001-9587-308X
+SN 1942-4787
+EI 1942-4795
+PD NOV-DEC
+PY 2017
+VL 7
+IS 6
+AR e1214
+DI 10.1002/widm.1214
+UT WOS:000412805200002
+ER
+
+PT J
+AU Zhang, Z
+   Zhao, XG
+   Wang, GR
+AF Zhang, Zhen
+   Zhao, Xiangguo
+   Wang, Guoren
+TI FE-ELM: A New Friend Recommendation Model with Extreme Learning Machine
+SO COGNITIVE COMPUTATION
+AB Friend recommendation is one of the most popular services in location-based social network (LBSN) platforms, which recommends interested or familiar people to users. Except for the original social property and textual property in social networks, LBSN specially owns the spatial-temporal property. However, none of the existing methods fully utilized all the three properties (i.e., just one or two), which may lead to the low recommendation accuracy. Moreover, these existing methods are usually inefficient. In this paper, we propose a new friend recommendation model to solve the above shortcomings of the existing methods, called feature extraction-extreme learning machine (FE-ELM), where friend recommendation is regarded as a binary classification problem. Classification is an important task in cognitive computation community. First, we use new strategies in our FE-ELM model to extract the spatial-temporal feature, social feature, and textual feature. These features make full use of all above properties of LBSN and ensure the recommendation accuracy. Second, our FE-ELM model also takes advantage of the extreme learning machine (ELM) classifier. ELM has fast learning speed and ensures the recommendation efficiency. Extensive experiments verify the accuracy and efficiency of FE-ELM model.
+SN 1866-9956
+EI 1866-9964
+PD OCT
+PY 2017
+VL 9
+IS 5
+BP 659
+EP 670
+DI 10.1007/s12559-017-9484-2
+UT WOS:000412439300006
+ER
+
+PT J
+AU Zou, ZQ
+   Yu, Z
+   Cao, K
+AF Zou, Zhiqiang
+   Yu, Zhe
+   Cao, Kai
+TI An innovative GPS trajectory data based model for geographic
+   recommendation service
+SO TRANSACTIONS IN GIS
+AB Geographic services based on GPS trajectory data, such as location prediction and recommender services, have received increasing attention because of their potential social and commercial benefits. In this study, a Geographic Service Recommender Model (GSRM) is proposed, which loosely comprises three essential steps. Firstly, location sequences are obtained through a clustering operation on GPS locations. To improve efficiency, a programming model with a distributed algorithm is employed to accelerate the clustering. Secondly, in order to mine spatial and temporal information from the cluster trajectory, an algorithm (MiningMP) is designed. Last but not least, the next possible location to which the user will travel is predicted. An integrated framework of GSRM could then be constructed and provide the appropriate geographic recommendation service by considering location sequences as well as other related semantic information. Experiments were conducted based on real GPS trajectories from Microsoft Research Asia (182 users within a period of five years). The experimental results clearly demonstrate that our proposed GSRM model is effective and efficient at predicting locations and can provide users with personalized smart recommendation services in the following possible position with excellent performance in scalability, adaptability, and quality of service.
+RI Cao, Kai/P-3238-2015
+OI Cao, Kai/0000-0002-8043-1462
+SN 1361-1682
+EI 1467-9671
+PD OCT
+PY 2017
+VL 21
+IS 5
+BP 880
+EP 896
+DI 10.1111/tgis.12248
+UT WOS:000412577200003
+ER
+
+PT J
+AU Cui, CR
+   Shen, JL
+   Nie, LQ
+   Hong, RC
+   Ma, J
+AF Cui, Chaoran
+   Shen, Jialie
+   Nie, Liqiang
+   Hong, Richang
+   Ma, Jun
+TI Augmented Collaborative Filtering for Sparseness Reduction in
+   Personalized POI Recommendation
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+AB As mobile device penetration increases, it has become pervasive for images to be associated with locations in the form of geotags. Geotags bridge the gap between the physical world and the cyberspace, giving rise to new opportunities to extract further insights into user preferences and behaviors. In this article, we aim to exploit geotagged photos from online photo-sharing sites for the purpose of personalized Point-of-Interest (POI) recommendation. Owing to the fact that most users have only very limited travel experiences, data sparseness poses a formidable challenge to personalized POI recommendation. To alleviate data sparseness, we propose to augment current collaborative filtering algorithms along from multiple perspectives. Specifically, hybrid preference cues comprising user-uploaded and user-favored photos are harvested to study users' tastes. Moreover, heterogeneous high-order relationship information is jointly captured from user social networks and POI multimodal contents with hypergraph models. We also build upon the matrix factorization algorithm to integrate the disparate sources of preference and relationship information, and apply our approach to directly optimize user preference rankings. Extensive experiments on a large and publicly accessible dataset well verified the potential of our approach for addressing data sparseness and offering quality recommendations to users, especially for those who have only limited travel experiences.
+RI SHEN, Jialie/E-8573-2012
+SN 2157-6904
+EI 2157-6912
+PD SEP
+PY 2017
+VL 8
+IS 5
+AR 71
+DI 10.1145/3086635
+UT WOS:000414318500010
+ER
+
+PT J
+AU Xu, ZX
+   Chen, L
+   Dai, YM
+   Chen, GC
+AF Xu, Zhenxing
+   Chen, Ling
+   Dai, Yimeng
+   Chen, Gencai
+TI A Dynamic Topic Model and Matrix Factorization-Based Travel
+   Recommendation Method Exploiting Ubiquitous Data
+SO IEEE TRANSACTIONS ON MULTIMEDIA
+AB The vast volumes of community-contributed geotagged photos (CCGPs) available on the Web can be utilized to make travel location recommendations. The sparsity of user location interactions makes it difficult to learn travel preferences, because a user usually visits only a limited number of travel locations. Static topic models can be used to solve the sparsity problem by considering user travel topics. However, all travel histories of a user are regarded as one document drawn from a set of static topics, ignoring the evolving of topics and travel preferences. In this paper, we propose a dynamic topic model (DTM) and matrix factorization (MF)-based travel recommendation method. A DTM is used to obtain the temporally fine-grained topic distributions (i.e., implicit topic information) of users and locations. In addition, a large amount of explicit information is extracted from the metadata and visual contents of CCGPs, check-ins, and point of interest categories datasets. The information is used to obtain user-user and location-location similarity information, which is imposed as two regularization terms to constraint MF. The proposed method is evaluated on a publicly available Flickr dataset. Experimental results demonstrate that the proposed method can generate significantly superior recommendations compared to other state-of-the-art travel location recommendation studies.
+SN 1520-9210
+EI 1941-0077
+PD AUG
+PY 2017
+VL 19
+IS 8
+BP 1933
+EP 1945
+DI 10.1109/TMM.2017.2688928
+UT WOS:000411240400020
+ER
+
+PT J
+AU Yang, C
+   Sun, MS
+   Zhao, WX
+   Liu, ZY
+   Chang, EY
+AF Yang, Cheng
+   Sun, Maosong
+   Zhao, Wayne Xin
+   Liu, Zhiyuan
+   Chang, Edward Y.
+TI A Neural Network Approach to Jointly Modeling Social Networks and Mobile
+   Trajectories
+SO ACM TRANSACTIONS ON INFORMATION SYSTEMS
+AB Two characteristics of location-based services are mobile trajectories and the ability to facilitate social networking. The recording of trajectory data contributes valuable resources towards understanding users' geographical movement behaviors. Social networking is possible when users are able to quickly connect to anyone nearby. A social network with location based services is known as location-based social network (LBSN). As shown in Cho et al. [2013], locations that are frequently visited by socially related persons tend to be correlated, which indicates the close association between social connections and trajectory behaviors of users in LBSNs. To better analyze and mine LBSN data, we need to have a comprehensive view of each of these two aspects, i.e., the mobile trajectory data and the social network.
+   Specifically, we present a novel neural network model that can jointly model both social networks and mobile trajectories. Our model consists of two components: the construction of social networks and the generation of mobile trajectories. First we adopt a network embedding method for the construction of social networks: a networking representation can be derived for a user. The key to our model lies in generating mobile trajectories. Second, we consider four factors that influence the generation process of mobile trajectories: user visit preference, influence of friends, short-term sequential contexts, and long-term sequential contexts. To characterize the last two contexts, we employ the RNN and GRU models to capture the sequential relatedness in mobile trajectories at the short or long term levels. Finally, the two components are tied by sharing the user network representations. Experimental results on two important applications demonstrate the effectiveness of our model. In particular, the improvement over baselines is more significant when either network structure or trajectory data is sparse.
+OI Liu, Zhiyuan/0000-0002-7709-2543
+SN 1046-8188
+EI 1558-2868
+PD AUG
+PY 2017
+VL 35
+IS 4
+AR 36
+DI 10.1145/3041658
+UT WOS:000408673300008
+ER
+
+PT J
+AU Zhu, GX
+   Cao, J
+   Li, CS
+   Wu, Z
+AF Zhu, Guixiang
+   Cao, Jie
+   Li, Changsheng
+   Wu, Zhiang
+TI A recommendation engine for travel products based on topic sequential
+   patterns
+SO MULTIMEDIA TOOLS AND APPLICATIONS
+AB Travel products recommendation has become one of emerging issues in the realm of recommendation systems. The widely-used collaborative filtering algorithms are usually difficult to be used for recommending travel products due to a number of reasons, including (1) the content of travel products is very complex, (2) the user-item matrix is extremely sparse, and (3) the cold-start users are widely existing. To tackle these issues, we try to exploit Web server logs for generating recommendation, and present a novel recommendation engine (SECT for short) for travel products based on topic sequential patterns. In detail, we first extract topics from semantic description of every Web page. Then, we mine topic frequent sequential patterns and their target products to form click patterns library. At last, we propose a Markov n-gram model for matching the real-time click-stream of users with the click patterns library and thus computing recommendation scores. Experimental results on a real-world travel dataset demonstrate that the SECT prevails over the state-of-art baseline algorithms. In particular, SECT shows merits in improving the both coverage and accuracy for recommending products to cold-start users. Also, SECT is effective to recommend long tail items and outperform baseline algorithms.
+SN 1380-7501
+EI 1573-7721
+PD AUG
+PY 2017
+VL 76
+IS 16
+BP 17595
+EP 17612
+DI 10.1007/s11042-017-4406-6
+UT WOS:000405528500040
+ER
+
+PT J
+AU Gasparetti, F
+AF Gasparetti, Fabio
+TI Personalization and Context-awareness in Social Local Search:
+   State-of-the-art and Future Research Challenges
+SO PERVASIVE AND MOBILE COMPUTING
+AB Location-based services (LBS) are now the platforms for aggregating relevant information about users and understanding their mobile behavior and preferences based on the location histories. The increasing availability of large amounts of spatio-temporal data brings us opportunities and challenges to automatically discover valuable knowledge. While context-aware properties quickly became the key of the success of these pervasive applications, information related to user preferences and social signals still lack of adequate capitalization. Local search in LBSs is a peculiar service where recent and current interests, the network of explicit and implicit social interactions between users can be combined for effectively performing fine-tuned and personalized recommendations of points of interest. In this article we present the various and peculiar aspects of local search in mobile scenarios. Then we explore the added value of personalization and the benefits of considering social signals, summarizing open challenges and emerging technologies. (C) 2016 Elsevier B.V. All rights reserved.
+OI Gasparetti, Fabio/0000-0003-0263-531X
+SN 1574-1192
+EI 1873-1589
+PD JUL
+PY 2017
+VL 38
+SI SI
+BP 446
+EP 473
+DI 10.1016/j.pmcj.2016.04.004
+PN 2
+UT WOS:000404826600013
+ER
+
+PT J
+AU Qin, GY
+   Li, TN
+   Yu, B
+   Wang, YP
+   Huang, ZH
+   Sun, J
+AF Qin, Guoyang
+   Li, Tienan
+   Yu, Bin
+   Wang, Yunpeng
+   Huang, Zhenhua
+   Sun, Jian
+TI Mining factors affecting taxi drivers' incomes using GPS trajectories
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+AB Taxis provide essential transport services in urban areas. In the taxi industry, the income level remains a cause of concern for taxi drivers as well as regulators. Mining underlying factors affecting the income level will not only benefit the newcomers and low-income drivers but also assist in developing effective optimization algorithms for taxi operations. This paper intends to disclose the factors affecting incomes along with their quantitative influence by mining over 167 million GPS records from nearly 8000 taxis in Shanghai. We first identify a marked difference in drivers' incomes and categorize drivers into three income levels accordingly. We next investigate the overall search-delivery process, thereby defining several factors that may affect the income level. We then develop a generalized multilevel ordered logit (GMOL) model to find the significant factors that influence incomes. Finally, we compute the elasticity for those significant factors and present their contributions, as well as challenge some preconceived ideas regarding how to earn high incomes. (C) 2017 Elsevier Ltd. All rights reserved.
+RI YU, Bin/C-2361-2010
+OI YU, Bin/0000-0002-8332-1939; Qin, Guoyang/0000-0001-5310-4207
+SN 0968-090X
+PD JUN
+PY 2017
+VL 79
+BP 103
+EP 118
+DI 10.1016/j.trc.2017.03.013
+UT WOS:000401384700007
+ER
+
+PT J
+AU Wang, WQ
+   Yin, HZ
+   Chen, L
+   Sun, YZ
+   Sadiq, S
+   Zhou, XF
+AF Wang, Weiqing
+   Yin, Hongzhi
+   Chen, Ling
+   Sun, Yizhou
+   Sadiq, Shazia
+   Zhou, Xiaofang
+TI ST-SAGE: A Spatial-Temporal Sparse Additive Generative Model for Spatial
+   Item Recommendation
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+AB With the rapid development of location-based social networks (LBSNs), spatial item recommendation has become an important mobile application, especially when users travel away from home. However, this type of recommendation is very challenging compared to traditional recommender systems. A user may visit only a limited number of spatial items, leading to a very sparse user-item matrix. This matrix becomes even sparser when the user travels to a distant place, as most of the items visited by a user are usually located within a short distance from the user's home. Moreover, user interests and behavior patterns may vary dramatically across different time and geographical regions. In light of this, we propose ST-SAGE, a spatial-temporal sparse additive generative model for spatial item recommendation in this article. ST-SAGE considers both personal interests of the users and the preferences of the crowd in the target region at the given time by exploiting both the co-occurrence patterns and content of spatial items. To further alleviate the data-sparsity issue, ST-SAGE exploits the geographical correlation by smoothing the crowd's preferences over a well-designed spatial index structure called the spatial pyramid. To speed up the training process of ST-SAGE, we implement a parallel version of themodel inference algorithm on the GraphLab framework. We conduct extensive experiments; the experimental results clearly demonstrate that ST-SAGE outperforms the state-of-the-art recommender systems in terms of recommendation effectiveness, model training efficiency, and online recommendation efficiency.
+RI Zhou, Xiaofang/C-6169-2013
+OI Zhou, Xiaofang/0000-0001-6343-1455
+SN 2157-6904
+EI 2157-6912
+PD APR
+PY 2017
+VL 8
+IS 3
+SI SI
+AR 48
+DI 10.1145/3011019
+UT WOS:000400160800015
+ER
+
+EF

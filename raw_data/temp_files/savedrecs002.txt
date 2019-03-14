@@ -1,0 +1,2403 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Gubiani, Donatella
+   Pavan, Marco
+BE Maturo, A
+   HoskovaMayerova, S
+   Soitu, DT
+   Kacprzyk, J
+TI From Trajectory Modeling to Social Habits and Behaviors Analysis
+SO RECENT TRENDS IN SOCIAL SYSTEMS: QUANTITATIVE THEORIES AND QUANTITATIVE
+   MODELS
+SE Studies in Systems Decision and Control
+VL 66
+BP 371
+EP 385
+DI 10.1007/978-3-319-40585-8_33
+PD 2017
+PY 2017
+AB In recent years, the widespread of mobile devices has made easier and
+   popular the activities of recording locations visited by users and of
+   inferring their trajectories. The availability of such large amount of
+   spatio-temporal data opens new challenges to automatically extract
+   information and get valuable knowledge. The many aspects of this issue
+   have aroused the interest of researchers in several areas, such as
+   information retrieval, data mining, context-aware computing, security
+   and privacy issues, urban planning, and transport management. Recently,
+   there has been a strong interest in understanding how people move during
+   their common daily activities in order to get information about their
+   behaviors and habits. In this paper we describe considerable recent
+   research works related to the analysis of mobile spatio-temporal data,
+   focusing on the study of social habits and behaviors. We provide a
+   general perspective on studies on human mobility by depicting and
+   comparing methods and algorithms, highlighting some critical issues
+   related to information extraction from spatio-temporal data, and future
+   research directions.
+OI Gubiani, Donatella/0000-0001-7684-5200
+ZB 0
+Z8 0
+ZS 0
+TC 2
+ZR 0
+Z9 2
+SN 2198-4182
+BN 978-3-319-40585-8; 978-3-319-40583-4
+UT WOS:000399117700034
+D2 10.1007/978-3-319-40585-8
+ER
+
+PT S
+AU Hwang, Sungsoon
+   Evans, Christian
+   Hanke, Timothy
+BE Thakuriah, P
+   Tilahun, N
+   Zellner, M
+TI Detecting Stop Episodes from GPS Trajectories with Gaps
+SO SEEING CITIES THROUGH BIG DATA: RESEARCH, METHODS AND APPLICATIONS IN
+   URBAN INFORMATICS
+SE Springer Geography
+BP 427
+EP 439
+DI 10.1007/978-3-319-40902-3_23
+PD 2017
+PY 2017
+AB Given increased access to a stream of data collected by location
+   acquisition technologies, the potential of GPS trajectory data is
+   waiting to be realized in various application domains relevant to urban
+   informatics-namely in understanding travel behavior, estimating carbon
+   emission from vehicles, and further building healthy and sustainable
+   cities. Partitioning GPS trajectories into meaningful elements is
+   crucial to improve the performance of further analysis. We propose a
+   method for detecting a stay point (where an individual stays for a
+   while) using a density-based spatial clustering algorithm where temporal
+   criterion and gaps are also taken into account. The proposed method
+   fills gaps using linear interpolation, and identifies a stay point that
+   meets two criteria (spatial density and time duration). To evaluate the
+   proposed method, we compare the number of stay points detected from the
+   proposed method to that of stay points identified by manual inspection.
+   Evaluation is performed on 9 weeks of trajectory data. Results show that
+   clustering-based stay point detection combined with gap treatment can
+   reliably detect stop episodes. Further, comparison of performance
+   between using the method with versus without gap treatment indicates
+   that gap treatment improves the performance of the clustering-based stay
+   point detection.
+ZS 0
+TC 3
+ZB 0
+Z8 0
+ZR 0
+Z9 3
+SN 2194-315X
+BN 978-3-319-40902-3; 978-3-319-40900-9
+UT WOS:000400367100024
+D2 10.1007/978-3-319-40902-3
+ER
+
+PT J
+AU Yuan, Guan
+   Sun, Penghui
+   Zhao, Jie
+   Li, Daxing
+   Wang, Canwei
+TI A review of moving object trajectory clustering algorithms
+SO ARTIFICIAL INTELLIGENCE REVIEW
+VL 47
+IS 1
+BP 123
+EP 144
+DI 10.1007/s10462-016-9477-7
+PD JAN 2017
+PY 2017
+AB Clustering is an efficient way to group data into different classes on
+   basis of the internal and previously unknown schemes inherent of the
+   data. With the development of the location based positioning devices,
+   more and more moving objects are traced and their trajectories are
+   recorded. Therefore, moving object trajectory clustering undoubtedly
+   becomes the focus of the study in moving object data mining. To provide
+   an overview, we survey and summarize the development and trend of moving
+   object clustering and analyze typical moving object clustering
+   algorithms presented in recent years. In this paper, we firstly
+   summarize the strategies and implement processes of classical moving
+   object clustering algorithms. Secondly, the measures which can determine
+   the similarity/dissimilarity between two trajectories are discussed.
+   Thirdly, the validation criteria are analyzed for evaluating the
+   performance and efficiency of clustering algorithms. Finally, some
+   application scenarios are point out for the potential application in
+   future. It is hope that this research will serve as the steppingstone
+   for those interested in advancing moving object mining.
+ZB 0
+Z8 2
+TC 21
+ZS 0
+ZR 0
+Z9 23
+SN 0269-2821
+EI 1573-7462
+UT WOS:000392384500003
+ER
+
+PT J
+AU Moreno Arboleda, Francisco Javier
+   Patino, Holver
+   Bogorny, Vania
+TI SMOT plus NCS: ALGORITHM FOR DETECTING NON-CONTINUOUS STOPS
+SO COMPUTING AND INFORMATICS
+VL 36
+IS 2
+BP 283
+EP 306
+DI 10.4149/cai_2017_2_283
+PD 2017
+PY 2017
+AB Several algorithms have been proposed in the last years for discovering
+   stops in trajectories of moving objects. Some methods consider as stops
+   the sub trajectories that i) have speed lower than the average
+   trajectory speed, ii) present significant direction changes, iii) have
+   gaps, or iv) intersect a given spatial region. In these approaches a
+   time constraint should be met for the subtrajectory to be considered as
+   a stop, and this constraint is absolute (it is met or not). Indeed,
+   these approaches consider stops as a continuous subtrajectory. In this
+   paper, we show that for several application domains the stops do not
+   need to be continuous, and the time constraint should be relaxed. In
+   summary, we present the definitions of non -continuous stops and present
+   an algorithm to discover a new kind of stops. We evaluate the proposed
+   algorithm with a running example and real trajectory data, comparing it
+   to the most similar approach in the literature, the SMoT algorithm.
+TC 0
+ZR 0
+ZB 0
+Z8 0
+ZS 0
+Z9 0
+SN 1335-9150
+UT WOS:000404829200002
+ER
+
+PT J
+AU Mazimpaka, Jean Damascene
+   Timpf, Sabine
+TI How They Move Reveals What Is Happening: Understanding the Dynamics of
+   Big Events from Human Mobility Pattern
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 6
+IS 1
+AR 15
+DI 10.3390/ijgi6010015
+PD JAN 2017
+PY 2017
+AB The context in which a moving object moves contributes to the movement
+   pattern observed. Likewise, the movement pattern reflects the properties
+   of the movement context. In particular, big events influence human
+   mobility depending on the dynamics of the events. However, this
+   influence has not been explored to understand big events. In this paper,
+   we propose a methodology for learning about big events from human
+   mobility pattern. The methodology involves extracting and analysing the
+   stopping, approaching, and moving-away interactions between public
+   transportation vehicles and the geographic context. The analysis is
+   carried out at two different temporal granularity levels to discover
+   global and local patterns. The results of evaluating this methodology on
+   bus trajectories demonstrate that it can discover occurrences of big
+   events from mobility patterns, roughly estimate the event start and end
+   time, and reveal the temporal patterns of arrival and departure of event
+   attendees. This knowledge can be usefully applied in transportation and
+   event planning and management.
+OI Mazimpaka, Jean Damascene/0000-0001-5511-9533; Timpf,
+   Sabine/0000-0002-7964-4110
+TC 0
+ZR 0
+ZS 0
+ZB 0
+Z8 0
+Z9 0
+SN 2220-9964
+UT WOS:000392983900014
+ER
+
+PT J
+AU Al-Dohuki, Shamal
+   Kamw, Farah
+   Zhao, Ye
+   Ma, Chao
+   Wu, Yingyu
+   Yang, Jing
+   Ye, Xinyue
+   Wang, Fei
+   Li, Xin
+   Chen, Wei
+TI SemanticTraj: A New Approach to Interacting with Massive Taxi
+   Trajectories
+SO IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+VL 23
+IS 1
+BP 11
+EP 20
+DI 10.1109/TVCG.2016.2598416
+PD JAN 2017
+PY 2017
+AB Massive taxi trajectory data is exploited for knowledge discovery in
+   transportation and urban planning. Existing tools typically require
+   users to select and brush geospatial regions on a map when retrieving
+   and exploring taxi trajectories and passenger trips. To answer seemingly
+   simple questions such as "What were the taxi trips starting from Main
+   Street and ending at Wall Street in the morning?" or "Where are the
+   taxis arriving at the Art Museum at noon typically coming from?",
+   tedious and time consuming interactions are usually needed since the
+   numeric GPS points of trajectories are not directly linked to the
+   keywords such as "Main Street", "Wall Street", and "Art Museum". In this
+   paper, we present SemanticTraj, a new method for managing and
+   visualizing taxi trajectory data in an intuitive, semantic rich, and
+   efficient means. With SemanticTraj, domain and public users can find
+   answers to the aforementioned questions easily through direct queries
+   based on the terms. They can also interactively explore the retrieved
+   data in visualizations enhanced by semantic information of the
+   trajectories and trips. In particular, taxi trajectories are converted
+   into taxi documents through a textualization transformation process.
+   This process maps GPS points into a series of street/POI names and
+   pick-up/drop-off locations. It also converts vehicle speeds into
+   user-defined descriptive terms. Then, a corpus of taxi documents is
+   formed and indexed to enable flexible semantic queries over a text
+   search engine. Semantic labels and meta-summaries of the results are
+   integrated with a set of visualizations in a SemanticTraj prototype,
+   which helps users study taxi trajectories quickly and easily. A set of
+   usage scenarios are presented to show the usability of the system. We
+   also collected feedback from domain experts and conducted a preliminary
+   user study to evaluate the visual system.
+CT IEEE VIS Conference
+CY OCT 23-28, 2016
+CL Baltimore, MD
+SP IEEE
+ZS 0
+TC 22
+ZB 0
+Z8 4
+ZR 0
+Z9 26
+SN 1077-2626
+EI 1941-0506
+UT WOS:000395537600004
+PM 27514044
+ER
+
+PT J
+AU Prelipcean, Adrian C.
+   Gidofalvi, Gyozo
+   Susilo, Yusak O.
+TI Transportation mode detection - an in-depth review of applicability and
+   reliability
+SO TRANSPORT REVIEWS
+VL 37
+IS 4
+BP 442
+EP 464
+DI 10.1080/01441647.2016.1246489
+PD 2017
+PY 2017
+AB The wide adoption of location-enabled devices, together with the
+   acceptance of services that leverage (personal) data as payment, allows
+   scientists to push through some of the previous barriers imposed by data
+   insufficiency, ethics and privacy skepticism. The research problems
+   whose study require hard-to-obtain data (e.g. transportation mode
+   detection, service contextualisation, etc.) have now become more
+   accessible to scientists because of the availability of data collecting
+   outlets. One such problem is the detection of a user's transportation
+   mode. Different fields have approached the problem of transportation
+   mode detection with different aims: Location-Based Services (LBS) is a
+   field that focuses on understanding the transportation mode in
+   real-time, Transportation Science is a field that focuses on measuring
+   the daily travel patterns of individuals or groups of individuals, and
+   Human Geography is a field that focuses on enriching a trajectory by
+   adding domain-specific semantics. While different fields providing
+   solutions to the same problem could be viewed as a positive outcome, it
+   is difficult to compare these solutions because the reported performance
+   indicators depend on the type of approach and its aim (e.g. the
+   real-time availability of LBS requires the performance to be computed on
+   each classified location). The contributions of this paper are three
+   fold. First, the paper reviews the critical aspects desired by each
+   research field when providing solutions to the transportation mode
+   detection problem. Second, it proposes three dimensions that separate
+   three branches of science based on their main interest. Finally, it
+   identifies important gaps in research and future directions, that is,
+   proposing: widely accepted error measures meaningful for all
+   disciplines, methods robust to new data sets and a benchmark data set
+   for performance validation.
+RI Susilo, Yusak Octavius/M-3707-2013; Prelipcean, Adrian Corneliu/
+OI Susilo, Yusak Octavius/0000-0001-7124-7164; Prelipcean, Adrian
+   Corneliu/0000-0002-0916-0188
+ZR 0
+Z8 0
+TC 11
+ZB 0
+ZS 0
+Z9 11
+SN 0144-1647
+EI 1464-5327
+UT WOS:000396893800003
+ER
+
+PT J
+AU Zhang, Hengcai
+   Lu, Feng
+   Chen, Jie
+TI A Line Graph-Based Continuous Range Query Method for Moving Objects in
+   Networks
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 5
+IS 12
+AR 246
+DI 10.3390/ijgi5120246
+PD DEC 2016
+PY 2016
+AB The rapid growth of location-based services has motivated the
+   development of continuous range queries in networks. Existing query
+   algorithms usually adopt an expansion tree to reuse the previous query
+   results to get better efficiency. However, the high maintenance costs of
+   the traditional expansion tree lead to a sharp efficiency decrease. In
+   this paper, we propose a line graph-based continuous range (LGCR) query
+   algorithm for moving objects in networks, which is characterized by a
+   novel graph-based expansion tree (GET) structure used to monitor queries
+   in an incremental manner. In particular, GET is developed based on the
+   line graph model of networks and simultaneously supports offline
+   pre-computation to better adapt our proposed algorithm to different
+   sizes of networks. To improve performance, we create a series of related
+   data structures, such as bridgeable edges and distance edges.
+   Correspondingly, we develop several algorithms, including
+   initialization, insertion of objects, filter and refinement and location
+   update, to incrementally re-evaluate continuous range queries. Finally,
+   we implement the GET and related algorithms in the native graph database
+   Neo4J. We conduct experiments using real-world networks and simulated
+   moving objects and compare the proposed LGCR with the existing classical
+   algorithm to verify its effectiveness and demonstrate its greater
+   efficiency.
+OI zhang, hengcai/0000-0002-5004-9609
+ZS 0
+Z8 0
+ZB 0
+TC 1
+ZR 0
+Z9 1
+SN 2220-9964
+UT WOS:000392493200028
+ER
+
+PT J
+AU Behmann, Jan
+   Hendriksen, Kathrin
+   Mueller, Ute
+   Buescher, Wolfgang
+   Pluemer, Lutz
+TI Support Vector machine and duration-aware conditional random field for
+   identification of spatio-temporal activity patterns by combined indoor
+   positioning and heart rate sensors
+SO GEOINFORMATICA
+VL 20
+IS 4
+BP 693
+EP 714
+DI 10.1007/s10707-016-0260-3
+PD OCT 2016
+PY 2016
+AB Tracking the spatio-temporal activity is highly relevant for domains
+   like security, health, and quality management. Since animal welfare
+   became a topic in politics and legislation locomotion patterns of
+   livestock have received increasing interest. In contrast to the
+   monitoring of pedestrians cattle activity tracking poses special
+   challenges to both sensors and data analysis. Interesting states are not
+   directly observable by a single sensor. In addition, sensors must be
+   accepted by cattle and need to be robust enough to cope with a rough
+   environment. In this article, we introduce the novel combination of
+   heart rate and positioning sensors. Attached to neck and chest they are
+   less interfering than accelerometers at the ankles. Exploiting the
+   potential of such combined sensor system that records locomotion and
+   non-spatial information from the heart rate sensor however is
+   challenging. We introduce a novel two level method for the activity
+   tracking focused on the duration and sequence of activity states. We
+   combine Support Vector Machine (SVM) with Conditional Random Field (CRF)
+   and extend Conditional Random fields by an explicit representation of
+   duration. The SVM characterizes local activity states, whereas the CRF
+   addresses sequences of local states to sequences incorporating spatial
+   and non-spatial contextual knowledge. This combination provides a
+   reliable and comprehensive identification of defined activity patterns,
+   as well as their chronology and durations, suitable for the integration
+   in an activity data base. This data base is used to extract
+   physiological parameters and promises insights into internal states such
+   as fitness, well-being and stress. Interestingly we were able to
+   demonstrate a significant correlation between resting pulse rate and the
+   day of pregnancy.
+Z8 0
+ZS 0
+TC 4
+ZR 0
+ZB 2
+Z9 4
+SN 1384-6175
+EI 1573-7624
+UT WOS:000383769500005
+ER
+
+PT J
+AU Pelekis, Nikos
+   Sideridis, Stylianos
+   Tampakis, Panagiotis
+   Theodoridis, Yannis
+TI Simulating Our LifeSteps by Example
+SO ACM TRANSACTIONS ON SPATIAL ALGORITHMS AND SYSTEMS
+VL 2
+IS 3
+AR 11
+DI 10.1145/2937753
+PD OCT 2016
+PY 2016
+AB During the past few decades, a number of effective methods for indexing,
+   query processing, and knowledge discovery in moving object databases
+   have been proposed. An interesting research direction that has recently
+   emerged handles semantics of movement instead of raw spatio-temporal
+   data. Semantic annotations, such as "stop," "move," "at home,"
+   "shopping," "driving," and so on, are either declared by the users
+   (e.g., through social network apps) or automatically inferred by some
+   annotation method and are typically presented as textual counterparts
+   along with spatial and temporal information of raw trajectories. It is
+   natural to argue that such "spatio-temporal-textual" sequences, called
+   semantic trajectories, form a realistic representation model of the
+   complex everyday life (hence, mobility) of individuals. Towards handling
+   semantic trajectories of moving objects in Semantic Mobility Databases,
+   the lack of real datasets leads to the need to design realistic
+   simulators. In the context of the above discussion, the goal of this
+   work is to realistically simulate the mobility life of a large-scale
+   population of moving objects in an urban environment. Two simulator
+   variations are presented: the core Hermoupolis simulator is parametric
+   driven (i.e., user-defined parameters tune every movement aspect),
+   whereas the expansion of the former, called Hermoupolisby-example,
+   follows the generate-by-example paradigm and is self-tuned by looking
+   inside a real small (sample) dataset. We stress test our proposal and
+   demonstrate its novel characteristics with respect to related work.
+Z8 0
+TC 0
+ZS 0
+ZB 0
+ZR 0
+Z9 0
+SN 2374-0353
+EI 2374-0361
+UT WOS:000444823000003
+ER
+
+PT J
+AU Ranacher, Peter
+   Brunauer, Richard
+   Van der Spek, Stefan Christiaan
+   Reich, Siegfried
+TI A model to estimate and interpret the energy-efficiency of movement
+   patterns in urban road traffic
+SO COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+VL 59
+BP 152
+EP 163
+DI 10.1016/j.compenvurbsys.2016.06.006
+PD SEP 2016
+PY 2016
+AB Urban road traffic is highly dynamic. Traffic conditions vary in time
+   and with location and so do the movement patterns of individual road
+   users. In this article, a movement pattern is the behaviour of a car
+   when traversing a road link in an urban road network. A movement pattern
+   can be recorded with a global navigation satellite system (GNSS), such
+   as the Global Positioning System (GPS). A movement pattern has a
+   specific energy-efficiency, which is a measure of how fuel-intensively
+   the car is moving. For example, a car driving uniformly at medium speed
+   consumes little fuel and, therefore, is energy-efficient, whereas
+   stop-and-go driving consumes much fuel and is energy-inefficient. In
+   this article we introduce a model to estimate the energy-efficiency of
+   movement patterns in urban road traffic from GNSS data. First, we
+   derived statistical features about the car's movement along the road.
+   Then, we compared these to fuel consumption data from the car's
+   controller area network (CAN) bus, normalized to the car's overall range
+   of fuel consumption. We identified the optimal feature set for
+   prediction. With the optimal feature set we trained, tested and verified
+   a model to estimate energy-efficiency, with the fuel consumption serving
+   as ground truth. Existing fuel consumption models usually view movement
+   as a snapshot. Thus, the behaviour of the car remains unknown that
+   causes a movement pattern to be energy-efficient or energy-inefficient.
+   Our model views movement as a process and allows to interpret this
+   process. A movement pattern can, for example, be energy-inefficient
+   because the car is driving in stop-and-go traffic, because it is
+   travelling at high speed, or because it is accelerating. Our model
+   allows to distinguish between these different types of behaviours. Thus,
+   it can provide new insights into the dynamics of urban road traffic and
+   its energy-efficiency. (C) 2016 Elsevier Ltd. All rights reserved.
+OI van der Spek, Stefan/0000-0003-1258-0527
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 2
+Z9 2
+SN 0198-9715
+EI 1873-7587
+UT WOS:000382349100014
+ER
+
+PT J
+AU Di Ciccio, Claudio
+   Van der Aa, Han
+   Cabanillas, Cristina
+   Mendling, Jan
+   Prescher, Johannes
+TI Detecting flight trajectory anomalies and predicting diversions in
+   freight transportation
+SO DECISION SUPPORT SYSTEMS
+VL 88
+BP 1
+EP 17
+DI 10.1016/j.dss.2016.05.004
+PD AUG 2016
+PY 2016
+AB Timely identifying flight diversions is a crucial aspect of efficient
+   multi-modal transportation. When an airplane diverts, logistics
+   providers must promptly adapt their transportation plans in order to
+   ensure proper delivery despite such an unexpected event. In practice,
+   the different parties in a logistics chain do not exchange real-time
+   information related to flights. This calls for a means to detect
+   diversions that just requires publicly available data, thus being
+   independent of the communication between different parties. The
+   dependence on public data results in a challenge to detect anomalous
+   behavior without knowing the planned flight trajectory.
+   Our work addresses this challenge by introducing a prediction model that
+   just requires information on an airplane's position, velocity, and
+   intended destination. This information is used to distinguish between
+   regular and anomalous behavior.
+   When an airplane displays anomalous behavior for an extended period of
+   time, the model predicts a diversion. A quantitative evaluation shows
+   that this approach is able to detect diverting airplanes with excellent
+   precision and recall even without knowing planned trajectories as
+   required by related research. By utilizing the proposed prediction
+   model, logistics companies gain a significant amount of response time
+   for these cases. (C) 2016 Elsevier B.V. All rights reserved.
+RI Di Ciccio, Claudio/H-8898-2018; Cabanillas, Cristina/
+OI Di Ciccio, Claudio/0000-0001-5570-0475; Cabanillas,
+   Cristina/0000-0001-9182-8847
+TC 5
+ZS 0
+ZB 0
+Z8 0
+ZR 0
+Z9 5
+SN 0167-9236
+EI 1873-5797
+UT WOS:000380081200001
+ER
+
+PT J
+AU Zhang, Hengcai
+   Lu, Feng
+   Xu, Jianqiu
+TI Modeling and Querying Moving Objects with Social Relationships
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 5
+IS 7
+AR 121
+DI 10.3390/ijgi5070121
+PD JUL 2016
+PY 2016
+AB Current moving-object database (MOD) systems focus on management of
+   movement data, but pay less attention to modelling social relationships
+   between moving objects and spatial-temporal trajectories in an
+   integrated manner. This paper combines moving-object database and social
+   network systems and presents a novel data model called Geo-Social-Moving
+   (GSM) that enables the unified management of trajectories, underlying
+   geographical space and social relationships for mass moving objects. A
+   bulk of user-defined data types and corresponding operators are also
+   proposed to facilitate geo-social queries on moving objects. An
+   implementation framework for the GSM model is proposed, and a prototype
+   system based on native Neo4J is then developed with two real-world data
+   sets from the location-based social network systems. Compared with
+   solutions based on traditional extended relational database management
+   systems characterized by time-consuming table join operations, the
+   proposed GSM model characterized by graph traversal is argued to be more
+   powerful in representing mass moving objects with social relationships,
+   and more efficient and stable for geo-social querying.
+OI zhang, hengcai/0000-0002-5004-9609
+ZB 0
+Z8 1
+ZR 0
+TC 4
+ZS 0
+Z9 5
+SN 2220-9964
+UT WOS:000381499600022
+ER
+
+PT J
+AU Zhang, Faming
+   Zhu, Xinyan
+   Guo, Wei
+   Ye, Xinyue
+   Hu, Tao
+   Huang, Liang
+TI Analyzing Urban Human Mobility Patterns through a Thematic Model at a
+   Finer Scale
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 5
+IS 6
+AR UNSP 78
+DI 10.3390/ijgi5060078
+PD JUN 2016
+PY 2016
+AB Taxi trajectories reflect human mobility over a road network. Pick-up
+   and drop-off locations in different time periods represent origins and
+   destinations of trips, respectively, demonstrating the spatiotemporal
+   characteristics of human behavior. Each trip can be viewed as a
+   displacement in the random walk model, and the distribution of extracted
+   trips shows a distance decay effect. To identify the spatial similarity
+   of trips at a finer scale, this paper investigates the distribution of
+   trips through topic modeling techniques. Firstly, trip origins and trip
+   destinations were identified from raw GPS data. Then, different trips
+   were given semantic information, i.e., link identification numbers with
+   a semantic enrichment process. Each taxi trajectory was composed of a
+   series of trip destinations corresponding to the same taxi.
+   Subsequently, each taxi trajectory was analogous to a document
+   consisting of different words, and all taxi's trajectories could be
+   regarded as document corpora, enabling a semantic analysis of massive
+   trip destinations. Finally, we obtained different trip destination
+   topics reflecting the spatial similarity and regional property of human
+   mobility through LDA topic model training. The effectiveness of this
+   approach was illustrated by a case study using a large dataset of taxi
+   trajectories collected from 2 to 8 June 2014 in Wuhan, China.
+ZB 1
+ZR 0
+TC 9
+ZS 0
+Z8 0
+Z9 9
+SN 2220-9964
+UT WOS:000379861200005
+ER
+
+PT J
+AU Huang, Guangyan
+   He, Jing
+   Zhou, Wanlei
+   Huang, Guang-Li
+   Guo, Limin
+   Zhou, Xiangmin
+   Tang, Feiyi
+TI Discovery of stop regions for understanding repeat travel behaviors of
+   moving objects
+SO JOURNAL OF COMPUTER AND SYSTEM SCIENCES
+VL 82
+IS 4
+SI SI
+BP 582
+EP 593
+DI 10.1016/j.jcss.2015.10.006
+PD JUN 2016
+PY 2016
+AB GPS trajectory dataset with high sampling-rates is usually in large
+   volume that challenges the processing efficiency. Most of the data
+   points on trajectories are useless. This paper summarizes trajectories
+   using stop points. We define a new concept of stay stability (i.e., time
+   dividing distance or reciprocal of speed) between any two GPS points to
+   detect stop points on individual trajectories. We propose a novel Mining
+   Repeat Travel Behaviors Using Stop Regions (MRTBUSR) method. In MRTBUSR,
+   a stop region is a popular region containing a certain number of close
+   stop points that can be grouped into a cluster. We then retrieve common
+   sequences of stop regions to denote repeat route patterns and further
+   analyze the stop durations on a stop region to find repeat travel
+   behaviors. The experiments on 20 labeled trajectories selected from
+   GeoLife demonstrated the semantic effect, accuracy and near linear
+   efficiency of our proposed method. (C) 2015 Elsevier Inc. All rights
+   reserved.
+CT 29th AAAI Conference on Artificial Intelligence (AAAI 2015)
+CY JAN 25-30, 2015
+CL Austin, TX
+ZR 0
+ZS 0
+Z8 1
+ZB 0
+TC 2
+Z9 3
+SN 0022-0000
+EI 1090-2724
+UT WOS:000372667800003
+ER
+
+PT J
+AU Cheng, Weijie
+   Yin, Guisheng
+   Dong, Yuxin
+   Dong, Hongbin
+   Zhang, Wansong
+TI Collaborative Filtering Recommendation on Users' Interest Sequences
+SO PLOS ONE
+VL 11
+IS 5
+AR e0155739
+DI 10.1371/journal.pone.0155739
+PD MAY 19 2016
+PY 2016
+AB As an important factor for improving recommendations, time information
+   has been introduced to model users' dynamic preferences in many papers.
+   However, the sequence of users' behaviour is rarely studied in
+   recommender systems. Due to the users' unique behavior evolution
+   patterns and personalized interest transitions among items, users'
+   similarity in sequential dimension should be introduced to further
+   distinguish users' preferences and interests. In this paper, we propose
+   a new collaborative filtering recommendation method based on users'
+   interest sequences (IS) that rank users' ratings or other online
+   behaviors according to the timestamps when they occurred. This method
+   extracts the semantics hidden in the interest sequences by the length of
+   users' longest common sub-IS (LCSIS) and the count of users' total
+   common sub-IS (ACSIS). Then, these semantics are utilized to obtain
+   users' IS-based similarities and, further, to refine the similarities
+   acquired from traditional collaborative filtering approaches. With these
+   updated similarities, transition characteristics and dynamic evolution
+   patterns of users' preferences are considered. Our new proposed method
+   was compared with state-of-the-art time-aware collaborative filtering
+   algorithms on datasets MovieLens, Flixster and Ciao. The experimental
+   results validate that the proposed recommendation method is effective
+   and outperforms several existing algorithms in the accuracy of rating
+   prediction.
+ZS 0
+TC 4
+ZR 0
+ZB 1
+Z8 0
+Z9 4
+SN 1932-6203
+UT WOS:000376291100093
+PM 27195787
+ER
+
+PT J
+AU Damiani, Maria Luisa
+   Issa, Hamza
+   Fotino, Giuseppe
+   Heurich, Marco
+   Cagnacci, Francesca
+TI Introducing 'presence' and 'stationarity index' to study partial
+   migration patterns: an application of a spatio-temporal clustering
+   technique
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 5
+SI SI
+BP 907
+EP 928
+DI 10.1080/13658816.2015.1070267
+PD MAY 3 2016
+PY 2016
+AB Partial migration is a crucial mobility pattern in animal ecology.
+   Unlike complete migrations that take place when all the individuals in a
+   population migrate with a clear separation of ranges, partial migrations
+   are migrations that often follow modalities and times that vary from
+   animal to animal. As a result the distinction between migratory and
+   nonmigratory behavior becomes less defined. In this paper, we present an
+   interdisciplinary effort geared to evaluate whether a recent time-aware,
+   density-based clustering technique, called SeqScan, relying on the novel
+   concept of object's presence can be effectively applied to the study of
+   partial migrations. To that end, we propose an extended framework
+   centered on SeqScan, comprising a noise model for the detection of
+   fine-grained movement patterns, i.e. excursions and inter-cluster
+   transitions, and an internal time-aware validity index, for clustering
+   evaluation. Furthermore, we contrast SeqScan with a recent technique
+   developed in the context of animal ecology and grounded on statistical
+   methods. For the study, we use real trajectories from two large
+   herbivorous species located in Bavaria. We argue that the classification
+   capabilities of SeqScan are comparable to those of the reference method.
+   Moreover, the SeqScan framework overcomes important limitations of more
+   conventional techniques, offering, in particular, the opportunity of
+   quantifying the mobility behavior of individuals.
+RI Heurich, Marco/O-4653-2014; Cagnacci, Francesca/L-7377-2013
+OI Heurich, Marco/0000-0003-0051-2930; Cagnacci,
+   Francesca/0000-0002-4954-9980
+ZS 0
+ZR 0
+Z8 0
+ZB 3
+TC 10
+Z9 10
+SN 1365-8816
+EI 1362-3087
+UT WOS:000372355600006
+ER
+
+PT J
+AU Sila-Nowicka, Katarzyna
+   Vandrol, Jan
+   Oshan, Taylor
+   Long, Jed A.
+   Demsar, Urska
+   Fotheringham, A. Stewart
+TI Analysis of human mobility patterns from GPS trajectories and contextual
+   information
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 5
+SI SI
+BP 881
+EP 906
+DI 10.1080/13658816.2015.1100731
+PD MAY 3 2016
+PY 2016
+AB Human mobility is important for understanding the evolution of size and
+   structure of urban areas, the spatial distribution of facilities, and
+   the provision of transportation services. Until recently, exploring
+   human mobility in detail was challenging because data collection methods
+   consisted of cumbersome manual travel surveys, space-time diaries, or
+   interviews. The development of location-aware sensors has significantly
+   altered the possibilities for acquiring detailed data on human
+   movements. Although this has spurred many methodological developments in
+   identifying human movement patterns, many of these methods operate
+   solely from the analytical perspective and ignore the environmental
+   context within which the movement takes place. In this paper we attempt
+   to widen this view and present an integrated approach to the analysis of
+   human mobility using a combination of volunteered GPS trajectories and
+   contextual spatial information. We propose a new framework for the
+   identification of dynamic (travel modes) and static (significant places)
+   behaviour using trajectory segmentation, data mining, and
+   spatio-temporal analysis. We are interested in examining if and how
+   travel modes depend on the residential location, age, or gender of the
+   tracked individuals. Further, we explore theorised 'third places', which
+   are spaces beyond main locations (home/work) where individuals spend
+   time to socialise. Can these places be identified from GPS traces? We
+   evaluate our framework using a collection of trajectories from 205
+   volunteers linked to contextual spatial information on the types of
+   places visited and the transport routes they use. The result of this
+   study is a contextually enriched data set that supports new
+   possibilities for modelling human movement behaviour.
+RI Yang, Liu/J-7573-2017; Demsar, Urska/
+OI Demsar, Urska/0000-0001-7791-2807
+TC 35
+Z8 1
+ZR 0
+ZB 2
+ZS 0
+Z9 36
+SN 1365-8816
+EI 1362-3087
+UT WOS:000372355600005
+ER
+
+PT J
+AU Furtado, Andre Salvaro
+   Kopanaki, Despina
+   Alvares, Luis Otavio
+   Bogorny, Vania
+TI Multidimensional Similarity Measuring for Semantic Trajectories
+SO TRANSACTIONS IN GIS
+VL 20
+IS 2
+BP 280
+EP 298
+DI 10.1111/tgis.12156
+PD APR 2016
+PY 2016
+AB Most existing approaches aiming at measuring trajectory similarity are
+   focused on two-dimensional sequences of points, called raw trajectories.
+   However, recent proposals have used background geographic information
+   and social media data to enrich these trajectories with a semantic
+   dimension, giving rise to the concept of semantic trajectories. Only a
+   few works have proposed similarity measures for semantic trajectories or
+   multidimensional sequences, having limitations such as predefined weight
+   of the dimensions, sensitivity to noise, tolerance for gaps with
+   different sizes, and the prevalence of the worst dimension similarity.
+   In this article we propose MSM, a novel similarity measure for
+   multidimensional sequences that overcomes the aforementioned limitations
+   by considering and weighting the similarity in all dimensions. MSM is
+   evaluated through an extensive experimental study that, based on a seed
+   trajectory, creates sets of semantic trajectories with controlled
+   transformations to introduce different kinds and levels of
+   dissimilarity. For each set, we compute the similarity between the seed
+   and the transformed trajectories, using different measures. The results
+   showed that MSM was more robust and efficient than related approaches in
+   the domain of semantic trajectories.
+ZS 0
+ZR 0
+ZB 1
+TC 8
+Z8 0
+Z9 8
+SN 1361-1682
+EI 1467-9671
+UT WOS:000374759500007
+ER
+
+PT J
+AU Andrienko, Natalia
+   Andrienko, Gennady
+   Fuchs, Georg
+   Jankowski, Piotr
+TI Scalable and privacy-respectful interactive discovery of place semantics
+   from human mobility traces
+SO INFORMATION VISUALIZATION
+VL 15
+IS 2
+BP 117
+EP 153
+DI 10.1177/1473871615581216
+PD APR 2016
+PY 2016
+AB Mobility diaries of a large number of people are needed for assessing
+   transportation infrastructure and spatial development planning.
+   Acquisition of personal mobility diaries through population surveys is a
+   costly and error-prone endeavour. We examine an alternative approach to
+   obtaining similar information from episodic digital traces of people's
+   presence in various locations, which appear when people use their mobile
+   devices for making phone calls, accessing the Internet or posting
+   georeferenced contents (texts, photos or videos) in social media. Having
+   episodic traces of a person over a long time period, it is possible to
+   detect significant (repeatedly visited) personal places and identify
+   them as home, work or place of social activities based on temporal
+   patterns of a person's presence in these places. Such analysis, however,
+   can lead to compromising personal privacy. We have investigated the
+   feasibility of deriving place meanings and reconstructing personal
+   mobility diaries while preserving the privacy of individuals whose data
+   are analysed. We have devised a visual analytics approach and a set of
+   supporting tools making such privacy-preserving analysis possible. The
+   approach was tested in two case studies with publicly available data:
+   simulated tracks from the VAST Challenge 2014 and real traces built from
+   georeferenced Twitter posts.
+RI Andrienko, Gennady/B-6486-2014; Andrienko, Natalia/; Jankowski, Piotr/
+OI Andrienko, Gennady/0000-0002-8574-6295; Andrienko,
+   Natalia/0000-0003-3313-1560; Jankowski, Piotr/0000-0002-6303-6217
+ZB 1
+Z8 1
+TC 13
+ZR 0
+ZS 0
+Z9 14
+SN 1473-8716
+EI 1473-8724
+UT WOS:000371645100002
+ER
+
+PT J
+AU Liu, Xi
+   Kang, Chaogui
+   Gong, Li
+   Liu, Yu
+TI Incorporating spatial interaction patterns in classifying and
+   understanding urban land use
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 2
+BP 334
+EP 350
+DI 10.1080/13658816.2015.1086923
+PD FEB 1 2016
+PY 2016
+AB Land use classification has benefited from the emerging big data, such
+   as mobile phone records and taxi trajectories. Temporal activity
+   variations derived from these data have been used to interpret and
+   understand the land use of parcels from the perspective of social
+   functions, complementing the outcome of traditional remote sensing
+   methods. However, spatial interaction patterns between parcels, which
+   could depict land uses from a perspective of connections, have rarely
+   been examined and analysed. To leverage spatial interaction information
+   contained in the above-mentioned massive data sets, we propose a novel
+   unsupervised land use classification method with a new type of place
+   signature. Based on the observation that spatial interaction patterns
+   between places of two specific land uses are similar, the new place
+   signature improves land use classification by trading off between
+   aggregated temporal activity variations and detailed spatial
+   interactions among places. The method is validated with a case study
+   using taxi trip data from Shanghai.
+RI Kang, Chaogui/H-7806-2014; Liu, Yu/D-4022-2012; Liu, Xi/; Kang, Chaogui/
+OI Liu, Yu/0000-0002-0016-2902; Liu, Xi/0000-0002-1771-3731; Kang,
+   Chaogui/0000-0002-0122-9419
+Z8 6
+ZS 0
+ZB 1
+ZR 0
+TC 23
+Z9 29
+SN 1365-8816
+EI 1362-3087
+UT WOS:000365550900010
+ER
+
+PT J
+AU Ranacher, Peter
+   Brunauer, Richard
+   Trutschnig, Wolfgang
+   Van der Spek, Stefan
+   Reich, Siegfried
+TI Why GPS makes distances bigger than they are
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 2
+BP 316
+EP 333
+DI 10.1080/13658816.2015.1086924
+PD FEB 1 2016
+PY 2016
+AB Global navigation satellite systems such as the Global Positioning
+   System (GPS) is one of the most important sensors for movement analysis.
+   GPS is widely used to record the trajectories of vehicles, animals and
+   human beings. However, all GPS movement data are affected by both
+   measurement and interpolation errors. In this article we show that
+   measurement error causes a systematic bias in distances recorded with a
+   GPS; the distance between two points recorded with a GPS is - on average
+   - bigger than the true distance between these points. This systematic
+   overestimation of distance' becomes relevant if the influence of
+   interpolation error can be neglected, which in practice is the case for
+   movement sampled at high frequencies. We provide a mathematical
+   explanation of this phenomenon and illustrate that it functionally
+   depends on the autocorrelation of GPS measurement error (C). We argue
+   that C can be interpreted as a quality measure for movement data
+   recorded with a GPS. If there is a strong autocorrelation between any
+   two consecutive position estimates, they have very similar error. This
+   error cancels out when average speed, distance or direction is
+   calculated along the trajectory. Based on our theoretical findings we
+   introduce a novel approach to determine C in real-world GPS movement
+   data sampled at high frequencies. We apply our approach to pedestrian
+   trajectories and car trajectories. We found that the measurement error
+   in the data was strongly spatially and temporally autocorrelated and
+   give a quality estimate of the data. Most importantly, our findings are
+   not limited to GPS alone. The systematic bias and its implications are
+   bound to occur in any movement data collected with absolute positioning
+   if interpolation error can be neglected.
+Z8 0
+ZS 0
+ZR 0
+TC 19
+ZB 3
+Z9 19
+SN 1365-8816
+EI 1362-3087
+UT WOS:000365550900009
+ER
+
+PT S
+AU Chen, Chien-Cheng
+   Chiang, Meng-Fen
+GP IEEE
+TI Trajectory Pattern Mining: Exploring Semantic and Time Information
+SO 2016 CONFERENCE ON TECHNOLOGIES AND APPLICATIONS OF ARTIFICIAL
+   INTELLIGENCE (TAAI)
+SE Conference on Technologies and Applications of Artificial Intelligence
+BP 130
+EP 137
+PD 2016
+PY 2016
+AB With the development of GPS and the popularity of smart phones and
+   wearable devices, users can easily log their daily trajectories. Prior
+   works have elaborated on mining trajectory patterns from raw
+   trajectories. Trajectory patterns consist of hot regions and the
+   sequential relationships among them, where hot regions refer the spatial
+   regions with a higher density of data points. Note that some hot regions
+   do not have any meaning for users. Moreover, trajectory patterns do not
+   have explicit time information or semantic information. To enrich
+   trajectory patterns, we propose semantic trajectory patterns which are
+   referred to as the moving patterns with spatial, temporal, and semantic
+   attributes. Given a user trajectory, we aim at mining frequent semantic
+   trajectory patterns. Explicitly, we extract the three attributes from a
+   raw trajectory, and convert it into a semantic mobility sequence. Given
+   such a semantic mobility sequence, we propose two algorithms to discover
+   frequent semantic trajectory patterns. The first algorithm, MB (standing
+   for matching-based algorithm), is a naive method to find frequent
+   semantic trajectory patterns. It generates all possible patterns and
+   extracts the occurrence of the patterns from the semantic mobility
+   sequence. The second algorithm, PS (standing for PrefixSpan-based
+   algorithm), is developed to efficiently mine semantic trajectory
+   patterns. Due to the good efficiency of PrefixSpan, algorithm PS will
+   fully utilize the advantage of PrefixSpan. Since the semantic mobility
+   sequence contains three attributes, we need to further transform it into
+   a raw sequence before using algorithm PrefixSpan. Therefore, we propose
+   the SS algorithm (standing for sequence symbolization algorithm) to
+   achieve this purpose. To evaluate our proposed algorithms, we conducted
+   experiments on the real datasets of Google Location History, and the
+   experimental results show the effectiveness and efficiency of our
+   proposed algorithms.
+CT Conference on Technologies and Applications of Artificial Intelligence
+   (TAAI)
+CY NOV 25-27, 2016
+CL Hsinchu, TAIWAN
+SP Natl Tsing Hua Univ; Taiwanese Assoc Artificial Intelligence; Taiwan
+   Data Sci Fdn; Minist Sci & Technol; NTU IoX Ctr; NTHU Inst Informat Syst
+   & Applicat; Inst Informat Sci Acad Sinica; Appier; Trend Micro; IEEE;
+   IEEE Computat Intelligence Soc; Japanese Soc Artificial Intelligence;
+   Taiwan Comp Game Assoc
+ZB 0
+ZS 0
+ZR 0
+Z8 1
+TC 4
+Z9 4
+SN 2376-6816
+BN 978-1-5090-5732-0
+UT WOS:000406594200018
+ER
+
+PT S
+AU Siqueira, Fernando de Lucca
+   Plentz, Patricia Della Mea
+   De Pieri, Edson Roberto
+GP IEEE
+TI Semantic Trajectory Applied to the Navigation of Autonomous Mobile
+   Robots
+SO 2016 IEEE/ACS 13TH INTERNATIONAL CONFERENCE OF COMPUTER SYSTEMS AND
+   APPLICATIONS (AICCSA)
+SE International Conference on Computer Systems and Applications
+PD 2016
+PY 2016
+AB Current technology produces a big mass of information. The application
+   of this information gives meaning and purpose to this data. Mobile
+   robots can benefit from this information. This paper proposes a
+   framework to apply semantic information to the navigation of autonomous
+   mobile robots, tracking the robot movement into a semantic trajectory
+   and analyzing the context data on the decision-making process through a
+   behavior tree. Experiments show that this framework provides a structure
+   to intelligent navigation and data information to improve the robot
+   behavior.
+CT 13th IEEE/ACS International Conference on Computer Systems and
+   Applications (AICCSA)
+CY NOV 29-DEC 02, 2016
+CL Univ Ibn Zohr, Agadir, MOROCCO
+HO Univ Ibn Zohr
+SP IEEE; ACS; QCRI; Univ Arizona; CNRST
+Z8 0
+ZS 0
+TC 0
+ZB 0
+ZR 0
+Z9 0
+SN 2161-5322
+BN 978-1-5090-4320-0
+UT WOS:000404443800152
+ER
+
+PT S
+AU Cai, Guochen
+   Lee, Kyungmi
+   Lee, Ickjai
+BE Fujita, H
+   Ali, M
+   Selamat, A
+   Sasaki, J
+   Kurematsu, M
+TI Discovering Common Semantic Trajectories from Geo-tagged Social Media
+SO TRENDS IN APPLIED KNOWLEDGE-BASED SYSTEMS AND DATA SCIENCE
+SE Lecture Notes in Artificial Intelligence
+VL 9799
+BP 320
+EP 332
+DI 10.1007/978-3-319-42007-3_27
+PD 2016
+PY 2016
+AB Massive social media data are being created and uploaded to online
+   nowadays. These media data associated with geographical information
+   reflect people's footprints of movements. This study investigates into
+   extraction of people's common semantic trajectories from geo-referenced
+   social media data using geo-tagged images. We first convert geo-tagged
+   photographs into semantic trajectories based on regions-of-interest, and
+   then apply density-based clustering with a similarity measure designed
+   for multi-dimensional semantic trajectories. Using real geo-tagged
+   photographs, we find interesting people's common semantic mobilities.
+   These semantic behaviors demonstrate the effectiveness of our approach.
+CT 29th International Conference on Industrial, Engineering and Other
+   Applications of Applied Intelligent Systems (IEA/AIE)
+CY AUG 02-04, 2016
+CL Morioka, JAPAN
+SP Int Soc Appl Intelligence
+ZR 0
+ZB 1
+TC 2
+Z8 0
+ZS 0
+Z9 2
+SN 0302-9743
+BN 978-3-319-42007-3; 978-3-319-42006-6
+UT WOS:000387771300027
+ER
+
+PT B
+AU Duc Vinh Ngo
+   Nang Toan Do
+   Luong Anh Tuan Nguyen
+GP IEEE
+TI Anomaly Detection in Video Surveillance: A Novel Approach Based on
+   Sub-Trajectory
+SO 2016 INTERNATIONAL CONFERENCE ON ELECTRONICS, INFORMATION, AND
+   COMMUNICATIONS (ICEIC)
+PD 2016
+PY 2016
+AB In video surveillance based on motion trajectory, a moving object is
+   considered abnormal if the distance from it to trajectory is greater
+   than a threshold. If a trajectory is abnormal with sub-trajectory, it
+   will be abnormal with entire trajectory. In this paper, a novel approach
+   proposes to detect abnormal based on sub-trajectory with modified
+   Hausdorff distance. Moreover, the anomaly detection based on
+   sub-trajectory that can be done with complete trajectory and incomplete
+   trajectory. The proposed technique is evaluated with 1000 datasets and
+   each dataset consists of 260 trajectories. The result show that the
+   technique detect abnormal with the time faster.
+CT 15th International Conference on Electronics, Information, and
+   Communication (ICEIC)
+CY JAN 27-30, 2016
+CL Danang, VIETNAM
+SP Inst Elect & Informat Engineers; IEEE; Univ Sci & Technol; IEEE Consumer
+   Soc; Univ Danang
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+BN *****************
+UT WOS:000389518100033
+ER
+
+PT S
+AU Zhang, Hengcai
+   Lu, Feng
+   Chen, Jie
+BE Tan, Y
+   Shi, Y
+TI A Geo-Social Data Model for Moving Objects
+SO DATA MINING AND BIG DATA, DMBD 2016
+SE Lecture Notes in Computer Science
+VL 9714
+BP 115
+EP 122
+DI 10.1007/978-3-319-40973-3_11
+PD 2016
+PY 2016
+AB In this paper, we combine moving-object database and social network
+   systems and present a novel data model called Geo-Social-Moving (GSM)
+   that enables the unified management of trajectories, underlying
+   geographical space and social relationships for massive moving objects.
+   A bulk of data types and corresponding operators are also proposed to
+   facilitate geo-social queries on moving objects.
+CT 1st International Conference on Data Mining and Big Data (DMBD)
+CY JUN 25-30, 2016
+CL Bali, INDONESIA
+SP Peking Univ; Xian Jiaotong Liverpool Univ; Beijing Xinghui Hi Tech Co;
+   IEEE Computat Intelligence Soc; World Federat Soft Comp; Int Neural
+   Network Soc; IEEE Beijing Sect
+ZR 0
+Z8 0
+TC 0
+ZS 0
+ZB 0
+Z9 0
+SN 0302-9743
+BN 978-3-319-40973-3; 978-3-319-40972-6
+UT WOS:000386323800011
+ER
+
+PT J
+AU Ranacher, Peter
+   Brunauer, Richard
+   van der Spek, Stefan
+   Reich, Siegfried
+TI What is an Appropriate Temporal Sampling Rate to Record Floating Car
+   Data with a GPS?
+SO ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION
+VL 5
+IS 1
+DI 10.3390/ijgi5010001
+PD JAN 2016
+PY 2016
+AB Floating car data (FCD) recorded with the Global Positioning System
+   (GPS) are an important data source for traffic research. However, FCD
+   are subject to error, which can relate either to the accuracy of the
+   recordings (measurement error) or to the temporal rate at which the data
+   are sampled (interpolation error). Both errors affect movement
+   parameters derived from the FCD, such as speed or direction, and
+   consequently influence conclusions drawn about the movement. In this
+   paper we combined recent findings about the autocorrelation of GPS
+   measurement error and well-established findings from random walk theory
+   to analyse a set of real-world FCD. First, we showed that the
+   measurement error in the FCD was affected by positive autocorrelation.
+   We explained why this is a quality measure of the data. Second, we
+   evaluated four metrics to assess the influence of interpolation error.
+   We found that interpolation error strongly affects the correct
+   interpretation of the car's dynamics (speed, direction), whereas its
+   impact on the path (travelled distance, spatial location) was moderate.
+   Based on these results we gave recommendations for recording of FCD
+   using the GPS. Our recommendations only concern time-based sampling,
+   change-based, location-based or event-based sampling are not discussed.
+   The sampling approach minimizes the effects of error on movement
+   parameters while avoiding the collection of redundant information. This
+   is crucial for obtaining reliable results from FCD.
+TC 4
+Z8 1
+ZR 0
+ZB 0
+ZS 0
+Z9 5
+SN 2220-9964
+UT WOS:000369606900006
+ER
+
+PT J
+AU Prelipcean, Adrian C.
+   Gidofalvi, Gyozo
+   Susilo, Yusak O.
+TI Measures of transport mode segmentation of trajectories
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 30
+IS 9
+SI SI
+BP 1763
+EP 1784
+DI 10.1080/13658816.2015.1137297
+PD 2016
+PY 2016
+AB Rooted in the philosophy of point-and segment-based approaches for
+   transportation mode segmentation of trajectories, the measures that
+   researchers have adopted to evaluate the quality of the results (1) are
+   incomparable across approaches, hence slowing the progress in the field
+   and (2) do not provide insight about the quality of the continuous
+   transportation mode segmentation. To address these problems, this paper
+   proposes new error measures that can be applied to measure how well a
+   continuous transportation mode segmentation model performs. The error
+   measures introduced are based on aligning multiple inferred continuous
+   intervals to ground truth intervals, and measure the cardinality of the
+   alignment and the spatial and temporal discrepancy between the
+   corresponding aligned segments. The utility of this new way of computing
+   errors is shown by evaluating the segmentation of three generic
+   transportation mode segmentation approaches (implicit,
+   explicit-holistic, and explicit-consensus-based transport mode
+   segmentation), which can be implemented in a thick client architecture.
+   Empirical evaluations on a large real-word data set reveal the
+   superiority of explicit-consensus-based transport mode segmentation,
+   which can be attributed to the explicit modeling of segments and
+   transitions, which allows for a meaningful decomposition of the complex
+   learning task.
+RI Susilo, Yusak Octavius/M-3707-2013; Prelipcean, Adrian Corneliu/
+OI Susilo, Yusak Octavius/0000-0001-7124-7164; Prelipcean, Adrian
+   Corneliu/0000-0002-0916-0188
+ZB 1
+Z8 0
+ZR 0
+TC 9
+ZS 0
+Z9 9
+SN 1365-8816
+EI 1362-3087
+UT WOS:000378064300005
+ER
+
+PT S
+AU Monnot, Barnabe
+   Wilhelm, Erik
+   Piliouras, Georgios
+   Zhou, Yuren
+   Dahlmeier, Daniel
+   Lu, Hai Yun
+   Jin, Wang
+BE Cardin, MA
+   Fong, SH
+   Krob, D
+   Lui, PC
+   Tan, YH
+TI Inferring Activities and Optimal Trips: Lessons From Singapore's
+   National Science Experiment
+SO COMPLEX SYSTEMS DESIGN & MANAGEMENT ASIA: SMART NATIONS - SUSTAINING AND
+   DESIGNING, CSD&M ASIA 2016
+SE Advances in Intelligent Systems and Computing
+VL 426
+BP 247
+EP 264
+DI 10.1007/978-3-319-29643-2_19
+PD 2016
+PY 2016
+AB The following paper presents three novel and efficient algorithms to
+   tackle pressing questions asked by city planners as well as policy
+   makers: Where are people starting and ending their trips? Which
+   activities are people traveling to/from? Are they taking the most
+   efficient route? In order to capture large-scale travel data, a novel
+   sensor was developed by the Singapore University of Technology and
+   Design together with industrial partners. Using computationally simple
+   and scalable algorithms, we are able to understand the large amounts of
+   data collected by the sensors and shed light on the three questions
+   above.
+CT 2nd International Asia-Pacific Conference on Complex Systems Design and
+   Management (CSD and M)
+CY FEB 24-26, 2016
+CL Singapore Univ Technol & Design, Singapore, SINGAPORE
+HO Singapore Univ Technol & Design
+SP Accenture Technol Labs Beijing; Dassault Systemes; DSO Natl Labs; Def
+   Sci & Technol Agcy Singapore; Electricite France; Int Council Syst Engn;
+   IRT SystemX; JTC Corp; Mega Int; Obeo; Project Performance Int;
+   Sembcorp; Surbana Jurong; Thales; Ctr Excellence Syst Architecture,
+   Management, Econ & Strategy; Ecole Polytechnique; Natl Univ Singapore
+TC 1
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+Z9 1
+SN 2194-5357
+BN 978-3-319-29643-2; 978-3-319-29642-5
+UT WOS:000373003500019
+ER
+
+PT J
+AU Chen, Siming
+   Yuan, Xiaoru
+   Wang, Zhenhuang
+   Guo, Cong
+   Liang, Jie
+   Wang, Zuchao
+   Zhang, Xiaolong (Luke)
+   Zhang, Jiawan
+TI Interactive Visual Discovering of Movement Patterns from Sparsely
+   Sampled Geo-tagged Social Media Data
+SO IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+VL 22
+IS 1
+BP 270
+EP 279
+DI 10.1109/TVCG.2015.2467619
+PD JAN 2016
+PY 2016
+AB Social media data with geotags can be used to track people's movements
+   in their daily lives. By providing both rich text and movement
+   information, visual analysis on social media data can be both
+   interesting and challenging. In contrast to traditional movement data,
+   the sparseness and irregularity of social media data increase the
+   difficulty of extracting movement patterns. To facilitate the
+   understanding of people's movements, we present an interactive visual
+   analytics system to support the exploration of sparsely sampled
+   trajectory data from social media. We propose a heuristic model to
+   reduce the uncertainty caused by the nature of social media data. In the
+   proposed system, users can filter and select reliable data from each
+   derived movement category, based on the guidance of uncertainty model
+   and interactive selection tools. By iteratively analyzing filtered
+   movements, users can explore the semantics of movements, including the
+   transportation methods, frequent visiting sequences and keyword
+   descriptions. We provide two cases to demonstrate how our system can
+   help users to explore the movement patterns.
+CT 10th IEEE Conference on Visual Analytics Science and Technology (VAST) /
+   IEEE VIS Conference
+CY OCT 25-30, 2015
+CL Chicago, IL
+SP IEEE; IEEE Comp Soc; IEEE Visualizat & Graph Tech Comm; InfoVis; SciVis
+OI Yuan, Xiaoru/0000-0002-7233-980X
+ZB 0
+ZR 0
+Z8 4
+ZS 0
+TC 31
+Z9 35
+SN 1077-2626
+EI 1941-0506
+UT WOS:000364043400032
+PM 26340781
+ER
+
+PT J
+AU Grinberger, A. Yair
+   Shoval, Noam
+TI A temporal-contextual analysis of urban dynamics using location-based
+   data
+SO INTERNATIONAL JOURNAL OF GEOGRAPHICAL INFORMATION SCIENCE
+VL 29
+IS 11
+SI SI
+BP 1969
+EP 1987
+DI 10.1080/13658816.2015.1049951
+PD NOV 2 2015
+PY 2015
+AB The dynamics of urban activities in Jerusalem were studied by analyzing
+   a large-scale semantically rich movement dataset. The semantic
+   enrichment process was based on coupling movement trajectories sampled
+   by GPS loggers with contextual data derived from trajectory-based
+   digital activity dairies. Although the utility of such procedures in
+   generating trajectory-specific semantic data was noted before, their
+   application stays limited. In this paper, we promote the utilization of
+   these procedures by demonstrating that they are not only feasible but
+   also important for mobility studies. We discuss the characteristics of
+   the semantic enrichment process and the manner by which it was applied
+   within the large-scale analysis of urban dynamics. This application
+   uncovered a time- and context-dependent array of centers in Jerusalem,
+   resulting in a semantically rich characterization of urban dynamics.
+   Such characterization provides otherwise unobtainable insights crucial
+   for urban analysis. Wider implications for movement studies may be
+   derived, as this application demonstrates how diary-based enrichment
+   approaches hold the potential to advance bridging the semantic gap in
+   mobility research.
+CT Mobile Tartu Conference
+CY 2014
+CL Tartu, ESTONIA
+OI Grinberger, Asher Yair/0000-0002-7393-9903
+TC 5
+ZR 0
+ZS 0
+Z8 1
+ZB 1
+Z9 6
+SN 1365-8816
+EI 1362-3087
+UT WOS:000361527500004
+ER
+
+PT J
+AU Abbasifard, Mohammad Reza
+   Naderi, Hassan
+   Fallahnejad, Zohreh
+   Alamdari, Omid Isfahani
+TI Approximate aggregate nearest neighbor search on moving objects
+   trajectories
+SO JOURNAL OF CENTRAL SOUTH UNIVERSITY
+VL 22
+IS 11
+BP 4246
+EP 4253
+DI 10.1007/s11771-015-2973-0
+PD NOV 2015
+PY 2015
+AB Aggregate nearest neighbor (ANN) search retrieves for two spatial
+   datasets T and Q, segment(s) of one or more trajectories from the set T
+   having minimum aggregate distance to points in Q. When interacting with
+   large amounts of trajectories, this process would be very time-consuming
+   due to consecutive page loads. An approximate method for finding
+   segments with minimum aggregate distance is proposed which can improve
+   the response time. In order to index large volumes of trajectories,
+   scalable and efficient trajectory index (SETI) structure is used. But
+   some refinements are provided to temporal index of SETI to improve the
+   performance of proposed method. The experiments were performed with
+   different number of query points and percentages of dataset. It is shown
+   that proposed method besides having an acceptable precision, can reduce
+   the computation time significantly. It is also shown that the main
+   fraction of search time among load time, ANN and computing convex and
+   centroid, is related to ANN.
+RI naderi, hassan/S-9556-2018; Torkaman Rahmani, Adel/S-9542-2018; Isfahani Alamdari, Omid/
+OI Isfahani Alamdari, Omid/0000-0002-9026-2260
+ZB 0
+ZS 0
+TC 1
+ZR 0
+Z8 0
+Z9 1
+SN 2095-2899
+EI 1993-0666
+UT WOS:000364565900019
+ER
+
+PT J
+AU Terroso-Saenz, F.
+   Valdes-Vela, M.
+   den Breejen, E.
+   Hanckmann, P.
+   Dekker, R.
+   Skarmeta-Gomez, A. F.
+TI CEP-traj: An event-based solution to process trajectory data
+SO INFORMATION SYSTEMS
+VL 52
+SI SI
+BP 34
+EP 54
+DI 10.1016/j.is.2015.03.005
+PD AUG-SEP 2015
+PY 2015
+AB In this day and age, there exists an increasing need for systems and
+   architectures able to process spatio-temporal data in a timely way. As a
+   result, this paper presents CEP-traj, a novel middleware to ease the
+   development of real-time trajectory-based services based on the Complex
+   Event Processing (CEP) paradigm. By means of an event-based approach,
+   the present middleware is able to detect a set of generic patterns along
+   with meaningful changes of an entity's movement. In order to prove its
+   suitability and feasibility, a vessel abnormal-behaviour detection
+   system has been developed on the basis of the middleware's features.
+   Finally, both synthetic and real datasets have been used to test the
+   accuracy and performance of the middleware and the detection system
+   implemented on top of the Esper engine. (C) 2015 Elsevier Ltd. All
+   rights reserved.
+CT 6th International Conference on Similarity Search and Applications
+   (SISAP)
+CY OCT 02-04, 2013
+CL Univ A Coruna, A Coruna, SPAIN
+HO Univ A Coruna
+SP Fields Inst Res Math Sci; Univ A Coruna, Ctr Res & Dev Informat
+   Technologies
+RI Terroso-Saenz, Fernando/K-2426-2014
+Z8 0
+TC 6
+ZB 0
+ZR 0
+ZS 0
+Z9 6
+SN 0306-4379
+EI 1873-6076
+UT WOS:000356983400003
+ER
+
+PT J
+AU Krueger, Robert
+   Thom, Dennis
+   Ertl, Thomas
+TI Semantic Enrichment of Movement Behavior with Foursquare-A Visual
+   Analytics Approach
+SO IEEE TRANSACTIONS ON VISUALIZATION AND COMPUTER GRAPHICS
+VL 21
+IS 8
+BP 903
+EP 915
+DI 10.1109/TVCG.2014.2371856
+PD AUG 2015
+PY 2015
+AB In recent years, many approaches have been developed that efficiently
+   and effectively visualize movement data, e.g., by providing suitable
+   aggregation strategies to reduce visual clutter. Analysts can use them
+   to identify distinct movement patterns, such as trajectories with
+   similar direction, form, length, and speed. However, less effort has
+   been spent on finding the semantics behind movements, i.e. why somebody
+   or something is moving. This can be of great value for different
+   applications, such as product usage and consumer analysis, to better
+   understand urban dynamics, and to improve situational awareness.
+   Unfortunately, semantic information often gets lost when data is
+   recorded. Thus, we suggest to enrich trajectory data with POI
+   information using social media services and show how semantic insights
+   can be gained. Furthermore, we show how to handle semantic uncertainties
+   in time and space, which result from noisy, unprecise, and missing data,
+   by introducing a POI decision model in combination with highly
+   interactive visualizations. Finally, we evaluate our approach with two
+   case studies on a large electric scooter data set and test our model on
+   data with known ground truth.
+OI Ertl, Thomas/0000-0003-4019-2505
+ZR 0
+Z8 0
+ZB 0
+ZS 0
+TC 10
+Z9 10
+SN 1077-2626
+EI 1941-0506
+UT WOS:000357599100003
+PM 26357254
+ER
+
+PT J
+AU Fileto, Renato
+   May, Cleto
+   Renso, Chiara
+   Pelekis, Nikos
+   Klein, Douglas
+   Theodoridis, Yannis
+TI The Baquara(2) knowledge-based framework for semantic enrichment and
+   analysis of movement data
+SO DATA & KNOWLEDGE ENGINEERING
+VL 98
+SI SI
+BP 104
+EP 122
+DI 10.1016/j.datak.2015.07.010
+PD JUL 2015
+PY 2015
+AB The analysis of movements frequently requires more than just
+   spatio-temporal data. Thus, despite recent progresses in trajectory
+   handling, there is still a gap between movement data and formal
+   semantics. This gap hinders movement analyses benefiting from available
+   knowledge, with well-defined and widely agreed semantics. This article
+   describes the Baquara(2) framework to help narrow this gap by exploiting
+   knowledge bases to semantically enrich and analyze movement data. It
+   provides an ontological model for structuring and abstracting movement
+   data in a multilevel hierarchy of progressively detailed movement
+   segments that generalize concepts such as trajectories, stops, and
+   moves. Baquara(2) also includes a general customizable process to
+   annotate movement data with concepts and objects described in ontologies
+   and Linked Open Data (LOD) collections. The resulting semantic
+   annotations enable queries for movement analyses based on application
+   and domain specific knowledge. The proposed framework has been used in
+   experiments to semantically enrich movement data collected from social
+   media with geo-referenced LOD. The obtained results enable powerful
+   queries that illustrate Baquara(2) capabilities. (C) 2015 Elsevier B.V.
+   All rights reserved.
+RI Trivedi, Kruti/E-7558-2015; Renso, Chiara/
+OI Renso, Chiara/0000-0002-1763-2966
+ZB 0
+ZR 0
+Z8 0
+TC 10
+ZS 0
+Z9 10
+SN 0169-023X
+EI 1872-6933
+UT WOS:000363076700006
+ER
+
+PT J
+AU Lin, Qiang
+   Zhang, Daqing
+   Connelly, Kay
+   Ni, Hongbo
+   Yu, Zhiwen
+   Zhou, Xingshe
+TI Disorientation detection by mining GPS trajectories for
+   cognitively-impaired elders
+SO PERVASIVE AND MOBILE COMPUTING
+VL 19
+BP 71
+EP 85
+DI 10.1016/j.pmcj.2014.01.003
+PD MAY 2015
+PY 2015
+AB The aging population is a major concern of human society in the 21st
+   century. Elders who suffer physical or cognitive impairments often have
+   difficulties in navigational tasks and remembering landmarks. As such,
+   disorientation (i.e., getting lost) becomes common for people with
+   dementia in unfamiliar or even in familiar environments. In order to
+   provide appropriate real-time assistive services to these elders, such
+   as reminders and alerts, we propose a disorientation detection method
+   that detects outliers in one's GPS trajectories. In particular, we first
+   model an individual's movement trajectories as a graph based on her
+   historical GPS traces. We then identify outlying trajectories that have
+   a defined wandering or deviating pattern as potential instances of
+   disorientation. We develop a method called iBDD that is able to detect
+   two categories of outlying trajectories in a uniform framework in
+   real-time. Using ten individuals' real-world GPS datasets, we
+   demonstrate that iBDD can achieve 95% detection rate of disorientation
+   with less than 3% of false positives, based on properly chosen
+   parameters. (C) 2014 Elsevier B.V. All rights reserved.
+ZB 0
+Z8 0
+ZR 0
+TC 11
+ZS 0
+Z9 11
+SN 1574-1192
+EI 1873-1589
+UT WOS:000353830400005
+ER
+
+PT J
+AU Vlachos, Michail
+   Schneider, Johannes
+   Vassiliadis, Vassilios G.
+TI On Data Publishing with Clustering Preservation
+SO ACM TRANSACTIONS ON KNOWLEDGE DISCOVERY FROM DATA
+VL 9
+IS 3
+SI SI
+AR 23
+DI 10.1145/2700403
+PD APR 2015
+PY 2015
+AB The emergence of cloud-based storage services is opening up new avenues
+   in data exchange and data dissemination. This has amplified the interest
+   in right-protection mechanisms to establish ownership in the event of
+   data leakage. Current right-protection technologies, however, rarely
+   provide strong guarantees on dataset utility after the protection
+   process. This work presents techniques that explicitly address this
+   topic and provably preserve the outcome of certain mining operations. In
+   particular, we take special care to guarantee that the outcome of
+   hierarchical clustering operations remains the same before and after
+   right protection. Our approach considers all prevalent hierarchical
+   clustering variants: single-, complete-, and average-linkage. We imprint
+   the ownership in a dataset using watermarking principles, and we derive
+   tight bounds on the expansion/contraction of distances incurred by the
+   process. We leverage our analysis to design fast algorithms for right
+   protection without exhaustively searching the vast design space.
+   Finally, because the right-protection process introduces a user-tunable
+   distortion on the dataset, we explore the possibility of using this
+   mechanism for data obfuscation. We quantify the tradeoff between
+   obfuscation and utility for spatiotemporal datasets and discover very
+   favorable characteristics of the process. An additional advantage is
+   that when one is interested in both right-protecting and obfuscating the
+   original data values, the proposed mechanism can accomplish both tasks
+   simultaneously.
+OI Vlachos, Michail/0000-0003-1008-5290
+ZS 0
+ZB 0
+ZR 0
+TC 1
+Z8 1
+Z9 2
+SN 1556-4681
+EI 1556-472X
+UT WOS:000354053500010
+ER
+
+PT J
+AU Giuggioli, Luca
+   McKetterick, Thomas J.
+   Holderied, Marc
+TI Delayed Response and Biosonar Perception Explain Movement Coordination
+   in Trawling Bats
+SO PLOS COMPUTATIONAL BIOLOGY
+VL 11
+IS 3
+AR UNSP e1004089
+DI 10.1371/journal.pcbi.1004089
+PD MAR 2015
+PY 2015
+AB Animal coordinated movement interactions are commonly explained by
+   assuming unspecified social forces of attraction, repulsion and
+   alignment with parameters drawn from observed movement data. Here we
+   propose and test a biologically realistic and quantifiable biosonar
+   movement interaction mechanism for echolocating bats based on spatial
+   perceptual bias, i.e. actual sound field, a reaction delay, and observed
+   motor constraints in speed and acceleration. We found that foraging
+   pairs of bats flying over a water surface swapped leader-follower roles
+   and performed chases or coordinated manoeuvres by copying the heading a
+   nearby individual has had up to 500 ms earlier. Our proposed mechanism
+   based on the interplay between sensory-motor constraints and delayed
+   alignment was able to recreate the observed spatial actor-reactor
+   patterns. Remarkably, when we varied model parameters (response delay,
+   hearing threshold and echolocation directionality) beyond those observed
+   in nature, the spatio-temporal interaction patterns created by the model
+   only recreated the observed interactions, i.e. chases, and best matched
+   the observed spatial patterns for just those response delays, hearing
+   thresholds and echolocation directionalities found to be used by bats.
+   This supports the validity of our sensory ecology approach of movement
+   coordination, where interacting bats localise each other by active
+   echolocation rather than eavesdropping.
+RI Holderied, Marc/M-9382-2013; Giuggioli, Luca/J-2881-2012
+OI Holderied, Marc/0000-0002-1573-7908; 
+ZR 0
+ZS 0
+Z8 0
+ZB 9
+TC 16
+Z9 16
+SN 1553-7358
+UT WOS:000352195700015
+PM 25811627
+ER
+
+PT J
+AU Ilarri, Sergio
+   Stojanovic, Dragan
+   Ray, Cyril
+TI Semantic management of moving objects: A vision towards smart mobility
+SO EXPERT SYSTEMS WITH APPLICATIONS
+VL 42
+IS 3
+BP 1418
+EP 1435
+DI 10.1016/j.eswa.2014.08.057
+PD FEB 15 2015
+PY 2015
+AB This position paper presents our vision for the semantic management of
+   moving objects. We argue that exploiting semantic techniques in mobility
+   data management can bring valuable benefits to many domains
+   characterized by the mobility of users and moving. objects in general,
+   such as traffic management, urban dynamics analysis, ambient assisted
+   living, emergency management, m-health, etc. We present the
+   state-of-the-art in the domain of management of semantic locations and
+   trajectories, and outline research challenges that need to be
+   investigated to enable a full-fledged and intelligent semantic
+   management of moving objects and location-based services that support
+   smarter mobility. We propose a distributed framework for the semantic
+   enrichment and management of mobility data and analyze the potential
+   deployment and exploitation of such a framework. (C) 2014 Elsevier Ltd.
+   All rights reserved.
+RI ILARRI, SERGIO/L-6311-2014; Stojanovic, Dragan/
+OI ILARRI, SERGIO/0000-0002-7073-219X; Stojanovic,
+   Dragan/0000-0003-4893-3814
+Z8 1
+ZB 0
+ZS 0
+TC 15
+ZR 0
+Z9 15
+SN 0957-4174
+EI 1873-6793
+UT WOS:000345734700036
+ER
+
+PT B
+AU Codreanu, Dana
+   Peninou, Andre
+   Sedes, Florence
+GP IEEE
+TI Video spatio-temporal filtering based on cameras and target objects
+   trajectories - Videosurveillance forensic framework
+SO PROCEEDINGS 10TH INTERNATIONAL CONFERENCE ON AVAILABILITY, RELIABILITY
+   AND SECURITY ARES 2015
+BP 611
+EP 617
+DI 10.1109/ARES.2015.102
+PD 2015
+PY 2015
+AB This paper presents our work about assisting videosurveillance agents in
+   the search for particular video scenes of interest in transit network.
+   This work has been developed based on requirements defined within
+   different projects with the French National Police in a forensic goal.
+   The video-surveillance agent inputs a query in the form of a hybrid
+   trajectory (date, time, locations expressed with regards to different
+   reference systems) and potentially some visual descriptions of the
+   scene. The query processing starts with the interpretation of the hybrid
+   trajectory and continues with a selection of a set of cameras likely to
+   have filmed the spatial trajectory. The main contributions of this paper
+   are: (1) a definition of the hybrid trajectory query concept, trajectory
+   that is constituted of geometrical and symbolic segments represented
+   with regards to different reference systems (e.g., geodesic system, road
+   network), (2) a spatio-temporal filtering framework based on a
+   spatio-temporal modeling of the transit network and associated cameras.
+CT Proceedings 10th International Conference on Availability, Reliability
+   and Security ARES 2015
+CY AUG 24-28, 2015
+CL Toulouse, FRANCE
+SP SBA Res; U Toulouse III Paul Sabatier; Tech U Wien Vienna U Tech; IRIT;
+   SOC ICT KNOWLEDGE TRANSFER
+OI Peninou, Andre/0000-0001-6387-0079
+ZR 0
+TC 1
+Z8 0
+ZS 0
+ZB 0
+Z9 1
+BN 978-1-4673-6590-1
+UT WOS:000380572600079
+ER
+
+PT B
+AU Wagih, Heba M.
+   Mokhtar, Hoda M. O.
+GP IEEE
+TI HBTOnto: An Ontology Model for Analyzing Human Behavior Trajectories
+SO 2015 11TH INTERNATIONAL CONFERENCE ON SEMANTICS, KNOWLEDGE AND GRIDS
+   (SKG)
+BP 126
+EP 132
+DI 10.1109/SKG.2015.37
+PD 2015
+PY 2015
+AB Social Network has recently played a significant role in both scientific
+   and social communities. The growing adoption of social network
+   applications has been a relevant source of information nowadays. Due to
+   its popularity, several research trends are emerged to service the huge
+   volume of users including, Location Based Social Networks (LBSN),
+   Recommendation Systems, Sentiment Analysis Applications, and many
+   others. LBSNs applications are among the highly demanded applications
+   that do not focus only on analyzing the spatio-temporal positions in a
+   given raw trajectory but also on understanding the semantics behind the
+   dynamics of the moving object. LBSNs are possible means of predicting
+   human mobility based on users social ties as well as their spatial
+   preferences. LBSNs rely on the efficient representation of users'
+   trajectories. Hence, traditional raw trajectory information is no longer
+   convenient. In our research we focus on studying human behavior
+   trajectory which is the major pillar in location recommendation systems.
+   In this paper we propose an ontology model with its underlying
+   description logics to efficiently annotate human behavior trajectories.
+CT 11th International Conference on Semantics, Knowledge and Grids (SKG)
+CY AUG 19-21, 2015
+CL Beijing, PEOPLES R CHINA
+SP Chinese Acad Sci, Inst Comp Technol; Key Lab Intelligent Informat Proc
+TC 0
+ZB 0
+ZS 0
+Z8 0
+ZR 0
+Z9 0
+BN 978-1-4673-9808-4
+UT WOS:000380952200017
+ER
+
+PT S
+AU Guan, Chu
+   Lu, Xinjiang
+   Li, Xiaolin
+   Chen, Enhong
+   Zhou, Wenjun
+   Xiong, Hui
+BE Aggarwal, C
+   Zhou, ZH
+   Tuzhilin, A
+   Xiong, H
+   Wu, X
+TI Discovery of College Students in Financial Hardship
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM)
+SE IEEE International Conference on Data Mining
+BP 141
+EP 150
+DI 10.1109/ICDM.2015.49
+PD 2015
+PY 2015
+AB College students with financial difficulties refer to those whose
+   families can hardly afford their high tuition in universities, and
+   should be supported by modern funding system. Indeed, students' economic
+   plight negatively impact their mental health, academic performance, as
+   well as their personal and social life. While funding students in
+   financial hardship is widely accepted, there is limited understanding
+   and research on effectively identification of the qualifying students.
+   Traditional approaches relying on advisers' personal assessments are
+   inefficient, and such subjective judgements may not reflect the truth.
+   To this end, in this paper, we explore the data mining techniques for
+   identifying students who are qualified for financial support.
+   Specifically, we investigate students' complex behaviors on campus from
+   multiple perspectives, and develop a learning framework, named Dis-HARD,
+   by jointly incorporating the heterogeneous features to predict the
+   portfolio of stipends a given student should be awarded. Our framework
+   formalizes the above problem as a multi-label learning problem. Along
+   this line, we first extract discriminative features from three
+   perspectives: (i) smartcard usage behavior, (ii) internet usage behavior
+   and (iii) trajectory on campus. Then, we develop a linear loss function
+   with regularization to solve this multi-label classification problem. In
+   addition, to effectively exploit the students' similarity and label
+   dependency, we incorporate the graph Laplacian and composite l(2,1)-norm
+   into the regularization of our model, and develop a re-weighted
+   algorithm to achieve effective optimization. Finally, experiments on
+   real-world data demonstrate that our method consistently provides better
+   performance compared to the existing state-of-the-art methods.
+CT IEEE International Conference on Data Mining (ICDM)
+CY NOV 14-17, 2015
+CL Atlantic City, NJ
+SP IEEE Comp Soc; Stony Brook Univ; Pinnacle; IEEE; RUTGERS; KD nuggets;
+   cisco; drawbridge; NSF
+OI Zhou, Wenjun/0000-0003-2346-8151; Lu, Xinjiang/0000-0002-3602-0391
+Z8 1
+ZR 0
+ZB 0
+TC 4
+ZS 0
+Z9 4
+SN 1550-4786
+BN 978-1-4673-9503-8
+UT WOS:000380541000015
+ER
+
+PT S
+AU Uzun, Abdulbaki
+BE Kankanhalli, MS
+   Li, T
+   Wang, W
+TI Linked Crowdsourced Data - Enabling Location Analytics in the Linking
+   Open Data Cloud
+SO 2015 IEEE 9TH INTERNATIONAL CONFERENCE ON SEMANTIC COMPUTING (ICSC)
+SE IEEE International Conference on Semantic Computing
+BP 40
+EP 48
+PD 2015
+PY 2015
+AB Geospatial datasets in the Linking Open Data (LOD) Cloud are rather of
+   static nature and mainly consist of information such as a name, geo
+   coordinates, an address, or opening hours. There is no linked dataset
+   providing dynamic information about the ''popularity'' of certain places
+   or the "visiting frequency" of users in specific contextual situations.
+   This type of information within the WD Cloud, however, would enable a
+   variety of new applications based on semantically enriched location
+   analytics. In this paper, we present Linked Crowd-sourced Data as a
+   dataset, which links real user location preferences (e.g., check-ins,
+   ratings, or comments) as well as specific context situations (e.g.,
+   weather conditions, holiday information, or measured networks) collected
+   via crowdsourcing to static location data. We showcase the applicability
+   of this dataset for location analytics use cases through a map
+   visualization and highlight its added value with exemplary SPARQL
+   queries that allow for location requests depending on historic context
+   information.
+CT IEEE 9th International Conference on Semantic Computing
+CY FEB 07-09, 2015
+CL IEEE Computer Society, california, UNITED STATES
+HO IEEE Computer Society
+SP IEEE Systems; IEEE Computer Society
+Z8 0
+ZB 0
+ZR 0
+TC 1
+ZS 0
+Z9 1
+SN 2325-6516
+BN 978-1-4799-7935-6
+UT WOS:000380479200006
+ER
+
+PT B
+AU Chen, Chien-Cheng
+   Kuo, Chia-Hsiang
+   Peng, Wen-Chih
+BE Cui, P
+   Dy, J
+   Aggarwal, C
+   Zhou, ZH
+   Tuzhilin, A
+   Xiong, H
+   Wu, X
+TI Mining Spatial-Temporal Semantic Trajectory Patterns from Raw
+   Trajectories
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOP (ICDMW)
+BP 1019
+EP 1024
+DI 10.1109/ICDMW.2015.55
+PD 2015
+PY 2015
+AB With the development of GPS and the popularity of smart phones and
+   wearable devices, users can easily log their daily trajectories. Prior
+   works have elaborated on mining trajectory patterns from raw
+   trajectories. However, trajectory patterns do not have explicit time
+   information or semantic information. To enrich trajectory patterns, we
+   propose STS-TPs (standing for Spatial-Temporal Semantic Trajectory
+   Patterns) which refer to the moving patterns with spatial, temporal, and
+   semantic attributes. Given a set of user trajectories, we aim at mining
+   STS-TPs. Explicitly, we extract the three attributes from raw
+   trajectories, and convert these trajectories into semantic trajectory
+   sequences. Given a set of such semantic trajectory sequences, STS-TPs
+   could be viewed as sequential patterns with multiple attributes. To
+   fully explore the efficiency of PrefixSpan on sequential pattern mining,
+   we propose a PrefixSpan-based algorithm (abbreviated as PS) to discover
+   STS-TPs. Note that the input for PrefixSpan is a set of sequences
+   consisting of items. However, each item of semantic trajectory sequences
+   contains three attributes, and we need to further transform these
+   sequences into symbolized sequences before using PrefixSpan. Therefore,
+   we propose two algorithms of Sequence Symbolization (SS) and Advanced
+   Sequence Symbolization (ASS) to achieve this purpose. In light of
+   STS-TPs, we further propose query tasks to predict users' behaviors. To
+   evaluate our proposed algorithms, we conducted experiments on the real
+   datasets of Google Location History, and the experimental results show
+   the effectiveness and efficiency of our proposed algorithms.
+CT IEEE 15th International Conference on Data Mining Workshops (ICDMW)
+CY NOV 14-17, 2015
+CL Atlantic, NJ
+SP Baidu; Stony Brook Univ; Pinnacle; NSF; IEEE; Rutgers; KD Nuggets;
+   Cisco; Drawbridge; IEEE Comp Soc
+ZS 0
+Z8 2
+TC 4
+ZB 0
+ZR 0
+Z9 5
+BN 978-1-4673-8493-3
+UT WOS:000380556700136
+ER
+
+PT S
+AU Jiang, Renhe
+   Zhao, Jing
+   Dong, Tingting
+   Ishikawa, Yoshiharu
+   Xiao, Chuan
+   Sasaki, Yuya
+GP IEEE
+TI A Density-based Approach for Mining Movement Patterns from Semantic
+   Trajectories
+SO TENCON 2015 - 2015 IEEE REGION 10 CONFERENCE
+SE TENCON IEEE Region 10 Conference Proceedings
+PD 2015
+PY 2015
+AB In this paper, we study the problem of discovering all movement patterns
+   from semantic trajectory databases. We propose a two-step method to
+   solve this problem efficiently. We first retrieve frequent movement
+   patterns of categories from the transformed database of sequential
+   categories, and then cluster dense trajectories in a growth-type way for
+   all movement patterns. Moreover, we define a new metric distance
+   function on trajectories. We also use M-tree to cluster trajectories
+   more efficiently. Our experimental results demonstrate the efficiency of
+   the proposed method.
+CT IEEE Region 10 Conference
+CY NOV 01-04, 2015
+CL Macao, PEOPLES R CHINA
+SP IEEE; IPIM; CIUR; IEEE SINGAPORE SEC; CPSS; manetic; Melco Crown
+   Entertainment; MACAO WATER; cadence ACADEMIC NETWORK; MuleSoft; cem;
+   Wanlida; MANGO MESSAGING TECH; SEE; FDCT
+RI Jiang, Renhe/L-8202-2018
+OI Jiang, Renhe/0000-0003-2593-4638
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 0
+Z9 0
+SN 2159-3442
+BN 978-1-4799-8641-5
+UT WOS:000380489200323
+ER
+
+PT B
+AU Qiu, Weijun
+   Bandara, Ayomi
+BE Weber, M
+   Minker, W
+   Mikulecky, P
+   Cech, P
+   Hunter, G
+   Egerton, S
+TI GPS Trace Mining for Discovering Behaviour Patterns
+SO 2015 INTERNATIONAL CONFERENCE ON INTELLIGENT ENVIRONMENTS IE 2015
+BP 65
+EP 72
+DI 10.1109/IE.2015.17
+PD 2015
+PY 2015
+AB There are diverse sensor applications built into different personal
+   devices, which have the ability to record data related to various
+   aspects of the user. With the ever increasing popularity and lowering
+   costs of such personal devices such as Smart Phones, collecting data
+   from the mobile sensors available in these devices becomes feasible. A
+   wealth of information can be gleaned from such data collected from these
+   sensors which reveals various aspects of the individual's behaviour and
+   activity. Existing approaches for analyzing such data mainly focuses on
+   inferring semantic context and detecting associations from such data.
+   For example, GPS enabled devices allow users to record their movements
+   in the form of spatio-temporal stream points, and meaningful information
+   can be extracted based on different research objectives.
+   In this paper, we have investigated a computation framework in order to
+   identify users' activity categories and their event's associations from
+   GPS trajectory data. This framework has several progressive stages and
+   is designed based on different approaches in each stage, which will
+   facilitate to analyse people's everyday lifestyles that are related to
+   outdoor behaviours. Moreover, we have proposed an approach to improve
+   the performance of the semantic annotation process of this framework, by
+   combining different sources of mobile sensor data (i.e. GPS and audio
+   data). The proposed framework and approaches have been validated on
+   actual data sets which include the Microsoft's Geolife data set and a
+   data set collected by ourselves.
+CT International Conference on Intelligent Environments IE
+CY JUL 15-17, 2015
+CL Prague, CZECH REPUBLIC
+SP U Hradec Kralove; IEEE Systems Man Cybernetics Soc; Taylor Francis
+   Group; IOS Press; Ass Adv Artificial Intelligence
+Z8 0
+ZB 0
+TC 1
+ZR 0
+ZS 0
+Z9 1
+BN 978-1-4673-6654-0
+UT WOS:000380426800009
+ER
+
+PT B
+AU Abbasifard, Mohammad Reza
+   Naderi, Hassan
+   Alamdari, Omid Isfahani
+   Jafari, Ali
+GP IEEE
+TI New Method for Management of Moving Objects Trajectories in Intelligent
+   Transportation Systems
+SO 2015 2ND INTERNATIONAL CONFERENCE ON KNOWLEDGE-BASED ENGINEERING AND
+   INNOVATION (KBEI)
+BP 491
+EP 495
+PD 2015
+PY 2015
+AB There are always challenges of collecting, indexing and query processing
+   of moving objects trajectories in the field of Moving Objects Databases
+   (MODB). Trajectory data collected by location-aware devices are usually
+   prone to different errors and in most situations indexing and query
+   processing are performed on this erroneous data. As a result, responses
+   provided for the queries that posed by various application scenarios of
+   Intelligent Transportation Systems (ITS) and Location Based Services
+   (LBS), have low accuracy, besides having significant time delay. In this
+   paper, we proposed a model that, tries to reduce the errors of data
+   using map-matching algorithms and index them by exploiting road network
+   information. The indexing can be carried out on past and current
+   movements separately. There is also a possibility of data reduction
+   prior to indexing in order to improve the query processing performance,
+   which attempts to reduce the volumes of data while keeping their quality
+   acceptable for applications. Experiments show the improvement in
+   accuracy and response time of different spatio-temporal queries. In
+   addition, the effect of map-matching and data reduction on indexing
+   methods are also studied.
+CT 2nd International Conference on Knowledge Based Engineering and
+   Innovation (KBEI)
+CY NOV 05-06, 2015
+CL Tehran, IRAN
+SP KBEI; IEEETarbiat ModaresUniv; IEEE Iran Sect; IEEE Xplore Digital Lib;
+   United Nat Educat Sci & Cultural Org; Iranian Nat Commission UNESCO;
+   Iran Univ Sci & Technol; Ministry Information & Commun Technol
+   Information Technol Org Iran; Ministry Sci Res & Technol Iranian Res
+   Inst Information Sci & Technol; Ministry Interior Shahreqods Govt; IJMEC
+   Universal Sci Org
+RI Torkaman Rahmani, Adel/S-9542-2018; naderi, hassan/S-9556-2018
+ZS 0
+Z8 0
+ZB 0
+TC 0
+ZR 0
+Z9 0
+BN 978-1-4673-6506-2
+UT WOS:000380397500083
+ER
+
+PT B
+AU Deva, Bersant
+   Ruppel, Peter
+BA Zhu, H
+BE Miller, JS
+TI Location Analytics as a Service: Providing Insights for Heterogeneous
+   Spatiotemporal Data
+SO 2015 IEEE INTERNATIONAL CONFERENCE ON WEB SERVICES (ICWS)
+BP 353
+EP 360
+DI 10.1109/ICWS.2015.114
+PD 2015
+PY 2015
+AB The increasing availability of positioning data from mobile devices
+   facilitates new opportunities for location analytics systems, which
+   provide insights into the movement behavior of targets across various
+   localities. Similar to web analytics systems, positioning data can be
+   utilized to count, for example, returning visitors in venues, calculate
+   visit frequencies for certain time intervals, or to identify typical
+   movement paths for different groups of visitors inside and outside
+   buildings. However, a major challenge for location analytics is still to
+   deal with the heterogeneity of data from various positioning systems. In
+   this paper we present a platform that enables location analytics as a
+   service and copes with the heterogeneous spatiotemporal data of diverse
+   accuracy, frequency, and coverage. Furthermore, it allows to query large
+   positioning datasets according to various data dimensions and metrics.
+   In an additional four-month field trial the applicability of our
+   approach was reviewed using the example of WLAN positioning data from an
+   office environment.
+CT IEEE International Conference on Web Services (ICWS)
+CY JUN 27-JUL 02, 2015
+CL New York, NY
+SP IEEE Comp Soc; Serv Soc; Serv Comp; BIG DATA; HP; IBM; ERICSSON; SAP;
+   IBM RES; HUAWEI; OBJECT MANAGEMENT GRP; IEEE CLOUD COMP; BUSINESS
+   PROCESS INTEGRAT & MANAGEMENT; PROFESS; INT J WEB SERV RES; COMP NOW;
+   IEEE T SERV COMP; IEEE; CLOUD COMP
+ZR 0
+ZB 0
+TC 1
+Z8 0
+ZS 0
+Z9 1
+BN 978-1-4673-7272-5
+UT WOS:000380486400045
+ER
+
+PT S
+AU Albanna, Basma H.
+   Moawad, Ibrahim F.
+   Moussa, Sherin M.
+   Sakr, Mahmoud A.
+BE Popovich, V
+   Claramunt, C
+   Schrenk, M
+   Korolenko, K
+   Gensel, J
+TI Semantic Trajectories: A Survey from Modeling to Application
+SO INFORMATION FUSION AND GEOGRAPHIC INFORMATION SYSTEMS (IF&GIS' 2015):
+   DEEP VIRTUALIZATION FOR MOBILE GIS
+SE Lecture Notes in Geoinformation and Cartography
+BP 59
+EP 76
+DI 10.1007/978-3-319-16667-4_4
+PD 2015
+PY 2015
+AB Trajectory data analysis has recently become an active research area.
+   This is due to the large availability of mobile tracking sensors, such
+   as GPS-enabled smart phones. However, those GPS trackers only provide
+   raw trajectories (x, y, t), ignoring information about the activity,
+   transportation mode, etc. This information can contribute in producing
+   significant knowledge about movements, which transforms raw trajectories
+   into semantic trajectories. Therefore, research lately has focused on
+   semantic trajectories; their representation, construction, and
+   applications. This paper investigates the current studies on semantic
+   trajectories so far. We propose a new classification schema for the
+   research efforts in semantic trajectory construction and applications.
+   The proposed classification schema includes three main classes: semantic
+   trajectory modeling, computation, and applications. Besides, we discuss
+   the current research gaps found in this research area.
+CT 7th International Workshop on Information Fusion and Geographic
+   Information Systems - Deep Virtualization for Mobile GIS (IF&GIS)
+CY MAY 18-20, 2015
+CL Grenoble, FRANCE
+SP Univ Grenoble Alpes
+Z8 0
+ZR 0
+TC 3
+ZB 0
+ZS 0
+Z9 3
+SN 1863-2246
+BN 978-3-319-16667-4; 978-3-319-16666-7
+UT WOS:000380447900004
+ER
+
+EF

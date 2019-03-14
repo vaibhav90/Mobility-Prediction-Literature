@@ -1,0 +1,2201 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT B
+AU Miluzzo, Emiliano
+   Lane, Nicholas D.
+   Fodor, Kristof
+   Peterson, Ronald
+   Lu, Hong
+   Musolesi, Mirco
+   Eisenman, Shane B.
+   Zheng, Xiao
+   Campbell, Andrew T.
+GP ACM
+TI Sensing Meets Mobile Social Networks: The Design, Implementation and
+   Evaluation of the CenceMe Application
+SO SENSYS'08: PROCEEDINGS OF THE 6TH ACM CONFERENCE ON EMBEDDED NETWORKED
+   SENSOR SYSTEMS
+BP 337
+EP 350
+PD 2008
+PY 2008
+AB We present the design, implementation, evaluation, and user experiences
+   of the CenceMe application, which represents the first system that;
+   combines the inference of the presence of individuals using
+   off-the-shelf, sensor-enabled mobile phones with sharing of this
+   information through social networking applications such as Facebook and
+   MySpace. We discuss the system challenges for the development of
+   software oil the Nokia N95 mobile phone. We present the design and
+   tradeoffs of split-level classification, whereby personal sensing
+   presence (e.g., walking, in conversation, at the gym) is derived front
+   classifiers which execute in part oil the phones and in part oil the
+   backend servers to achieve scalable inference. We report performance
+   measurements that characterize the computational requirements of the
+   software and the energy consumption of the CenceMe phone client. We
+   validate the system through a user study where twenty two people,
+   including undergraduates, graduates and faculty, used CenceMe
+   continuously over a three week period in a campus town. From this user
+   study we learn how the system performs in a production environment and
+   what uses people find for a personal sensing system.
+CT 6th ACM Conference on Embedded Networked Sensor Systems
+CY NOV 05-07, 2008
+CL Raleigh, NC
+SP ACM SIGCOMM; SIGMobile; SIGARCH; SIGBED; SIGMetrics; SIGOPS
+ZB 4
+ZR 0
+Z8 3
+ZS 0
+TC 313
+Z9 316
+BN 978-1-59593-990-6
+UT WOS:000267822600025
+ER
+
+PT S
+AU Dara-Abrams, Drew
+BE Freksa, C
+   Newcombe, NS
+   Gardenfors, P
+   Wolfl, S
+TI Cognitive Surveying: A Framework for Mobile Data Collection, Analysis,
+   and Visualization of Spatial Knowledge and Navigation Practices
+SO SPATIAL COGNITION VI: LEARNING, REASONING, AND TALKING ABOUT SPACE
+SE LECTURE NOTES IN ARTIFICIAL INTELLIGENCE
+VL 5248
+BP 138
+EP 153
+PD 2008
+PY 2008
+AB Spatial cognition researchers must, at present, choose between the
+   relevance of the real world and the precision of the lab. Here I
+   introduce cognitive surveying as a framework of computational techniques
+   to enable the automated and precise study of spatial knowledge and
+   navigation practices in everyday environments. I draw on surveying
+   engineering to develop the framework's components: a hardware platform,
+   data structures and algorithms for mobile data collection, and routines
+   for data analysis and visualization. The cognitive surveying system
+   tracks users with GPS, allows them to label meaningful points as
+   landmarks, and asks them to point toward or estimate the distance to
+   out-of-sight landmarks. The data from these and other questions is then
+   used to produce specific analyses and comprehensive overviews of the
+   user's spatial knowledge and navigation practices, which will be of
+   great interest to spatial cognition researchers, the developers of
+   location-based services, urban designers, and city planners alike.
+CT 6th International Conference on Spatial Cognition
+CY SEP 15-19, 2008
+CL Freiburg, GERMANY
+OI Dara-Abrams, Drew/0000-0002-5951-5282
+ZS 0
+TC 3
+Z8 0
+ZR 0
+ZB 0
+Z9 3
+SN 0302-9743
+BN 978-3-540-87600-7
+UT WOS:000260437200009
+ER
+
+PT S
+AU Kiefer, Peter
+BE Freksa, C
+   Newcombe, NS
+   Gardenfors, P
+   Wolfl, S
+TI Spatially Constrained Grammars for Mobile Intention Recognition
+SO SPATIAL COGNITION VI: LEARNING, REASONING, AND TALKING ABOUT SPACE
+SE LECTURE NOTES IN ARTIFICIAL INTELLIGENCE
+VL 5248
+BP 361
+EP 377
+PD 2008
+PY 2008
+AB Mobile intention recognition is the problem of inferring a mobile
+   agent's intentions from her spatio-temporal behavior. The intentions an
+   agent can have in a specific situation depend on the spatial context,
+   and on the spatially contextualized behavior history. We introduce two
+   spatially constrained grammars that allow for modeling of complex
+   constraints between space and intentions, one based on Context-Free, one
+   based on Tree-Adjoining Grammars. We show which of these formalisms is
+   suited best for frequently occurring intentional patterns. We argue that
+   our grammars are cognitively comprehensible, while at the same time
+   helping to prune the search space for intention recognition.
+CT 6th International Conference on Spatial Cognition
+CY SEP 15-19, 2008
+CL Freiburg, GERMANY
+Z8 0
+ZS 0
+ZB 0
+ZR 0
+TC 4
+Z9 4
+SN 0302-9743
+BN 978-3-540-87600-7
+UT WOS:000260437200023
+ER
+
+PT B
+AU Kim, Kihwan
+   Summet, Jay
+   Starner, Thad
+   Ashbrook, Daniel
+   Kapade, Mrunal
+   Essa, Irfan
+GP IEEE Comp Soc
+TI Localization and 3D Reconstruction of Urban Scenes Using GPS
+SO TWELFTH IEEE INTERNATIONAL SYMPOSIUM ON WEARABLE COMPUTERS, PROCEEDINGS
+BP 11
+EP 14
+PD 2008
+PY 2008
+AB Using off-the-shelf Global Positioning System (GPS) units, it;e
+   reconstruct buildings in 3D by exploiting the reduction in signal to
+   noise ratio (SNR) that occurs when the buildings obstruct the
+   line-of-sight between the moving units and the orbiting satellites. We
+   measure the size and height of skyscrapers as well as automatically
+   constructing a density map representing the location of multiple
+   buildings in an urban landscape.
+CT 12th IEEE International Symposium on Wearable Computers
+CY SEP 28-OCT 01, 2008
+CL Pittsburgh, PA
+SP IEEE
+OI Ashbrook, Daniel/0000-0002-4326-2110
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+TC 4
+Z9 4
+BN 978-1-4244-2637-9
+UT WOS:000265977200002
+ER
+
+PT S
+AU Redoutey, Martin
+   Scotti, Eric
+   Jensen, Christian
+   Ray, Cyril
+   Claramunt, Christophe
+BE Bertolotto, M
+   Ray, C
+   Li, X
+TI Efficient Vessel Tracking with Accuracy Guarantees
+SO WEB AND WIRELESS GEOGRAPHICAL INFORMATION SYSTEMS, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 5373
+BP 140
+EP +
+PD 2008
+PY 2008
+AB Safety and security are top concerns in maritime navigation,
+   particularly as maritime traffic continues to grow and as crew sizes are
+   reduced. The Automatic Identification System (AIS) plays a key role in
+   regard to these concerns. This system, whose objective is in part to
+   identify and locate vessels, transmits location-related information from
+   vessels to ground stations that are part of a so-called Vessel Traffic
+   Service (VTS), thus enabling these to track the movements of the
+   vessels. This paper presents techniques that improve the existing AIS by
+   offering better and guaranteed tracking accuracies at lower
+   communication costs. The techniques employ movement predictions that are
+   shared between vessels and the VTS. Empirical studies with a prototype
+   implementation and real vessel data demonstrate that the techniques are
+   capable of significantly improving the AIS.
+CT 8th International Symposium on Web and Wireless Geographical Information
+   Systems
+CY DEC 11-12, 2008
+CL Shanghai, PEOPLES R CHINA
+SP E China Normal Univ; Shanghai Ubiquitous Navigat Technologies; Geog Soc
+   Shanghai; Dfn 985 Platform Urbanizat & Public Safety
+ZB 0
+ZR 0
+TC 4
+Z8 0
+ZS 0
+Z9 4
+SN 0302-9743
+EI 1611-3349
+BN 978-3-540-89902-0
+UT WOS:000264099700013
+ER
+
+PT J
+AU Zhou, Changqing
+   Frankowski, Dan
+   Ludford, Pamela
+   Shekhar, Shashi
+   Terveen, Loren
+TI Discovering personally meaningful. places: An interactive clustering
+   approach
+SO ACM TRANSACTIONS ON INFORMATION SYSTEMS
+VL 25
+IS 3
+AR 12
+DI 10.1145/1247715.1247718
+PD JUL 2007
+PY 2007
+AB The discovery of a person's meaningful places involves obtaining the
+   physical locations and their labels for a person's places that matter to
+   his daily life and routines. This problem is driven by the requirements
+   from emerging location-aware applications, which allow a user to pose
+   queries and obtain information in reference to places, for example,
+   "home", "work" or "Northwest Health Club". It is a challenge to map from
+   physical locations to personally meaningful places due to a lack of
+   understanding of what constitutes the real users' personally meaningful
+   places. Previous work has explored algorithms to discover personal
+   places from location data. However, we know of no systematic empirical
+   evaluations of these algorithms, leaving designers of location-aware
+   applications in the dark about their choices.
+   Our work remedies this situation. We extended a clustering algorithm to
+   discover places. We also defined a set of essential evaluation metrics
+   and an interactive evaluation framework. We then conducted a large-scale
+   experiment that collected real users' location data and personally
+   meaningful places, and illustrated the utility of our evaluation
+   framework. Our results establish a baseline that future work can measure
+   itself against. They also demonstrate that that our algorithm discovers
+   places with reasonable accuracy and outperforms the well-known K-Means
+   clustering algorithm for place discovery. Finally, we provide evidence
+   that shapes more complex than "points" are required to represent the
+   full range of people's everyday places.
+ZS 0
+ZR 0
+ZB 1
+TC 58
+Z8 4
+Z9 62
+SN 1046-8188
+EI 1558-2868
+UT WOS:000249053600003
+ER
+
+PT J
+AU Brilingaite, Agne
+   Jensen, Christian S.
+TI Enabling routes of road network constrained movements as mobile service
+   context
+SO GEOINFORMATICA
+VL 11
+IS 1
+BP 55
+EP 102
+DI 10.1007/s10707-006-0010-z
+PD MAR 2007
+PY 2007
+AB With the continuing advances in wireless communications,
+   geo-positioning, and portable electronics, an infrastructure is emerging
+   that enables the delivery of on-line, location-enabled services to very
+   large numbers of mobile users. A typical usage situation for mobile
+   services is one characterized by a small screen and no keyboard, and by
+   the service being only a secondary focus of the user. Under such
+   circumstances, it is particularly important to deliver the "right"
+   information and service at the right time, with as little user
+   interaction as possible. This may be achieved by making services context
+   aware. Mobile users frequently follow the same route to a destination as
+   they did during previous trips to the destination, and the route and
+   destination constitute important aspects of the context for a range of
+   services. This paper presents key concepts underlying a software
+   component that identifies and accumulates the routes of a user along
+   with their usage patterns and that makes the routes available to
+   services. The problems associated with of route recording are analyzed,
+   and algorithms that solve the problems are presented. Experiences from
+   using the component on logs of GPS positions acquired from vehicles
+   traveling within a real road network are reported.
+OI Brilingaite, Agne/0000-0001-9768-4258
+ZB 0
+TC 7
+Z8 1
+ZS 0
+ZR 0
+Z9 8
+SN 1384-6175
+EI 1573-7624
+UT WOS:000244680800003
+ER
+
+PT S
+AU Hu, Dexter H.
+   Wang, Cho-Li
+BE Kuo, TW
+   Sha, E
+   Guo, M
+   Yang, LT
+   Shao, Z
+TI GPS-Based location extraction and presence management for mobile instant
+   messenger
+SO EMBEDDED AND UBIQUITOUS COMPUTING, PROCEEDINGS
+SE LECTURE NOTES IN COMPUTER SCIENCE
+VL 4808
+BP 309
+EP 320
+PD 2007
+PY 2007
+AB Location is the most essential presence information for mobile users. In
+   this paper, we present an improved time-based clustering technique for
+   extracting significant locations from CPS data stream. This new location
+   extraction mechanism is incorporated with Google Maps for realizing
+   cooperative place annotation on mobile instant messengers (MIM). To
+   enhance the context-awareness of the MIM system, we further develop an
+   ontology-based presence model for inferring the location clues of IM
+   buddies. The GPS-based location extraction algorithm has been
+   implemented on a Smartphone and evaluated using a real-life GPS trace.
+   We show that the proposed clustering algorithm can achieve more accurate
+   results as it considers the time interval of intermittent location
+   revisits. The incorporation of location information with the high-level
+   contexts, such as mobile user's current activity and their social
+   relationship, can achieve more responsive and accurate presence update.
+CT IFIP International Conference Embedded and Ubiquitous Computing
+CY DEC 17-20, 2007
+CL Taipei, TAIWAN
+SP IFIP
+TC 10
+ZR 0
+Z8 0
+ZS 0
+ZB 1
+Z9 10
+SN 0302-9743
+BN 978-3-540-77091-6
+UT WOS:000252267400027
+ER
+
+PT S
+AU Castelli, Gabriella
+   Mamei, Marco
+   Rosi, Alberto
+BE Hightower, J
+   Schiele, B
+   Strang, T
+TI The whereabouts diary
+SO LOCATION- AND CONTEXT-AWARENESS
+SE Lecture Notes in Computer Science
+VL 4718
+BP 175
+EP +
+DI 10.1007/978-3-540-75160-1_11
+PD 2007
+PY 2007
+AB The user profile is one of the main context-information in a wide range
+   of pervasive computing applications. Modem handheld devices provided
+   with localization capabilities could automatically create a diary of
+   user's whereabouts and use that information as a surrogate (or a
+   complement) of the user profile. The places we go, in fact, reveal also
+   something about us, for example, two persons can be matched as
+   compatible given the fact they visit the same places. Web-retrieved
+   information, and the temporal patterns with which different places are
+   visited, can be used to automatically define meaningful semantic labels
+   to the visited places. In our work we used geocoding and white-pages
+   Web-services to extract information about a place, and Bayesian networks
+   to classify places on the basis of the time in which they have been
+   visited. In this paper we describe the general idea at the basis of the
+   whereabouts diary, discuss our implementation, and present experimental
+   results. Finally, several applications that can exploit the diary are
+   illustrated.
+CT 3rd International Symposium on Location- and Contest-Awareness (LoCA
+   2007)
+CY SEP 20-21, 2007
+CL Oberpfaffenhofen, GERMANY
+SP German Aerosp Ctr; Intel
+RI Rosi, Alberto/J-2450-2012; mamei, marco/
+OI Rosi, Alberto/0000-0002-3593-4917; mamei, marco/0000-0003-3918-2107
+ZS 0
+Z8 0
+ZB 0
+TC 9
+ZR 0
+Z9 9
+SN 0302-9743
+BN 978-3-540-75159-5
+UT WOS:000250852300011
+ER
+
+PT S
+AU Krumm, John
+BE LaMarca, A
+   Langheinrich, M
+   Truong, KN
+TI Inference attacks on location tracks
+SO PERVASIVE COMPUTING, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 4480
+BP 127
+EP 143
+PD 2007
+PY 2007
+AB Although the privacy threats and countermeasures associated with
+   location data are well known, there has not been a thorough experiment
+   to assess the effectiveness of either. We examine location data gathered
+   from volunteer subjects to quantify how well four different algorithms
+   can identify the subjects' home locations and then their identities
+   using a freely available, programmable Web search engine. Our procedure
+   can identify at least a small fraction of the subjects and a larger
+   fraction of their home addresses. We then apply three different
+   obscuration countermeasures designed to foil the privacy attacks:
+   spatial cloaking, noise, and rounding. We show how much obscuration is
+   necessary to maintain the privacy of all the subjects.
+CT 5th International Conference on Pervasive Computing
+CY MAY 13-16, 2007
+CL Univ Toronto, Toronto, CANADA
+HO Univ Toronto
+SP Google; Intel; Nokia; SMART Technologies; FXPAL; METL; Microsoft Res
+ZS 1
+ZB 0
+Z8 12
+ZR 0
+TC 157
+Z9 169
+SN 0302-9743
+EI 1611-3349
+BN 978-3-540-72036-2
+UT WOS:000246493200008
+ER
+
+PT S
+AU Zhou, Changqing
+   Bhatnagar, Nupur
+   Shekhar, Shashi
+   Terveen, Loren
+GP IEEE
+TI Mining personally important places from GPS tracks
+SO 2007 IEEE 23RD INTERNATIONAL CONFERENCE ON DATA ENGINEERING WORKSHOP,
+   VOLS 1-2
+SE IEEE International Conference on Data Engineering Workshop
+BP 517
+EP 526
+DI 10.1109/ICDEW.2007.4401037
+PD 2007
+PY 2007
+AB The discovery of a person's personally important places involves
+   obtaining the physical locations for a person's places that matter to
+   his daily life and routines. This problem is driven by the requirements
+   from emerging location-aware applications, which allow a user to pose
+   queries and obtain information in reference to places, e.g., "home",
+   "work" or "Northwest Health Club". It is a challenge to map from
+   physical locations to personally meaningful places because GPS tracks
+   are continuous data both spatially and temporally, while most existing
+   data mining techniques expect discrete data. Previous work has explored
+   algorithms to discover personal places from location data. However, they
+   all have limitations. Our work proposes a two-step approach that
+   discretized continuous GPS data into places and learns important places
+   from the place features. Our approach was validated using real user data
+   and shown to have good accuracy when applied in predicting not only
+   important and frequent places, but also important and not so frequent
+   places.
+CT IEEE 23rd International Conference on Data Engineering Workshop
+CY APR 17-20, 2007
+CL Istanbul, TURKEY
+SP IEEE
+ZS 0
+TC 22
+ZR 0
+ZB 2
+Z8 0
+Z9 22
+SN 1943-2895
+BN 978-1-4244-0831-3
+UT WOS:000254288100065
+ER
+
+PT B
+AU Maria Cabero, Jose
+   De la Torre, Fernando
+   Sanchez, Aritz
+   Arizaga, Inigo
+GP ACM
+TI Indoor People Tracking Based on Dynamic Weighted MultiDimensional
+   Scaling
+SO MSWIM'07: PROCEEDINGS OF THE TENTH ACM SYMPOSIUM ON MODELING, ANALYSIS,
+   AND SIMULATION OF WIRELESS AND MOBILE SYSTEMS
+SE ACM Symposium on Modeling Analysis and Simulation of Wireless and Mobile
+   Systems
+BP 328
+EP 335
+PD 2007
+PY 2007
+AB Accurate location of people in indoor environments is a key aspect of
+   many applications such as resource management, or security. In this
+   paper, we explore the use of short-range radio technologies to track
+   people indoors. The network consists of two kind of radio nodes: static
+   nodes (anchors) and mobile nodes (people). From a set of sparse
+   connectivity matrices (people vs. people and people vs. anchors) at each
+   time instant; and people's dynamics, we infer people's trajectories. To
+   combine connectivity and dynamic information, we propose an extension of
+   Multidimensional Scaling (MDS), Dynamic Weighted MDS (DWMDS), that finds
+   an embedding of people's trajectories (x and y coordinates of people
+   through time). DWMDS has proven to be more accurate and effective,
+   especially for low connectivity degree networks (i.e. sparse networks),
+   compared to existing location algorithms. Extensive simulations show the
+   effectiveness and robustness of the proposed algorithm.
+CT 10th ACM/IEEE International Symposium on Modeling Analysis and
+   Simulation of Wireless and Mobile Systems
+CY OCT 22-26, 2007
+CL Chania, GREECE
+SP ACM; IEEE
+Z8 0
+ZR 0
+ZB 0
+TC 5
+ZS 0
+Z9 5
+BN 978-1-59593-851-0
+UT WOS:000265928500044
+ER
+
+PT J
+AU Wu, Chon-In
+   Teng, Chao-ming James
+   Chen, Yi-Chao
+   Lin, Tung-Yun
+   Chu, Hao-Hua
+   Hsu, Jane Yung-Jen
+TI Point-of-capture archiving and editing of personal experiences from a
+   mobile device
+SO PERSONAL AND UBIQUITOUS COMPUTING
+VL 11
+IS 4
+BP 235
+EP 249
+DI 10.1007/s00779-006-0082-7
+PD 2007
+PY 2007
+AB Personal experience computing is an emerging research area in computing
+   support for capturing, archiving, and editing. This paper presents our
+   design, implementation, and evaluation of a mobile authoring tool called
+   mProducer that enables everyday users to effectively and efficiently
+   perform archiving and editing at or immediately after the
+   point-of-capture of digital personal experiences from their
+   camera-equipped mobile devices. This point-of-capture capability is
+   crucial to enable immediate sharing of digital personal experiences
+   anytime, anywhere. For example, we have seen everyday people who used
+   handheld camcorders to capture and report their personal, eye-witnessed
+   experiences during the September 11, 2001 terrorist attack in New York
+   (The September I I Digital Archive. http://www.911digitalarchive.org/).
+   With mProducer, they would be able to perform editing immediately after
+   the point of capture, and then share these newsworthy, time-sensitive
+   digital experiences on the Internet. To address the challenges in both
+   user interface constraints and limited system resources on a mobile
+   device, mProducer provides the following innovative system techniques
+   and UI designs. (1) Keyframe-based editing UI enables everyday users to
+   easily and efficiently edit recorded digital experiences from a mobile
+   device using only key frames with the storyboard metaphor. (2) Storage
+   constrained uploading (SCU) algorithm archives continuous multimedia
+   data by uploading them to remote storage servers at the point of
+   capture, so that it alleviates the problem of limited storage on a
+   mobile device. (3) Sensor-assisted automated editing uses data from a
+   GPS receiver and a tilt sensor attached to a mobile device to facilitate
+   two manual editing steps at the point of capture: removal of blurry
+   frames from hand-induced camera shaking, and content search via
+   location-based content management. We have conducted user studies to
+   evaluate mProducer. Results from the user studies have shown that
+   mProducer scores high in user satisfaction in editing experience,
+   editing quality, task performance time, ease of use, and ease of
+   learning.
+CT 2nd International Conference on Pervasive Computing
+CY APR 18-23, 2004
+CL Linz, AUSTRIA
+SP Austrian Minist Transport, Innovat & Technol; FIT IT Embedded Syst;
+   Forsch Forder Fonds Gewerbliche Wirtsch; Oesterreich Comp Gesell; Land
+   Oberosterreich; Stadt Linz; Stadt Wein
+TC 6
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+Z9 6
+SN 1617-4909
+EI 1617-4917
+UT WOS:000246339700003
+ER
+
+PT S
+AU Miluzzo, Emiliano
+   Lane, Nicholas D.
+   Eisenman, Shane B.
+   Campbell, Andrew T.
+BE Kortuem, G
+   Finney, J
+   Lea, R
+   Sundramoorthy, V
+TI CenceMe - Injecting sensing presence into social networking applications
+SO SMART SENSING AND CONTEXT, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 4793
+BP 1
+EP +
+PD 2007
+PY 2007
+AB We present the design, prototype implementation, and evaluation of
+   CenceMe, a personal sensing system that enables members of social
+   networks to share their sensing presence with their buddies in a secure
+   manner. Sensing presence captures a user's status in terms of his
+   activity (e.g., sitting, walking, meeting friends), disposition (e.g.,
+   happy, sad, doing OK), habits (e.g., at the gym, coffee shop today, at
+   work) and surroundings (e.g., noisy, hot, bright, high ozone). CenceMe
+   injects sensing presence into popular social networking applications
+   such as Facebook, MySpace, and IM (Skype, Pidgin) allowing for new
+   levels of "connection" and implicit communication (albeit non-verbal)
+   between friends in social networks. The CenceMe system is implemented,
+   in part, as a thin-client on a number of standard and sensor-enabled
+   cell phones and offers a number of services, which can be activated on a
+   per-buddy basis to expose different degrees of a user's sensing
+   presence; these services include, life patterns, my presence, friend
+   feeds, social interaction, significant places, buddy search, buddy
+   beacon, and "above average?".
+CT 2nd European Conference on Smart Sensing and Context (EuroSSC 2007)
+CY OCT 23-25, 2007
+CL Kendal, ENGLAND
+ZB 0
+TC 52
+Z8 2
+ZR 0
+ZS 0
+Z9 54
+SN 0302-9743
+BN 978-3-540-75695-8
+UT WOS:000250858900001
+ER
+
+PT S
+AU Roggen, Daniel
+   Jenny, Reto
+   de la Hamette, Patrick
+   Troester, Gerhard
+BE Kortuem, G
+   Finney, J
+   Lea, R
+   Sundramoorthy, V
+TI Mapping by seeing - Wearable vision-based dead-reckoning, and closing
+   the loop
+SO SMART SENSING AND CONTEXT, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 4793
+BP 29
+EP +
+PD 2007
+PY 2007
+AB We introduce, characterize and test a vision-based dead-reckoning system
+   for wearable computing that allows to track the user's trajectory in an
+   unknown and non-instrumented environment by integrating the optical
+   flow. Only a single inexpensive camera worn on the body is required,
+   which may be reused for other purposes such as HCI. Result show that
+   distance estimates are accurate (6-12%) while rotation tends to be
+   underestimated. The accumulation of errors is compensated by identifying
+   previously visited locations and "closing the loop"; it results in
+   greatly enhanced accuracy. Opportunistic use of wireless signatures is
+   used to identify similar locations. No a-priori knowledge of the
+   environment such as map is needed, therefore the system is well-suited
+   for wearable computing. We identify the limitations of this approach and
+   suggest future improvements.
+CT 2nd European Conference on Smart Sensing and Context (EuroSSC 2007)
+CY OCT 23-25, 2007
+CL Kendal, ENGLAND
+ZR 0
+TC 2
+ZS 0
+ZB 0
+Z8 0
+Z9 2
+SN 0302-9743
+BN 978-3-540-75695-8
+UT WOS:000250858900002
+ER
+
+PT J
+AU Aguilar, David P.
+   Barbeau, Sean J.
+   Labrador, Miguel A.
+   Perez, Alfredo J.
+   Perez, Rafael A.
+   Winters, Philip L.
+TI Quantifying position accuracy of multimodal data from global positioning
+   system-enabled cell phones
+SO TRANSPORTATION RESEARCH RECORD
+IS 1992
+BP 54
+EP 60
+DI 10.3141/1992-07
+PD 2007
+PY 2007
+AB The emergence of cell phones with embedded Global Positioning System
+   (GPS) chips provides opportunities to push personalized real-time travel
+   information subject to an individual's current location. One such
+   application, a travel assistant device, notifies cognitively disabled
+   public transportation users when it is time to request a stop and exit
+   the vehicle. GPS-enabled cell phones must provide highly accurate
+   real-time location data for this type of service. The components used in
+   the data-collection process are identified, and a quantitative analysis
+   of real-time GPS data obtained with a cell phone while walking, driving
+   a vehicle, and riding public transportation is provided. The expectation
+   was that position accuracy would suffer when the GPS signal was
+   obstructed by a vehicle or the user's clothing. The obtained data
+   demonstrate the results of location fix attempts over different
+   transportation modes in an urban environment. The highest percentage of
+   GPS fixes (79.0%) was obtained by users walking with the cell phone open
+   and, unobstructed; walking also produced valid GPS data (i.e., location
+   data estimated to be accurate within 30 m of the true position) 66.2% of
+   the time. For bus trips, GPS and valid fix percentages were 71.7% and
+   66.1%, respectively, when the phone was held near the window; when the
+   phone was placed in the traveler's lap, these numbers fell to 51.3% and
+   27.8%, respectively. Car trips provided higher numbers: 77.7% and 71.6%,
+   respectively. Location-based transportation applications are feasible
+   using current technology, but predictive algorithms may be required to
+   deliver highly accurate and timely location-aware services to cell phone
+   users in highly obstructed environments.
+OI Barbeau, Sean/0000-0003-1455-818X; Winters, Philip/0000-0001-9565-0097
+TC 1
+Z8 0
+ZR 0
+ZS 0
+ZB 0
+Z9 1
+SN 0361-1981
+UT WOS:000252682700007
+ER
+
+PT S
+AU Krumm, John
+   Horvitz, Eric
+BE Conati, C
+   McCoy, K
+   Paliouras, G
+TI Driver destination models
+SO USER MODELING 2007, PROCEEDINGS
+SE Lecture Notes in Artificial Intelligence
+VL 4511
+BP 360
+EP +
+PD 2007
+PY 2007
+AB Predictive models of destinations represent an opportunity in the
+   context of the increasing availability and sophistication of in-car
+   driving aids. We present analyses of drivers' destinations based on GPS
+   data recorded from 180 volunteer subjects. We focus on the probability
+   of observing drivers visit previously unobserved destinations given time
+   of day and day of week, and the rate of decline of observing such new
+   destinations with time. For the latter, we discover a statistically
+   significant difference based on gender.
+CT 11th International Conference on User Modeling
+CY JUN 25-29, 2007
+CL Corfu, GREECE
+SP Natl Ctr Sci Res Demokritos; Ionian Univ; User Modeling Inc
+TC 0
+ZR 0
+ZB 0
+ZS 0
+Z8 0
+Z9 0
+SN 0302-9743
+EI 1611-3349
+BN 978-3-540-73077-4
+UT WOS:000247845600045
+ER
+
+PT J
+AU Jiang, Bin
+   Yao, Xiaobai
+TI Location-based services and GIS in perspective
+SO COMPUTERS ENVIRONMENT AND URBAN SYSTEMS
+VL 30
+IS 6
+BP 712
+EP 725
+DI 10.1016/j.compenvurbsys.2006.02.003
+PD NOV 2006
+PY 2006
+AB This paper examines location-based services (LBS) from a broad
+   perspective involving definitions, characteristics, and application
+   prospects. We present an overview of LBS modeling regarding users,
+   locations, contexts and data. The LBS modeling endeavors are
+   cross-examined with a research agenda of geographic information science.
+   Some core research themes are briefly speculated. (c) 2006 Elsevier Ltd.
+   All rights reserved.
+CT 12th International Conference on Geoinformatics Geospatial Information
+   Research (Geoinformatics 2004)
+CY JUN 07-09, 2004
+CL Univ Gavel, Gavel, SWEDEN
+HO Univ Gavel
+OI Yao, Xiaobai Angela/0000-0003-2719-2017
+ZR 1
+ZB 0
+TC 57
+ZS 0
+Z8 11
+Z9 68
+SN 0198-9715
+UT WOS:000242792000002
+ER
+
+PT J
+AU Hoh, Baik
+   Gruteser, Marco
+   Xiong, Hui
+   Alrabady, Ansaf
+TI Enhancing security and privacy in traffic-monitoring systems
+SO IEEE PERVASIVE COMPUTING
+VL 5
+IS 4
+BP 38
+EP 46
+PD OCT-DEC 2006
+PY 2006
+TC 103
+Z8 6
+ZS 0
+ZB 0
+ZR 0
+Z9 108
+SN 1536-1268
+UT WOS:000241458100007
+ER
+
+PT J
+AU Ashbrook, D
+   Lyons, K
+   Clawson, J
+TI Capturing experiences anytime, anywhere
+SO IEEE PERVASIVE COMPUTING
+VL 5
+IS 2
+BP 8
+EP 11
+DI 10.1109/MPRV.2006.26
+PD APR-JUN 2006
+PY 2006
+OI Ashbrook, Daniel/0000-0002-4326-2110
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+TC 4
+Z9 4
+SN 1536-1268
+EI 1558-2590
+UT WOS:000236964400002
+ER
+
+PT J
+AU Eagle, Nathan
+   Pentland, Alex (Sandy)
+TI Reality mining: sensing complex social systems
+SO PERSONAL AND UBIQUITOUS COMPUTING
+VL 10
+IS 4
+BP 255
+EP 268
+DI 10.1007/s00779-005-0046-3
+PD 2006
+PY 2006
+AB We introduce a system for sensing complex social systems with data
+   collected from 100 mobile phones over the course of 9 months. We
+   demonstrate the ability to use standard Bluetooth-enabled mobile
+   telephones to measure information access and use in different contexts,
+   recognize social patterns in daily user activity, infer relationships,
+   identify socially significant locations, and model organizational
+   rhythms.
+CT 6th International Symposium on Mobile Human-Computer Interaction (Mobile
+   HCI 2004)
+CY SEP 13-16, 2004
+CL Glasgow, SCOTLAND
+SP NOKIA; Microsoft; Kelvin Inst; EPSRC Fund; AudioClouds Project; Univ
+   Strathclyde; Glasgow Univ; Glasgow Interact Syst Grp
+ZS 0
+Z8 40
+ZR 0
+TC 1051
+ZB 66
+Z9 1089
+SN 1617-4909
+EI 1617-4917
+UT WOS:000246339200007
+ER
+
+PT S
+AU Krumm, John
+   Horvitz, Eric
+BE Dourish, P
+   Friday, A
+TI Predestination: Inferring destinations from partial trajectories
+SO UBICOMP 2006: UBIQUITOUS COMPUTING, PROCEEDINGS
+SE LECTURE NOTES IN COMPUTER SCIENCE
+VL 4206
+BP 243
+EP 260
+PD 2006
+PY 2006
+AB We describe a method called Predestination that uses a history of a
+   driver's destinations, along with data about driving behaviors, to
+   predict where a driver is going as a trip progresses. Driving behaviors
+   include types of destinations, driving efficiency, and trip times.
+   Beyond considering previously visited destinations, Predestination
+   leverages an open-world modeling methodology that considers the
+   likelihood of users visiting previously unobserved locations based on
+   trends in the data and on the background properties of locations. This
+   allows our algorithm to smoothly transition between "out of the box"
+   with no training data to more fully trained with increasing numbers of
+   observations. Multiple components of the analysis are fused via Bayesian
+   inference to produce a probabilistic map of destinations. Our algorithm
+   was trained and tested on hold-out data drawn from a database of GPS
+   driving data gathered from 169 different subjects who drove 7,335
+   different trips.
+CT 8th International Conference on Ubiquitous Computing
+CY SEP 17-21, 2006
+CL Orange Cty, CA
+SP Intel; Microsoft; Google; IBM; Nokia; Samsung
+TC 120
+ZB 1
+Z8 4
+ZS 0
+ZR 0
+Z9 124
+SN 0302-9743
+BN 3-540-39634-9
+UT WOS:000241585300015
+ER
+
+PT B
+AU Nurmi, Petteri
+   Koolwaaij, Johan
+GP IEEE
+TI Identifying meaningful locations
+SO 2006 3RD ANNUAL INTERNATIONAL CONFERENCE ON MOBILE AND UBIQUITOUS
+   SYSTEMS - WORKSHOPS
+BP 33
+EP +
+PD 2006
+PY 2006
+AB Existing context-aware mobile applications often rely on location
+   information. However, raw location data such as GPS coordinates or GSM
+   cell identifiers are usually meaningless to the user and, as a
+   consequence, researchers have proposed different methods for inferring
+   so-called places from raw data. The places are locations that carry some
+   meaning to user and to which the user can potentially attach some
+   (meaningful) semantics. Examples of places include home, work and
+   airport. A lack in existing work is that the labeling has been done in
+   an ad hoc fashion and no motivation has been given for why places would
+   be interesting to the user. As our first contribution we use social
+   identity theory to motivate why some locations really are significant to
+   the user. We also discuss what potential uses for location information
+   social identity theory implies. Another flaw in the existing work is
+   that most of the proposed methods are not suited to realistic mobile
+   settings as they rely on the availability of GPS information. As our
+   second contribution we consider a more realistic setting where the
+   information consists of GSM cell transitions that are enriched with GPS
+   information whenever a GPS device is available. We present four
+   different algorithms for this problem and compare them using real data
+   gathered throughout Europe. In addition, we analyze the suitability of
+   our algorithms for mobile devices.
+CT 3rd Annual International Conference on Mobile and Ubiquitous System -
+   Networking and Services
+CY JUL 17-21, 2006
+CL San Jose, CA
+SP IEEE
+ZB 0
+ZS 0
+TC 0
+Z8 0
+ZR 0
+Z9 0
+BN 978-0-7803-9791-0
+UT WOS:000246430200005
+ER
+
+PT B
+AU Chou, Li-Der
+   Sheu, Chun-Cheng
+   Chen, Home-Way
+BE Lee, G
+   Slezak, D
+   Kim, TH
+   Sloot, P
+   Kim, HK
+   Szczuka, M
+   Ko, IS
+TI Design and prototype implementation of a novel automatic vehicle parking
+   system
+SO 2006 INTERNATIONAL CONFERENCE ON HYBRID INFORMATION TECHNOLOGY, VOL 2,
+   PROCEEDINGS
+BP 292
+EP +
+PD 2006
+PY 2006
+AB Unmanned vehicle driving systems are getting interesting for the auto
+   mobile industry. One of the key issues in the unmanned vehicle driving
+   system is how to acquire the current position of the vehicle. In
+   general, it can be achieved by Global Positioning System (GPS). However
+   if the unmanned vehicle will be parked in the parking garage by itself
+   GPS can not provide sufficient information to avoid collisions and the
+   accuracy of GPS is not enough for the narrow parking space. An automatic
+   vehicle parking system is proposed in the paper where wireless sensor
+   networks and infrared technologies are adopted simultaneously to enhance
+   the accuracy of positioning. The prototype of the proposed automatic
+   vehicle parking system is also implemented.
+CT 1st International Conference on Hybrid Information Technology
+CY NOV 09-11, 2006
+CL Cheju Isl, SOUTH KOREA
+SP SERC; SERSC
+ZS 0
+Z8 0
+ZR 0
+TC 0
+ZB 0
+Z9 0
+BN 978-0-7695-2674-4
+UT WOS:000244028600047
+ER
+
+PT B
+AU Nurmi, Petteri
+   Koolwaaij, Johan
+GP IEEE
+TI Identifying meaningful locations
+SO 2006 Third Annual International Conference on Mobile and Ubiquitous
+   Systems: Networking & Services
+BP 330
+EP 337
+PD 2006
+PY 2006
+AB Existing context-aware mobile applications often rely on location
+   information. However, raw location data such as GPS coordinates or GSM
+   cell identifiers are usually meaningless to the user and, as a
+   consequence, researchers have proposed different methods for inferring
+   so-called places from raw data. The places are locations that carry some
+   meaning to user and to which the user can potentially attach some
+   (meaningful) semantics. Examples of places include home, work and
+   airport. A lack in existing work is that the labeling has been done in
+   an ad hoc fashion and no motivation has been given for why places would
+   be interesting to the user. As our first contribution we use social
+   identity theory to motivate why some locations really are significant to
+   the user. We also discuss what potential uses for location information
+   social identity theory implies. Another flaw in the existing work is
+   that most of the proposed methods are not suited to realistic mobile
+   settings as they rely on the availability of GPS information. As our
+   second contribution we consider a more realistic setting where the
+   information consists of GSM cell transitions that are enriched with GPS
+   information whenever a GPS device is available. We present four
+   different algorithms for this problem and compare them using real data
+   gathered throughout Europe. In addition, we analyze the suitability of
+   our algorithms for mobile devices.
+CT 3rd Annual International Conference on Mobile and Ubiquitous System -
+   Networking and Services
+CY JUL 17-21, 2006
+CL San Jose, CA
+SP IEEE
+Z8 0
+TC 0
+ZR 0
+ZS 0
+ZB 0
+Z9 0
+BN 978-1-4244-0498-8
+UT WOS:000245710800048
+ER
+
+PT S
+AU Han, Sang-Jun
+   Cho, Sung-Bae
+BE Kollias, S
+   Stafylopatis, A
+   Duch, W
+   Oja, E
+TI Predicting user's movement with a combination of self-organizing map and
+   Markov model
+SO ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2
+SE Lecture Notes in Computer Science
+VL 4132
+BP 884
+EP 893
+PD 2006
+PY 2006
+AB In the development of location-based services, various location-sensing
+   techniques and experimental/commercial services have been used. We
+   propose a novel method of predicting the user's future movements in
+   order to develop advanced location-based services. The user's movement
+   trajectory is modeled using a combination of recurrent self-organizing
+   maps (RSOM) and the Markov model. Future movement is predicted based on
+   past movement trajectories. To verify the proposed method, a GPS dataset
+   was collected on the Yonsei University campus. The results were
+   promising enough to confirm that the application works flexibly even in
+   ambiguous situations.
+CT 16th International Conference on Artificial Neural Networks (ICANN 2006)
+CY SEP 10-14, 2006
+CL Athens, GREECE
+SP European Neural Network Soc; Int Neural Network Soc; Japanese Neural
+   Network Soc; IEEE Computat Intelligence Soc
+TC 7
+Z8 0
+ZS 0
+ZR 0
+ZB 0
+Z9 7
+SN 0302-9743
+EI 1611-3349
+BN 3-540-38871-0
+UT WOS:000241475200092
+ER
+
+PT S
+AU Cabitza, Federico
+   Locatelli, Marco P.
+   Simone, Carla
+BE Hassanaly, P
+   Herrmann, T
+   Kunau, G
+   Zacklad, M
+TI Cooperation and Ubiquitous Computing: an Architecture Towards their
+   Integration
+SO COOPERATIVE SYSTEMS DESIGN: SEAMLESS INTEGRATION OF ARTIFACTS AND
+   CONVERSATIONS - ENHANCED CONCEPTS OF INFRASTRUCTURE FOR COMMUNICATION
+SE Frontiers in Artificial Intelligence and Applications
+VL 137
+BP 86
+EP 101
+PD 2006
+PY 2006
+AB The paper discusses the relations between Ubiquitous Computing (UC) and
+   cooperation pointing to two reference scenarios. UC technologies are
+   still in a early stage: however, it is possible to envisage an evolution
+   that makes smart objects pervasive in work settings. Under the
+   hypothesis that these objects are likely to have very a specialized
+   functionality, the smart environment has to possess distributed
+   inferential capabilities to complement them toward an adaptive support
+   to both individual and collaborative behaviors. CASMAS is a model
+   informing an architecture to design collaborative UC environments: it
+   combines inference capabilities with the management of contextual
+   information that is modulated according to the structure of physical and
+   logical spaces.
+CT 7th International Conference on the Design of Cooperative Systems
+CY MAY 09-12, 2006
+CL Carry le Rouet, FRANCE
+RI Cabitza, Federico/L-2263-2013
+OI Cabitza, Federico/0000-0002-4065-3415
+Z8 0
+TC 0
+ZB 0
+ZS 0
+ZR 0
+Z9 0
+SN 0922-6389
+BN 978-1-58603-604-1
+UT WOS:000284917100007
+ER
+
+PT S
+AU Petzold, Jan
+   Bagci, Faruk
+   Trumler, Wolfgang
+   Ungerer, Theo
+BE Nagel, WE
+   Walter, WV
+   Lehner, W
+TI Comparison of different methods for next location prediction
+SO EURO-PAR 2006 PARALLEL PROCESSING
+SE LECTURE NOTES IN COMPUTER SCIENCE
+VL 4128
+BP 909
+EP 918
+PD 2006
+PY 2006
+AB Next location prediction anticipates a person's movement based on the
+   history of previous sojourns. It is useful for proactive actions taken
+   to assist the person in an ubiquitous environment. This paper evaluates
+   next location prediction methods: dynamic Bayesian network, multi-layer
+   perceptron, Elman net, Markov predictor, and state predictor. For the
+   Markov and state predictor we use additionally an optimization, the
+   confidence counter. The criterions for the comparison are the prediction
+   accuracy, the quantity of useful predictions, the stability, the
+   learning, the relearning, the memory and computing costs, the modelling
+   costs, the expandability, and the ability to predict the time of
+   entering the next location. For evaluation we use the same benchmarks
+   containing movement sequences of real persons within an office building.
+CT 12th International Euro-Par Conference on Parallel Processing
+CY AUG 28-SEP 01, 2006
+CL Dresden, GERMANY
+ZS 0
+ZR 0
+TC 12
+Z8 1
+ZB 0
+Z9 13
+SN 0302-9743
+BN 3-540-37783-2
+UT WOS:000241469500082
+ER
+
+PT S
+AU Jian, Tang
+   Meng Lingkui
+BE Li, D
+   Xia, LY
+TI Learning significant locations from GPS data with time window
+SO GEOINFORMATICS 2006: GNSS AND INTEGRATED GEOSPATIAL APPLICATIONS
+SE Proceedings of SPIE
+VL 6418
+AR UNSP 64180J
+DI 10.1117/12.712609
+PD 2006
+PY 2006
+AB The most important and common service of LBS is to provide the user of
+   his location. In this paper we propose a method to cluster a period of
+   GPS data into meaningful locations by using DBSCAN algorithm. With a
+   time window constraint this method can even distinguish the locations of
+   the same place where the user went at different time. The learned
+   significant locations are important basis of further service, such as
+   predicting the user's future movement, building the user's own map etc.
+   At last, we introduce a prototype system based on the learning method to
+   provide the place information where the user went before and the
+   information is expressed in time-ordered and semantic landmarks
+   directly.
+CT 14th International Conference on Geoinformatics
+CY OCT 28-29, 2006
+CL Wuhan, PEOPLES R CHINA
+SP Wuhan Univ; State Key Lab Informat Engn Surveying, Mapping & Remote
+   Sensing; Int Assoc Chinese Professionals Geograph Informat Sci; Nat Sci
+   Fdn China; Chinese Acad Surveying & Mapping; Heilongjiang Bureau
+   Surveying & Mapping; Int Assoc Chinese Professionals Global Posit Syst;
+   IEEE GRSS; ISPRS
+Z8 0
+ZB 0
+ZS 0
+TC 0
+ZR 0
+Z9 0
+SN 0277-786X
+BN 978-0-8194-6527-6
+UT WOS:000245102300020
+ER
+
+PT B
+AU Cabitza, Federico
+   Locatelli, Marco P.
+   Sarini, Marcelto
+   Simone, Carla
+GP IEEE Comp Soc
+TI CASMAS: Supporting collaboration in pervasive environments
+SO PERCOM 2006: FOURTH ANNUAL IEEE INTERNATIONAL CONFERENCE ON PERVASIVE
+   COMPUTING AND COMMUNICATIONS, PROCEEDINGS
+BP 286
+EP +
+PD 2006
+PY 2006
+AB The paper proposes a model to design collaboration supports in pervasive
+   environments through the notion of community. As in human communities,
+   the degree of participation of a member can dynamically change in
+   relation both to her physical location and to her position in the
+   logical space of the applications the community uses to cooperate. The
+   paper shows how this approach is able to make pervasive environments
+   reactive to user behavior on the basis of a semantically rich context
+   representation.
+CT 4th IEEE Annual International Conference on Pervasive Computing and
+   Communications
+CY MAR 13-17, 2006
+CL Pisa, ITALY
+SP IEEE Comp Soc; Univ Texas Arlington, Dept Comp Sci; Italian Res Council,
+   Inst Informat & Telemat
+RI Cabitza, Federico/L-2263-2013
+OI Cabitza, Federico/0000-0002-4065-3415
+ZS 0
+ZR 0
+ZB 0
+TC 4
+Z8 0
+Z9 4
+BN 0-7695-2518-0
+UT WOS:000237211700034
+ER
+
+PT S
+AU Chen, Mike Y.
+   Sohn, Timothy
+   Chmelev, Dmitri
+   Haehnel, Dirk
+   Hightower, Jeffrey
+   Hughes, Jeff
+   LaMarca, Anthony
+   Potter, Fred
+   Smith, Ian
+   Varshavsky, Alex
+BE Dourish, P
+   Friday, A
+TI Practical metropolitan-scale positioning for GSM phones
+SO UBICOMP 2006: UBIQUITOUS COMPUTING, PROCEEDINGS
+SE LECTURE NOTES IN COMPUTER SCIENCE
+VL 4206
+BP 225
+EP 242
+PD 2006
+PY 2006
+AB This paper examines the positioning accuracy of a GSM beacon-based
+   location system in a metropolitan environment. We explore five factors
+   effecting positioning accuracy: location algorithm choice, scan set
+   size, simultaneous use of cells from different providers, training and
+   testing on different devices, and calibration data density. We collected
+   a 208-hour, 4350 Km driving trace of three different GSM networks
+   covering the Seattle metropolitan area. We show a median error of 94m in
+   downtown and 196m in residential areas using a single GSM network and
+   the best algorithm for each area. Estimating location using multiple
+   providers' cells reduces median error to 65-134 meters and 95% error to
+   163m in the downtown area, which meets the accuracy requirements for
+   E911. We also show that a small 60-hour calibration drive is sufficient
+   for enabling a metropolitan area similar to Seattle.
+CT 8th International Conference on Ubiquitous Computing
+CY SEP 17-21, 2006
+CL Orange Cty, CA
+SP Intel; Microsoft; Google; IBM; Nokia; Samsung
+ZB 2
+Z8 0
+TC 63
+ZR 0
+ZS 0
+Z9 63
+SN 0302-9743
+BN 3-540-39634-9
+UT WOS:000241585300014
+ER
+
+PT S
+AU Petzold, Jan
+   Bagci, Faruk
+   Trumler, Wolfgang
+   Ungerer, Theo
+BE Ma, J
+   Jin, H
+   Yang, LT
+   Tsai, JJP
+TI Hybrid predictors for next location prediction
+SO UBIQUITOUS INTELLIGENCE AND COMPUTING, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 4159
+BP 125
+EP 134
+PD 2006
+PY 2006
+AB Neural networks, Bayesian networks, Markov models, and state predictors
+   are different methods to predict the next location. For all methods a
+   lot of parameters must be set up which differ for each user. Therefore a
+   complex configuration must be made before such a method can be used. A
+   hybrid predictor can reduce the configuration overhead utilizing
+   different prediction methods or configurations in parallel to yield
+   different prediction results. A selector chooses the most appropriate
+   prediction result from the result set of the base predictors. We propose
+   and evaluate three principal hybrid predictor approaches the warm-up
+   predictor, the majority predictor, and the confidence predictor - with
+   several variants. The hybrid predictors reached a higher prediction
+   accuracy than the average of the prediction accuracies of the separately
+   used predictors.
+CT 3rd International Conference on Ubiquitous Intelligence and Computing
+CY SEP 03-06, 2006
+CL Wuhan, PEOPLES R CHINA
+SP Huazhong Univ Sci & Technol; Natl Sci Fdn China; Int Federat Informat
+   Proc; IEEE Comp Soc; Lecture Notes Comp Sci Springer
+ZB 0
+TC 5
+ZS 0
+Z8 0
+ZR 0
+Z9 5
+SN 0302-9743
+BN 3-540-38091-4
+UT WOS:000240542600013
+ER
+
+PT B
+AU Antonio Alvarez, Juan
+   Antonio Ortega, Juan
+   Gonzalez, Luis
+   Velasco-Morente, Francisco
+   Javier Cuberos, Francisco
+GP INSTICC
+TI Ontheway: a prediction system for spatial locations
+SO WINSYS 2006: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON WIRELESS
+   INFORMATION NETWORKS AND SYSTEMS
+BP 298
+EP 303
+PD 2006
+PY 2006
+AB In ubiquitous computing we need to know the present in order to interact
+   properly with nearby smart elements. When we are moving outdoors, mobile
+   devices take a very important role because they provide us with a link
+   between the world outside and ourselves through means of intelligent
+   interfaces. There are a lot of situations in which it would be very
+   useful to know or foresee the future context, i.e. as a geographic
+   environment, where we could find ourselves in a near future, and at the
+   same time being able to use that information from our devices. Therefore
+   we must preview this location with enough precision and time and be able
+   to use this information from our mobile device. In our "OnTheWay"
+   system, we used GPS technology and databases made of past paths taken by
+   a person, in order to predict the next location, once we had begun a new
+   course, comparing the new one with those ones stored. The results were
+   amazing: from the data collected about paths travelled during a month
+   and five days, we got the actual destination in 98% of cases, when we
+   have only made a 30,35% of the total path. Therefore, including
+   statistic and semantic information will allow us to upgrade our results,
+   due to the sedentary human behaviour, the small number of frequently
+   visited locations and the fact that the paths used to arrive to these
+   locations are usually the same.
+CT International Conference on Wireless Information Networks and Systems
+CY AUG 07-10, 2006
+CL Setubal Coll Business Adm, Setubal, PORTUGAL
+HO Setubal Coll Business Adm
+SP Inst Syst & Technol Informat Control & Commun; Polytech Inst Setubal;
+   IEEE Syst, Man & Cybernet Soc; Polytech Inst Leiria; Super Sch Technol &
+   Business Leiria; Setubal Coll Technol & Business Leiria
+RI Gonzalez Abril, Luis/E-6323-2010; Velasco-Morente, Francisco/E-6301-2010; Alvarez-Garcia, Juan Antonio/A-6223-2008; Cuberos, Francisco Javier/F-9606-2016
+OI Gonzalez Abril, Luis/0000-0002-2532-0946; Velasco-Morente,
+   Francisco/0000-0002-9585-1208; Alvarez-Garcia, Juan
+   Antonio/0000-0002-4106-6044; Cuberos, Francisco
+   Javier/0000-0002-5418-914X
+ZS 0
+ZR 0
+TC 0
+ZB 0
+Z8 0
+Z9 0
+BN 972-8865-65-1
+UT WOS:000241916700048
+ER
+
+PT S
+AU Saraee, M
+   Yamaner, S
+BE Zanasi, A
+   Brebbia, CA
+   Ebecken, NFF
+TI Mining GPS logs to augment location models
+SO Data Mining VI: Data Mining, Text Mining and Their Business Applications
+SE WIT TRANSACTIONS ON INFORMATION AND COMMUNICATION TECHNOLOGIES
+BP 445
+EP 454
+PD 2005
+PY 2005
+AB The availability of mobile computing and satellite technologies make it
+   possible to develop applications that are aware of user location.
+   However, as the amount of collected data grows quickly, coming up with
+   techniques that ease interpretation of such data is essential. In this
+   paper, we employ a data mining approach to infer regularly visited
+   locations and the routes between them from GPS (Global Positioning
+   System) logs captured in an incremental fashion by a PDA. In our
+   implementation, outdoor locations can be detected as well indoor
+   locations visited by the users. Once the list of locations is
+   determined, this list is clustered to group locations in close
+   proximity. After clustering and reduction, the original database is
+   scanned for transitions between location groups to find the routes. If
+   there are similar routes between origin and destination then these will
+   be merged, and finally a list of different routes between two locations
+   will be obtained. This; technique could be used as part of a monitoring
+   system for vehicles that are aware of their location and security as
+   well as using logs from different users to create a dynamic map of the
+   regions where digital maps are not available or not feasible.
+CT 6th Conference on Data Mining - Text Mining and Their Business
+   Applications
+CY MAY 25-27, 2005
+CL Skiathos, GREECE
+SP Wessex Inst Technol; Wessex Inst Technol, Transact Informat & Commun
+   Technol
+Z8 0
+ZS 0
+ZB 0
+TC 0
+ZR 0
+Z9 0
+SN 1746-4463
+BN 1-84564-017-9
+UT WOS:000230756400044
+ER
+
+PT S
+AU Laasonen, K
+BE Jorge, A
+   Torgo, L
+   Brazdil, P
+   Camacho, R
+   Gama, J
+TI Clustering and prediction of mobile user routes from cellular data
+SO KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005
+SE LECTURE NOTES IN ARTIFICIAL INTELLIGENCE
+VL 3721
+BP 569
+EP 576
+PD 2005
+PY 2005
+AB Location-awareness and prediction of future locations is an important
+   problem in pervasive and mobile computing. In cellular systems (e.g.,
+   GSM) the serving cell is easily available as an indication of the user
+   location, without any additional hardware or network services. With this
+   location data and other context variables we can determine places that
+   are important to the user, such as work and home. We devise online
+   algorithms that learn routes between important locations and predict the
+   next location when the user is moving. We incrementally build clusters
+   of cell sequences to represent physical routes. Predictions are based on
+   destination probabilities derived from these clusters. Other context
+   variables such as the current time can be integrated into the model. We
+   evaluate the model with real location data, and show that it achieves
+   good prediction accuracy with relatively little memory, making the
+   algorithms suitable for online use in mobile environments.
+CT 16th European Conference on Machine Learning (ECML)/9th European
+   Conference on Principles and Practice of Knowledge Discovery in
+   Databases (PKDD)
+CY OCT 03-07, 2005
+CL Oporto, PORTUGAL
+SP FCT; LIACC NIAAD
+ZB 1
+Z8 0
+ZR 0
+TC 20
+ZS 0
+Z9 20
+SN 0302-9743
+BN 3-540-29244-6
+UT WOS:000233235600059
+ER
+
+PT S
+AU Toyama, N
+   Ota, T
+   Kato, F
+   Toyota, Y
+   Hattori, T
+   Hagino, T
+BE Strang, T
+   LinnhoffPopien, C
+TI Exploiting multiple radii to learn significant locations
+SO LOCATION- AND CONTEXT-AWARENESS, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 3479
+BP 157
+EP 168
+DI 10.1007/11426646_15
+PD 2005
+PY 2005
+AB Location contexts are important for many context-aware applications. A
+   significant location is a specialized form of location context for
+   expressing a user's daily activity. We propose a method to cluster
+   positions measured by cellular phones into significant locations with
+   multiple radii. Cellular phones we used are equipped with a positioning
+   system, where data can be taken in low frequency with wide-varying
+   estimated errors. In order to learn significant locations, our system
+   exploits multiple radii for coping with these characteristics and for
+   adapting to a variety of users' spatial behavioral patterns. We also
+   discuss appropriate parameters for our clustering method.
+CT 1st International Workshop on Location- and Context-Awareness (LoCA
+   2005)
+CY MAY 12-13, 2005
+CL Oberpfaffenhofen, GERMANY
+SP German Aerosp Ctr, Inst Commun & Navigat; Univ Munich, Mobile &
+   Distributed Syst Grp
+OI Kato, Fumihiro/0000-0001-8504-5782
+ZS 0
+Z8 0
+ZR 0
+ZB 0
+TC 5
+Z9 5
+SN 0302-9743
+EI 1611-3349
+BN 3-540-25896-5
+UT WOS:000230430200014
+ER
+
+PT S
+AU Petzold, J
+   Pietzowski, A
+   Bagci, F
+   Trumler, W
+   Ungerer, T
+BE Strang, T
+   LinnhoffPopien, C
+TI Prediction of indoor movements using Bayesian networks
+SO LOCATION- AND CONTEXT-AWARENESS, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 3479
+BP 211
+EP 222
+DI 10.1007/11426646_20
+PD 2005
+PY 2005
+AB This paper investigates the efficiency of in-door next location
+   prediction by comparing several prediction methods. The scenario
+   concerns people in an office building visiting offices in a regular
+   fashion over some period of time. We model the scenario by a dynamic
+   Bayesian network and evaluate accuracy of next room prediction and of
+   duration of stay, training and retraining performance, as well as memory
+   and performance requirements of a Bayesian network predictor. The
+   results are compared with further context predictor approaches - a state
+   predictor and a multi-layer perceptron predictor using exactly the same
+   evaluation set-up and benchmarks. The publicly available Augsburg Indoor
+   Location Tracking Benchmarks are applied as predictor loads. Our results
+   show that the Bayesian network predictor reaches a next location
+   prediction accuracy of up to 90% and a duration prediction accuracy of
+   up to 87% with variations depending on the person and specific predictor
+   set-up. The Bayesian network predictor performs in the same accuracy
+   range as the neural network and the state predictor.
+CT 1st International Workshop on Location- and Context-Awareness (LoCA
+   2005)
+CY MAY 12-13, 2005
+CL Oberpfaffenhofen, GERMANY
+SP German Aerosp Ctr, Inst Commun & Navigat; Univ Munich, Mobile &
+   Distributed Syst Grp
+ZS 0
+ZB 0
+TC 20
+ZR 0
+Z8 1
+Z9 21
+SN 0302-9743
+EI 1611-3349
+BN 3-540-25896-5
+UT WOS:000230430200019
+ER
+
+PT S
+AU Welbourne, E
+   Lester, J
+   LaMarca, A
+   Borriello, G
+BE Strang, T
+   LinnhoffPopien, C
+TI Mobile context inference using low-cost sensors
+SO LOCATION- AND CONTEXT-AWARENESS, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 3479
+BP 254
+EP 263
+DI 10.1007/11426646_24
+PD 2005
+PY 2005
+AB In this paper, we introduce a compact system for fusing location data
+   with data from simple, low-cost, non-location sensors to infer a user's
+   place and situational context. Specifically, the system senses location
+   with a GSM cell phone and a WiFi-enabled mobile device (each running
+   Place Lab), and collects additional sensor data using a 2" x 1" sensor
+   board that contains a set of common sensors (e.g. accelerometers,
+   barometric pressure sensors) and is attached to the mobile device. Our
+   chief contribution is a multi-sensor system design that provides
+   indoor-outdoor location information, and which models the capabilities
+   and form factor of future cell phones. With two basic examples, we
+   demonstrate that even using fairly primitive sensor processing and
+   fusion algorithms we can leverage the synergy between our location and
+   non-location sensors to unlock new possibilities for mobile context
+   inference. We conclude by discussing directions for future work.
+CT 1st International Workshop on Location- and Context-Awareness (LoCA
+   2005)
+CY MAY 12-13, 2005
+CL Oberpfaffenhofen, GERMANY
+SP German Aerosp Ctr, Inst Commun & Navigat; Univ Munich, Mobile &
+   Distributed Syst Grp
+Z8 1
+ZS 0
+ZB 0
+ZR 0
+TC 12
+Z9 13
+SN 0302-9743
+EI 1611-3349
+BN 3-540-25896-5
+UT WOS:000230430200023
+ER
+
+PT B
+AU Karypidis, A
+   Lalis, S
+GP IEEE Computer Society
+TI Exploiting co-location history for efficient service selection in
+   ubiquitous computing systems
+SO Proceedings of MobiQuitous 2005
+BP 202
+EP 209
+PD 2005
+PY 2005
+AB As the ubiquitous computing vision materializes, the number and
+   diversity of digital elements in our environment increases. Computing
+   capability comes in various forms and is embedded in different physical
+   objects, ranging from miniature devices such as human implants and tiny
+   sensor particles, to large constructions such as vehicles and entire
+   buildings. The number of possible interactions among such elements, some
+   of which may be invisible or offer similar functionality, is growing
+   fast so that it becomes increasingly hard to combine or select between
+   them. Mechanisms are thus required for intelligent matchmaking that will
+   achieve controlled system behavior yet without requiring the user to
+   continuously input desirable options in an explicit manner In this paper
+   we argue that information about the co-location relationship of
+   computing elements is quite valuable in this respect and can be
+   exploited to guide automated service selection with minimal or no user
+   involvement. We also discuss the implementation of such mechanism that
+   is part of our runtime system for smart objects.
+CT 2nd Annual International Conference on Mobile and Ubiquitous Systems
+   (MobiQuitous 2005)
+CY JUL 17-21, 2005
+CL San Diego, CA
+SP CREAT NET; ICST; AAAI; ACM; IEEE Comp Soc
+Z8 0
+ZB 0
+ZR 0
+TC 0
+ZS 0
+Z9 0
+BN 0-7695-2375-7
+UT WOS:000232153200020
+ER
+
+PT B
+AU Zhou, CQ
+   Shekhar, S
+   Terveen, L
+BE Blair, S
+   Chakraborty, U
+   Chen, SH
+   Cheng, HD
+   Chiu, DKY
+   Das, S
+   Denker, G
+   Duro, R
+   Romay, MG
+   Hung, D
+   Kerre, EE
+   VaLeong, H
+   Lu, CT
+   Lu, J
+   Maguire, L
+   Ngo, CW
+   Sarfraz, M
+   Tseng, C
+   Tsumoto, S
+   Ventura, D
+   Wang, PP
+   Yao, X
+   Zhang, CN
+   Zhang, K
+TI Discovering personal paths from sparse GPS traces
+SO Proceedings of the 8th Joint Conference on Information Sciences, Vols
+   1-3
+BP 1469
+EP 1472
+PD 2005
+PY 2005
+AB Personal paths capture "personal meaningful places" [13, 14] in temporal
+   sequence. Knowledge of a user's paths enables novel and useful features
+   for location-aware applications, e.g., traffic condition updates for
+   commuting routes, carpool partner finding with similar commuting routes
+   and schedules. Prior work has explored algorithms to discover
+   "significant locations" [1,2] and "transportation routes" [6,9] from GPS
+   data, however, we know of no algorithms specifically designed for sparse
+   GPS traces, which represent typical location datasets collected from GPS
+   enabled mobile devices. In this paper, we report two spatio-temporal
+   clustering algorithms, TDJ and R-TDJ, for discovering personal paths.
+   Specifically, the algorithms are designed to address the noisy and
+   sparse nature of GPS data. Our experiment results show that both TDJ and
+   R-TDJ discovered meaningful spatio-temporal clusters to form personal
+   paths. R-TDJ demonstrates better performance on sparse GPS data.
+CT 8th Joint Conference on Information Sciences (JCIS 2005)
+CY JUL 21-26, 2005
+CL Salt Lake City, UT
+SP Duke Univ; Utah State Univ; San Jose State Univ; Harbin Inst Technol
+ZR 0
+ZS 0
+TC 0
+ZB 0
+Z8 0
+Z9 0
+BN *************
+UT WOS:000233670802071
+ER
+
+PT B
+AU Zhou, P
+   Nadeem, T
+   Kang, P
+   Borcea, C
+   Iftode, L
+GP IEEE COMPUTER SOCIETY
+TI EZCab: A cab booking application using short-range wireless
+   communication
+SO THIRD IEEE INTERNATIONAL CONFERENCE ON PERVASIVE COMPUTING AND
+   COMMUNICATIONS, PROCEEDINGS
+BP 27
+EP 38
+PD 2005
+PY 2005
+AB EZCab is a proof-of-concept ubiquitous computing application that allows
+   people to book nearby cabs using their cell phones or PDAs equipped with
+   short-range wireless network interfaces. EZCab discovers and books free
+   cabs using mobile ad hoc networks of vehicles. We have implemented an
+   EZCab prototype on top of Smart Messages, a middleware architecture
+   based on execution migration, which we had developed to provide a common
+   execution environment for outdoor ubiquitous computing applications. The
+   experimental and simulation results have demonstrated the feasibility of
+   EZCab.
+CT 3rd IEEE International Conference on Pervasive Computing and
+   Communications
+CY MAR 08-12, 2005
+CL Kauai, HI
+SP IEEE Comp Soc; Univ Texas Arlington, Dept Comp Sci
+ZB 0
+Z8 2
+ZS 0
+ZR 0
+TC 21
+Z9 22
+BN 0-7695-2299-8
+UT WOS:000228292200004
+ER
+
+PT S
+AU Hightower, J
+   Consolvo, S
+   LaMarca, A
+   Smith, I
+   Hughes, J
+BE Beigl, M
+   Intille, S
+   Rekimoto, J
+   Tokuda, H
+TI Learning and recognizing the places we go
+SO UBICOMP 2005: UBIQUITOUS COMPUTING, PROCEEDINGS
+SE LECTURE NOTES IN COMPUTER SCIENCE
+VL 3660
+BP 159
+EP 176
+PD 2005
+PY 2005
+AB Location-enhanced mobile devices are becoming common, but applications
+   built for these devices find themselves suffering a mismatch between the
+   latitude and longitude that location sensors provide and the colloquial
+   place label that applications need. Conveying my location to my spouse,
+   for example as (48.13641N, 11.57471E), is less informative than saying
+   "at home." We introduce an algorithm called Beacon-Print that uses WiFi
+   and GSM radio fingerprints collected by someone's personal mobile device
+   to automatically learn the places they go and then detect when they
+   return to those places. BeaconPrint does not automatically assign names
+   or semantics to places. Rather, it provides the technological foundation
+   to support this task. We compare BeaconPrint to three existing
+   algorithms using month-long trace logs from each of three people.
+   Algorithmic results are supplemented with a survey study about the
+   places people go. BeaconPrint is over 90% accurate in learning and
+   recognizing places. Additionally, it improves accuracy in recognizing
+   places visited infrequently or for short durations-a category where
+   previous approaches have fared poorly. BeaconPrint demonstrates 63%
+   accuracy for places someone returns to only once or visits for less than
+   10 minutes, increasing to 80% accuracy for places visited twice.
+CT 7th International Conference on Ubiquitous Computing
+CY SEP 11-14, 2005
+CL Tokyo, JAPAN
+SP KDDI R&D Labs; NTT DoCoMo; NEC; Fuji Xerox; Fujitsu; Intel; Microsoft;
+   Crossbow; IBM; Mistubishi Elect; Uchida; NTT; DNP; Ubitec; Panasonic;
+   Toshiba; Hitachi; CiscoSystems; Ubiquitous Networking Forum
+TC 56
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+Z9 56
+SN 0302-9743
+BN 3-540-28760-4
+UT WOS:000232266200010
+ER
+
+PT S
+AU Mizutori, T
+   Nakayama, Y
+   Kohiyama, K
+BE Murakami, H
+   Nakashima, H
+   Tokuda, H
+   Yasumura, M
+TI A behavior-based personal controller for autonomous ubiquitous computing
+SO UBIQUITOUS COMPUTING SYSTEMS
+SE Lecture Notes in Computer Science
+VL 3598
+BP 203
+EP 213
+PD 2005
+PY 2005
+AB In this paper, we propose a way to retrieve and invoke ubiquitous
+   objects within our living spaces by our behavior. Accumulations of GPS
+   location information collected by a. tiny program on a user's cellular
+   phone are organized into a structure which represents the user's spatial
+   behavior. This representation provides ubiquitous computing environment
+   with assumptions about the user's movement in one-day duration, and
+   allow them to act for the predicted future locations of the user. Since
+   this knowledge representation about the user's daily route is a key to
+   invoke ubiquitous objects by her/his current spatial behavior, we call
+   it "Behavior-based Personal Controller" or "BPC".A learning algorithm to
+   organize the Behavior-based Personal Controller and a mechanism of the
+   BPC's invoking networked ubiquitous objects are detailed in this paper.
+CT 2nd International Symposium on Ubiquitous Computing Systems
+CY NOV 08-09, 2004
+CL Tokyo, JAPAN
+SP Crossbow Technol; Ubigraph; OS Technol; J Techno
+TC 0
+Z8 0
+ZR 0
+ZB 0
+ZS 0
+Z9 0
+SN 0302-9743
+EI 1611-3349
+BN 3-540-27893-1
+UT WOS:000231115800016
+ER
+
+PT S
+AU Hightower, J
+   Borriello, G
+BE Davies, N
+   Mynatt, E
+   Siio, I
+TI Particle filters for location estimation in ubiquitous computing: A case
+   study
+SO UBICOMP 2004: UBIQUITOUS COMPUTING, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 3205
+BP 88
+EP 106
+PD 2004
+PY 2004
+AB Location estimation is an important part of many ubiquitous computing
+   systems. Particle filters are simulation-based probabilistic
+   approximations which the robotics community has shown to be effective
+   for tracking robots' positions. This paper presents a case study of
+   applying particle filters to location estimation for ubiquitous
+   computing. Using trace logs from a deployed multi-sensor location
+   system, we show that particle filters can be as accurate as common
+   deterministic algorithms. We also present performance results showing it
+   is practical to run particle filters on devices ranging from high-end
+   servers to handhelds. Finally, we discuss the general advantages of
+   using probabilistic methods in location systems for ubiquitous
+   computing, including the ability to fuse data from different sensor
+   types and to provide probability distributions to higher-level services
+   and applications. Based on this case study, we conclude that particle
+   filters are a good choice to implement location estimation for
+   ubiquitous computing.
+CT 6th International Conference on Ubiquitous Computing
+CY SEP 07-10, 2004
+CL Nottingham, ENGLAND
+SP Intel Corp; Nokia Corp; Fuji Xerox Palo Alto Lab; Microsoft Res; Samsung
+   Adv Inst Technol; SMART Technol; Equator Interdisciplinary Res
+   Collaborat; Engn Phys Sci Res Council; ACM SIGCHI; ACM SIGMOBILE; ACM
+   SIGSOFT; ACM SIGWEB
+Z8 0
+ZS 0
+ZR 0
+TC 55
+ZB 0
+Z9 55
+SN 0302-9743
+BN 3-540-22955-8
+UT WOS:000224085200006
+ER
+
+PT S
+AU Petzold, J
+   Bagci, F
+   Trumler, W
+   Ungerer, T
+BE Markopoulos, P
+   Eggen, B
+   Aarts, E
+   Crowley, JL
+TI Confidence estimation of the state predictor method
+SO AMBIENT INTELLIGENCE, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 3295
+BP 375
+EP 386
+PD 2004
+PY 2004
+AB Pervasive resp. ubiquitous systems use context information to adapt
+   appliance behavior to human needs. Even more convenience is reached if
+   the appliance foresees the user's desires. By means of context
+   prediction systems get ready for future human activities and can act
+   proactively.
+   Predictions, however, are never 100% correct. In case of unreliable
+   prediction results it is sometimes better to make no prediction instead
+   of a wrong prediction. In this paper we propose three confidence
+   estimation methods and apply them to our State Predictor Method. The
+   confidence of a prediction is computed dynamically and predictions may
+   only be done if the confidence exceeds a given barrier. Our evaluations
+   are based on the Augsburg Indoor Location Tracking Benchmarks and show
+   that the prediction accuracy with confidence estimation may rise by the
+   factor 1.95 over the prediction method without confidence estimation.
+   With confidence estimation a prediction accuracy is reached up to 90%.
+CT 2nd European Symposium on Ambient Intelligence
+CY NOV 08-11, 2004
+CL Eindhoven Univ Technol, Eindhoven, NETHERLANDS
+HO Eindhoven Univ Technol
+SP Eindhoven Univ Technol, Dept Ind Design; JFS Schouten Sch Res User Syst
+   Interact; KNAW, Royal Netherlands Acad Arts & Sci; Senter IOP MMI; Oce;
+   Philips
+TC 0
+ZS 0
+ZB 0
+ZR 0
+Z8 0
+Z9 0
+SN 0302-9743
+BN 3-540-23721-6
+UT WOS:000225162900036
+ER
+
+PT B
+AU Saraee, M
+   Yamaner, S
+   Dai, M
+   Long, DW
+BE Arabnia, HR
+TI Determining the locations visited by GPS users: A clustering approach
+SO CISST '04: PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON IMAGING
+   SCIENCE, SYSTEMS, AND TECHNOLOGY
+BP 555
+EP 558
+PD 2004
+PY 2004
+AB The aim of our research is to use the GPS log captured over 2 days from
+   a PDA and try to extract locations die user have visited. For this
+   research, we have logged GPS data over two days when the user was moving
+   as least 2 miles per hour. To achieve this we cluster the information
+   using data mining clustering software and then analyse the results to
+   see which locations represent a place the user has spent his time.
+CT International Conference on Imaging Science, Systems and Technology
+   (CISST 2004)
+CY JUN 21-24, 2004
+CL Las Vegas, NV
+SP Comp Sci Res, Educ & Applicat Press; Int Technol Inst; Korean Soc
+   Internet Informat; World Acad Sci Informat Technol
+Z8 0
+ZR 0
+TC 0
+ZS 0
+ZB 0
+Z9 0
+BN 1-932415-35-1
+UT WOS:000226026200090
+ER
+
+PT B
+AU Gross, Tom
+BE Christoph, H
+   Gerhard, C
+TI THE PAST, PRESENT, AND FUTURE OF WORKGROUPS IN A THEATRE OF WORK
+SO IDIMT 2004, PROCEEDINGS
+SE Schriftenreihe Informatik
+VL 12
+BP 81
+EP 90
+PD 2004
+PY 2004
+AB The members of workgroups need information about each other in order to
+   cooperate efficiently and effectively. In face-to-face situation this
+   information is available and can be captured naturally. In other
+   situations the distributed users need technological support for this
+   awareness information. Such systems should provide information about
+   things that are going on currently, but also about the history of the
+   actions and interactions in the workgroup. Ideally such systems should
+   also provide predictions about possible future events. In this paper we
+   introduce the Theatre of Work Enabling Relationships (TOWER)
+   environment, which provides an infrastructure for awareness information
+   support. We then discuss how it can be used to present information on
+   the workgroup's past, presence, and future.
+CT 12th Interdisciplinary Information Management Talks Conference
+CY SEP 15-17, 2004
+CL Budweis, CZECH REPUBLIC
+Z8 0
+ZR 0
+TC 0
+ZB 0
+ZS 0
+Z9 0
+BN 978-3-85487-665-6
+UT WOS:000265673200006
+ER
+
+PT B
+AU Albanese, M
+   Picariello, A
+   Rinaldi, AM
+BE Chu, HW
+   Aguilar, J
+   Ferrer, J
+TI A technological framework for personalized museum visiting
+SO ISAS/CITSA 2004: International Conference on Cybernetics and Information
+   Technologies, Systems and Applications and 10th International Conference
+   on Information Systems Analysis and Synthesis, Vol 2, Proceedings:
+   COMMUNICATIONS, INFORMATION AND CONTROL SYSTEMS, TECHNOLOGIES AND
+   APPLICATIONS
+BP 273
+EP 278
+PD 2004
+PY 2004
+AB Visiting museum and archeological sites is usually an amazing experience
+   but sometimes a visitor may get lost in huge exhibitions in which
+   thousands of artifacts are exposed. In this paper we present a system
+   that assists a user in visiting a museum or an archaeological site,
+   providing personalized recommendations, based on an innovative strategy
+   for predicting user behavior. Our approach makes use of an artificial
+   neural network trained on a suitable set of features characterizing the
+   objects of interest and also takes into account site topological
+   information gathered from a Geographical Information System.
+CT International Conference on Cybernetics and Information Technologies,
+   Systems and Applications/10th International Conference on Information
+   Systems Analysis and Synthesis
+CY JUL 21-25, 2004
+CL Orlando, FL
+SP Int Inst Informat & Syst; Int Federat Syst Res
+RI Picariello, Antonio/G-9062-2012; Picariello, Antonio/L-6820-2015
+OI Picariello, Antonio/0000-0003-4804-1007
+ZR 0
+ZS 0
+TC 0
+Z8 0
+ZB 0
+Z9 0
+BN 980-6560-19-1
+UT WOS:000227809100055
+ER
+
+PT S
+AU Borriello, G
+   Brunette, W
+   Hall, M
+   Hartung, C
+   Tangney, C
+BE Davies, N
+   Mynatt, E
+   Siio, I
+TI Reminding about tagged objects using passive RFIDs
+SO UBICOMP 2004: UBIQUITOUS COMPUTING, PROCEEDINGS
+SE Lecture Notes in Computer Science
+VL 3205
+BP 36
+EP 53
+PD 2004
+PY 2004
+AB People often misplace objects they care about. We present a system that
+   generates reminders about objects left behind by tagging those objects
+   with passive RFID tags. Readers positioned in the environment frequented
+   by users read tags and broadcast the tags' IDs over a short-range
+   wireless medium. A user's personal server collects the read events in
+   real-time and processes them to determine if a reminder is warranted or
+   not. The reminders are delivered to a wristwatch-sized device through a
+   combination of text messages and audible beeps. We believe this leads to
+   a practical and scalable approach in terms of system architecture and
+   user experience as well as being more amenable to maintaining user
+   privacy than previous approaches. We present results that demonstrate
+   that current RFID tag technology is appropriate for this application
+   when integrated with calendar information.
+CT 6th International Conference on Ubiquitous Computing
+CY SEP 07-10, 2004
+CL Nottingham, ENGLAND
+SP Intel Corp; Nokia Corp; Fuji Xerox Palo Alto Lab; Microsoft Res; Samsung
+   Adv Inst Technol; SMART Technol; Equator Interdisciplinary Res
+   Collaborat; Engn Phys Sci Res Council; ACM SIGCHI; ACM SIGMOBILE; ACM
+   SIGSOFT; ACM SIGWEB
+TC 14
+Z8 0
+ZR 0
+ZS 1
+ZB 0
+Z9 15
+SN 0302-9743
+EI 1611-3349
+BN 3-540-22955-8
+UT WOS:000224085200003
+ER
+
+EF
