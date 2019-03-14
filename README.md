@@ -22,7 +22,7 @@
 
 
 ##### The pipeline for cleaning the collected data is described below
-![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/scrapping.png | height = 10px)
+<a href="url"><img src="https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/scrapping.png" align="left" height="48" width="48" ></a>
 
 ##### The string similarity and profiling was performed using [python-string-similarity](https://github.com/luozhouyang/python-string-similarity)
 
