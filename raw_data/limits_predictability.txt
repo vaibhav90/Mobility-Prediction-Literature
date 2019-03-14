@@ -1,0 +1,278 @@
+
+Origin–destination trips by purpose and time of day inferred from mobile phone data
+2015 Transportation Research Part C-emerging Technologies
+Lauren Alexander, Shan Jiang, Mikel Murga, Marta C. González
+Massachusetts Institute of Technology
+Trip distribution
+Transport engineering
+TRIPS architecture
++8
+Abstract In this work, we present methods to estimate average daily origin–destination trips from triangulated mobile phone records of millions of anonymized users. These records are first converted into clustered locations at which users engage in activities for an observed duration. These locati...
+CITE
+share
+CITATIONS* (216)
+DOWNLOAD
+Heterogeneous Mobile Phone Ownership and Usage Patterns in Kenya
+2012 PLOS ONE
+Amy Wesolowski1, Nathan Eagle2, Abdisalan M. Noor3, Robert W. Snow3, Caroline O. Buckee2
+1Carnegie Mellon University,
+2Harvard University,
+3University of Oxford
+mHealth
+Social network
+Population
++7
+The rapid adoption of mobile phone technologies in Africa is offering exciting opportunities for engaging with high-risk populations through mHealth programs, and the vast volumes of behavioral data being generated as people use their phones provide valuable data about human behavioral dynamics in t...
+CITE
+share
+CITATIONS* (133)
+DOWNLOAD
+Inferring user demographics and social strategies in mobile social networks
+2014 Knowledge Discovery and Data Mining
+Yuxiao Dong1, Yang Yang2, Jie Tang2, Nitesh V. Chawla1
+1University of Notre Dame,
+2Tsinghua University
+Special case
+Social network
+Mobile telephony
++7
+Demographics are widely used in marketing to characterize different types of customers. However, in practice, demographic information such as age, gender, and location is usually unavailable due to privacy and other reasons. In this paper, we aim to harness the power of big data to automatically inf...
+CITE
+share
+CITATIONS* (135)
+DOWNLOAD
+Uncovering Patterns of Inter-Urban Trip and Spatial Interaction from Social Media Check-In Data
+2014 PLOS ONE
+Yu Liu, Zhengwei Sui, Chaogui Kang, Yong Gao
+Peking University
+TRIPS architecture
+Specific gravity
+Spatial network
++7
+The article revisits spatial interaction and distance decay from the perspective of human mobility patterns and spatially-embedded networks based on an empirical data set. We extract nationwide inter-urban movements in China from a check-in data set that covers half a million individuals within 370 ...
+CITE
+share
+CITATIONS* (234)
+DOWNLOAD
+Activity-Based Human Mobility Patterns Inferred from Mobile Phone Data: A Case Study of Singapore
+2017 IEEE Transactions on Big Data
+Shan Jiang, Joseph Ferreira, Marta C. Gonzalez
+Massachusetts Institute of Technology
+Urban computing
+Travel survey
+Transportation planning
++7
+In this study, with Singapore as an example, we demonstrate how we can use mobile phone call detail record (CDR) data, which contains millions of anonymous users, to extract individual mobility networks comparable to the activity-based approach. Such an approach is widely used in the transportation ...
+CITE
+share
+CITATIONS* (112)
+DOWNLOAD
+Proactive content download and user demand shaping for data networks
+2015 IEEE ACM Transactions on Networking
+John Tadrous, Atilla Eryilmaz, Hesham El Gamal
+Ohio State University
+Wireless network
+User requirements document
+Resource management
++8
+In this paper, we propose and study optimal proactive resource allocation and demand shaping for data networks. Motivated by the recent findings on the predictability of human behavior patterns in data networks, and the emergence of highly capable handheld devices, our design aims to smooth out the ...
+CITE
+share
+CITATIONS* (25)
+DOWNLOAD
+Mobility prediction-based smartphone energy optimization for everyday location monitoring
+2011 International Conference on Embedded Networked Sensor Systems
+Yohan Chon, Elmurod Talipov, Hyojeong Shin, Hojung Cha
+Yonsei University
+Software deployment
+Schedule
+Real-time computing
++7
+Monitoring a user's mobility during daily life is an essential requirement in providing advanced mobile services. While extensive attempts have been made to monitor user mobility, previous work has rarely addressed issues with battery lifetime in real deployment. In this paper, we introduce SmartDC,...
+CITE
+share
+CITATIONS* (147)
+DOWNLOAD
+Taxi-aware map: identifying and predicting vacant taxis in the city
+2010 Ambient Intelligence
+Santi Phithakkitnukoon1, Marco Veloso2, Carlos Bento2, Assaf Biderman1, Carlo Ratti1
+1Massachusetts Institute of Technology,
+2University of Coimbra
+Taxis
+Smart city
+Simulation
++8
+Knowing where vacant taxis are and will be at a given time and location helps the users in daily planning and scheduling, as well as the taxi service providers in dispatching. In this paper, we present a predictive model for the number of vacant taxis in a given area based on time of the day, day of...
+CITE
+share
+CITATIONS* (123)
+DOWNLOAD
+Geospatial Big Data
+2015 Big Data Research
+Jae-Gil Lee, Minseo Kang
+KAIST
+Urban planning
+Spatial analysis
+Mobile device
++8
+Geospatial big data refers to spatial data sets exceeding capacity of current computing systems. A significant portion of big data is actually geospatial data, and the size of such data is growing rapidly at least by 20% every year. In this paper, we explore the challenges and opportunities which ge...
+CITE
+share
+CITATIONS* (132)
+All your location are belong to us: breaking mobile social networks for automated user location tracking
+2014 Mobile Ad Hoc Networking and Computing
+Muyuan Li1, Haojin Zhu2, Zhaoyu Gao2, Si Chen1, Le Yu2
+see all 7 authors
+1University at Buffalo,
+2Shanghai Jiao Tong University
+Tracking system
+Social network
+Mobile social network
++4
+Location-based social networks (LBSNs) feature friend discovery by location proximity that has attracted hundreds of millions of users world-wide. While leading LBSN providers claim the well-protection of their users' location privacy, for the first time we show through real world attacks that these...
+CITE
+share
+CITATIONS* (116)
+DOWNLOAD
+
+Approaching the Limit of Predictability in Human Mobility
+2013 Scientific Reports
+Xin Lu, Erik Wetter, Nita Bharti, Andrew J. Tatem, Linus Bengtsson
+Simulation
+Predictive power
+Predictability
++4
+In this study we analyze the travel patterns of 500,000 individuals in Cote d'Ivoire using mobile phone call data records. By measuring the uncertainties of movements using entropy, considering both the frequencies and temporal correlations of individual trajectories, we find that the theoretical ma...
+CITE
+share
+CITATIONS* (242)
+DOWNLOAD
+Big Data for Social Transportation
+2016 IEEE Transactions on Intelligent Transportation Systems
+Xinhu Zheng1, Wei Chen2, Pu Wang3, Dayong Shen4, Songhang Chen5
+see all 8 authors
+1University of Minnesota,
+2Zhejiang University,
+3Central South University,
+4National University of Defense Technology,
+5State Key Lab. of Manage. & Control for Complex Syst., Inst. of Autom., Beijing, China
+Social media
+Simulation
+Management science
++9
+Big data for social transportation brings us unprecedented opportunities for resolving transportation problems for which traditional approaches are not competent and for building the next-generation intelligent transportation systems. Although social data have been applied for transportation analysi...
+CITE
+share
+CITATIONS* (86)
+DOWNLOAD
+Exploring universal patterns in human home-work commuting from mobile phone data.
+2014 PLOS ONE
+Kevin S. Kung, Kael Greco, Stanislav Sobolevsky, Carlo Ratti
+Massachusetts Institute of Technology
+Mobile phone
+Global Positioning System
+Data mining
++2
+Home-work commuting has always attracted significant research attention because of its impact on human mobility. One of the key assumptions in this domain of study is the universal uniformity of commute times. However, a true comparison of commute patterns has often been hindered by the intrinsic di...
+CITE
+share
+CITATIONS* (146)
+DOWNLOAD
+A new insight into land use classification based on aggregated mobile phone data
+2014 International Journal of Geographical Information Science
+Tao Pei1, Stanislav Sobolevsky1, Carlo Ratti1, Shih-Lung Shaw2, Ting Li3
+see all 6 authors
+1Massachusetts Institute of Technology,
+2Wuhan University,
+3State Key Laboratory of Resources and Environmental Information System, Institute of Geographic Sciences and Natural Resources Research, CAS, Beijing, China
+Urban planning
+Remote sensing
+Reflectivity
++4
+Land-use classification is essential for urban planning. Urban land-use types can be differentiated either by their physical characteristics (such as reflectivity and texture) or social functions. Remote sensing techniques have been recognized as a vital method for urban land-use classification beca...
+CITE
+share
+CITATIONS* (170)
+DOWNLOAD
+Measuring Large-Scale Social Networks with High Resolution
+2014 PLOS ONE
+Arkadiusz Stopczynski1, Vedran Sekara1, Piotr Sapiezynski1, Andrea Cuttone1, Mette My Madsen2
+see all 7 authors
+1Technical University of Denmark,
+2University of Copenhagen
+Software deployment
+Software
+Social support
++7
+This paper describes the deployment of a large-scale study designed to measure human interactions across a variety of communication channels, with high temporal resolution and spanning multiple years—the Copenhagen Networks Study. Specifically, we collect data on face-to-face interactions, telecommu...
+CITE
+share
+CITATIONS* (202)
+DOWNLOAD
+Mining mobility user profiles for car pooling
+2011 Knowledge Discovery and Data Mining
+Roberto Trasarti, Fabio Pinelli, Mirco Nanni, Fosca Giannotti
+Istituto di Scienza e Tecnologie dell'Informazione
+Satisfiability
+Robustness (computer science)
+Pooling
++8
+In this paper we introduce a methodology for extracting mobility profiles of individuals from raw digital traces (in particular, GPS traces), and study criteria to match individuals based on profiles. We instantiate the profile matching problem to a specific application context, namely proactive car...
+CITE
+share
+CITATIONS* (127)
+Collective Human Mobility Pattern from Taxi Trips in Urban Area
+2012 PLOS ONE
+Chengbin Peng1, 2, Xiaogang Jin2, Ka-Chun Wong1, Meixia Shi2, Pietro Liò3
+1King Abdullah University of Science and Technology,
+2Zhejiang University,
+3University of Cambridge
+Traffic flow
+Traffic Power
+Statistics
++7
+We analyze the passengers' traffic pattern for 1.58 million taxi trips of Shanghai, China. By employing the non-negative matrix factorization and optimization methods, we find that, people travel on workdays mainly for three purposes: commuting between home and workplace, traveling from workplace to...
+CITE
+share
+CITATIONS* (140)
+Smart Meter Driven Segmentation: What Your Consumption Says About You
+2013 IEEE Transactions on Power Systems
+Adrian Albert, Ram Rajagopal
+Stanford University
+Time series
+Smart meter
+Segmentation
++9
+With the rollout of smart metering infrastructure at scale, demand-response (DR) programs may now be tailored based on users' consumption patterns as mined from sensed data. For issuing DR events it is key to understand the inter-temporal consumption dynamics as to appropriately segment the user pop...
+CITE
+share
+CITATIONS* (138)
+Once Upon a Crime: Towards Crime Prediction from Demographics and Mobile Data
+2014 International Conference on Multimodal Interfaces
+Andrey Bogomolov1, Bruno Lepri2, Jacopo Staiano1, Nuria Oliver3, Fabio Pianesi2
+see all 6 authors
+1University of Trento,
+2FBK, Trento, Italy,
+3Telefónica
+Urban computing
+Profiling (computer programming)
+Mobile phone
++7
+In this paper, we present a novel approach to predict crime in a geographic space from multiple data sources, in particular mobile phone and demographic data. The main contribution of the proposed approach lies in using aggregated and anonymized human behavioral data derived from mobile network acti...
+CITE
+share
+CITATIONS* (145)
+DOWNLOAD
+Proactive Resource Allocation: Harnessing the Diversity and Multicast Gains
+2013 IEEE Transactions on Information Theory
+John Tadrous, Atilla Eryilmaz, Hesham El Gamal
+Ohio State University
+Wireless network
+Resource allocation
+Real-time computing
++8
+This paper introduces the novel concept of proactive resource allocation for wireless networks, through which the predictability of user behavior is exploited to balance the wireless traffic over time, and significantly reduces the bandwidth required to achieve a given blocking/outage probability. W...
+CITE
+share
+CITATIONS* (70)
+DOWNLOAD

@@ -1,0 +1,1664 @@
+Predicting future locations with hidden Markov models
+2012 Ubiquitous Computing
+Wesley Mathew, Ruben Raposo, Bruno Martins
+Instituto Superior Técnico
+Unobservable
+Machine learning
+Hidden Markov model
++3
+The analysis of human location histories is currently getting an increasing attention, due to the widespread usage of geopositioning technologies such as the GPS, and also of online location-based services that allow users to share this information. Tasks such as the prediction of human movement can...
+CITE
+share
+CITATIONS* (198)
+DOWNLOAD
+Approaching the Limit of Predictability in Human Mobility
+2013 Scientific Reports
+Xin Lu, Erik Wetter, Nita Bharti, Andrew J. Tatem, Linus Bengtsson
+Simulation
+Predictive power
+Predictability
++4
+In this study we analyze the travel patterns of 500,000 individuals in Cote d'Ivoire using mobile phone call data records. By measuring the uncertainties of movements using entropy, considering both the frequencies and temporal correlations of individual trajectories, we find that the theoretical ma...
+CITE
+share
+CITATIONS* (242)
+DOWNLOAD
+Personalized point-of-interest recommendation by mining users' preference transition
+2013 Conference on Information and Knowledge Management
+Xin Liu1, Yong Liu2, Karl Aberer1, Chunyuan Miao2
+1École Polytechnique Fédérale de Lausanne,
+2Nanyang Technological University
+User experience design
+Social network
+Point of interest
++4
+Location-based social networks (LBSNs) offer researchers rich data to study people's online activities and mobility patterns. One important application of such studies is to provide personalized point-of-interest (POI) recommendations to enhance user experience in LBSNs. Previous solutions directly ...
+CITE
+share
+CITATIONS* (144)
+Understanding Human Mobility from Twitter
+2015 PLOS ONE
+Raja Jurdak1, Kun Zhao1, Jiajun Liu1, Maurice AbouJaoude2, Mark A. Cameron1
+see all 6 authors
+1Commonwealth Scientific and Industrial Research Organisation,
+2American University of Beirut
+Telecommunications network
+Social media
+Six million
++5
+Understanding human mobility is crucial for a broad range of applications from disease prediction to communication networks. Most efforts on studying human mobility have so far used private and low resolution data, such as call data records. Here, we propose Twitter as a proxy for human mobility, as...
+CITE
+share
+CITATIONS* (131)
+DOWNLOAD
+Control-Data Separation Architecture for Cellular Radio Access Networks: A Survey and Outlook
+2016 IEEE Communications Surveys and Tutorials
+Abdelrahim Mohamed1, Oluwakayode Onireti1, Muhammad Ali Imran1, Ali Imran2, Rahim Tafazolli1
+1University of Surrey,
+2University of Oklahoma
+Software deployment
+Radio resource management
+MIMO
++8
+Conventional cellular systems are designed to ensure ubiquitous coverage with an always present wireless channel irrespective of the spatial and temporal demand of service. This approach raises several problems due to the tight coupling between network and data access points, as well as the paradigm...
+CITE
+share
+CITATIONS* (70)
+Energy-Aware Participant Selection for Smartphone-Enabled Mobile Crowd Sensing
+2017 IEEE Systems Journal
+Chi Harold Liu1, Bo Zhang2, Xin Su3, Jian Ma2, Wendong Wang2
+see all 6 authors
+1Beijing Institute of Technology,
+2Beijing University of Posts and Telecommunications,
+3Tsinghua University
+Server
+Sampling (statistics)
+Robustness (computer science)
++7
+Mobile crowd sensing systems have been widely used in various domains but are currently facing new challenges. On one hand, the increasingly complex services need a large number of participants to satisfy their demand for sensory data with multidimensional high quality-of-information (QoI) requireme...
+CITE
+share
+CITATIONS* (31)
+From Cells to Streets: Estimating Mobile Paths with Cellular-Side Data
+2014 Conference on Emerging Network Experiment and Technology
+Ilias Leontiadis1, Antonio Lima2, Haewoon Kwak3, Rade Stanojevic1, David Wetherall4
+see all 6 authors
+1Telefónica,
+2University of Birmingham,
+3Qatar Computing Research Institute,
+4University of Washington
+Temporal resolution
+Real-time computing
+Mobility model
++8
+Through their normal operation, cellular networks are a repository of continuous location information from their subscribed devices. Such information, however, comes at a coarse granularity both in terms of space, as well as time. For otherwise inactive devices, location information can be obtained ...
+CITE
+share
+CITATIONS* (22)
+Human mobility in opportunistic networks: Characteristics, models and prediction methods
+2014 Journal of Network and Computer Applications
+Poria Pirozmand, Guowei Wu, Behrouz Jedari, Feng Xia
+Dalian University of Technology
+Social network
+Mobility model
+Mobile device
++4
+Abstract Opportunistic networks (OppNets) are modern types of intermittently connected networks in which mobile users communicate with each other via their short-range devices to share data among interested observers. In this setting, humans are the main carriers of mobile devices. As such, this m...
+CITE
+share
+CITATIONS* (65)
+DOWNLOAD
+DAWN: Delay-Aware Wi-Fi Offloading and Network Selection
+2015 IEEE Journal on Selected Areas in Communications
+Man Hon Cheung, Jianwei Huang
+The Chinese University of Hong Kong
+Small cell
+Real-time computing
+Quality of service
++9
+To accommodate the explosive growth in mobile data traffic, both mobile cellular operators and mobile users are increasingly interested in offloading the traffic from cellular networks to Wi-Fi networks. However, previously proposed offloading schemes mainly focus on reducing the cellular data usage...
+CITE
+share
+CITATIONS* (26)
+DOWNLOAD
+Patterns, Entropy, and Predictability of Human Mobility and Life
+2012 PLOS ONE
+Shao-Meng Qin1, Hannu Verkasalo2, Mikael Mohtaschemi1, Tuomo Hartonen1, Mikko J. Alava1
+1Aalto University,
+2WR WIRELESS RESEARCH Ltd, Espoo, Finland
+Social group
+Social environment
+Randomness
++9
+Cellular phones are now offering an ubiquitous means for scientists to observe life: how people act, move and respond to external influences. They can be utilized as measurement devices of individual persons and for groups of people of the social context and the related interactions. The picture of ...
+CITE
+share
+CITATIONS* (26)
+DOWNLOAD
+Active user authentication for smartphones: A challenge data set and benchmark results
+2016 International Conference on Biometrics: Theory, Applications and Systems
+Upal Mahbub1, Sayantan Sarkar1, Vishal M. Patel2, Rama Chellappa1
+1University of Maryland, College Park,
+2Rutgers University
+Machine learning
+Face detection
+Data mining
++5
+In this paper, automated user verification techniques for smartphones are investigated. A unique non-commercial dataset, the University of Maryland Active Authentication Dataset 02 (UMDAA-02) for multi-modal user authentication research is introduced. This paper focuses on three sensors — front came...
+CITE
+share
+CITATIONS* (17)
+DOWNLOAD
+A Self-Adaptive Parameter Selection Trajectory Prediction Approach via Hidden Markov Models
+2015 IEEE Transactions on Intelligent Transportation Systems
+Shaojie Qiao1, Dayong Shen2, Xiaoteng Wang1, Nan Han1, William Zhu3
+1Southwest Jiaotong University,
+2National University of Defense Technology,
+3Zhangzhou Normal University
+Variable-order Markov model
+Selection algorithm
+Pattern recognition
++9
+Trajectory prediction of objects in moving objects databases (MODs) has garnered wide support in a variety of applications and is gradually becoming an active research area. The existing trajectory prediction algorithms focus on discovering frequent moving patterns or simulating the mobility of obje...
+CITE
+share
+CITATIONS* (27)
+Leveraging periodicity in human mobility for next place prediction
+2014 Wireless Communications and Networking Conference
+Bhaskar Prabhala1, Jingjing Wang2, Budhaditya Deb3, Thomas F. La Porta1, Jiawei Han2
+1Pennsylvania State University,
+2University of Illinois at Urbana–Champaign,
+3BBN Technologies
+Timestamp
+Real-time computing
+Periodic graph (geometry)
++5
+Periodic transitions from place to place are inherent in human movements. Through visual examination we detect these periodic movements in traces of user tracking data. However such user tracking data sets tend to be sparse and incomplete. In addition, periodic movements are surrounded by noise: tra...
+CITE
+share
+CITATIONS* (5)
+Exploiting machine learning techniques for location recognition and prediction with smartphone logs
+2016 Neurocomputing
+Sung-Bae Cho
+Yonsei University
+k-nearest neighbors algorithm
+Mobile computing
+Mathematics
++7
+Due to the advancement of mobile computing technology and the various sensors built in the smartphones, context-aware services are proliferating to everyday life. Location-based service (LBS), which provides the appropriate service to smartphone users according to their contexts, is becoming more po...
+CITE
+share
+CITATIONS* (20)
+DOWNLOAD
+Differentially Private Location Privacy in Practice
+2014 arXiv: Cryptography and Security
+Vincent Primault1, Sonia Ben Mokhtar1, Cédric Lauradoux1, Lionel Brunie2
+1Centre national de la recherche scientifique,
+2French Institute for Research in Computer Science and Automation
+Point of interest
+Obfuscation
+Mobile device
++7
+With the wide adoption of handheld devices (e.g., smartphones, tablets), a large number of location-based services (also called LBSs) have flourished providing mobile users with real-time and contextual information on the move. Accounting for the amount of location information they are given by user...
+CITE
+share
+CITATIONS* (13)
+DOWNLOAD
+Mobility prediction for handover management in cellular networks with control/data separation
+2015 International Conference on Communications
+Abdelrahim Mohamed1, Oluwakayode Onireti1, Seyed Amir Hoseinitabatabaei1, Muhammad Ali Imran1, Ali Imran2
+see all 6 authors
+1University of Surrey,
+2University of Oklahoma
+Robustness (computer science)
+Real-time computing
+Radio access network
++8
+In research community, a new radio access network architecture with a logical separation between control plane (CP) and data plane (DP) has been proposed for future cellular systems. It aims to overcome limitations of the conventional architecture by providing high data rate services under the umbre...
+CITE
+share
+CITATIONS* (17)
+DOWNLOAD
+PATH: Person authentication using trace histories
+2016 Ubiquitous Computing
+Upal Mahbub, Rama Chellappa
+University of Maryland, College Park
+Word error rate
+Trajectory
+Pattern recognition
++8
+In this paper, a solution to the problem of Active Authentication using trace histories is addressed. Specifically, the task is to perform user verification on mobile devices using historical location traces of the user as a function of time. Considering the movement of a human as a Markovian motion...
+CITE
+share
+CITATIONS* (7)
+DOWNLOAD
+Proactive caching with mobility prediction under uncertainty in information-centric networks
+2017 Conference on Information-Centric Networking
+Noor Abani1, Torsten Braun2, Mario Gerla1
+1University of California,
+2University of Bern
+Vehicular ad hoc network
+Redundancy (engineering)
+Latency (engineering)
++8
+Proactive caching can be a key enabler for reducing the latency of retrieving predictable content requests, alleviating backhaul traffic and mitigating latency caused by handovers. In mobile networks, proactive caching relies on mobility prediction to locate the mobile device's next location and hen...
+CITE
+share
+CITATIONS* (2)
+User's mobility history-based mobility prediction in LTE femtocells network
+2013 IEEE International RF and Microwave Conference
+Nurul Ain Amirrudin, Sharifah H. S. Ariffin, N. N. N. Abd Malik, N. Effiyana Ghazali
+UTM-MIMOS CoE Fac. of Electr. Eng., Univ. Teknol., Malaysia
+Wireless network
+Quality of service
+Mobility model
++7
+Seamless and fast handover is one of main goals in Long Term Evolution (LTE) in supporting mobility and maintaining user's quality of services. Mobility prediction is a technique to identify future targeted base station in advance, to reduce handover latency, and finally to enhance handover performa...
+CITE
+share
+CITATIONS* (14)
+Mobile social networks: Design requirements, architecture, and state-of-the-art technology
+2017 Computer Communications
+Zhifei Mao1, Yuming Jiang1, Geyong Min2, Supeng Leng3, Xiaolong Jin4
+see all 6 authors
+1Norwegian University of Science and Technology,
+2University of Exeter,
+3University of Electronic Science and Technology of China,
+4Chinese Academy of Sciences
+Social network
+Social computing
+Reference architecture
++5
+Abstract Mobile social networks (MSNs) are new systems for people to share content, communicate, and interact. Such networks combine social computing and mobile networking techniques to help in community detection, information dissemination, privacy preservation, etc. In this paper, we summarize t...
+CITE
+share
+CITATIONS* (26)
+DOWNLOAD
+
+Mining online footprints to predict user’s next location
+2017 International Journal of Geographical Information Science
+Qunying Huang
+University of Wisconsin-Madison
+Trajectory
+Social media
+Global Positioning System
++2
+ABSTRACTSocial media applications are widely deployed in mobile platforms equipped with built-in GPS tracking devices, and these devices have led to an unprecedented collection of geolocated data (geo-tags). Geo-tags, along with place names, offer new opportunities to explore the trajectory and mobi...
+CITE
+share
+CITATIONS* (8)
+Coordinated Multi-Point Clustering Schemes: A Survey
+2017 IEEE Communications Surveys and Tutorials
+Selcuk Bassoy, Hasan Farooq, Muhammad Ali Imran, Ali Imran
+University of Glasgow
+Wireless network
+Spectral efficiency
+Software deployment
++7
+Mobile data traffic grew by 74% in 2015 and it’s expected to grow 8-fold by 2020. Future wireless networks will need to deploy massive number of small cells to cope with this increasing demand. Dense deployment of small cells will require advanced interference mitigation techniques to improve spectr...
+CITE
+share
+CITATIONS* (12)
+Predicting human mobility with activity changes
+2015 International Journal of Geographical Information Science
+Wei Huang1, Songnian Li1, Xintao Liu1, Yifang Ban2
+1Ryerson University,
+2Royal Institute of Technology
+Urban studies
+Urban planning
+Markov chain
++5
+Human mobility patterns can provide valuable information in understanding the impact of human behavioral regularities in urban systems, usually with a specific focus on traffic prediction, public health or urban planning. While existing studies on human movement have placed huge emphasis on spatial ...
+CITE
+share
+CITATIONS* (17)
+DeepMove: Predicting Human Mobility with Attentional Recurrent Networks
+2018 The Web Conference
+Jie Feng1, Yong Li1, Chao Zhang2, Funing Sun3, Fanchao Meng3
+see all 7 authors
+1Tsinghua University,
+2University of Illinois at Urbana–Champaign,
+3Tencent
+Recurrent neural network
+Machine learning
+Embedding
++4
+Human mobility prediction is of great importance for a wide spectrum of location-based applications. However, predicting mobility is not trivial because of three challenges: 1) the complex sequential transition regularities exhibited with time-dependent and high-order nature; 2) the multi-level per...
+CITE
+share
+CITATIONS* (5)
+A Survey of Sink Mobility Models for Wireless Sensor Networks
+2013
+Anas Abu Taleb, Tareq Alhmiedat, Osama Al-haj Hassan, Nidal M. Turab
+Wireless sensor network
+Sink (computing)
+Simulation
++3
+Using mobile sinks to collect information in wireless sensor networks is an interesting area of research. As a result, a variety of mobility models were proposed by researchers over the years where each mobility model has its own properties that may affect the performance of the network in a way tha...
+CITE
+share
+CITATIONS* (12)
+Joint Mobility Pattern Mining with Urban Region Partitions
+2018 International Conference on Mobile and Ubiquitous Systems: Networking and Services
+Jing Lian1, Yang Li1, Weixi Gu2, Shao-Lun Huang1, Lin Zhang1
+1Tsinghua University,
+2University of California, Berkeley
+Urban planning
+Public transport
+Distributed computing
++6
+Mobility pattern mining answers the fundamental question of where people are likely to go from a given location. It plays an important role in city planning, public transport management and location-based mobile applications. Among these applications, many concern the mobility pattern over contiguou...
+CITE
+share
+CITATIONS* (0)
+Next Place Prediction Based on Spatiotemporal Pattern Mining of Mobile Device Logs
+2016 Sensors
+Sung Jun Lee1, Junseok Lim1, Jonghun Park2, Kwanho Kim1
+1Seoul National University,
+2Incheon National University
+Text mining
+Spatiotemporal pattern
+Mobile device
++5
+Due to the recent explosive growth of location-aware services based on mobile devices, predicting the next places of a user is of increasing importance to enable proactive information services. In this paper, we introduce a data-driven framework that aims to predict the user’s next places using his/...
+CITE
+share
+CITATIONS* (5)
+DOWNLOAD
+What Will You Do for the Rest of the Day?: An Approach to Continuous Trajectory Prediction
+2018
+Amin Sadri1, Flora D. Salim1, Yongli Ren1, Wei Shao1, John C. Krumm2
+see all 6 authors
+1RMIT University,
+2Microsoft
+Trajectory
+Control theory
+Computer science
+CITE
+share
+CITATIONS* (0)
+Indoor Next Location Prediction with Wi-Fi
+2014 International Conference on Digital Information Processing and Communications
+Boon-Khai Ang, Daniel Dahlmeier, Ziheng Lin, Jian Huang, Mun-Lie Seeto, Hendy Shi
+Wireless
+Multimedia
+Location intelligence
++3
+Indoor Location Intelligence is a novel application that relates indoor localization technology to business data to allow for better decision making for retail businesses. In this context, Wi-Fi technology has a big potential for localization of customers who move through the store. With this inform...
+CITE
+share
+CITATIONS* (3)
+DOWNLOAD
+Quantifying Differential Privacy under Temporal Correlations
+2017 International Conference on Data Engineering
+Yang Cao1, Masatoshi Yoshikawa2, Yonghui Xiao1, Li Xiong1
+1Emory University,
+2Kyoto University
+Time complexity
+Synthetic data
+Probabilistic logic
++8
+Differential Privacy (DP) has received increasing attention as a rigorous privacy framework. Many existing studies employ traditional DP mechanisms (e.g., the Laplace mechanism) as primitives, which assume that the data are independent, or that adversaries do not have knowledge of the data correlati...
+CITE
+share
+CITATIONS* (5)
+DOWNLOAD
+
+Dynamic Modeling of Location Privacy Protection Mechanisms
+2018 Distributed Applications and Interoperable Systems
+Sophie Cerf1, Sonia Ben Mokhtar2, Sara Bouchenak2, Nicolas Marchand1, Bogdan Robu1
+1Centre national de la recherche scientifique,
+2Institut national des sciences Appliquées de Lyon
+System dynamics
+Point of interest
+Mobile device
++6
+Mobile applications tend to ask for users’ location in order to improve the service they provide. However, aside from increasing their service utility, they may also store these data, analyze them or share them with external parties. These privacy threats for users are a hot topic of research, leadi...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Using Twitter for Next-Place Prediction, with an Application to Crime Prediction
+2015 IEEE Symposium Series on Computational Intelligence
+Mingjun Wang, Matthew S. Gerber
+University of Virginia
+Social network
+Social media
+Publication
++8
+This research focuses on two problems. First, we investigate the prediction of social media users' spatial trajectories. Recent work on this task has focused on the use of cellular network traces and location-based social network services such as Foursquare, all of which emit structured geospatial i...
+CITE
+share
+CITATIONS* (4)
+Reliable Trajectory Classification Using Wi-Fi Signal Strength in Indoor Scenarios
+2014 IEEE/ION Position, Location and Navigation Symposium
+Martin Werner, Lorenz Schauer, Andreas Scharf
+Ludwig Maximilian University of Munich
+Trajectory
+Segmentation
+Scalability
++8
+The time-series nature of human movement inside buildings can be exploited for common tasks of location-based computing. With this paper, we propose to use Wi-Fi signal strength measurements directly to infer the trajectory in comparison with a database of trajectories removing the need for accurate...
+CITE
+share
+CITATIONS* (7)
+Next Place Prediction using Mobile Data
+2012
+Le Hung Tran1, Michele Catasta1, Lucas Kelsey McDowell2, Karl Aberer1
+1École Polytechnique Fédérale de Lausanne,
+2United States Naval Academy
+TRAC
+Mobile search
+Mobile broadband
++4
+Recently, location-based applications and services for mobile users have attracted signicant attention. In this context, one challenging problem is predicting the future location of a mobile user given his or her current location and associated metadata. Solving this problem enables many interesting...
+CITE
+share
+CITATIONS* (13)
+DOWNLOAD
+On the Semantic Annotation of Daily Places: A Machine-Learning Approach
+2014 Conference on Information and Knowledge Management
+Chih-Wei Chang1, Yao-Chung Fan1, Kuo-Chen Wu2, Arbee L.P. Chen3
+1National Chung Hsing University,
+2HTC,
+3National Chengchi University
+Semantics
+Scalability
+Mobile device
++8
+Over the recent years smart devices have become a ubiquitous medium supporting various forms of functionality and are widely accepted for common users. One distinguishing feature for smart devices is the ability of positioning the physical location of a device, and numerous applications based on use...
+CITE
+share
+CITATIONS* (6)
+Enhancing location prediction with big data: evidence from dhaka
+2016 Ubiquitous Computing
+Dunstan Matekenya, Masaki Ito, Ryosuke Shibasaki, Kaoru Sezaki
+University of Tokyo
+Leverage (finance)
+Data mining
+Computer science
++3
+In recent years, the study of location prediction has received heightened attention due to its applications in LBS and other areas. However, most of the techniques and subsequent conclusions drawn from previous research works are specific to the data used in the study. For instance, resolution of lo...
+CITE
+share
+CITATIONS* (0)
+A contextualized and personalized model to predict user interest using location-based social networks
+2016 Computers, Environment and Urban Systems
+Ming Li1, Günther Sagl2, Lucy W. Mburu1, Hongchao Fan1
+1Heidelberg University,
+2Geoinformation and Environmental Monitoring, Engineering & IT, Carinthia University of Applied Sciences, Austria
+User modeling
+Social network
+Recommender system
++6
+Abstract The accurate determination of user interest in terms of geographic information is essential to numerous mobile applications, such as recommender systems and mobile advertising. User interest is greatly influenced by the usage context and varies across individuals; therefore, a user intere...
+CITE
+share
+CITATIONS* (6)
+Predicting next location using a variable order Markov model
+2014 International Workshop on GeoStreaming
+Jie Yang, Jian Xu, Ming Xu, Ning Zheng, Yu Chen
+Hangzhou Dianzi University
+Variable-order Markov model
+Tree structure
+Statistic
++8
+Due to the booming industry of location-based services, the analysis of human location histories is increasingly important. Next location prediction is essential to many location-based services. Predicting user's next location usually involves obtaining significant places from the history trajectori...
+CITE
+share
+CITATIONS* (9)
+Urban energy flux: Spatiotemporal fluctuations of building energy consumption and human mobility-driven prediction
+2017 Applied Energy
+Neda Mohammadi, John E. Taylor
+Georgia Institute of Technology
+Urbanization
+Simulation
+Population
++9
+Urbanization is causing a significant increase in the amount, diversity, and complexity of human activities, all of which have a substantial impact on energy consumption. Current approaches to predicting energy demand at different spatiotemporal levels are functions of the characteristics of either ...
+CITE
+share
+CITATIONS* (5)
+Protecting the location privacy of mobile social media users
+2016 International Conference on Big Data
+Shuo Wang1, Richard O. Sinnott1, Surya Nepal2
+1University of Melbourne,
+2Commonwealth Scientific and Industrial Research Organisation
+restrict
+Scalability
+Ranging
++9
+Unprecedented volumes of location-based information have been produced as a result of the widespread adoption of social network applications and GPS-enabled devices and sensors. Publication of such location data can provide valuable resources for researchers and government agencies in applications r...
+CITE
+share
+CITATIONS* (2)
+
+A geographical location prediction method based on continuous time series Markov model
+2018 PLOS ONE
+Yongping Du, Chencheng Wang, Yanlei Qiao, Dongyue Zhao, Wenyang Guo
+Pattern recognition
+Markov model
+Location
++2
+CITE
+share
+CITATIONS* (0)
+Unraveling traveler mobility patterns and predicting user behavior in the Shenzhen metro system
+2018 Transportmetrica
+Chao Yang1, Fenfan Yan1, Satish V. Ukkusuri2
+1Ministry of Education,
+2Purdue University
+Smart card
+Simulation
+Markov chain
++6
+ABSTRACTOver the last few years, cities have made available large volumes of smart card data that shed light on the urban dynamics of transit users. This research uses metro card data from Shenzhen, China, to recognize individual mobility patterns and predict travelers' future movements. Joint entro...
+CITE
+share
+CITATIONS* (1)
+DOWNLOAD
+The effect of recency to human mobility
+2015 EPJ Data Science
+Hugo Barbosa1, Fernando B de Lima-Neto2, Alexandre Evsukoff3, Ronaldo Menezes1
+1Florida Institute of Technology,
+2Computational Intelligence Research Group, Polytechnic School, University of Pernambuco, Recife, Brazil,
+3Federal University of Rio de Janeiro
+Wireless network
+Urban planning
+Human dynamics
++3
+In recent years, we have seen scientists attempt to model and explain human dynamics and in particular human movement. Many aspects of our complex life are affected by human movement such as disease spread and epidemics modeling, city planning, wireless network development, and disaster relief, to n...
+CITE
+share
+CITATIONS* (9)
+DOWNLOAD
+Time Distortion Anonymization for the Publication of Mobility Data with High Utility
+2015 Trust, Security And Privacy In Computing And Communications
+Vincent Primault1, Sonia Ben Mokhtar1, Cédric Lauradoux2, Lionel Brunie1
+1LIRIS, Univ. de Lyon, Lyon, France,
+2PRIVATICS
+Spatial analysis
+Range query (data structures)
+Protection mechanism
++8
+An increasing amount of mobility data is being collected every day by different means, such as mobile applications or crowd-sensing campaigns. This data is sometimes published after the application of simple anonymization techniques (e.g., putting an identifier instead of the users' names), which mi...
+CITE
+share
+CITATIONS* (8)
+DOWNLOAD
+Smart card in public transportation: Designing a analysis system at the human scale
+2016 International Conference on Intelligent Transportation Systems
+Emeric Tonnelier, Nicolas Baskiotis, Vincent Guigue, Patrick Gallinari
+University of Paris
+Smart card
+Simulation
+Semantics
++9
+In the 20th century, most mobility studies were based on costly surveys with few samples; nowadays, the data from static and mobile sensors allow to track the habits of a massive number of citizens. However, the counterpart of sensors data is that they generally provide noisy and partial signals lac...
+CITE
+share
+CITATIONS* (2)
+Proactive Edge Caching Strategy Based on Mobility Prediction in Dense Small Cell Networks
+2017
+Tianming Song1, Heli Zhang1, Xi Li1, Chunsheng Zhu2, Hong Ji1
+1Beijing University of Posts and Telecommunications,
+2University of British Columbia
+Small cell
+Computer science
+Computer network
++2
+Content caching on the edge of dense networks is an emerging and critical technology to support the thirst for content of mobile users. However, the user mobility imposes additional difficulties on caching design because a moving user may not be able to obtain a whole file from a single small base s...
+CITE
+share
+CITATIONS* (0)
+Context-based prediction filtering of impulse noise images
+2016 Iet Image Processing
+Arpad Gellert, Remus Brad
+Lucian Blaga University of Sibiu
+Pixel
+Pattern recognition
+Non-local means
++9
+A new image denoising method for impulse noise in greyscale images using a context-based prediction scheme is presented. The algorithm replaces the noisy pixel with the value occurring with the highest frequency, in the same context as the replaceable pixel. Since it is a context-based technique, it...
+CITE
+share
+CITATIONS* (6)
+Trajectory Prediction in Campus Based on Markov Chains
+2016 International Conference on Big Data
+Bonan Wang, Yihong Hu, Guochu Shou, Zhigang Guo
+Beijing University of Posts and Telecommunications
+Trajectory
+Markov chain
+Machine learning
++3
+In this paper, we present a model of predicting the next location of a student in campus based on Markov chains. Since the activity of a student in campus is closely related to the time at which the activity occurs, we consider the notion of time in the prediction algorithm that we coined as Traject...
+CITE
+share
+CITATIONS* (3)
+Creating full individual-level location timelines from sparse social media data
+2018 Advances in Geographic Information Systems
+Nabeel Abdur Rehman, Kunal Relia, Rumi Chunara
+New York University
+Timeline
+Sparse matrix
+Social media
++9
+In many domain applications, a continuous timeline of human locations is critical; for example for understanding possible locations wherea disease may spread, or the flow of traffic. While data sources such as GPS trackers or Call Data Records are temporally-rich, they are expensive, often not publi...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+A Data Mining Approach to Assess Privacy Risk in Human Mobility Data
+2017 ACM Transactions on Intelligent Systems and Technology
+Roberto Pellungrini, Luca Pappalardo, Francesca Pratesi, Anna Monreale
+University of Pisa
+Risk assessment
+Mathematical model
+Individual mobility
++2
+Human mobility data are an important proxy to understand human mobility dynamics, develop analytical services, and design mathematical models for simulation and what-if analysis. Unfortunately mobility data are very sensitive since they may enable the re-identification of individuals in a database. ...
+
+CITE
+share
+CITATIONS* (3)
+
+HiPCV: History based learning model for predicting contact volume in Opportunistic Networks
+2015 World of Wireless, Mobile and Multimedia Networks
+Mehrab Shahriar1, Yonghe Liu1, Sajal K. Das2
+1University of Texas at Arlington,
+2Missouri University of Science and Technology
+Robustness (computer science)
+Mobility model
+Markov process
++7
+In absence of fixed infrastructure in Opportunistic Networks (OppNet), connectivity between OppNet nodes (usually characterized by human-portable devices), is one of the most challenging issues. The traditional assumption considers every proximity triggered human contact to be an effective OppNet co...
+CITE
+share
+CITATIONS* (2)
+Preemptive flow management in future SDNized wireless networks
+2016 Wireless and Mobile Computing, Networking and Communications
+Manzoor A. Khan, Xuan T. Dang, Sebastian Peters
+Technical University of Berlin
+Wireless network
+Testbed
+Scalability
++9
+The emerging Software-Defined Networking (SDN) concept aims at simplifying network management and control. SDN is envisioned as one of the core technologies for future wireless networks. However, such networks have inherent challenges, in particular mobility management (MM) and network selection, wh...
+CITE
+share
+CITATIONS* (3)
+Predicting Bundles of Spatial Locations from Learning Revealed Preference Data
+2015 Adaptive Agents and Multi-Agents Systems
+Truc Viet Le1, Siyuan Liu2, Hoong Chuin Lau1, Ramayya Krishnan2
+1Singapore Management University,
+2Carnegie Mellon University
+Trajectory
+Tourism
+Revealed preference
++10
+We propose the problem of predicting a bundle of goods, where the goods considered is a set of spatial locations that an agent wishes to visit. This typically arises in the tourism setting where attractions can often be bundled and sold as a package to visitors. While the problem of predicting futur...
+CITE
+share
+CITATIONS* (1)
+DOWNLOAD
+Discovering Latent Semantic Structure in Human Mobility Traces
+2015 International Conference on Embedded Wireless Systems and Networks
+Budhaditya Deb1, Prithwish Basu2
+1Microsoft,
+2BBN Technologies
+Semantics
+Probabilistic logic
+Participatory sensing
++6
+Human mobility is a complex pattern of movements and activities that are based on some underlying semantics of human behavior. In order to construct accurate models of human mobility, this semantic behavior needs to be unearthed from the data sensed as a human being moves around and visits certain c...
+CITE
+share
+CITATIONS* (3)
+Matrix factorization on semantic trajectories for predicting future semantic locations
+2017 Wireless and Mobile Computing, Networking and Communications
+Antonios Karatzoglou, Stefan Christian Lamp, Michael Beigl
+Karlsruhe Institute of Technology
+Semantics
+Probabilistic latent semantic analysis
+Pattern recognition
++8
+With over 1 billion vehicles in operation over the world 1 and steadily growing cities, intelligent traffic management has become inevitable in order to preserve quality of life as we know it. Analyzing and predicting the movement behavior of traffic participants helps providing forward-looking sol...
+CITE
+share
+CITATIONS* (1)
+Understanding human activity patterns based on space-time-semantics
+2016 Isprs Journal of Photogrammetry and Remote Sensing
+Wei Huang, Songnian Li
+Ryerson University
+Urban planning
+Transportation planning
+Topic model
++10
+Abstract Understanding human activity patterns plays a key role in various applications in an urban environment, such as transportation planning and traffic forecasting, urban planning, public health and safety, and emergency response. Most existing studies in modeling human activity patterns main...
+CITE
+share
+CITATIONS* (9)
+On (The Lack Of) Location Privacy in Crowdsourcing Applications.
+2019 arXiv: Cryptography and Security
+Spyros Boukoros1, Mathias Humbert2, Stefan Katzenbeisser1, Carmela Troncoso3
+1Technische Universität Darmstadt,
+2ETH Zurich,
+3École Polytechnique Fédérale de Lausanne
+Data science
+Data collection
+Crowdsourcing
++2
+Crowdsourcing enables application developers to benefit from large and diverse datasets at a low cost. Specifically, mobile crowdsourcing (MCS) leverages users' devices as sensors to perform geo-located data collection. The collection of geo-located data though, raises serious privacy concerns for u...
+CITE
+share
+CITATIONS* (0)
+Participation and reporting in participatory sensing
+2014 Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks
+Man Hon Cheung1, Fen Hou1, Jianwei Huang2
+1University of Macau,
+2The Chinese University of Hong Kong
+Special case
+Service provider
+Real-time computing
++8
+In participatory sensing (PS), users use smartphones to collect information related to a certain phenomenon of interest, and report their sensed data to the service provider through cellular or Wi-Fi networks. Previous studies on the incentive mechanism design for user participation often neglect th...
+CITE
+share
+CITATIONS* (4)
+DOWNLOAD
+A user-personalized model for real time destination and route prediction
+2016 International Conference on Intelligent Transportation Systems
+Francisco Dantas Nobre Neto, Claudio de Souza Baptista, Claudio E. C. Campelo
+Federal University of Campina Grande
+Simulation
+Semantics
+Markov process
++4
+The act of predicting a destination and route a user will take, as soon as he/she begins to move, has several benefits. A system with this kind of information is able to help the user to avoid a congested route or to suggest a Place of Interest (POI). Nowadays, the task of tracking a user movement i...
+CITE
+share
+CITATIONS* (3)
+RoRo-LT: Social Routing with Next-Place Prediction from Self-Assessment of Spatiotemporal Routines
+2013 Ubiquitous Intelligence and Computing
+Okan Turkes, Hans Scholten, Paul J. M. Havinga
+University of Twente
+Unicast
+Social network
+Social consciousness
++6
+Current trend in store-carry-forward fashioned opportunistic networks is towards utilizing social ties in communities. However, keeping social knowledge/network information up-to-date is a non-trivial task due to ever-changing dynamics such as mobility and other human behavior. Therefore, social-bas...
+CITE
+share
+CITATIONS* (5)
+
+STF-RNN: Space Time Features-based Recurrent Neural Network for predicting people next location
+2016 IEEE Symposium Series on Computational Intelligence
+Abdulrahman Al-Molegi1, Mohammed Jabreel2, Baraq Ghaleb3
+1Smart Health Research Group, Universitat Rovira i Virgili, Spain,
+2ITAKA Group, Universitat Rovira i Virgili, Spain,
+3Edinburgh Napier University
+Timestamp
+Spacetime
+Space time
++7
+This paper proposes a novel model called Space Time Features-based Recurrent Neural Network (STF-RNN) for predicting people next movement based on mobility patterns obtained from GPS devices logs. Two main features are involved in model operations, namely, the space which is extracted from the colle...
+CITE
+share
+CITATIONS* (3)
+Optimized access point selection with mobility prediction using hidden Markov Model for wireless network
+2017 International Conference on Ubiquitous and Future Networks
+Khong-Lim Yap, Yung-Wey Chong
+Universiti Sains Malaysia
+Wireless network
+Wi-Fi
+Selection algorithm
++7
+Access point selection is an issue frequently faced by mobile user due to constant movement. By connecting to the best Wireless Local Area Network (WLAN) Access Point (AP), mobile users can enjoy the advantages of power consumption reduction while sustaining good communication quality. In this paper...
+CITE
+share
+CITATIONS* (2)
+MobiDict: a mobility prediction system leveraging realtime location data streams
+2016 International Workshop on GeoStreaming
+Vaibhav Kulkarni, Arielle Moro, Benoît Garbinato
+University of Lausanne
+Urban planning
+Training set
+Resource management
++7
+Mobility prediction is becoming one of the key elements of location-based services. In the near future, it will also facilitate tasks such as resource management, logistics administration and urban planning. To predict human mobility, many techniques have been proposed. However, existing techniques ...
+CITE
+share
+CITATIONS* (3)
+Analyzing and shaping the lifetime and the performance of barrier coverage sensor networks
+2017 Measurement and Modeling of Computer Systems
+Lorenzo Donatiello, Gustavo Marfia
+University of Bologna
+Wireless sensor network
+Tree traversal
+Stochastic process
++7
+In this work we model and provide the means to extend the lifetime of a barrier coverage sensor network deployed fortarget detection. We consider a scenario where sensors are randomly dropped on a bidimensional field in order to detect target traversals which occur in a stochastic way within a criti...
+CITE
+share
+CITATIONS* (0)
+Online Prediction of People's Next Point-of-Interest: Concept Drift Support
+2015
+Mehdi Boukhechba1, Abdenour Bouzouane1, Bruno Bouchard1, Charles Gouin-Vallerand2, Sylvain Giroux3
+1Université du Québec,
+2Télé-université,
+3Université de Sherbrooke
+Point of interest
+Machine learning
+Geospatial analysis
++5
+Current advances in location tracking technology provide exceptional amount of data about the users' movements. The volume of geospatial data collected from moving users' challenges human ability to analyze the stream of input data. Therefore, new methods for online mining of moving object data are ...
+CITE
+share
+CITATIONS* (3)
+Predicting unexpected influxes of players in EVE online
+2014 Computational Intelligence and Games
+Roman Garnett1, Thomas Gartner1, Timothy Ellersiek2, Eyjolfur Gudmondsson3, Petur Oskarsson3
+1University of Bonn,
+2Heidelberg University,
+3CCP Games, Reykjavik, Iceland
+Universe
+Simulation
+Scalability
++5
+EVE Online is a massively multiplayer online roleplaying game (MMORPG) taking place in a large galaxy consisting of about 7 500 star systems. In comparison to many other online role-playing games, the users interact in the same instance of a persistent player-driven universe. Given the number of sim...
+CITE
+share
+CITATIONS* (1)
+Discovering Semantic Mobility Pattern from Check-in Data
+2014 Web Information Systems Engineering
+Ji Yuan, Xudong Liu, Richong Zhang, Hailong Sun, Xiaohui Guo
+see all 6 authors
+Beihang University
+Semantic memory
+Database
+Data mining
++2
+The wealth of check-in data offers new opportunities for better understanding user movement patterns. Existing studies have been focusing on mining explicit frequent sequential patterns. However, the sparseness of check-in data makes it difficult that all explicit patterns be precisely discovered. I...
+CITE
+share
+CITATIONS* (3)
+DOWNLOAD
+Characterising and Predicting Urban Mobility Dynamics by Mining Bike Sharing System Data
+2015 Ubiquitous Intelligence and Computing
+Ida Bagus Irawan Purnama, Neil W. Bergmann1, Raja Jurdak2, Kun Zhao2
+1University of Queensland,
+2Commonwealth Scientific and Industrial Research Organisation
+Urban planning
+Trip number
+Transport engineering
++9
+Understanding the spatio-temporal characteristics of human mobility in urban areas is invaluable especially for traffic management and urban planning. An opportunity to characterize and predict urban mobility is provided by mining Bike Sharing System (BSS) trip data spatially and temporally. This st...
+CITE
+share
+CITATIONS* (0)
+Personal destination pattern analysis with applications to mobile advertising
+2016 Human-centric Computing and Information Sciences
+Osama O. Barzaiq, Seng W. Loke
+La Trobe University
+Trajectory
+Multimedia
+Human–computer interaction
++6
+Many researchers expect mobile advertising to be the killer application in mobile business. In this paper, we introduce a trajectory prediction algorithm called personal destination pattern analysis (P-DPA) to analyse the different destinations in various trajectories of an individual, and to predic...
+CITE
+share
+CITATIONS* (2)
+DOWNLOAD
+STMM: Semantic and Temporal-Aware Markov Chain Model for Mobility Prediction
+2015 International Conference Data Science
+Hamidu Abdel-Fatao, Jiuyong Li, Jixue Liu
+University of South Australia
+Upper and lower bounds
+Trajectory
+Temporal context
++6
+Information theoretic measures and probabilistic techniques have been applied successfully to human mobility datasets to show that human mobility is highly predictable upi¾źto an upper bound of 95i¾ź% prediction accuracy. Motivated by this finding, we propose a novel Semantic and Temporal-aware Mobi...
+CITE
+share
+CITATIONS* (2)
+DOWNLOAD
+
+Extrapolating sparse large-scale GPS traces for contact evaluation
+2013 ACM Special Interest Group on Data Communication
+Andrea Hess1, Jörg Ott2
+1University of Vienna,
+2Aalto University
+Theoretical computer science
+Mobile device
+Global Positioning System
++4
+Human mobility traces are increasingly used for more realistic evaluation of mobile (opportunistic) communication systems. Although GPS traces yield the most detailed data sets, they are often limited in scale and may be incomplete since they are captured using mobile devices carried by volunteers. ...
+CITE
+share
+CITATIONS* (2)
+DOWNLOAD
+On Trajectory Prediction in Indoor Retail Environments for Mobile Advertising Using Selected Self-Histories
+2015 Ubiquitous Intelligence and Computing
+Osama O. Barzaiq, Seng W. Loke, Hongen Lu
+La Trobe University
+Visitor pattern
+Trajectory
+Simulation
++4
+In this paper, we propose a new trajectory prediction algorithm, 3 Indoor Trajectory Analysis (3-ITA), to analyze the different trajectories of a shopping centre visitor, and to predict the trajectory with high probability that the visitor could use on a specific date. Here, a trajectory is a sequen...
+CITE
+share
+CITATIONS* (1)
+GeoStreams: A Survey
+2018 ACM Computing Surveys
+Tobias Brandt, Marco Grawunder
+University of Oldenburg
+Spatial analysis
+Global Positioning System
+Data mining
++1
+Positional data from small and mobile Global Positioning Systems has become ubiquitous and allows for many new applications such as road traffic or vessel monitoring as well as location-based services. To make these applications possible, for which information on location is more important than ever...
+CITE
+share
+CITATIONS* (1)
+Capturing complex behaviour for predicting distant future trajectories
+2016 International Workshop on Mobile Geographic Information Systems
+Bertil Chapuis, Arielle Moro, Vaibhav Kulkarni, Benoît Garbinato
+University of Lausanne
+Urban planning
+Trajectory
+Time horizon
++9
+We put forth a system, to predict distant-future positions of multiple moving entities and index the forecasted trajectories, in order to answer predictive queries involving long time horizons. Today, the proliferation of mobile devices with GPS functionality and internet connectivity has led to a r...
+CITE
+share
+CITATIONS* (3)
+Predicting Users’ Mobility Using Monte Carlo Simulations
+2017 IEEE Access
+Blaz Kazic, Jan Rupnik, Primoz Skraba, Luka Bradesko, Dunja Mladenic
+Artificial Intelligence Laboratory, Jožef Stefan Institute, Ljubljana, Slovenia
+Monte Carlo molecular modeling
+Monte Carlo method in statistical physics
+Monte Carlo method
++8
+Made possible by the availability of spatio-temporal data collected by smart phones and other smart devices, understanding people’s mobility patterns has become one of the most promising location-based services in the past few years, providing various businesswise application possibilities. The simp...
+CITE
+share
+CITATIONS* (0)
+Vector Representation Based Model Considering Randomness of User Mobility for Predicting Potential Users
+2018 Pacific Rim International Conference on Multi-Agents
+Shaowen Peng1, Xianzhong Xie1, Tsunenori Mine2, Chang Su1
+1Chongqing University of Posts and Telecommunications,
+2Kyushu University
+Social network
+Randomness
+Popularity
++8
+With increasing popularity of location-based social networks, POI recommendation has received much attention recently. Unlike most of the current studies which provide recommendations from perspective of users, in this paper, we focus on the perspective of Point-of-Interest (POI) for predicting pote...
+CITE
+share
+CITATIONS* (0)
+A Systematic Analysis of Fine-Grained Human Mobility Prediction with On-Device Contextual Data.
+2019 arXiv: Social and Information Networks
+Huoran Li
+Peking University
+Trajectory
+Recurrent neural network
+Predictability
++8
+User mobility prediction is widely considered to be helpful for various sorts of location based services on mobile devices. A large amount of studies have explored different algorithms to predict where a user will visit in the future based on their current and historical contexts and trajectories. M...
+CITE
+share
+CITATIONS* (0)
+Inferring Correlation between User Mobility and App Usage in Massive Coarse-grained Data Traces
+2018
+Zheng Lu1, Yunhe Feng1, Wenjun Zhou1, Xiaolin Li2, Qing Cao1
+1University of Tennessee,
+2Nanjing University
+Raw data
+Phone
+Mobile broadband
++4
+With the rapid growth in smartphone usage, it has been more and more important to understand the patterns of mobile data consumption by users. In this paper, we present an empirical study of the correlation between user mobility and app usage patterns. In particular, we focus on users' moving speed ...
+CITE
+share
+CITATIONS* (0)
+IOHMM for location prediction with missing data
+2015 IEEE International Conference on Data Science and Advanced Analytics
+Jiawei Hu, Yanfeng Wang, Ya Zhang
+Shanghai Jiao Tong University
+Urban planning
+Service provider
+Missing data
++7
+In recent years, the widespread adoption of GPS enabled vehicles brings the Location Based Services new opportunities. It benefits many related fields such as urban planning, city traffic modeling, personalized recommendations and driving suggestions. The service providers can understand their users...
+CITE
+share
+CITATIONS* (1)
+Predicting Next Points of Interests Based on a Markov Model.
+2017 Collaborative Computing
+Jie Xu, Chunxiao Xing, Yong Zhang
+Tsinghua University
+Trajectory
+Statistical model
+Markov model
++8
+With the development of Global Position System (GPS) technology, the analysis of history trajectory becomes more and more important. The Location Based Service (LBS) can provide the user’s location, the human movement location prediction from the history observations over some period have several po...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+
+Crowdsourcing energy-efficient participants to ensure quality-of-information
+2015 Personal, Indoor and Mobile Radio Communications
+Bo Zhang1, Chi Harold Liu1, Ziyu Ren2, Jian Ma1, Wendong Wang1
+1Beijing Institute of Technology,
+2Tsinghua University
+Server
+Robustness (computer science)
+Real-time computing
++9
+Crowdsourcing systems, by using smart devices like smartphones and iPad, have been widely used in various domains, but are currently facing new challenges. On one hand, different tasks offer different amount of incentive budgets in multitask systems, thus those tasks pay more should be satisfied pre...
+CITE
+share
+CITATIONS* (0)
+Human Mobility-Pattern Discovery and Next-Place Prediction from GPS Data
+2016
+Faina Khoroshevsky, Boaz Lerner
+Ben-Gurion University of the Negev
+Semantic data model
+Positioning technology
+Global Positioning System
++4
+We provide a novel algorithm for the discovery of mobility patterns and prediction of users’ destination locations, both in terms of geographic coordinates and semantic meaning. We did not use any semantic data voluntarily provided by a user, and there was no sharing of data among the users. An adva...
+CITE
+share
+CITATIONS* (3)
+The Privacy Exposure Problem in Mobile Location-Based Services
+2016 Global Communications Conference
+Fang-Jing Wu, Matthias R. Brust, Yan-Ann Chen, Tie Luo
+University of Luxembourg
+Privacy software
+Mobile telephony
+Mobile search
++8
+Mobile location-based services (LBSs) empowered by mobile crowdsourcing provide users with context- aware intelligent services based on user locations. As smartphones are capable of collecting and disseminating massive user location-embedded sensing information, privacy preservation for mobile users...
+CITE
+share
+CITATIONS* (3)
+DOWNLOAD
+Current location-based next POI recommendation
+2017
+Shokirkhon Oppokhonov, Seyoung Park, Isaac K. E. Ampomah
+Kyungpook National University
+Recommender system
+Point of interest
+Directed graph
++2
+Availability of large volume of community contributed location data enables a lot of location providing services and these services have attracted many industries and academic researchers by its importance. In this paper we propose the new recommender system that recommends the new POI for next hour...
+CITE
+share
+CITATIONS* (1)
+Vision Paper: Using Volunteered Geographic Information to Improve Mobility Prediction
+2017
+Dominik Bucher
+ETH Zurich
+Volunteered geographic information
+Point of interest
+Mobility model
++4
+Fine-grained real-time movement prediction is becoming increasingly important, with smartphones and vehicles constantly tracking our position and trying to guess our next location to timely provide us with recommendations, traffic forecasts, or driver assistance. Depending on the tracking accuracy, ...
+CITE
+share
+CITATIONS* (0)
+Spatio-Tempo-Socio-Semantic-Aware Model For destination prediction in VANET
+2017
+Nardine Basta1, Amal ElNahas2, Hans Peter Grossmann1, Slim Abdennadher3
+1University of Ulm,
+2Alexandria University,
+3German University in Cairo
+Vehicular ad hoc network
+Social relation
+Social network
++7
+VANETs have attracted researchers' attention lately because of the need to promote the driving experience by extending the drivers' view through wireless data exchange. Mobility prediction enables appealing proactive experiences for a wide range of VANET location-aware services and applications. In ...
+CITE
+share
+CITATIONS* (1)
+Prediction and QoS Enhancement in New Generation Cellular Networks With Mobile Hosts: A Survey on Different Protocols and Conventional/Unconventional Approaches
+2017 IEEE Communications Surveys and Tutorials
+Peppino Fazio, Floriano De Rango, Mauro Tropea
+University of Calabria
+Quality of service
+Mobile telephony
+Mobile computing
++7
+Nowadays, interest in mobile communications is growing rapidly due to the high level of device development, which permits the achievement of good objectives in terms of quality of service (QoS) for user satisfaction during active data flows. The increasing mobile client populations use different mob...
+CITE
+share
+CITATIONS* (2)
+Modeling Taxi Drivers' Behaviour for the Next Destination Prediction.
+2018 arXiv: Artificial Intelligence
+Alberto Rossi1, Gianni Barlacchi, Monica Bianchini2, Bruno Lepri
+1University of Florence,
+2University of Siena
+Recurrent neural network
+Point of interest
+Machine learning
++3
+Taxi destination prediction is a very important task for optimizing the efficiency of electronic dispatching systems, thus allowing relevant advantages for both taxi companies and customers. In fact, during periods of high demand, there should be a taxi whose current ride will end near a requested p...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Predictive ridesharing based on personal mobility patterns
+2017 IEEE Intelligent Vehicles Symposium
+Roman Roor1, Michael Karg1, Andy Liao2, Wenhui Lei2, Alexandra Kirsch3
+1BMW AG, Munich, Germany,
+2BMW Technology Office China, Shanghai, China,
+3University of Tübingen
+Prediction by partial matching
+Personal mobility
+Mobility model
++9
+For digital mobility assistants it is advantageous to know users' mobility habits to be able to infer the most probable departure time and next destination. Different approaches are known to face this challenge, but most of them either have a very static feature model and limited extensibility capab...
+CITE
+share
+CITATIONS* (0)
+Comparison of similarity measures to differentiate players' actions and decision-making profiles in serious games analytics
+2016 Computers in Human Behavior
+Christian Sebastian Loh, I-Hung Li, Yanyan Sheng
+Southern Illinois University Carbondale
+Social psychology
+Retraining
+Profiling (computer programming)
++3
+Abstract Three Gameplay Action-Decision (GAD) profiles: Explorer , Fulfiller , and Quitter , have been identified based on individual's decision-making actions and navigational behaviors in situ serious games. The ability to profile trainees using serious games can yield new analytics and ins...
+CITE
+share
+CITATIONS* (2)
+
+Analyzing Privacy Risk in Human Mobility Data
+2018
+Roberto Pellungrini1, Luca Pappalardo2, Francesca Pratesi1, 2, Anna Monreale1
+1University of Pisa,
+2Istituto di Scienza e Tecnologie dell'Informazione
+Risk assessment
+Information sensitivity
+Human dynamics
++2
+Mobility data are of fundamental importance for understanding the patterns of human movements, developing analytical services and modeling human dynamics. Unfortunately, mobility data also contain individual sensitive information, making it necessary an accurate privacy risk assessment for the indiv...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Mining Pattern Similarity for Mobility Prediction in Location-based Social Networks
+2018 International Conference on Mobile and Ubiquitous Systems: Networking and Services
+Carmela Comito
+National Research Council
+Trajectory
+Supervised learning
+Social network
++9
+The widespread use of location-based social networks is making such social media one of the major sources of information about people activities and costumes within urban context, allowing to capture and enhance the comprehension of people behaviour, including human mobility regularities. In that se...
+CITE
+share
+CITATIONS* (0)
+Long-Term User Location Prediction Using Deep Learning and Periodic Pattern Mining
+2017 Advanced Data Mining and Applications
+Mun Hou Wong1, Vincent S. Tseng1, Jerry C. C. Tseng2, Sun-Wei Liu3, Cheng-Hung Tsai3
+1National Chiao Tung University,
+2National Cheng Kung University,
+3Institute for Information Industry
+Recursion
+Popularity
+Natural language
++9
+In recent years, with the advances in mobile communication and growing popularity of the fourth-generation mobile network along with the enhancement in location positioning techniques, mobile devices have generated extensive spatial trajectory data, which represent the mobility of moving objects. Ne...
+CITE
+share
+CITATIONS* (0)
+Mobility prediction in long term evolution (LTE) femtocell network
+2014
+Nurul ‘Ain Amirrudin1, Sharifah H. S. Ariffin2, N. N. N. Abd. Malik2, N. Effiyana Ghazali2
+1Universiti Teknologi Malaysia,
+2Department of Communication Engineering
+Wireless network
+Software deployment
+Markov chain
++4
+The Long Term Evolution (LTE) femtocell has promised to improve indoor coverage and enhance data rate capacity. Due to the special characteristic of the femtocell, it introduces several challenges in terms of mobility and interference management. This chapter focuses on mobility prediction in a wire...
+CITE
+share
+CITATIONS* (2)
+Predicting new and unusual mobility patterns
+2017 Computer Supported Cooperative Work in Design
+Victor C. Liang, Vincent T. Y. Ng
+Hong Kong Polytechnic University
+Semantics
+Pattern matching
+Mobility model
++9
+Traditional location-based service profiles user's traits by looking for patterns in historical mobility behaviors. Yet, from time to time, people are adventurous and would often like to go to unvisited places, or follow new transition paths. At that time, their next movements will be inconsistent w...
+CITE
+share
+CITATIONS* (0)
+Mining Semantic Location History for Collaborative POI Recommendation in Online Social Networks
+2016
+Luepol Pipanmekaporn, Suwatchai kamolsantiroj
+Dept. of Comput. & Inf. Sci., King Mongkut's Univ. of Technol., Bangkok, Thailand
+Social network
+Precision and recall
+Internet privacy
++4
+Location-based social networks (LBSNs) have recently attracted millions of mobile users to explore attractive locations and share their visited experiences. As the increasing use of the online social networks, people demand personalized service to recommend places of interests (POIs) based on their ...
+CITE
+share
+CITATIONS* (2)
+Coverage and Rate Analysis for Facilitating Machine-to-Machine Communication in LTE-A Networks Using Device-to-Device Communication
+2017 IEEE Transactions on Mobile Computing
+Siba Narayan Swain, Rahul Thakur, Siva Ram Murthy Chebiyyam
+Indian Institutes of Technology
+Network topology
+Network simulation
+Network architecture
++8
+With a wide range of applications, Machine-to-Machine (M2M) communication has become an emerging technology for connecting generic machines to the Internet. To ensure ubiquity in connections across all machines, it is necessary to have a standard infrastructure, such as 3GPP LTE-A network infrastruc...
+CITE
+share
+CITATIONS* (2)
+MOBILITY PREDICTION METHOD FOR VEHICULAR NETWORK USING MARKOV CHAIN
+2016
+Arfah Hasbollah, Sharifah H. S. Ariffin, N. Fisal
+Universiti Teknologi Malaysia
+Wireless network
+Resource allocation
+Real-time computing
++6
+This paper proposes mobility prediction technique via Markov Chains with an input of user’s mobile data traces to predict the user’s movement in wireless network. The main advantage of this method is prediction will give knowledge of user’s movement in advance even in fast moving vehicle. Furthermor...
+CITE
+share
+CITATIONS* (1)
+DOWNLOAD
+Predicting Episodes of Non-Conformant Mobility in Indoor Environments
+2018
+Kasthuri Jayarajah, Archan Misra
+Singapore Management University
+Predictability
+Machine learning
+Computer science
++1
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Using Self-Histories to Predict Store Visits in Indoor Retail Environments for Mobile Advertising: A Ranked-Based Technique
+2015 Ubiquitous Intelligence and Computing
+Osama O. Barzaiq, Seng W. Loke
+La Trobe University
+Ranking
+Mobile telephony
+Mobile phone
++4
+Mobile advertising is expected to be the killer application in mobile business, and many researchers are exploiting different methods to generate a list of advertisements that could capture the interest of a targeted mobile phone user with high probability. In this paper, we present the Stores Visit...
+CITE
+share
+CITATIONS* (0)
+
+Human mobility semantics analysis: a probabilistic and scalable approach
+2018 Geoinformatica
+Xiaohui Guo, Richong Zhang, Xudong Liu, Jinpeng Huai
+Beihang University
+Theoretical computer science
+Stochastic optimization
+Spatial analysis
++9
+The popularity of smart mobile devices generated data, e.g., check-ins and geo-tagged status, offers new opportunity for better understanding human mobility regularity. Existing works on this problem usually resort to explicit frequency statistics models, such as association rules and sequential pat...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Understanding the Impact of Data Sparsity and Duration for Location Prediction Applications
+2014 The Internet of Things
+Alasdair Thomason, Matthew Leeke, Nathan Griffiths
+University of Warwick
+Predicative expression
+Mobile device
+Diminishing returns
++3
+As mobile devices capable of sensing location have become pervasive, the collection and transmission of location data has become commonplace, enabling the creation of models of behaviour that support location prediction. With such devices often heavily resource-constrained, the nature of data used i...
+CITE
+share
+CITATIONS* (1)
+Dynamic radius and confidence prediction in grid-based location prediction algorithms
+2017 Pervasive and Mobile Computing
+Itay Hazan, Asaf Shabtai
+Ben-Gurion University of the Negev
+Mobile device
+Matrix decomposition
+Markov chain
++5
+Abstract Grid-based location prediction algorithms for predicting future locations of mobile device users have been proposed and evaluated. Most of the studies, however, ignore the fact that prediction accuracy is highly dependent on the user’s current behavior (i.e., whether current user behavior...
+CITE
+share
+CITATIONS* (0)
+Dynamic Sensor Selection in Heterogeneous Sensor Network
+2016 Vehicular Technology Conference
+Yifan Ma1, Fen Hou1, Shaodan Ma1, Dawei Liu2
+1University of Macau,
+2Xi'an Jiaotong-Liverpool University
+Wireless sensor network
+Selection algorithm
+Real-time computing
++8
+Various types of sensors have been embedded in smartphones such that a mobile user can easily conduct some sensing tasks. The mobile users conducting the sensing task with their sensor- equipped smartphones have their own unique features, thus can be efficiently complementary to stationary sensors w...
+CITE
+share
+CITATIONS* (0)
+An improved Markov method for prediction of user mobility
+2016 Conference on Network and Service Management
+Yihang Cheng, Yuanyuan Qiao, Jie Yang
+Beijing University of Posts and Telecommunications
+Smart city
+Mobile device
+Markov process
++9
+The developments of Information and Communication Technology (ICT) and Internet of Things (IoT) are being used to enhance quality, performance and interactivity of urban services. Benefited from the widespread adoption of mobile devices, we can collect amount of mobile data for user mobility analysi...
+CITE
+share
+CITATIONS* (1)
+Move, Attend and Predict: An attention-based neural model for people’s movement prediction
+2018 Pattern Recognition Letters
+Abdulrahman Al-Molegi1, Mohammed Jabreel2, Antoni Martínez-Ballesté3
+1University of Science and Technology, Sana'a,
+2ITAKA Group, Universitat Rovira i Virgili, Av. Països Catalans, 26, Tarragona 43007, Spain,
+3Smart Health Research Group
+Training set
+The Internet
+Pattern recognition
++7
+Abstract Predicting people’s next location has attracted the attention of both scientists and large Internet companies, for a variety of reasons. The analysis of location data collected from smart mobile devices paves the way for the improvement of current location based services and the rise of n...
+CITE
+share
+CITATIONS* (0)
+Prediction of next destinations from irregular patterns
+2018 Ambient Intelligence
+Mehdi Boukhechba1, Abdenour Bouzouane1, Sébastien Gaboury1, Charles Gouin-Vallerand2, Sylvain Giroux3
+see all 6 authors
+1Université du Québec,
+2Télé-université,
+3Université de Sherbrooke
+Simulation
+Machine learning
+Destinations
++5
+Few decades ago, understanding human behaviors was considered as a mystery where predicting people’s future was impossible. Many changes have been noticed since that era. Thanks to current advances in location tracking technology and data mining techniques, predicting users’ behaviors has become pos...
+CITE
+share
+CITATIONS* (1)
+DOWNLOAD
+Exploiting Communication Opportunities in Disrupted Network Environments
+2015 Wired/Wireless Internet Communications
+Lefteris Mamatas1, Alexandra Papadopoulou2, Vassilis Tsaoussidis3
+1University of Macedonia,
+2Aristotle University of Thessaloniki,
+3Democritus University of Thrace
+Scarcity
+Real-time computing
+Mobility model
++4
+The capability of a mobility model to detect certain patterns of user behavior (e.g., favorite walks or walking habits) enables solutions for a number of challenging networking problems, including efficient opportunistic communications and handoff/cellular planning. We argue that the limited viewpoi...
+CITE
+share
+CITATIONS* (1)
+DOWNLOAD
+Guess where I go?: A Mobility Predictor for Smart Vehicles
+2018 Mobile and Ubiquitous Multimedia
+Nardine Basta1, Amal ElNahas2, Hans-Peter Grossmann1, Slim Abdennadher3
+1University of Ulm,
+2British University in Egypt,
+3German University in Cairo
+XML
+Ubiquitous computing
+Semantic property
++3
+Ubiquitous computing is the growing trend of establishing a place for technology in the background, rather than the foreground, of our lives through embedding computational capability into everyday objects to make them effectively communicate and perform useful tasks. Hence, the goal of pervasive co...
+CITE
+share
+CITATIONS* (0)
+Combining Markov model and Prediction by Partial Matching compression technique for route and destination prediction
+2018 Knowledge Based Systems
+Francisco Dantas Nobre Neto1, Cláudio de Souza Baptista2, Cláudio Elízio Calazans Campelo2
+1Federal Institute of Education, Science and Technology of Paraíba, Tranquilino Coelho Lemos St., 671, Dinamérica, Campina Grande, Paraíba, Brazil,
+2Federal University of Campina Grande
+Prediction by partial matching
+Markov model
+Machine learning
++4
+Abstract Thanks to the built-in GPS device embedded in almost all smartphones, the facility of tracking users’ positions fostered new research opportunities. Among these opportunities, of particular interest in this work is the field of route and destination prediction. Suggesting a user to take a...
+CITE
+share
+CITATIONS* (1)
+
+Trajectory Prediction Based on the Notion of Time and the Influence of Location of Historical Time Step
+2016 International Conference on Communications
+Fangxin Liu, Ming He, Yong Liu, Huan Zhou, Qiuli Chen
+Trajectory
+Markov chain
+Machine learning
++2
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+An Effective Spatio-Temporal Approach for Predicting Future Semantic Locations
+2016 Australasian Database Conference
+Hamidu Abdel-Fatao, Jiuyong Li, Jixue Liu, Rahman Ashfaqur
+University of South Australia
+Ubiquitous computing
+Semantic HTML
+Markov chain
++6
+Human mobility prediction in ubiquitous computing is the ability of a system to forecast the anticipated movement of an individual or a group of persons. This interdisciplinary problem has gained traction in fields of academic and industrial research mainly because it is fundamental to achieving sys...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+A comparison of first- and second-order HMMs in the task of predicting the next locations of mobile individuals
+2012 International Workshop on Mobile Geographic Information Systems
+Wesley Mathew, Bruno Martins
+Instituto Superior Técnico
+Unobservable
+Machine learning
+Hidden Markov model
++4
+The analysis of human location histories is currently getting an increasing attention, due to the widespread usage of geopositioning technologies such as the GPS, and also of online location-based services that allow users to share this information. Tasks such as the prediction of human movement can...
+CITE
+share
+CITATIONS* (1)
+Sparse Trajectory Prediction Based on Multiple Entropy Measures
+2016 Entropy
+Lei Zhang, Leijun Liu, Zhanguo Xia, Wen Li, Qingfu Fan
+China University of Mining and Technology
+Trajectory optimization
+Trajectory
+Pattern recognition
++7
+Trajectory prediction is an important problem that has a large number of applications. A common approach to trajectory prediction is based on historical trajectories. However, existing techniques suffer from the “data sparsity problem”. The available historical trajectories are far from enough to co...
+CITE
+share
+CITATIONS* (1)
+DOWNLOAD
+GraphLoc: a graph based approach for automatic detection of significant locations from GPS trajectory data
+2018 Journal of Spatial Science
+Bita Shams, Saman Haratizadeh
+University of Tehran
+Trajectory
+Machine learning
+Graph
++5
+AbstractAutomatic discovery of significant locations from row GPS data is the first phase of mining mobility pattern and developing location-aware services. Unfortunately, current location discovery algorithms are ineffective when locations have different local properties such as density. Moreover, ...
+CITE
+share
+CITATIONS* (0)
+Novelty Detection for Location Prediction Problems Using Boosting Trees
+2017 International Conference on Computational Science and Its Applications
+Khaled Yasser, Elsayed Hemayed
+Cairo University
+Point of interest
+Novelty detection
+Novelty
++6
+Due to the enormous use of mobile applications and the wide spread of location-based services, as Foursquare, google maps, Facebook check-ins, it became a must to focus on studying these data and its impact on our social norms. In this paper, we are tackling the location novelty problem, which evalu...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Understanding Activity Location Choice with Mobile Phone Data
+2014
+Menglin Wang
+Mobility model
+Mobile phone
+GSM services
++2
+CITE
+share
+CITATIONS* (2)
+MIAC: A mobility intention auto‐completion model for location prediction
+2018 International Journal of Intelligent Systems in Accounting, Finance & Management
+Feng Yi1, Guan Feng2, Hongtao Wang3, Zhi Li4, Limin Sun4
+1School of Computer EngineeringUniversity of Electronic Science and Technology of China Zhongshan Institute No. 1 xueyuan Road ShiQi District Zhongshan China,
+2Economics and Business administrationChongQing University No.174 Shazhengjie Shapingba Chongqing 400044 China,
+3Electric Power University,
+4Institute of Information EngineeringChinese Academy of Sciences Beijing 100093 China
+Machine learning
+Data mining
+Computer science
++1
+CITE
+share
+CITATIONS* (0)
+User identification from mobility traces
+2018 Journal of Ambient Intelligence and Humanized Computing
+Sergio Salomón1, Cristina Tîrnăucă2, Rafael Duque2, José Luis Montaña2
+1AXPE Consulting Cantabria, Polígono de la Cros, Camargo, Spain,
+2University of Cantabria
+Probabilistic logic
+Preprocessor
+Mobility model
++5
+Geolocation is a powerful source of information through which user patterns can be extracted. User regions-of-interest, along with these patterns, can be used to recognize and imitate user behavior. In this work we develop a methodology for preprocessing location data in order to discover the most r...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Mobility Prediction using Modified RBF Network
+2015 International Journal of Computer Applications
+Mohammad F. Hassanin, Amr Badr
+The Internet
+Mobile device
+Global Positioning System
++4
+Recently, with the wide increase use of mobile devices, users are using it to achieve different types of tasks like multimedia and internet services. Many studies have been introduced to identify user’s behaviors. The most common factor is the location. By knowing user’s locations, set of required t...
+CITE
+share
+CITATIONS* (0)
+
+Prediction of Human Mobility Using Mobile Traffic Dataset with HMM
+2018
+Anshika Rawal, Pravati Swain
+National Institute of Technology Goa
+Usability
+Pattern recognition
+Observable
++3
+The connectivity and usability of cellular communications influencing to infer the information about user mobility based on the mobile traffic data. Thus, mobile traffic data can be used to analyze human location histories and prediction of human mobility. This paper proposes a framework for predict...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Design of a MapReduce-Based Mobility Pattern Mining System for Next Place Prediction
+2014
+Jongwhan Kim, Seokjun Lee, Incheol Kim
+Trajectory
+Point of interest
+Parallel processing
++4
+ABSTRACT In this paper, we present a MapReduce-based mobility pattern mining system which can predict efficiently the next place of mobile users. It learns the mobility pattern model of each user, represented by Hidden Markov Models(HMM), from a large-scale trajectory dataset, and then predicts the ...
+CITE
+share
+CITATIONS* (0)
+Urban Dynamics and GIScience
+2018
+Chenghu Zhou, Tao Pei, Jun Xu, Ting Ma, Zide Fan
+see all 6 authors
+Simulation modeling
+Population
+Geography
++5
+Since the development of technology, people have been able to connect in many ways. However, since data is limited, traditional research on urban dynamics has relied on theoretical modeling, such as cellular automata, which displays the urban dynamics through simulation. To substantially capture the...
+CITE
+share
+CITATIONS* (0)
+Mobility Prediction: A review of Techniques used in MANETS
+2014
+Ram Subhash Kale, Amit S Savyanavar
+Quality of service
+Mobility model
+Mobility management
++7
+Mobility prediction for individual path is a fascinating topic. Mobility prediction in mobile ad-hoc networks is a simple and effective scheme to predict when the user will leave from the current location and where he will move to next future position. The prediction of the mobility of nodes in mobi...
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Accurate Location Prediction of Social-users using mHMM
+2018 Intelligent Automation and Soft Computing
+Ahsan Hussain, Bettahally Keshavamurthy, Ravi Jagannath
+Machine learning
+Computer science
+Artificial intelligence
+CITE
+share
+CITATIONS* (0)
+A framework for efficacy in lane discipline management using hybrid approach
+2016
+O. Pandithurai, B. Preethi, M. Meena, V. Nivedha, V. Ramya
+Techno India
+Transport engineering
+Systems engineering
+Engineering
+CITE
+share
+CITATIONS* (0)
+DAZIO: Detecting Activity Zones based on Input/Output Call and SMS Activity.
+2016
+Miguel Nuñez-del-Prado, Ana Luna, Romain Gauthier
+Real-time computing
+Input/output
+Computer science
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+A Comparison of Pedestrian Mobility Prediction Schemes in Wireless Cellular Networks
+2015
+Kaveh Kamkar
+Wireless network
+Wireless WAN
+Wireless
++7
+iii OZ v DEDICATION vii ACKNOWLEDGEMENT viii LIST OF TABLES xi LIST OF FIGURES xii LIST OF ABBREVIATIONS xiv
+CITE
+share
+CITATIONS* (0)
+DOWNLOAD
+Temporal-aware Location Prediction Model Using Similarity Approach
+2013 International Symposium on Computer, Communication, Control and Automation
+Ghulam Sarwar, Farman Ullah, Sungchang Lee
+Korea Aerospace University
+Scalability
+Markov chain
+Machine learning
++2
+We propose scalable next location prediction model using temporal, movement behavior and trajectory history information. Most of the existing models use the whole information database and do not consider temporal information for location prediction; lead to scalability and accuracy issues. We consid...
