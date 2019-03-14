@@ -13,6 +13,8 @@
 - ##### Next place forecasting
 - ##### Next place prediction
 - ##### Predicting User Movement
+- ##### Predicting Significant locations
+- ##### Predicting User Movement
 
 ##### The metadata is in the following format
 ##### Paper Title | Publication Year | Publication Venue | Authors | Keyword List
@@ -23,3 +25,9 @@
 ![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/scrapping.png) <!-- .element height="50%" width="50%" -->
 
 ##### The string similarity and profiling was performed using [python-string-similarity](https://github.com/luozhouyang/python-string-similarity)
+
+##### The raw_data folder contains raw data scrapped from all the platforms with the title indicating the key word searched for
+
+##### The scripts folder contains python scripts used to scrape, preprocess, clean and merge the data collected from different sources.
+
+##### The file literature_metadata contains the merged list and literature_with_abstracts contains all the abstracts
