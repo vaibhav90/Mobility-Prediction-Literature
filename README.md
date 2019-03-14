@@ -7,7 +7,12 @@
   - ##### [Semantic Scholar](https://www.semanticscholar.org/)
 
 ##### The scrapping from Semantic Scholar is done using [https://open.semanticscholar.org/](https://api.semanticscholar.org/)
-
+##### The scrapping was done using the following Keywords and restricted to these domains [Computer science, Computer network, Mobility model, Distributed computing, Real-time computing, Wireless ad hoc network, Handover, Artificial intelligence, Optimized Link State Routing Protocol, Machine learning, Quality of service, Wireless Routing Protocol, Data mining, KDD, Wireless network, Mobile ad hoc network, Ad hoc wireless distribution service, Mobile computing, Mobility management, Adaptive quality of service multi-hop routing]
+- ##### Human-mobility prediction
+- ##### Human-mobility modeling
+- ##### Next place forecasting
+- ##### Next place prediction
+- ##### Predicting User Movement
 
 ##### The metadata is in the following format
 ##### Paper Title | Publication Year | Publication Venue | Authors | Keyword List
@@ -15,6 +20,6 @@
 
 
 ##### The pipeline for cleaning the collected data is described below
-![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/scrapping.png)
+![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/scrapping.png = 0.7x)
 
 ##### The string similarity and profiling was performed using [python-string-similarity](https://github.com/luozhouyang/python-string-similarity)
