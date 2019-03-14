@@ -6,25 +6,25 @@
   - #### [Microsoft Academic Search](https://preview.academic.microsoft.com/home)
   - #### [Semantic Scholar](https://www.semanticscholar.org/)
 
-### The scrapping from Semantic Scholar is done using [Semantic Scholar API](https://api.semanticscholar.org/). The [maka Python module] (https://github.com/gfhuertac/maka) is used to scrape data from Microsoft Academic Search. Web of Science permits to manually download data for selected topics under a university lisence.
+#### The scrapping from Semantic Scholar is done using [Semantic Scholar API](https://api.semanticscholar.org/). The [maka Python module](https://github.com/gfhuertac/maka) is used to scrape data from Microsoft Academic Search. Web of Science permits to manually download data for selected topics under a university lisence.
 
 
-### The scrapping was done using the following Keywords and restricted to these domains [Computer science, Computer network, Mobility model, Distributed computing, Real-time computing, Wireless ad hoc network, Handover, Artificial intelligence, Optimized Link State Routing Protocol, Machine learning, Quality of service, Wireless Routing Protocol, Data mining, KDD, Wireless network, Mobile ad hoc network, Ad hoc wireless distribution service, Mobile computing, Mobility management, Adaptive quality of service multi-hop routing]
-- ##### Human-mobility prediction
-- ##### Human-mobility modeling
-- ##### Next place forecasting
-- ##### Next place prediction
-- ##### Predicting User Movement
-- ##### Predicting Significant locations
-- ##### Predicting User Movement
+#### The scrapping was done using the following Keywords and restricted to these domains [Computer science, Computer network, Mobility model, Distributed computing, Real-time computing, Wireless ad hoc network, Handover, Artificial intelligence, Optimized Link State Routing Protocol, Machine learning, Quality of service, Wireless Routing Protocol, Data mining, KDD, Wireless network, Mobile ad hoc network, Ad hoc wireless distribution service, Mobile computing, Mobility management, Adaptive quality of service multi-hop routing]
+- #### Human-mobility prediction
+- #### Human-mobility modeling
+- #### Next place forecasting
+- #### Next place prediction
+- #### Predicting User Movement
+- #### Predicting Significant locations
+- #### Predicting User Movement
 
-### The pipeline for cleaning the collected data is described below
+#### The pipeline for cleaning the collected data is described below
 ![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/scrapping.png)
 
-#### The string similarity and profiling was performed using [python-string-similarity](https://github.com/luozhouyang/python-string-similarity)
-#### The raw_data folder contains raw data scrapped from all the platforms with the title indicating the key word searched for
+#### The string similarity and profiling was performed using [python-string-similarity](https://github.com/luozhouyang/python-string-similarity).
+#### The raw_data folder contains raw data scrapped from all the platforms with the title indicating the key word searched.
 #### The scripts folder contains python scripts used to scrape, preprocess, clean and merge the data collected from different sources.
-#### The file literature_metadata contains the merged list and literature_with_abstracts contains all the abstracts
+#### The file literature_metadata contains the merged list and literature_with_abstracts contains all the abstracts.
 
 #### The metadata is in the following format
 #### Paper Title | Publication Year | Publication Venue | Authors | Keyword List
