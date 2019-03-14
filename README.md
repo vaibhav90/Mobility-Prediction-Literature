@@ -6,8 +6,15 @@
   - ##### [Microsoft Academic Search](https://preview.academic.microsoft.com/home)
   - ##### [Semantic Scholar](https://www.semanticscholar.org/)
 
-##### The scrapping from Semantic Scholar is done using [this scrapper](https://gist.github.com/act65/4c636bf482b597e52247567bf07f483b)
+##### The scrapping from Semantic Scholar is done using [https://open.semanticscholar.org/](https://api.semanticscholar.org/)
+
 
 ##### The metadata is in the following format
 ##### Paper Title | Publication Year | Publication Venue | Authors | Keyword List
 ![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/met_data.jpg)
+
+
+##### The pipeline for cleaning the collected data is described below
+![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/scrapping.png)
+
+##### The string similarity and profiling was performed using [python-string-similarity](https://github.com/luozhouyang/python-string-similarity)
