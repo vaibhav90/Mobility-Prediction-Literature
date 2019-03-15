@@ -1,6 +1,6 @@
 # Literature on human mobility modeling and prediction
 In this repository you will find the metadata of all the relevant literature concerning human-mobility modeling and prediction.
-The source codes for scrapping, cleaning and preprocessing this data.
+The repository also contains the source codes for scrapping, cleaning and preprocessing this data.
 
 ## From where is this data collected?  
   - [Web of Science](https://apps.webofknowledge.com/WOS_GeneralSearch_input.do?product=WOS&search_mode=GeneralSearch&SID=C5uHbS2XkmFRw4V47rb&preferencesSaved=)
@@ -20,7 +20,7 @@ The scrapping was done using the following Keywords:
 - Next place prediction
 - Predicting User Movement
 - Predicting Significant locations
-- Predicting User Movement
+- Forecasting Next User Location
 
 ## and restricted to the following domains:
  - [Computer science, Computer network, Mobility model, Distributed computing, Real-time computing, Wireless ad hoc network]
