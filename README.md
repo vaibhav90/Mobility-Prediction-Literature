@@ -9,8 +9,8 @@ The source codes for scrapping, cleaning and preprocessing this data.
 
 ## How is the scraping and crawling done?
 - The scrapping from Semantic Scholar is done using [Semantic Scholar API](https://api.semanticscholar.org/).
-- The [maka Python module](https://github.com/gfhuertac/maka) is used to scrape data from Microsoft Academic Search. W
-- Web of Science permits to manually download data for selected topics under a university lisence.
+- The [maka Python module](https://github.com/gfhuertac/maka) is used to scrape data from Microsoft Academic Search.
+- Web of Science permits to manually download data for selected topics under a university license.
 
 ## What key-words and domains were selected to scrape this data?
 The scrapping was done using the following Keywords:
