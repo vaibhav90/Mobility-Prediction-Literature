@@ -36,6 +36,9 @@ The scrapping was done using the following Keywords:
 - The raw_data folder contains raw data scrapped from all the platforms with the title indicating the key word searched.
 - The scripts folder contains python scripts used to scrape, preprocess, clean and merge the data collected from different sources.
 - The file literature_metadata contains the merged list and literature_with_abstracts contains all the abstracts.
+- The abstract parsing to identify the techniques is based on [Automated Keyword Extraction from Articles post](https://medium.com/analytics-vidhya/automated-keyword-extraction-from-articles-using-nlp-bfd864f41b34)
+![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/abstract_parsing.png)
+
 
 ## What is the format of the data?
 Paper Title | Publication Year | Publication Venue | Authors | Keyword List
