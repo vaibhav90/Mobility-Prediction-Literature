@@ -42,14 +42,14 @@ The scrapping was done using the following Keywords:
 
 ## What is the format of the data?
 Paper Title | Publication Year | Publication Venue | Authors | Keyword List
-![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/met_data.jpg)
+![Link](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/met_data.jpg)
 
 
 ## Dataset Structure: GeoLife
-![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/fv_geolife.pdf)
+![Link](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/fv_geolife.pdf)
 
 ## Dataset Structure: PrivaMov
-![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/fv_privamov.pdf)
+![Link](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/fv_privamov.pdf)
 
 ## Dataset Structure: MDC
-![alt text](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/fv_nokia.pdf)
+![Link](https://github.com/vaibhav90/Mobility-Prediction-Literature/blob/master/images/fv_nokia.pdf)
